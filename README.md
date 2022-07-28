@@ -511,4 +511,5 @@
 [Facebook-tools](https://github.com/GigaHertzLegacy-SpiderX/Facebook-tools): Version 1.0.0 - Comment bomber only  
 [voters](https://github.com/solid-soda/voters): Security voters are the most granular way of checking permissions (e.g. "can this specific user edit the given item?")  
 [awacs-scanner](https://github.com/R00tendo/awacs-scanner): Fully automated cyber security scanner  
-[BurpExtend](https://github.com/dongfangyuxiao/BurpExtend): 基于Burp插件开发打造渗透测试自动化
+[BurpExtend](https://github.com/dongfangyuxiao/BurpExtend): 基于Burp插件开发打造渗透测试自动化  
+[csv-plus_vulnerability](https://github.com/satoki/csv-plus_vulnerability): 👻 [PoC] CSV+ 0.8.0 - Arbitrary Code Execution (CVE-2022-21241)
