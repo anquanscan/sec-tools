@@ -445,4 +445,5 @@
 [kido](https://github.com/tikeswar/kido): White hat hacking passwords using ML  
 [tripwire-open-source](https://github.com/Tripwire/tripwire-open-source): Open Source Tripwire®  
 [SafeDeserializationHelpers](https://github.com/zyanfx/SafeDeserializationHelpers): :japanese_ogre: Fixes known BinaryFormatter deserialization vulnerabilities  
-[recon-archy](https://github.com/shadawck/recon-archy): Linkedin Tools (and maybe later other source) to reconstruct a company hierarchy from scraping relations and jobs title
+[recon-archy](https://github.com/shadawck/recon-archy): Linkedin Tools (and maybe later other source) to reconstruct a company hierarchy from scraping relations and jobs title  
+[sipvicious](https://github.com/EnableSecurity/sipvicious): SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications.
