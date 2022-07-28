@@ -484,4 +484,5 @@
 [vulnscanner](https://github.com/captain-noob/vulnscanner): vulnscanner is a web application source code vulnerability scanner. It could be used to detect if the target project contains any known vulnerabilities. One of the best ways we can do that is to help developers and security professionals improve the web application they are producing that everyone else relies on.  
 [xssmap](https://github.com/secdec/xssmap): Intelligent XSS detection tool that uses human techniques for looking for reflected cross-site scripting (XSS) vulnerabilities  
 [hackertyper](https://github.com/fgaz/hackertyper): "Hack" like a programmer in movies and games! Inspired by hackertyper.net  
-[SyscallDumper](https://github.com/joshfinley/SyscallDumper): Dump system call codes, names, and offsets from Ntdll.dll
+[SyscallDumper](https://github.com/joshfinley/SyscallDumper): Dump system call codes, names, and offsets from Ntdll.dll  
+[hardening-raspberry-pi](https://github.com/eauxfolles/hardening-raspberry-pi): Notes and considerations on hardening a Raspberry Pi 4.
