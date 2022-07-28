@@ -290,4 +290,5 @@
 [ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools): Tools, tips, tricks, and more for exploring ICS Security.  
 [Blue-Baron](https://github.com/operatorequals/Blue-Baron): Automate creating resilient, disposable, secure and agile monitoring infrastructure for Blue Teams.  
 [python-gvm](https://github.com/greenbone/python-gvm): Greenbone Vulnerability Management Python Library  
-[seeyon-exploit](https://github.com/xfiftyone/seeyon-exploit): 致远OA漏洞检测
+[seeyon-exploit](https://github.com/xfiftyone/seeyon-exploit): 致远OA漏洞检测  
+[www-project-top-10-low-code-no-code-security-risks](https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks): OWASP No-Code Low-Code Security
