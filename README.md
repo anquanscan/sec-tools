@@ -518,4 +518,5 @@
 [CVE-2018-11776-Python-PoC](https://github.com/hook-s3c/CVE-2018-11776-Python-PoC): Working Python test and PoC for CVE-2018-11776, includes Docker lab  
 [PcapViz](https://github.com/1ultimat3/PcapViz): Visualize network topologies and collect graph statistics based on pcap files  
 [Prediction-DDoS](https://github.com/francescovolpe/Prediction-DDoS): Questo progetto è stato sviluppato per il corso universitario Analisi dei dati per la sicurezza. Il progetto mira ad estrarre conoscenza dai dati per la classificazione di attacchi DDos seguendo le fasi di sviluppo del processo KDD.  
-[hackable](https://github.com/JasonHinds13/hackable): A python flask app that is purposefully vulnerable to SQL injection and XSS attacks. To be used for demonstrating attacks
+[hackable](https://github.com/JasonHinds13/hackable): A python flask app that is purposefully vulnerable to SQL injection and XSS attacks. To be used for demonstrating attacks  
+[SQL_Injection_Payload](https://github.com/omurugur/SQL_Injection_Payload): SQL Injection Payload List
