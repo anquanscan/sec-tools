@@ -132,4 +132,5 @@
 [tangalanga](https://github.com/elcuervo/tangalanga): Tangalanga: the Zoom conference scanner hacking tool  
 [KeystrokeDynamicsSpoofer](https://github.com/Aarif123456/KeystrokeDynamicsSpoofer): A keystroke biometric spoofer created to test the strength of the strength of various keystoke dynamic based authentication systems  
 [AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite): AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.  
-[wikau](https://github.com/ussaohelcim/wikau): "What i know about you" é um site que demonstra tudo o que posso saber de você com um simples site com Javascript.
+[wikau](https://github.com/ussaohelcim/wikau): "What i know about you" é um site que demonstra tudo o que posso saber de você com um simples site com Javascript.  
+[adguard-ps4-usersguide](https://github.com/upal212/adguard-ps4-usersguide): 'Users Guide' via the help of AdGuard Home
