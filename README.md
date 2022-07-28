@@ -237,4 +237,5 @@
 [k8s-security](https://github.com/kabachook/k8s-security): Kubernetes security notes and best practices  
 [pentesting_script](https://github.com/TonnyMontenegro/pentesting_script): Laboratorio de pentesting con docker que nos permite descargar y desplegar aplicaciones web vulnerables para practicar pentesting en ellas  
 [WPContentInjection](https://github.com/lolwaleet/WPContentInjection): a quick n dirty poc for wp content injection vulnerability.  
-[AutomatedHunter](https://github.com/M507/AutomatedHunter): Google Chrome Extension automates testing fundamental Web Problems via Chrome
+[AutomatedHunter](https://github.com/M507/AutomatedHunter): Google Chrome Extension automates testing fundamental Web Problems via Chrome  
+[Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering): A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
