@@ -532,4 +532,5 @@
 [ioc-explorer](https://github.com/lion-gu/ioc-explorer): Explore Indicators of Compromise Automatically  
 [Name-That-Hash](https://github.com/HashPals/Name-That-Hash): 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥  
 [AdministracionDeSistemasOperativos](https://github.com/chunche95/AdministracionDeSistemasOperativos): Administración de sistemas Linux y Windows . Autor: Paulino Esteban Bermúdez R.  
-[porkbind](https://github.com/decal/porkbind): :pig: Nameserver security scanner (ARCHIVE)
+[porkbind](https://github.com/decal/porkbind): :pig: Nameserver security scanner (ARCHIVE)  
+[ThinkPwn](https://github.com/Cr4sh/ThinkPwn): Started as arbitrary System Management Mode code execution exploit for Lenovo ThinkPad model line, ended as exploit for industry-wide 0day vulnerability in machines of many vendors
