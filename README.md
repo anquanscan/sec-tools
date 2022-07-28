@@ -272,4 +272,5 @@
 [can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns): "Can I take over DNS?" — a list of DNS providers and how to claim (sub)domains via missing hosted zones   
 [awesome-malware](https://github.com/fabacab/awesome-malware): :computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.  
 [Minesweeper](https://github.com/codingo/Minesweeper): A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 23000 malicious cryptocurrency mining domains (cryptojacking).  
-[laravel-ban](https://github.com/cybercog/laravel-ban): Laravel Ban simplify blocking and banning Eloquent models.
+[laravel-ban](https://github.com/cybercog/laravel-ban): Laravel Ban simplify blocking and banning Eloquent models.  
+[CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262): PoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover
