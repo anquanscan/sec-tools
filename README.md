@@ -509,4 +509,5 @@
 [Safety-checklist](https://github.com/r0eXpeR/Safety-checklist): 🌴一些安全备忘清单  
 [RanSim](https://github.com/lawndoc/RanSim): Ransomware simulation script written in PowerShell. Useful for testing your defenses and backups against real ransomware-like activity in a controlled setting.  
 [Facebook-tools](https://github.com/GigaHertzLegacy-SpiderX/Facebook-tools): Version 1.0.0 - Comment bomber only  
-[voters](https://github.com/solid-soda/voters): Security voters are the most granular way of checking permissions (e.g. "can this specific user edit the given item?")
+[voters](https://github.com/solid-soda/voters): Security voters are the most granular way of checking permissions (e.g. "can this specific user edit the given item?")  
+[awacs-scanner](https://github.com/R00tendo/awacs-scanner): Fully automated cyber security scanner
