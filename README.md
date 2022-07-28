@@ -499,4 +499,5 @@
 [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security): 😎 Curated list about cryptocurrency security (reverse / exploit / fuzz..)  
 [rctf-scenario6](https://github.com/aliasrobotics/rctf-scenario6): Robotics CTF scenario 6  
 [VulnWeb](https://github.com/riz4d/VulnWeb): simple python program used to fetch admin panel of an website.  
-[wildlogger](https://github.com/mustafadalga/wildlogger): This is a keylogger that collects all the data and e-mail it in a set time with system information which includes device S/N and hardware specs, every button that pushed, screenshots, and copying processes.
+[wildlogger](https://github.com/mustafadalga/wildlogger): This is a keylogger that collects all the data and e-mail it in a set time with system information which includes device S/N and hardware specs, every button that pushed, screenshots, and copying processes.  
+[hacl-rs](https://github.com/aatxe/hacl-rs): Rusty bindings for HACL*, a formally verified cryptographic library written in F*.
