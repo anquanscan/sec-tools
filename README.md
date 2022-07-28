@@ -331,4 +331,5 @@
 [xss-http-injector](https://github.com/epsylon/xss-http-injector): XSS HTTP Inject0r is a proof of concept tool that shows how XSS (Cross Site Scripting) flags can be exploited easily.  It is written in HTML + Javascript + PHP and released under GPLv3.   
 [Umbrella_android](https://github.com/securityfirst/Umbrella_android): Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in over 40 topics in multiple languages. Used daily by people working in high risk countries - journalists, activists, diplomats, business travelers etc.  
 [how2exploit_binary](https://github.com/Bretley/how2exploit_binary): An in depth tutorial on how to do binary exploitation  
-[XSSCon](https://github.com/menkrep1337/XSSCon): XSSCon: Simple XSS Scanner tool
+[XSSCon](https://github.com/menkrep1337/XSSCon): XSSCon: Simple XSS Scanner tool  
+[awesome-bbht](https://github.com/0xApt/awesome-bbht): A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain.
