@@ -103,4 +103,5 @@
 [BHR_Labs](https://github.com/blackhatruby/BHR_Labs): Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT  
 [UnSAFE_Bank](https://github.com/lucideus-repo/UnSAFE_Bank): Vulnerable Banking Suite  
 [usbguard](https://github.com/USBGuard/usbguard): USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)  
-[exploit-CVE-2021-22204](https://github.com/UNICORDev/exploit-CVE-2021-22204): Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution
+[exploit-CVE-2021-22204](https://github.com/UNICORDev/exploit-CVE-2021-22204): Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution  
+[yara-parser](https://github.com/Northern-Lights/yara-parser): Tools for parsing rulesets using the exact grammar as YARA.  Written in Go.
