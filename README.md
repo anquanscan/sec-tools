@@ -141,4 +141,5 @@
 [CVE-2020-1337](https://github.com/VoidSec/CVE-2020-1337): CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch  
 [resolvers](https://github.com/trickest/resolvers): The most exhaustive list of reliable DNS resolvers.  
 [skf-flask](https://github.com/blabla1337/skf-flask): Security Knowledge Framework (SKF) Python Flask / Angular project  
-[THC-Archive](https://github.com/hackerschoice/THC-Archive): All releases of the security research group (a.k.a. hackers) The Hacker's Choice
+[THC-Archive](https://github.com/hackerschoice/THC-Archive): All releases of the security research group (a.k.a. hackers) The Hacker's Choice  
+[scan-action](https://github.com/sysdiglabs/scan-action): Inline Image Scan Github Action
