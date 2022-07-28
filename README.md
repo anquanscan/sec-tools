@@ -313,4 +313,5 @@
 [nosqli](https://github.com/Charlie-belmer/nosqli): NoSql Injection CLI tool, for finding vulnerable websites using MongoDB.  
 [F21ProInjector](https://github.com/MlgmXyysd/F21ProInjector): Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT  
 [attack_to_veris](https://github.com/center-for-threat-informed-defense/attack_to_veris): The principal objectives and outputs of this project are the creation and dissemination of an extension to the VERIS schema incorporating ATT&CK mappings and associated usage documentation.  
-[aquatone](https://github.com/michenriksen/aquatone): A Tool for Domain Flyovers
+[aquatone](https://github.com/michenriksen/aquatone): A Tool for Domain Flyovers  
+[dorothy](https://github.com/elastic/dorothy): Dorothy is a tool to test security monitoring and detection for Okta environments
