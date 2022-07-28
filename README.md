@@ -405,4 +405,5 @@
 [PHP_imap_open_exploit](https://github.com/Bo0oM/PHP_imap_open_exploit): Bypassing disabled exec functions in PHP (c) CRLF  
 [top-burpsuite-plugins-extensions](https://github.com/Elsfa7-110/top-burpsuite-plugins-extensions)  
 [urllibDoS.py](https://github.com/g-h-0-S-t/urllibDoS.py): A GET attack using the urllib package in Python 3. A simpler version of https://github.com/g-h-0-S-t/bs4DoSTool .  
-[AutoTTP](https://github.com/jymcheong/AutoTTP): Automated Tactics Techniques & Procedures
+[AutoTTP](https://github.com/jymcheong/AutoTTP): Automated Tactics Techniques & Procedures  
+[Kali-Linux-Ebooks](https://github.com/yeahhub/Kali-Linux-Ebooks): Top 20 Kali Linux Related E-books (Free Download)
