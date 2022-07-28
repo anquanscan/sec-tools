@@ -111,4 +111,5 @@
 [hershell](https://github.com/lesnuages/hershell): Multiplatform reverse shell generator  
 [HackVault](https://github.com/0xSobky/HackVault): A container repository for my public web hacks!  
 [Impost3r](https://github.com/ph4ntonn/Impost3r): 👻Impost3r -- A linux password thief  
-[PoshDellDBUtil](https://github.com/Kinsiinoo/PoshDellDBUtil): It scans all computer in a given OU for the vulnerable dbutil_2_3.sys file and remove it.
+[PoshDellDBUtil](https://github.com/Kinsiinoo/PoshDellDBUtil): It scans all computer in a given OU for the vulnerable dbutil_2_3.sys file and remove it.  
+[wallet-tracker](https://github.com/aydinnyunus/wallet-tracker): Detect real scammers with Wallet-Tracker CLI from anywhere.
