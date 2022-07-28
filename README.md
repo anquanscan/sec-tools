@@ -104,4 +104,5 @@
 [UnSAFE_Bank](https://github.com/lucideus-repo/UnSAFE_Bank): Vulnerable Banking Suite  
 [usbguard](https://github.com/USBGuard/usbguard): USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)  
 [exploit-CVE-2021-22204](https://github.com/UNICORDev/exploit-CVE-2021-22204): Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution  
-[yara-parser](https://github.com/Northern-Lights/yara-parser): Tools for parsing rulesets using the exact grammar as YARA.  Written in Go.
+[yara-parser](https://github.com/Northern-Lights/yara-parser): Tools for parsing rulesets using the exact grammar as YARA.  Written in Go.  
+[h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
