@@ -279,4 +279,5 @@
 [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper): :hammer: Manage your website via terminal  
 [multizone-sdk-arm](https://github.com/hex-five/multizone-sdk-arm): MultiZone® Security TEE for Arm® Cortex®-M is the quick and safe way to add security and separation to any Cortex-M based device. MultiZone® software can retrofit existing designs. If you don’t have TrustZone®, or if you require finer granularity than one secure world, you can take advantage of high security separation without the need for hardware and software redesign, eliminating the complexity associated with managing a hybrid hardware/software security scheme.  
 [sbt-dependency-check](https://github.com/albuch/sbt-dependency-check): SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs). :rainbow:  
-[Safari2000day](https://github.com/Bo0oM/Safari2000day)
+[Safari2000day](https://github.com/Bo0oM/Safari2000day)  
+[ThePhish](https://github.com/emalderson/ThePhish): ThePhish: an automated phishing email analysis tool
