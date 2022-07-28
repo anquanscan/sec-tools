@@ -180,4 +180,5 @@
 [Hacking_Tools](https://github.com/thinker732/Hacking_Tools): Quelques outils pouvant aider dans le cadre de test d'intrusion  
 [SEC-reports](https://github.com/radii1web/SEC-reports): utilizing the data avaliable at https://www.secrepo.com/ for security data analysis { the master has a web recon scanner that will also add a vulnerability scanner }  
 [cloud-analytics](https://github.com/center-for-threat-informed-defense/cloud-analytics): Cloud Analytics helps defenders detect attacks to their cloud infrastructure by developing behavioral analytics for cloud platforms as well as a blueprint for how others can create and use cloud analytics effectively.  
-[awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
+[awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.  
+[blazingfast-bypass](https://github.com/0x44F/blazingfast-bypass): Blazingfast DDoS protection bypass vulnerability.
