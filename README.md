@@ -309,4 +309,5 @@
 [FiercePhish](https://github.com/Raikia/FiercePhish): FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more.  
 [Malware-Machine-Learning](https://github.com/GeekOnlineCode/Malware-Machine-Learning): Malware Machine Learning  
 [Loki](https://github.com/Xh4H/Loki): The Dependency Confusion vulnerability scanner and autoexploitation tool to help identifying and mitigating supply chain attacks  
-[awesome-api-security](https://github.com/arainho/awesome-api-security): A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
+[awesome-api-security](https://github.com/arainho/awesome-api-security): A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.  
+[nosqli](https://github.com/Charlie-belmer/nosqli): NoSql Injection CLI tool, for finding vulnerable websites using MongoDB.
