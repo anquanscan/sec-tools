@@ -473,4 +473,5 @@
 [CVE-2017-0100](https://github.com/cssxn/CVE-2017-0100): CVE-2017-0100、MS17-012、Eop  
 [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find security vulnerabilities.  
 [Golang_SCA](https://github.com/fdl66/Golang_SCA): Golang SCA（Software Composition Analysis）   通过分析你的go.mod文件，协助你发现，Golang项目的依赖库是否存在漏洞  
-[Flytrap](https://github.com/nedwards86/Flytrap): A TCP based honeyport written in Python. Once an attacker accesses the port this service is listening on, the attacker's IP is blocked by the local system and a notification is sent to the specified syslog server. Runs on both Windows and Linux.
+[Flytrap](https://github.com/nedwards86/Flytrap): A TCP based honeyport written in Python. Once an attacker accesses the port this service is listening on, the attacker's IP is blocked by the local system and a notification is sent to the specified syslog server. Runs on both Windows and Linux.  
+[awesome-pentest-tools](https://github.com/unexpectedBy/awesome-pentest-tools): List of Security Archives Tools and software, generally for facilitate security & penetration research. Opening it up to everyone will facilitate a knowledge transfer. Hopefully the initial set will grow and expand.
