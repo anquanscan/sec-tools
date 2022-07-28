@@ -431,4 +431,5 @@
 [springcore-0day-en](https://github.com/tweedge/springcore-0day-en): Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more.  
 [safety](https://github.com/pyupio/safety): Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.  
 [GithubMonitor](https://github.com/Macr0phag3/GithubMonitor): 根据关键字与 hosts 生成的关键词，利用 github 提供的 api，监控 git 泄漏。  
-[Buffer_Overflow](https://github.com/gh0x0st/Buffer_Overflow): Don't let buffer overflows overflow your mind
+[Buffer_Overflow](https://github.com/gh0x0st/Buffer_Overflow): Don't let buffer overflows overflow your mind  
+[dependency-track](https://github.com/DependencyTrack/dependency-track): Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
