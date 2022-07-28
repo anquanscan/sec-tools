@@ -33,4 +33,5 @@
 [aiodnsbrute](https://github.com/blark/aiodnsbrute): Python 3.5+ DNS asynchronous brute force utility  
 [BruteSploit](https://github.com/screetsec/BruteSploit): BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used in CTF for manipulation,combine,transform and permutation some words or file text :p  
 [docker-workspaces](https://github.com/Bartmr/docker-workspaces): Protecting my data and client's data, by running day-to-day apps inside Docker containers  
-[OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist): OWASP Web Application Security Testing Checklist
+[OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist): OWASP Web Application Security Testing Checklist  
+[osv.net](https://github.com/JamieMagee/osv.net): A .NET library for Open Source Vulnerabilities (OSV) schema and API client.
