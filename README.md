@@ -489,4 +489,5 @@
 [Sandman](https://github.com/tarunKoyalwar/Sandman): A Target Tracking , NoteTaking , CheckLists and Data Management GUI App for Bug Hunter's and Pentesters.  
 [scau](https://github.com/marcruef/scau): Source Code Analysis Utility  
 [R3d-Buck3T](https://github.com/nairuzabulhul/R3d-Buck3T): Penetration Testing, Vulnerability Assessment and Red Team Learning  
-[talks](https://github.com/SherlockSec/talks): Files for any talks that I give
+[talks](https://github.com/SherlockSec/talks): Files for any talks that I give  
+[cve_searchsploit](https://github.com/andreafioraldi/cve_searchsploit): Search an exploit in the local exploitdb database by its CVE
