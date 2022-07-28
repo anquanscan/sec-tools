@@ -343,4 +343,5 @@
 [electronegativity](https://github.com/doyensec/electronegativity): Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron applications.  
 [CDMC2016](https://github.com/vinayakumarr/CDMC2016): Cybersecurity Data Mining Competition 2016  
 [SecurityArchitecture](https://github.com/nocomplexity/SecurityArchitecture): Repository for the Open Security Reference Architecture  
-[lambdacube-compiler](https://github.com/lambdacube3d/lambdacube-compiler): LambdaCube 3D is a Haskell-like purely functional language for GPU. Try it out: 
+[lambdacube-compiler](https://github.com/lambdacube3d/lambdacube-compiler): LambdaCube 3D is a Haskell-like purely functional language for GPU. Try it out:   
+[featherduster](https://github.com/nccgroup/featherduster): An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
