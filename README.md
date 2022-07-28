@@ -281,4 +281,5 @@
 [sbt-dependency-check](https://github.com/albuch/sbt-dependency-check): SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs). :rainbow:  
 [Safari2000day](https://github.com/Bo0oM/Safari2000day)  
 [ThePhish](https://github.com/emalderson/ThePhish): ThePhish: an automated phishing email analysis tool  
-[pentest-wiki](https://github.com/nixawk/pentest-wiki): PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.
+[pentest-wiki](https://github.com/nixawk/pentest-wiki): PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.  
+[SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX): A cross-platform note-taking & target-tracking app for penetration testers.
