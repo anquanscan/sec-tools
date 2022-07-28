@@ -528,4 +528,5 @@
 [searchport](https://github.com/gabrielfelipecsk/searchport): Search ports in multiples hosts  
 [lor-axe](https://github.com/ajmwagar/lor-axe): 🪓 a multi-threaded, low-bandwidth HTTP DOS tool  
 [gscript](https://github.com/gen0cide/gscript):  framework to rapidly implement custom droppers for all three major operating systems  
-[GVM-Deployment](https://github.com/wajdihajji/GVM-Deployment): Dockerised Greenbone Vulnerability Management components
+[GVM-Deployment](https://github.com/wajdihajji/GVM-Deployment): Dockerised Greenbone Vulnerability Management components  
+[ioc-explorer](https://github.com/lion-gu/ioc-explorer): Explore Indicators of Compromise Automatically
