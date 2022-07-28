@@ -208,4 +208,5 @@
 [python-tuf](https://github.com/theupdateframework/python-tuf): Python reference implementation of The Update Framework (TUF)  
 [bbr](https://github.com/codingo/bbr): An open source tool to aid in command line driven generation of bug bounty reports based on user provided templates.  
 [V-Achilles](https://github.com/MUICT-SERU/V-Achilles): Achilles is a tool that shows a visualization (i.e., using dependency graphs) of both direct and indirect dependencies that are affected by software vulnerability attacks.  
-[ipt_geofence](https://github.com/ntop/ipt_geofence): Geographical host protection for Linux
+[ipt_geofence](https://github.com/ntop/ipt_geofence): Geographical host protection for Linux  
+[badblood](https://github.com/jbaines-r7/badblood): SonicWall SMA-100 Unauth RCE Exploit (CVE-2021-20038)
