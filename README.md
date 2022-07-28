@@ -410,4 +410,5 @@
 [owasp-threat-dragon-gitlab](https://github.com/appsecco/owasp-threat-dragon-gitlab): OWASP Threat Dragon with Gitlab Integration  
 [Browser-exploit](https://github.com/yngweijs/Browser-exploit)  
 [subdomain-scanner](https://github.com/momos1337/subdomain-scanner)  
-[ItLearnDir](https://github.com/Bluebear171/ItLearnDir): This Directory is to provide all the information for learning resource in IT world.
+[ItLearnDir](https://github.com/Bluebear171/ItLearnDir): This Directory is to provide all the information for learning resource in IT world.  
+[cloudsplaining](https://github.com/salesforce/cloudsplaining): Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
