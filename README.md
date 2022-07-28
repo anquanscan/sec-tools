@@ -526,4 +526,5 @@
 [bleachbit](https://github.com/bleachbit/bleachbit): BleachBit system cleaner for Windows and Linux  
 [recon-my-way](https://github.com/ehsahil/recon-my-way): This repository created for personal use and added tools from my latest blog post.  
 [searchport](https://github.com/gabrielfelipecsk/searchport): Search ports in multiples hosts  
-[lor-axe](https://github.com/ajmwagar/lor-axe): 🪓 a multi-threaded, low-bandwidth HTTP DOS tool
+[lor-axe](https://github.com/ajmwagar/lor-axe): 🪓 a multi-threaded, low-bandwidth HTTP DOS tool  
+[gscript](https://github.com/gen0cide/gscript):  framework to rapidly implement custom droppers for all three major operating systems
