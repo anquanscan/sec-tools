@@ -107,4 +107,5 @@
 [yara-parser](https://github.com/Northern-Lights/yara-parser): Tools for parsing rulesets using the exact grammar as YARA.  Written in Go.  
 [h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.  
 [TwitterX](https://github.com/nakiostudio/TwitterX): Keeping Twitter for macOS alive with code injection  
-[365](https://github.com/aryanguenthner/365): OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting
+[365](https://github.com/aryanguenthner/365): OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting  
+[hershell](https://github.com/lesnuages/hershell): Multiplatform reverse shell generator
