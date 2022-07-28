@@ -482,4 +482,5 @@
 [R3Xploit](https://github.com/rasyidrafi/R3Xploit): Exploit for Hacking Roblox,  Support multiples Api  
 [cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud  
 [vulnscanner](https://github.com/captain-noob/vulnscanner): vulnscanner is a web application source code vulnerability scanner. It could be used to detect if the target project contains any known vulnerabilities. One of the best ways we can do that is to help developers and security professionals improve the web application they are producing that everyone else relies on.  
-[xssmap](https://github.com/secdec/xssmap): Intelligent XSS detection tool that uses human techniques for looking for reflected cross-site scripting (XSS) vulnerabilities
+[xssmap](https://github.com/secdec/xssmap): Intelligent XSS detection tool that uses human techniques for looking for reflected cross-site scripting (XSS) vulnerabilities  
+[hackertyper](https://github.com/fgaz/hackertyper): "Hack" like a programmer in movies and games! Inspired by hackertyper.net
