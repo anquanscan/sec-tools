@@ -118,4 +118,5 @@
 [Cloak](https://github.com/s0md3v/Cloak): Cloak can backdoor any python script with some tricks.  
 [h2csmuggler](https://github.com/BishopFox/h2csmuggler): HTTP Request Smuggling over HTTP/2 Cleartext (h2c)  
 [tugarecon](https://github.com/skynet0x01/tugarecon): Pentest: Subdomains enumeration tool for penetration testers.  
-[DomainCAT](https://github.com/DomainTools/DomainCAT): Domain Connectivity Analysis Tools to analyze aggregate connectivity patterns across a set of domains during security investigations
+[DomainCAT](https://github.com/DomainTools/DomainCAT): Domain Connectivity Analysis Tools to analyze aggregate connectivity patterns across a set of domains during security investigations  
+[pingcastle](https://github.com/vletoux/pingcastle): PingCastle - Get Active Directory Security at 80% in 20% of the time
