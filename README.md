@@ -178,4 +178,5 @@
 [CVE-2020-7200](https://github.com/alexfrancow/CVE-2020-7200): CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC  
 [StaCoAn](https://github.com/vincentcox/StaCoAn): StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.  
 [Hacking_Tools](https://github.com/thinker732/Hacking_Tools): Quelques outils pouvant aider dans le cadre de test d'intrusion  
-[SEC-reports](https://github.com/radii1web/SEC-reports): utilizing the data avaliable at https://www.secrepo.com/ for security data analysis { the master has a web recon scanner that will also add a vulnerability scanner }
+[SEC-reports](https://github.com/radii1web/SEC-reports): utilizing the data avaliable at https://www.secrepo.com/ for security data analysis { the master has a web recon scanner that will also add a vulnerability scanner }  
+[cloud-analytics](https://github.com/center-for-threat-informed-defense/cloud-analytics): Cloud Analytics helps defenders detect attacks to their cloud infrastructure by developing behavioral analytics for cloud platforms as well as a blueprint for how others can create and use cloud analytics effectively.
