@@ -182,4 +182,5 @@
 [cloud-analytics](https://github.com/center-for-threat-informed-defense/cloud-analytics): Cloud Analytics helps defenders detect attacks to their cloud infrastructure by developing behavioral analytics for cloud platforms as well as a blueprint for how others can create and use cloud analytics effectively.  
 [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security): An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.  
 [blazingfast-bypass](https://github.com/0x44F/blazingfast-bypass): Blazingfast DDoS protection bypass vulnerability.  
-[Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks): Top 100 Hacking & Security E-Books (Free Download) 
+[Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks): Top 100 Hacking & Security E-Books (Free Download)   
+[usb-keylogger](https://github.com/Inerska/usb-keylogger): Creating a crossplatform C++ undetectable usb autorunned keylogger for education purpose  
