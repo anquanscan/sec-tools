@@ -342,4 +342,5 @@
 [zip](https://github.com/kuba--/zip): A portable, simple zip library written in C  
 [electronegativity](https://github.com/doyensec/electronegativity): Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron applications.  
 [CDMC2016](https://github.com/vinayakumarr/CDMC2016): Cybersecurity Data Mining Competition 2016  
-[SecurityArchitecture](https://github.com/nocomplexity/SecurityArchitecture): Repository for the Open Security Reference Architecture
+[SecurityArchitecture](https://github.com/nocomplexity/SecurityArchitecture): Repository for the Open Security Reference Architecture  
+[lambdacube-compiler](https://github.com/lambdacube3d/lambdacube-compiler): LambdaCube 3D is a Haskell-like purely functional language for GPU. Try it out: 
