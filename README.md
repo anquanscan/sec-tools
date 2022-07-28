@@ -347,4 +347,5 @@
 [featherduster](https://github.com/nccgroup/featherduster): An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction  
 [Roblox](https://github.com/bloxain/Roblox): A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games!  
 [Sol-Typo](https://github.com/keyurtalati/Sol-Typo): Solidity Type Casting Identifier tool.  
-[turtle](https://github.com/spicesouls/turtle): MSFVenom Powershell Stager Encoder & Generator
+[turtle](https://github.com/spicesouls/turtle): MSFVenom Powershell Stager Encoder & Generator  
+[osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security
