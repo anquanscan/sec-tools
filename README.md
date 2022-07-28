@@ -82,4 +82,5 @@
 [w2vcluster](https://github.com/mylamour/w2vcluster): word2vec & k-means cluster  
 [jok3r](https://github.com/koutto/jok3r): Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework  
 [fpvs](https://github.com/vanschelven/fpvs): Fast Python Vulnerability Scanner  
-[NukeJndiLookupFromLog4j](https://github.com/LoliKingdom/NukeJndiLookupFromLog4j): Selection of ways to remove JndiLookup in now obsolete Minecraft versions, or versions that still have log4j < 2.10 and is unable to use `-Dlog4j2.formatMsgNoLookups=true`
+[NukeJndiLookupFromLog4j](https://github.com/LoliKingdom/NukeJndiLookupFromLog4j): Selection of ways to remove JndiLookup in now obsolete Minecraft versions, or versions that still have log4j < 2.10 and is unable to use `-Dlog4j2.formatMsgNoLookups=true`  
+[hash-generator-](https://github.com/morpheuslord/hash-generator-): contains a bruteforcer wifi hacker an batch to exe converter contains a n verity of usefull tools in python and can be converted to exe by using pyinstaller
