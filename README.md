@@ -469,4 +469,5 @@
 [Ontario1024](https://github.com/ksaj/Ontario1024): A selection of my PC-based computer virus code samples from the early 90's. Don't worry. They don't bite... anymore...  
 [bluenightingale](https://github.com/blUeBUg200/bluenightingale): Building a unified strategy to create threat detection use-cases in the combat against cyber criminals - ADHYAYAM I [LOGS]  
 [MSc-CyberSecurity-Sapienza](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza): Master of Science in Cybersecurity, Sapienza University of Rome.  
-[libfuzzer](https://github.com/planetis-m/libfuzzer): Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.
+[libfuzzer](https://github.com/planetis-m/libfuzzer): Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.  
+[CVE-2017-0100](https://github.com/cssxn/CVE-2017-0100): CVE-2017-0100、MS17-012、Eop
