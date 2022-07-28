@@ -287,4 +287,5 @@
 [Hacking-Resources](https://github.com/rng70/Hacking-Resources): This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources.  
 [WebMap](https://github.com/SabyasachiRana/WebMap): WebMap-Nmap Web Dashboard and Reporting  
 [HolyTips](https://github.com/HolyBugx/HolyTips): A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.  
-[ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools): Tools, tips, tricks, and more for exploring ICS Security.
+[ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools): Tools, tips, tricks, and more for exploring ICS Security.  
+[Blue-Baron](https://github.com/operatorequals/Blue-Baron): Automate creating resilient, disposable, secure and agile monitoring infrastructure for Blue Teams.
