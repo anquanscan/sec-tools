@@ -503,4 +503,5 @@
 [hacl-rs](https://github.com/aatxe/hacl-rs): Rusty bindings for HACL*, a formally verified cryptographic library written in F*.  
 [dufflebag](https://github.com/BishopFox/dufflebag): Search exposed EBS volumes for secrets  
 [awesome-incident-response](https://github.com/meirwah/awesome-incident-response): A curated list of tools for incident response  
-[caldera](https://github.com/mitre/caldera): Automated Adversary Emulation Platform
+[caldera](https://github.com/mitre/caldera): Automated Adversary Emulation Platform  
+[Picocrypt](https://github.com/HACKERALERT/Picocrypt): A very small, very simple, yet very secure encryption tool.
