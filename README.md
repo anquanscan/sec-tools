@@ -263,4 +263,5 @@
 [Brute-Force-Login](https://github.com/Sanix-Darker/Brute-Force-Login): Proof -Of-Concept Brute Force Login on a web-site with a good dictionary of words   
 [Sherlock](https://github.com/gbiagomba/Sherlock): This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.)  
 [bountycat](https://github.com/blessingcharles/bountycat): A WEB SECURITY TESTING AUTOMATION TOOL FOR HUMANS  
-[krane](https://github.com/appvia/krane): Kubernetes RBAC static analysis & visualisation tool
+[krane](https://github.com/appvia/krane): Kubernetes RBAC static analysis & visualisation tool  
+[stethoscope](https://github.com/Netflix-Skunkworks/stethoscope): Personalized, user-focused recommendations for employee information security.
