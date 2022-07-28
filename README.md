@@ -42,4 +42,5 @@
 [Network_Security_Spring_2018](https://github.com/Alfons0329/Network_Security_Spring_2018): Network Security Spring 2018 Lectured by S.P. Shieh @CS NCTU Taiwan  
 [uptux](https://github.com/initstring/uptux): Linux privilege escalation checks (systemd, dbus, socket fun, etc)  
 [edoardottt](https://github.com/edoardottt/edoardottt): Hey! I'm edoardottt! 🏴‍☠️👹  
-[vulncontrol](https://github.com/Amet13/vulncontrol): Python script for monitoring www.cvedetails.com vulnerabilities database
+[vulncontrol](https://github.com/Amet13/vulncontrol): Python script for monitoring www.cvedetails.com vulnerabilities database  
+[dotdotpwn](https://github.com/wireghoul/dotdotpwn): DotDotPwn - The Directory Traversal Fuzzer
