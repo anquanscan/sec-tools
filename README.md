@@ -270,4 +270,5 @@
 [AspNet.Security.OAuth.Okta](https://github.com/ayubamini/AspNet.Security.OAuth.Okta): AspNet.Security.OAuth.Okta is library include collection of security middlewares to authorize users based on OAuth 2.0 and OpenId Connect protocol in your application.  
 [CVE-2021-27928](https://github.com/GatoGamer1155/CVE-2021-27928): Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928  
 [can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns): "Can I take over DNS?" — a list of DNS providers and how to claim (sub)domains via missing hosted zones   
-[awesome-malware](https://github.com/fabacab/awesome-malware): :computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.
+[awesome-malware](https://github.com/fabacab/awesome-malware): :computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.  
+[Minesweeper](https://github.com/codingo/Minesweeper): A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 23000 malicious cryptocurrency mining domains (cryptojacking).
