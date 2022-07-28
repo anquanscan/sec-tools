@@ -167,4 +167,5 @@
 [exploit-CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033): PHPMailer < 5.2.18 Remote Code Execution exploit and vulnerable container  
 [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo): DefectDojo is a DevSecOps and vulnerability management tool.  
 [Mega-Bot](https://github.com/Aron-Tn/Mega-Bot): [NEW] : Mega Bot ☣ Scanner & Auto Exploiter  
-[EnVisen](https://github.com/polyverse/EnVisen): ROP gadget finder and analysis in pure Javascript
+[EnVisen](https://github.com/polyverse/EnVisen): ROP gadget finder and analysis in pure Javascript  
+[keycloak-scanner](https://github.com/NeuronAddict/keycloak-scanner): Keycloak security scanner
