@@ -548,4 +548,5 @@
 [Webhook_Deleter](https://github.com/GabinCleaver/Webhook_Deleter): ✨ Un court code qui permet de Supprimer n'importe quel Webhook avec son lien en Python par moi, et en français.  
 [Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework): 🔐 Lockdoor Framework : A Penetration Testing framework with Cyber Security Resources  
 [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning): Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond  
-[armory](https://github.com/polo-sec/armory): A curated repository of the tools, scripts, resources and programs I use regularly for CTF, BB or other security work.
+[armory](https://github.com/polo-sec/armory): A curated repository of the tools, scripts, resources and programs I use regularly for CTF, BB or other security work.  
+[svscan](https://github.com/hardsoft321/svscan): SuiteCRM Vulnerability Scanner
