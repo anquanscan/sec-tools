@@ -301,4 +301,5 @@
 [Rafel-Rat](https://github.com/swagkarna/Rafel-Rat): -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices  
 [vulmap](https://github.com/zhzyker/vulmap): Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能  
 [KeepNoteOSCP](https://github.com/AI-BlackB0x/KeepNoteOSCP): KeepNote For OSCP Course  
-[Un1kFiles](https://github.com/h4ckdepy/Un1kFiles): 适用于burpsuite渗透工具的多类型恶意文件代码、漏洞测试payload、脚本代码快速获取复制的在线辅助插件。
+[Un1kFiles](https://github.com/h4ckdepy/Un1kFiles): 适用于burpsuite渗透工具的多类型恶意文件代码、漏洞测试payload、脚本代码快速获取复制的在线辅助插件。  
+[tweak-series](https://github.com/ZaneH/tweak-series): Repo for YouTube series
