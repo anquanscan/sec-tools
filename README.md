@@ -487,4 +487,5 @@
 [SyscallDumper](https://github.com/joshfinley/SyscallDumper): Dump system call codes, names, and offsets from Ntdll.dll  
 [hardening-raspberry-pi](https://github.com/eauxfolles/hardening-raspberry-pi): Notes and considerations on hardening a Raspberry Pi 4.  
 [Sandman](https://github.com/tarunKoyalwar/Sandman): A Target Tracking , NoteTaking , CheckLists and Data Management GUI App for Bug Hunter's and Pentesters.  
-[scau](https://github.com/marcruef/scau): Source Code Analysis Utility
+[scau](https://github.com/marcruef/scau): Source Code Analysis Utility  
+[R3d-Buck3T](https://github.com/nairuzabulhul/R3d-Buck3T): Penetration Testing, Vulnerability Assessment and Red Team Learning
