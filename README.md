@@ -175,4 +175,5 @@
 [using-nmap](https://github.com/JGundy64/using-nmap): A small cheat sheet to using some of the most common nmap flags and setups I use when probing a network.   
 [AdversarialAttack-PHM](https://github.com/dependable-cps/AdversarialAttack-PHM)  
 [jwt-transform](https://github.com/restuwahyu13/jwt-transform): Transform your real jwt token into fake jwt token.  
-[CVE-2020-7200](https://github.com/alexfrancow/CVE-2020-7200): CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC
+[CVE-2020-7200](https://github.com/alexfrancow/CVE-2020-7200): CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC  
+[StaCoAn](https://github.com/vincentcox/StaCoAn): StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
