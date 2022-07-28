@@ -190,4 +190,5 @@
 [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS): CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!  
 [ddos](https://github.com/the-deepnet/ddos): Best DDoS Attack Script With 36 Plus Methods  
 [sub3suite](https://github.com/3nock/sub3suite): a free, open source, cross platform Intelligence gathering tool.  
-[coding-companion](https://github.com/JustCodeBlog/coding-companion): 😃 An artificial companion for coders 😃
+[coding-companion](https://github.com/JustCodeBlog/coding-companion): 😃 An artificial companion for coders 😃  
+[npm-initial-access](https://github.com/gmatuz/npm-initial-access): Easy to extend initial access scenario to help with EDR testing on Linux and Mac
