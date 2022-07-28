@@ -45,4 +45,5 @@
 [vulncontrol](https://github.com/Amet13/vulncontrol): Python script for monitoring www.cvedetails.com vulnerabilities database  
 [dotdotpwn](https://github.com/wireghoul/dotdotpwn): DotDotPwn - The Directory Traversal Fuzzer  
 [CVE-2021-40101](https://github.com/S1lkys/CVE-2021-40101): Survey XSS combined with CSRF leads to Admin Account Takeover in Concrete5 8.5.4  
-[termlock](https://github.com/ElfQrin/termlock): TermLock is a shell script to lock your terminal. It traps signals and interrupts to block Ctrl+C , Ctrl+\ , Ctrl+Z , Ctrl+D, uses a hashed password and can log failed attempts. You may alias it as termlock or lock .
+[termlock](https://github.com/ElfQrin/termlock): TermLock is a shell script to lock your terminal. It traps signals and interrupts to block Ctrl+C , Ctrl+\ , Ctrl+Z , Ctrl+D, uses a hashed password and can log failed attempts. You may alias it as termlock or lock .  
+[nagiosxi_rce-to-root](https://github.com/ruthvikvegunta/nagiosxi_rce-to-root): Nagios XI 5.5.6 Remote Code Execution and Privilege Escalation
