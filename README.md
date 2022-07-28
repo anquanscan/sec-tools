@@ -226,4 +226,5 @@
 [trailscraper](https://github.com/flosell/trailscraper): A command-line tool to get valuable information out of AWS CloudTrail  
 [WebScanner](https://github.com/CyberCommands/WebScanner)  
 [Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet): Active Directory & Red-Team Cheat-Sheet in constant expansion.  
-[Fortnite-Offsets](https://github.com/MJMODZZ/Fortnite-Offsets): These are the Fortnite Chapter 3 Seison 2 Newest Offsets.
+[Fortnite-Offsets](https://github.com/MJMODZZ/Fortnite-Offsets): These are the Fortnite Chapter 3 Seison 2 Newest Offsets.  
+[zeek-plugin-s7comm](https://github.com/amzn/zeek-plugin-s7comm): Zeek network security monitor plugin that enables parsing of the S7 protocol
