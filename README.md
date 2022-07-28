@@ -495,4 +495,5 @@
 [fstscan](https://github.com/thenurhabib/fstscan): Massive Vulnerability scanner  
 [CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One): CTF竞赛权威指南  
 [cmsPoc](https://github.com/CHYbeta/cmsPoc): CMS渗透测试框架-A CMS Exploit Framework  
-[CodeArgos](https://github.com/DanaEpp/CodeArgos): A python module for red teams to support the continuous recon of JavaScript files and HTML script blocks in an active web application.
+[CodeArgos](https://github.com/DanaEpp/CodeArgos): A python module for red teams to support the continuous recon of JavaScript files and HTML script blocks in an active web application.  
+[awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security): 😎 Curated list about cryptocurrency security (reverse / exploit / fuzz..)
