@@ -202,4 +202,5 @@
 [chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.  
 [goflood](https://github.com/lismore/goflood): A connection flood attack application written in Go  
 [enumy](https://github.com/luke-goddard/enumy): Linux post exploitation privilege escalation enumeration   
-[SharpStrike](https://github.com/iomoath/SharpStrike): A Post exploitation tool written in C# uses either CIM or WMI to query remote systems.
+[SharpStrike](https://github.com/iomoath/SharpStrike): A Post exploitation tool written in C# uses either CIM or WMI to query remote systems.  
+[exploit-MS09-050](https://github.com/opsxcq/exploit-MS09-050): Microsoft Windows 7 SMB2.0 Remote Blue Screen of Death
