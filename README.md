@@ -340,4 +340,5 @@
 [vulnerablecode](https://github.com/nexB/vulnerablecode): A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode  Docs at https://vulnerablecode.readthedocs.org/  
 [ZimbraExploit](https://github.com/k8gege/ZimbraExploit): Zimbra邮件系统漏洞 XXE/RCE/SSRF/Upload GetShell Exploit  1. (CVE-2019-9621 Zimbra<8.8.11  XXE GetShell Exploit)  
 [zip](https://github.com/kuba--/zip): A portable, simple zip library written in C  
-[electronegativity](https://github.com/doyensec/electronegativity): Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron applications.
+[electronegativity](https://github.com/doyensec/electronegativity): Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron applications.  
+[CDMC2016](https://github.com/vinayakumarr/CDMC2016): Cybersecurity Data Mining Competition 2016
