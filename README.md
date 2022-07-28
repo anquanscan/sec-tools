@@ -266,4 +266,5 @@
 [krane](https://github.com/appvia/krane): Kubernetes RBAC static analysis & visualisation tool  
 [stethoscope](https://github.com/Netflix-Skunkworks/stethoscope): Personalized, user-focused recommendations for employee information security.  
 [knowledgezero](https://github.com/v-research/knowledgezero): KnowledgeZero is a place where we, @v-research, publish our research efforts, writing gentle introductions to our ideas but also sharing the hard-core scientific papers.   
-[pen-test-automation](https://github.com/secdec/pen-test-automation): A framework for automating penetration testing using a plugin based architecture
+[pen-test-automation](https://github.com/secdec/pen-test-automation): A framework for automating penetration testing using a plugin based architecture  
+[AspNet.Security.OAuth.Okta](https://github.com/ayubamini/AspNet.Security.OAuth.Okta): AspNet.Security.OAuth.Okta is library include collection of security middlewares to authorize users based on OAuth 2.0 and OpenId Connect protocol in your application.
