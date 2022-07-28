@@ -540,4 +540,5 @@
 [memory.dll](https://github.com/erfg12/memory.dll): C# Hacking library for making PC game trainers.  
 [android-security-awesome](https://github.com/ashishb/android-security-awesome): A collection of android security related resources  
 [fatbee](https://github.com/d3m0n4l3x/fatbee): A low-interaction honeypot written by demonalex, i.e. Alex Huang.  
-[Python-Pentest-ToolKit](https://github.com/sectool/Python-Pentest-ToolKit): Pentest ToolKit
+[Python-Pentest-ToolKit](https://github.com/sectool/Python-Pentest-ToolKit): Pentest ToolKit  
+[FileVaultCracker](https://github.com/macmade/FileVaultCracker): macOS FileVault cracking tool
