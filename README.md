@@ -222,4 +222,5 @@
 [ADMMutate](https://github.com/K2/ADMMutate): Classic code from 1999+ I am fairly sure this is the first public polymorphic shellcode ever (best IMHO and others http://ids.cs.columbia.edu/sites/default/files/ccs07poly.pdf  :)  If I ever port this to 64 or implement a few other suggestions (sorry I lost ppc code version contributed) it will be orders of magnitude more difficult to spot, so I hope nobody uses signatures for anything (virus / malware scanners included).  
 [CAN_Hacking](https://github.com/C-X1/CAN_Hacking): Getting into Opel (Vauxhall) Astra J CAN Messages  
 [steved3.github.io](https://github.com/SteveD3/steved3.github.io): SteveD3's personal journal for things that really don't fit on social media.  
-[jwt-helper](https://github.com/kaantekiner/jwt-helper): JWT Helper Tool 4 Pentests.
+[jwt-helper](https://github.com/kaantekiner/jwt-helper): JWT Helper Tool 4 Pentests.  
+[trailscraper](https://github.com/flosell/trailscraper): A command-line tool to get valuable information out of AWS CloudTrail
