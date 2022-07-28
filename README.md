@@ -510,4 +510,5 @@
 [RanSim](https://github.com/lawndoc/RanSim): Ransomware simulation script written in PowerShell. Useful for testing your defenses and backups against real ransomware-like activity in a controlled setting.  
 [Facebook-tools](https://github.com/GigaHertzLegacy-SpiderX/Facebook-tools): Version 1.0.0 - Comment bomber only  
 [voters](https://github.com/solid-soda/voters): Security voters are the most granular way of checking permissions (e.g. "can this specific user edit the given item?")  
-[awacs-scanner](https://github.com/R00tendo/awacs-scanner): Fully automated cyber security scanner
+[awacs-scanner](https://github.com/R00tendo/awacs-scanner): Fully automated cyber security scanner  
+[BurpExtend](https://github.com/dongfangyuxiao/BurpExtend): 基于Burp插件开发打造渗透测试自动化
