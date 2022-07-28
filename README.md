@@ -554,4 +554,5 @@
 [protools](https://github.com/SeanDragon/protools): 历经开发周期两年，并且应用过千万级别项目的工具箱  
 [netscan2](https://github.com/AllGloryToTheHypnotoad/netscan2): active / passive network scanner  
 [hisilicon-dvr-telnet](https://github.com/Snawoot/hisilicon-dvr-telnet): PoC materials for article https://habr.com/en/post/486856/  
-[WebApplicationVulnerabilityScanners](https://github.com/michaeloconnelliii/WebApplicationVulnerabilityScanners): Tested two web application vulnerability scanners and testing platforms for their effectiveness at detecting all known categories of SQL Injection (SQLi) and Cross-Site Scripting vulnerabilities (XSS).
+[WebApplicationVulnerabilityScanners](https://github.com/michaeloconnelliii/WebApplicationVulnerabilityScanners): Tested two web application vulnerability scanners and testing platforms for their effectiveness at detecting all known categories of SQL Injection (SQLi) and Cross-Site Scripting vulnerabilities (XSS).  
+[ric9rdo.github.io](https://github.com/ric9rdo/ric9rdo.github.io): Just a random cybersecurity (b)log that I use as a personal database 
