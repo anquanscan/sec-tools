@@ -106,4 +106,5 @@
 [exploit-CVE-2021-22204](https://github.com/UNICORDev/exploit-CVE-2021-22204): Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution  
 [yara-parser](https://github.com/Northern-Lights/yara-parser): Tools for parsing rulesets using the exact grammar as YARA.  Written in Go.  
 [h4cker](https://github.com/The-Art-of-Hacking/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.  
-[TwitterX](https://github.com/nakiostudio/TwitterX): Keeping Twitter for macOS alive with code injection
+[TwitterX](https://github.com/nakiostudio/TwitterX): Keeping Twitter for macOS alive with code injection  
+[365](https://github.com/aryanguenthner/365): OSINT, Threat Hunting, Network and Web Recon, Discovery, Enumeration, Vulnerability Mapping, Exploitation, Reporting
