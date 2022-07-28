@@ -188,4 +188,5 @@
 [PT-GUI](https://github.com/Hardhat-Enterprises/PT-GUI): Project PT-GUI for Deakin Capstone Hardhat Enterprises  
 [hvmi](https://github.com/hvmi/hvmi): Hypervisor Memory Introspection Core Library  
 [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS): CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!  
-[ddos](https://github.com/the-deepnet/ddos): Best DDoS Attack Script With 36 Plus Methods
+[ddos](https://github.com/the-deepnet/ddos): Best DDoS Attack Script With 36 Plus Methods  
+[sub3suite](https://github.com/3nock/sub3suite): a free, open source, cross platform Intelligence gathering tool.
