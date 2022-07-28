@@ -297,4 +297,5 @@
 [vulnscan](https://github.com/secretguard/vulnscan): Tool for Advaneced Vulnerability Scanning using NMAP  
 [HFSZap](https://github.com/VICXOR/HFSZap): Rejetto HTTP File Server (HFS) 2.3.x - Remote Command Execution for Windows  
 [Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources): A Huge Learning Resources with Labs For Offensive Security Players  
-[WebPocket](https://github.com/TuuuNya/WebPocket): Exploit management framework
+[WebPocket](https://github.com/TuuuNya/WebPocket): Exploit management framework  
+[Rafel-Rat](https://github.com/swagkarna/Rafel-Rat): -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices
