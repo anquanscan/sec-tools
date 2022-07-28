@@ -380,4 +380,5 @@
 [tracy](https://github.com/nccgroup/tracy): A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.  
 [SubdomainTakeover](https://github.com/mrlew1s/SubdomainTakeover): Small python or powershell script to look for potential subdomain  takeover vulnerabilities via vulnerable Alias.  
 [Telegram-subscriber-adder](https://github.com/KDholakiya/Telegram-subscriber-adder): run this script with ur chanal name and u will get subscriber  
-[Visual-Basic-Scripts](https://github.com/ajayrandhawa/Visual-Basic-Scripts): Visual Basic Scripts Utilities. Fun, Automation, Fundamentals. With the help of these scripts, I develop lots of Exploits which I'm used for automation system tasks. these vb scripts I am also used for system security exploitation.
+[Visual-Basic-Scripts](https://github.com/ajayrandhawa/Visual-Basic-Scripts): Visual Basic Scripts Utilities. Fun, Automation, Fundamentals. With the help of these scripts, I develop lots of Exploits which I'm used for automation system tasks. these vb scripts I am also used for system security exploitation.  
+[metasploit-windows-ud-shell](https://github.com/0x44F/metasploit-windows-ud-shell): A metasploit module that allows users to generate *undetected* windows shells.
