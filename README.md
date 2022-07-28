@@ -276,4 +276,5 @@
 [CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262): PoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover  
 [PrivEsc](https://github.com/1N3/PrivEsc): A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.  
 [MyOwnCheatSheet](https://github.com/graminha-matheus/MyOwnCheatSheet): Anotações pessoais relacionadas a pesquisas, estudos e vivências relacionadas à cybersecurity. Sendo constantemente atualizado e aberto a Pull requests caso queira adicionar algo.  
-[Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper): :hammer: Manage your website via terminal
+[Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper): :hammer: Manage your website via terminal  
+[multizone-sdk-arm](https://github.com/hex-five/multizone-sdk-arm): MultiZone® Security TEE for Arm® Cortex®-M is the quick and safe way to add security and separation to any Cortex-M based device. MultiZone® software can retrofit existing designs. If you don’t have TrustZone®, or if you require finer granularity than one secure world, you can take advantage of high security separation without the need for hardware and software redesign, eliminating the complexity associated with managing a hybrid hardware/software security scheme.
