@@ -19,4 +19,5 @@
 [user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening  
 [Crypto-NFT-Drainer](https://github.com/0xTracey/Crypto-NFT-Drainer): 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER  
 [jsh.php](https://github.com/jcubic/jsh.php): Terminal like php shell (PHP web terminal emulator)  
-[JoomlaCVE20168869](https://github.com/rustyJ4ck/JoomlaCVE20168869): Exploit for Joomla 3.4.4 - 3.6.4 (CVE-2016-8869 and CVE-2016-8870)
+[JoomlaCVE20168869](https://github.com/rustyJ4ck/JoomlaCVE20168869): Exploit for Joomla 3.4.4 - 3.6.4 (CVE-2016-8869 and CVE-2016-8870)  
+[pwn-writeups](https://github.com/smallkirby/pwn-writeups): CTF pwn problem writeup
