@@ -379,4 +379,5 @@
 [timesketch-cli](https://github.com/jaegeral/timesketch-cli): A dedicated repo to interact with the API of Timesketch  
 [tracy](https://github.com/nccgroup/tracy): A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.  
 [SubdomainTakeover](https://github.com/mrlew1s/SubdomainTakeover): Small python or powershell script to look for potential subdomain  takeover vulnerabilities via vulnerable Alias.  
-[Telegram-subscriber-adder](https://github.com/KDholakiya/Telegram-subscriber-adder): run this script with ur chanal name and u will get subscriber
+[Telegram-subscriber-adder](https://github.com/KDholakiya/Telegram-subscriber-adder): run this script with ur chanal name and u will get subscriber  
+[Visual-Basic-Scripts](https://github.com/ajayrandhawa/Visual-Basic-Scripts): Visual Basic Scripts Utilities. Fun, Automation, Fundamentals. With the help of these scripts, I develop lots of Exploits which I'm used for automation system tasks. these vb scripts I am also used for system security exploitation.
