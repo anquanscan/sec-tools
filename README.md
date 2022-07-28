@@ -436,4 +436,5 @@
 [cyber-incident-management](https://github.com/WillOram/cyber-incident-management): Notes on managing and coordinating the response to major cyber incidents   
 [AttackToolKit](https://github.com/scipag/AttackToolKit): Open-source Exploiting Framework  
 [osv-detector](https://github.com/G-Rath/osv-detector)  
-[GSIL](https://github.com/FeeiCN/GSIL): GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）
+[GSIL](https://github.com/FeeiCN/GSIL): GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）  
+[GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz): GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
