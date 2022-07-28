@@ -251,4 +251,5 @@
 [VAmPI](https://github.com/erev0s/VAmPI): Vulnerable REST API with OWASP top 10 vulnerabilities for security testing  
 [lunasec](https://github.com/lunasec-io/lunasec): LunaSec - Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service. Get started in one-click via our GitHub App or host it yourself. https://github.com/apps/lunatrace-by-lunasec/  
 [sashay](https://github.com/scalabli/sashay): Sashay is an automatic installer for useful tools.  
-[RE_Mal_Exploit_Tutorials](https://github.com/msayyad/RE_Mal_Exploit_Tutorials): my reading list for reverse engineering malware & exploit development
+[RE_Mal_Exploit_Tutorials](https://github.com/msayyad/RE_Mal_Exploit_Tutorials): my reading list for reverse engineering malware & exploit development  
+[Malware-Database](https://github.com/cryptwareapps/Malware-Database): A large repository of malware samples with 2500+ malware samples & source codes for a variety of platforms by Cryptware.
