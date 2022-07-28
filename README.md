@@ -424,4 +424,5 @@
 [BruteX](https://github.com/1N3/BruteX): Automatically brute force all services running on a target.  
 [pi-timolo](https://github.com/pageauc/pi-timolo): Raspberry PI-TIMOLO ( PI-TImelapse, MOtion, LOwLight ) uses RPI picamera and OpenCV for Remote Headless Security Monitoring using Motion Tracking, Rclone Auto Sync files with remote storage services. Auto Twilight Transitions and Low Light Camera Settings.  Panoramic images using PanTiltHat and More. This project is featured on GitHub Awesome software.  
 [ctf-writeups](https://github.com/SababaSec/ctf-writeups): Capture The Flag competition challenge write-ups  
-[bovine](https://github.com/chick-fil-a/bovine): Building Operational Visibility Into (n) Environments
+[bovine](https://github.com/chick-fil-a/bovine): Building Operational Visibility Into (n) Environments  
+[termux-desktop-lxqt](https://github.com/termux-desktop/termux-desktop-lxqt): Install a simple, fast and beautiful desktop in termux 
