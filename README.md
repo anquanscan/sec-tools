@@ -236,4 +236,5 @@
 [satellite](https://github.com/t94j0/satellite): easy-to-use payload hosting  
 [k8s-security](https://github.com/kabachook/k8s-security): Kubernetes security notes and best practices  
 [pentesting_script](https://github.com/TonnyMontenegro/pentesting_script): Laboratorio de pentesting con docker que nos permite descargar y desplegar aplicaciones web vulnerables para practicar pentesting en ellas  
-[WPContentInjection](https://github.com/lolwaleet/WPContentInjection): a quick n dirty poc for wp content injection vulnerability.
+[WPContentInjection](https://github.com/lolwaleet/WPContentInjection): a quick n dirty poc for wp content injection vulnerability.  
+[AutomatedHunter](https://github.com/M507/AutomatedHunter): Google Chrome Extension automates testing fundamental Web Problems via Chrome
