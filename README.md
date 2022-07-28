@@ -396,4 +396,5 @@
 [phoenix](https://github.com/AdolfMacro/phoenix): A tool for steganography of png files .  
 [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks.  
 [voucher](https://github.com/boxproject/voucher): Enterprise-grade security solution for digital assets custody, using a cryptographically secure offline network.  
-[sentey](https://github.com/ComuGamersES/sentey): Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses.
+[sentey](https://github.com/ComuGamersES/sentey): Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses.  
+[Open_Source_Web-Vulnerability-Scanner-and-Patcher](https://github.com/Malwareman007/Open_Source_Web-Vulnerability-Scanner-and-Patcher): A Open Source  Web Vulnerability Scanner and Patcher 
