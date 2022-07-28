@@ -158,4 +158,5 @@
 [Tomcat-webshell-application](https://github.com/p0dalirius/Tomcat-webshell-application): A webshell application and interactive shell for pentesting Apache Tomcat servers.  
 [nfcgate](https://github.com/nfcgate/nfcgate): An NFC research toolkit application for Android  
 [CamHell](https://github.com/SuperBuker/CamHell): Ingenic T10 IP camera crawler  
-[imap-honey](https://github.com/yvesago/imap-honey): IMAP or SMTP honeypot written in Golang
+[imap-honey](https://github.com/yvesago/imap-honey): IMAP or SMTP honeypot written in Golang  
+[ipmiPwner](https://github.com/c0rnf13ld/ipmiPwner): Exploit to dump ipmi hashes
