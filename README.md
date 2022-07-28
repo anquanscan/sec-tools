@@ -551,4 +551,5 @@
 [armory](https://github.com/polo-sec/armory): A curated repository of the tools, scripts, resources and programs I use regularly for CTF, BB or other security work.  
 [svscan](https://github.com/hardsoft321/svscan): SuiteCRM Vulnerability Scanner  
 [Zombie-DDoS](https://github.com/saurass/Zombie-DDoS): A tool to perform DDoS attack with control panel to control your crazy zombies : )  
-[protools](https://github.com/SeanDragon/protools): 历经开发周期两年，并且应用过千万级别项目的工具箱
+[protools](https://github.com/SeanDragon/protools): 历经开发周期两年，并且应用过千万级别项目的工具箱  
+[netscan2](https://github.com/AllGloryToTheHypnotoad/netscan2): active / passive network scanner
