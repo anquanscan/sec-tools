@@ -217,4 +217,5 @@
 [DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT): Australian Open Source Intelligence Gathering Resources,                                                                              Australias Largest Open Source Intelligence Repository for Cyber Professionals and Ethical Hackers  
 [Discord-Token-Cracker](https://github.com/tungdo0602/Discord-Token-Cracker): Simple and fast discord token cracker  
 [ntlmscan](https://github.com/nyxgeek/ntlmscan): scan for NTLM directories  
-[breachcheck](https://github.com/c0llision/breachcheck): Checks if entered password appears in the HaveIBeenPwned dataset of leaked passwords. Uses k-Anonymity to avoid exposing the password to HIBP servers.
+[breachcheck](https://github.com/c0llision/breachcheck): Checks if entered password appears in the HaveIBeenPwned dataset of leaked passwords. Uses k-Anonymity to avoid exposing the password to HIBP servers.  
+[Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking): Cyclops 是一款具有 XSS 检测功能的浏览器
