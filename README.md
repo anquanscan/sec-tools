@@ -29,4 +29,5 @@
 [netelf](https://github.com/XiphosResearch/netelf): Run executables from memory, over the network, on Windows, Linux, OpenVMS... routers... spaceships... toasters etc.  
 [karton-config-extractor](https://github.com/CERT-Polska/karton-config-extractor): Static configuration extractor for the Karton framework  
 [laravel-littlegatekeeper](https://github.com/spatie/laravel-littlegatekeeper): Protect pages from access with a universal username/password  
-[expcamera](https://github.com/vanpersiexp/expcamera): Exploit Netwave and GoAhead IP Camera
+[expcamera](https://github.com/vanpersiexp/expcamera): Exploit Netwave and GoAhead IP Camera  
+[aiodnsbrute](https://github.com/blark/aiodnsbrute): Python 3.5+ DNS asynchronous brute force utility
