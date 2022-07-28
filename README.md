@@ -463,4 +463,5 @@
 [through_the_wire](https://github.com/jbaines-r7/through_the_wire): CVE-2022-26134 Proof of Concept  
 [Cyber-ML-DL-101](https://github.com/smlra-kjsce/Cyber-ML-DL-101): Repository of all notebooks used in workshop at NII.  
 [cdnlookup](https://github.com/burpheart/cdnlookup): 一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具  
-[ggshield](https://github.com/GitGuardian/ggshield): Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks.
+[ggshield](https://github.com/GitGuardian/ggshield): Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks.  
+[osint-brazuca](https://github.com/osintbrazuca/osint-brazuca): Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
