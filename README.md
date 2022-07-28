@@ -81,4 +81,5 @@
 [beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework, extremely easy to configure by yaml 🚀  
 [w2vcluster](https://github.com/mylamour/w2vcluster): word2vec & k-means cluster  
 [jok3r](https://github.com/koutto/jok3r): Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework  
-[fpvs](https://github.com/vanschelven/fpvs): Fast Python Vulnerability Scanner
+[fpvs](https://github.com/vanschelven/fpvs): Fast Python Vulnerability Scanner  
+[NukeJndiLookupFromLog4j](https://github.com/LoliKingdom/NukeJndiLookupFromLog4j): Selection of ways to remove JndiLookup in now obsolete Minecraft versions, or versions that still have log4j < 2.10 and is unable to use `-Dlog4j2.formatMsgNoLookups=true`
