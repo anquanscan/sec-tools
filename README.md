@@ -116,4 +116,5 @@
 [pod-lab](https://github.com/bkosm/pod-lab): Programy z przedmiotu Podstawy Ochrony Danych.  
 [capillary](https://github.com/google/capillary): Capillary is a library to simplify the sending of end-to-end encrypted push messages from Java-based application servers to Android clients.  
 [Cloak](https://github.com/s0md3v/Cloak): Cloak can backdoor any python script with some tricks.  
-[h2csmuggler](https://github.com/BishopFox/h2csmuggler): HTTP Request Smuggling over HTTP/2 Cleartext (h2c)
+[h2csmuggler](https://github.com/BishopFox/h2csmuggler): HTTP Request Smuggling over HTTP/2 Cleartext (h2c)  
+[tugarecon](https://github.com/skynet0x01/tugarecon): Pentest: Subdomains enumeration tool for penetration testers.
