@@ -543,4 +543,5 @@
 [Python-Pentest-ToolKit](https://github.com/sectool/Python-Pentest-ToolKit): Pentest ToolKit  
 [FileVaultCracker](https://github.com/macmade/FileVaultCracker): macOS FileVault cracking tool  
 [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng): WiFi security auditing tools suite  
-[EvidenceWiki](https://github.com/abathelt/EvidenceWiki): All of my threat intel recommendations for aspiring Information Security Analyst. This section contains information about evidence at analyst's disposal IP, domain, email, hash, files.
+[EvidenceWiki](https://github.com/abathelt/EvidenceWiki): All of my threat intel recommendations for aspiring Information Security Analyst. This section contains information about evidence at analyst's disposal IP, domain, email, hash, files.  
+[weblogic_honeypot](https://github.com/Cymmetria/weblogic_honeypot): WebLogic Honeypot is a low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. This is a Remote Code Execution vulnerability.
