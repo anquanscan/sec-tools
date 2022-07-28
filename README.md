@@ -174,4 +174,5 @@
 [RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools): Red Team Toolkit - A curated list of tools that are commonly used in the field for Physical Security, Red Teaming, and Tactical Covert Entry.  
 [using-nmap](https://github.com/JGundy64/using-nmap): A small cheat sheet to using some of the most common nmap flags and setups I use when probing a network.   
 [AdversarialAttack-PHM](https://github.com/dependable-cps/AdversarialAttack-PHM)  
-[jwt-transform](https://github.com/restuwahyu13/jwt-transform): Transform your real jwt token into fake jwt token.
+[jwt-transform](https://github.com/restuwahyu13/jwt-transform): Transform your real jwt token into fake jwt token.  
+[CVE-2020-7200](https://github.com/alexfrancow/CVE-2020-7200): CVE-2020-7200: HPE Systems Insight Manager (SIM) RCE PoC
