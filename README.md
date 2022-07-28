@@ -477,4 +477,5 @@
 [awesome-pentest-tools](https://github.com/unexpectedBy/awesome-pentest-tools): List of Security Archives Tools and software, generally for facilitate security & penetration research. Opening it up to everyone will facilitate a knowledge transfer. Hopefully the initial set will grow and expand.  
 [pshape](https://github.com/Alexandre-Bartel/pshape): Inspector-gadget (a.k.a. PSHAPE - Practical Support for Half-Automated Program Exploitation) is an open source tool which assists analysts in exploit development. It discovers gadgets, chains gadgets together, and ensures that side effects such as register dereferences do not crash the program.  
 [captcha](https://github.com/mewebstudio/captcha): Captcha for Laravel 5/6/7/8/9  
-[go-cve-search](https://github.com/s-index/go-cve-search): lightweight CVE search
+[go-cve-search](https://github.com/s-index/go-cve-search): lightweight CVE search  
+[TryHackMe_writeups](https://github.com/dvanmosselbeen/TryHackMe_writeups): This repository contains a few of my writeups I made for the famous and addictive TryHackMe CTF (Capture The Flag) challenges.
