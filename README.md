@@ -128,4 +128,5 @@
 [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking): Study Notes For Web Hacking / Web安全学习笔记  
 [cs5331](https://github.com/vhazali/cs5331): NUS CS5331 Web Security  
 [Struts2-045-Exp-CSharp](https://github.com/Lensual/Struts2-045-Exp-CSharp): Development with C# WinForm. Just for study and programming excercises.  
-[HikPwn](https://github.com/4n4nk3/HikPwn): HikPwn, a simple scanner for Hikvision devices with basic vulnerability scanning capabilities written in Python 3.8.
+[HikPwn](https://github.com/4n4nk3/HikPwn): HikPwn, a simple scanner for Hikvision devices with basic vulnerability scanning capabilities written in Python 3.8.  
+[tangalanga](https://github.com/elcuervo/tangalanga): Tangalanga: the Zoom conference scanner hacking tool
