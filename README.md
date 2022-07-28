@@ -13,4 +13,5 @@
 [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.  
 [occlude](https://github.com/muggenhor/occlude): C++ TLS 1.3 library  
 [easy-wg-quick](https://github.com/burghardt/easy-wg-quick): Creates Wireguard configuration for hub and peers with ease  
-[cap-std](https://github.com/bytecodealliance/cap-std): Capability-oriented version of the Rust standard library
+[cap-std](https://github.com/bytecodealliance/cap-std): Capability-oriented version of the Rust standard library  
+[hardentools](https://github.com/securitywithoutborders/hardentools): Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
