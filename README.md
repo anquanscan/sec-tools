@@ -318,4 +318,5 @@
 [oFx](https://github.com/bigblackhat/oFx): 漏洞批量验证框架  
 [Skaty](https://github.com/yoavst/Skaty): Scapy port for Kotlin (Proof of concept)  
 [LogonTracer](https://github.com/JPCERTCC/LogonTracer): Investigate malicious Windows logon by visualizing and analyzing Windows event log  
-[rastrea2r](https://github.com/rastrea2r/rastrea2r): Collecting & Hunting for IOCs with gusto and style
+[rastrea2r](https://github.com/rastrea2r/rastrea2r): Collecting & Hunting for IOCs with gusto and style  
+[DLL-INJECTOR](https://github.com/SherazIbrahim/DLL-INJECTOR): I created a dll injector  I am  going to Open source its Code. But remember one thing that is any one can use it only for Educational purpose .I again say  do not use it to damage anyone's Computer.But one thing if you are using it for some good purpose like to help someone who really need  help then I permit you to use it.
