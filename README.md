@@ -411,4 +411,5 @@
 [Browser-exploit](https://github.com/yngweijs/Browser-exploit)  
 [subdomain-scanner](https://github.com/momos1337/subdomain-scanner)  
 [ItLearnDir](https://github.com/Bluebear171/ItLearnDir): This Directory is to provide all the information for learning resource in IT world.  
-[cloudsplaining](https://github.com/salesforce/cloudsplaining): Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+[cloudsplaining](https://github.com/salesforce/cloudsplaining): Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.  
+[deksterecon](https://github.com/0xdekster/deksterecon): Web Application recon automation
