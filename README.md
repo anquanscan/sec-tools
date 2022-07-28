@@ -354,4 +354,5 @@
 [vminspect](https://github.com/noxdafox/vminspect): Tools for inspecting disk images  
 [SecurityPlus-notes](https://github.com/saira-h/SecurityPlus-notes): Study notes for the CompTIA Security+ certification  
 [Python-Random-Password-Generator](https://github.com/sectool/Python-Random-Password-Generator): Python - Random Password Generator ( R.P.G. )  
-[awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+[awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more  
+[monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
