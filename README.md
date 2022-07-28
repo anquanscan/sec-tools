@@ -12,4 +12,5 @@
 [wireguard-manager](https://github.com/complexorganizations/wireguard-manager): ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.  
 [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.  
 [occlude](https://github.com/muggenhor/occlude): C++ TLS 1.3 library  
-[easy-wg-quick](https://github.com/burghardt/easy-wg-quick): Creates Wireguard configuration for hub and peers with ease
+[easy-wg-quick](https://github.com/burghardt/easy-wg-quick): Creates Wireguard configuration for hub and peers with ease  
+[cap-std](https://github.com/bytecodealliance/cap-std): Capability-oriented version of the Rust standard library
