@@ -74,4 +74,5 @@
 [hacking-with-python](https://github.com/drsh4rky/hacking-with-python): You guessed well, genius !! This tool is intended for the initiation to ethical hacking with python  
 [jerseyctf-2022-challenges](https://github.com/njitacm/jerseyctf-2022-challenges): JerseyCTF 2022  
 [fuzzbench](https://github.com/google/fuzzbench): FuzzBench - Fuzzer benchmarking as a service.  
-[EzScript](https://github.com/xFaraday/EzScript): Cyberpatriot born Windows hardening script.  It serves as a way to get to baseline and can help specialists further secure the machine. 
+[EzScript](https://github.com/xFaraday/EzScript): Cyberpatriot born Windows hardening script.  It serves as a way to get to baseline and can help specialists further secure the machine.   
+[PentestTools](https://github.com/arch3rPro/PentestTools): Awesome Pentest Tools Collection
