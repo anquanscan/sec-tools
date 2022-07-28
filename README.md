@@ -444,4 +444,5 @@
 [lynis](https://github.com/CISOfy/lynis): Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.  
 [kido](https://github.com/tikeswar/kido): White hat hacking passwords using ML  
 [tripwire-open-source](https://github.com/Tripwire/tripwire-open-source): Open Source Tripwire®  
-[SafeDeserializationHelpers](https://github.com/zyanfx/SafeDeserializationHelpers): :japanese_ogre: Fixes known BinaryFormatter deserialization vulnerabilities
+[SafeDeserializationHelpers](https://github.com/zyanfx/SafeDeserializationHelpers): :japanese_ogre: Fixes known BinaryFormatter deserialization vulnerabilities  
+[recon-archy](https://github.com/shadawck/recon-archy): Linkedin Tools (and maybe later other source) to reconstruct a company hierarchy from scraping relations and jobs title
