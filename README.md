@@ -358,4 +358,5 @@
 [monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency  
 [Samba_usermap_exploit](https://github.com/Patchyst/Samba_usermap_exploit): Easy to read Python script for exploiting Samba versions 3.0.20 through 3.0.25rc3  
 [drill-network-functions](https://github.com/cgivre/drill-network-functions): Networking functions for Apache Drill  
-[awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security): Awesome information for WebSockets security research
+[awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security): Awesome information for WebSockets security research  
+[email-nuker](https://github.com/bagarrattaa/email-nuker): this is a email bomber unlike  other email bombers u don't need your gmail email id to use this
