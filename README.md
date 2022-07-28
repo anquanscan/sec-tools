@@ -316,4 +316,5 @@
 [aquatone](https://github.com/michenriksen/aquatone): A Tool for Domain Flyovers  
 [dorothy](https://github.com/elastic/dorothy): Dorothy is a tool to test security monitoring and detection for Okta environments  
 [oFx](https://github.com/bigblackhat/oFx): 漏洞批量验证框架  
-[Skaty](https://github.com/yoavst/Skaty): Scapy port for Kotlin (Proof of concept)
+[Skaty](https://github.com/yoavst/Skaty): Scapy port for Kotlin (Proof of concept)  
+[LogonTracer](https://github.com/JPCERTCC/LogonTracer): Investigate malicious Windows logon by visualizing and analyzing Windows event log
