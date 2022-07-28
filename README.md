@@ -84,4 +84,5 @@
 [fpvs](https://github.com/vanschelven/fpvs): Fast Python Vulnerability Scanner  
 [NukeJndiLookupFromLog4j](https://github.com/LoliKingdom/NukeJndiLookupFromLog4j): Selection of ways to remove JndiLookup in now obsolete Minecraft versions, or versions that still have log4j < 2.10 and is unable to use `-Dlog4j2.formatMsgNoLookups=true`  
 [hash-generator-](https://github.com/morpheuslord/hash-generator-): contains a bruteforcer wifi hacker an batch to exe converter contains a n verity of usefull tools in python and can be converted to exe by using pyinstaller  
-[Ethical-Hacking](https://github.com/FrancescoMarchiori/Ethical-Hacking): Repository for the challenges code of the M. Sc. course in Ethical Hacking
+[Ethical-Hacking](https://github.com/FrancescoMarchiori/Ethical-Hacking): Repository for the challenges code of the M. Sc. course in Ethical Hacking  
+[PacketWhisper](https://github.com/TryCatchHCF/PacketWhisper): PacketWhisper: Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
