@@ -467,4 +467,5 @@
 [osint-brazuca](https://github.com/osintbrazuca/osint-brazuca): Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.  
 [MS17010EXP](https://github.com/k8gege/MS17010EXP): Ladon Moudle MS17010 Exploit for PowerShell  
 [Ontario1024](https://github.com/ksaj/Ontario1024): A selection of my PC-based computer virus code samples from the early 90's. Don't worry. They don't bite... anymore...  
-[bluenightingale](https://github.com/blUeBUg200/bluenightingale): Building a unified strategy to create threat detection use-cases in the combat against cyber criminals - ADHYAYAM I [LOGS]
+[bluenightingale](https://github.com/blUeBUg200/bluenightingale): Building a unified strategy to create threat detection use-cases in the combat against cyber criminals - ADHYAYAM I [LOGS]  
+[MSc-CyberSecurity-Sapienza](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza): Master of Science in Cybersecurity, Sapienza University of Rome.
