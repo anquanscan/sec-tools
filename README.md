@@ -394,4 +394,5 @@
 [ochrona-cli](https://github.com/ochronasec/ochrona-cli): A command line tool for detecting vulnerabilities in Python dependencies and doing safe package installs  
 [pocsuite3](https://github.com/knownsec/pocsuite3): pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.  
 [phoenix](https://github.com/AdolfMacro/phoenix): A tool for steganography of png files .  
-[dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks.
+[dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks.  
+[voucher](https://github.com/boxproject/voucher): Enterprise-grade security solution for digital assets custody, using a cryptographically secure offline network.
