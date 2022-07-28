@@ -261,4 +261,5 @@
 [hashpass](https://github.com/stepchowfun/hashpass): A simple password manager with a twist.  
 [ViperMonkey](https://github.com/decalage2/ViperMonkey): A VBA parser and emulation engine to analyze malicious macros.  
 [Brute-Force-Login](https://github.com/Sanix-Darker/Brute-Force-Login): Proof -Of-Concept Brute Force Login on a web-site with a good dictionary of words   
-[Sherlock](https://github.com/gbiagomba/Sherlock): This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.)
+[Sherlock](https://github.com/gbiagomba/Sherlock): This script is designed to help expedite a web application assessment by automating some of the assessment steps (e.g., running nmap, sublist3r, metasploit, etc.)  
+[bountycat](https://github.com/blessingcharles/bountycat): A WEB SECURITY TESTING AUTOMATION TOOL FOR HUMANS
