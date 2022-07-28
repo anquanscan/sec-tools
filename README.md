@@ -479,4 +479,5 @@
 [captcha](https://github.com/mewebstudio/captcha): Captcha for Laravel 5/6/7/8/9  
 [go-cve-search](https://github.com/s-index/go-cve-search): lightweight CVE search  
 [TryHackMe_writeups](https://github.com/dvanmosselbeen/TryHackMe_writeups): This repository contains a few of my writeups I made for the famous and addictive TryHackMe CTF (Capture The Flag) challenges.  
-[R3Xploit](https://github.com/rasyidrafi/R3Xploit): Exploit for Hacking Roblox,  Support multiples Api
+[R3Xploit](https://github.com/rasyidrafi/R3Xploit): Exploit for Hacking Roblox,  Support multiples Api  
+[cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud
