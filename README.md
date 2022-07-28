@@ -258,4 +258,5 @@
 [WEB-DOJO-SECURITY](https://github.com/jacfpentester/WEB-DOJO-SECURITY): Instalacion, configuracion y resulcion de las maquinas de la VM Web Dojo Security ( Web Pentesting ).  
 [Cyber-News-Bot](https://github.com/JMousqueton/Cyber-News-Bot): A bot to retweet everything related to Cyber Security based on hashtag  
 [shodanwave](https://github.com/jimywork/shodanwave): Shodanwave is a tool for exploring and obtaining information from Netwave IP Camera.   
-[hashpass](https://github.com/stepchowfun/hashpass): A simple password manager with a twist.
+[hashpass](https://github.com/stepchowfun/hashpass): A simple password manager with a twist.  
+[ViperMonkey](https://github.com/decalage2/ViperMonkey): A VBA parser and emulation engine to analyze malicious macros.
