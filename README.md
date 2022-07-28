@@ -196,4 +196,5 @@
 [h-infect](https://github.com/jravis-8520/h-infect): H-INFECT is a tool to create a virus for android, windows, and macOS.  
 [alternative-frontends](https://github.com/digitalblossom/alternative-frontends): 🔐🌐 Privacy-respecting web frontends for popular services   
 [Google-Maps-API-Scanner](https://github.com/Kevaljagani/Google-Maps-API-Scanner): Check if the leaked Google-Maps API key is vulnerable or not.  
-[FDIA-PdM](https://github.com/dependable-cps/FDIA-PdM): False Data Injection Attacks in Internet of Things and Deep Learning enabled Predictive Analytics
+[FDIA-PdM](https://github.com/dependable-cps/FDIA-PdM): False Data Injection Attacks in Internet of Things and Deep Learning enabled Predictive Analytics  
+[exploit-phpldapadmin-remote-dump](https://github.com/opsxcq/exploit-phpldapadmin-remote-dump): phpldapadmin remote exploit and vulnerable container !
