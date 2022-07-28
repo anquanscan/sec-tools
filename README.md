@@ -345,4 +345,5 @@
 [SecurityArchitecture](https://github.com/nocomplexity/SecurityArchitecture): Repository for the Open Security Reference Architecture  
 [lambdacube-compiler](https://github.com/lambdacube3d/lambdacube-compiler): LambdaCube 3D is a Haskell-like purely functional language for GPU. Try it out:   
 [featherduster](https://github.com/nccgroup/featherduster): An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction  
-[Roblox](https://github.com/bloxain/Roblox): A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games!
+[Roblox](https://github.com/bloxain/Roblox): A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games!  
+[Sol-Typo](https://github.com/keyurtalati/Sol-Typo): Solidity Type Casting Identifier tool.
