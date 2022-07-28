@@ -184,4 +184,5 @@
 [blazingfast-bypass](https://github.com/0x44F/blazingfast-bypass): Blazingfast DDoS protection bypass vulnerability.  
 [Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks): Top 100 Hacking & Security E-Books (Free Download)   
 [usb-keylogger](https://github.com/Inerska/usb-keylogger): Creating a crossplatform C++ undetectable usb autorunned keylogger for education purpose    
-[klustair-cli](https://github.com/klustair/klustair-cli): Scan all images in your Kubernetes cluster with Trivy and check your configuration with Kubeaudit
+[klustair-cli](https://github.com/klustair/klustair-cli): Scan all images in your Kubernetes cluster with Trivy and check your configuration with Kubeaudit  
+[PT-GUI](https://github.com/Hardhat-Enterprises/PT-GUI): Project PT-GUI for Deakin Capstone Hardhat Enterprises
