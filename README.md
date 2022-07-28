@@ -434,4 +434,5 @@
 [Buffer_Overflow](https://github.com/gh0x0st/Buffer_Overflow): Don't let buffer overflows overflow your mind  
 [dependency-track](https://github.com/DependencyTrack/dependency-track): Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.  
 [cyber-incident-management](https://github.com/WillOram/cyber-incident-management): Notes on managing and coordinating the response to major cyber incidents   
-[AttackToolKit](https://github.com/scipag/AttackToolKit): Open-source Exploiting Framework
+[AttackToolKit](https://github.com/scipag/AttackToolKit): Open-source Exploiting Framework  
+[osv-detector](https://github.com/G-Rath/osv-detector)
