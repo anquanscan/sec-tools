@@ -90,4 +90,5 @@
 [vuln-web-apps](https://github.com/geeksonsecurity/vuln-web-apps): A curated list of vulnerable web applications.  
 [SpoolSploit](https://github.com/BeetleChunks/SpoolSploit): A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.  
 [Hemera](https://github.com/KerberosSec/Hemera): O Hemera é um Software voltado para o desenvolvimento de Phishings. Seu intuito é auxiliar nos estudos de segurança digital.  
-[IntelOwl-ng](https://github.com/intelowlproject/IntelOwl-ng): IntelOwl's Web Interface. Built with Angular 10.
+[IntelOwl-ng](https://github.com/intelowlproject/IntelOwl-ng): IntelOwl's Web Interface. Built with Angular 10.  
+[latte](https://github.com/nette/latte): ☕ Latte: the safest & truly intuitive templates for PHP. Engine for those who want the most secure PHP sites.
