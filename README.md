@@ -16,4 +16,5 @@
 [cap-std](https://github.com/bytecodealliance/cap-std): Capability-oriented version of the Rust standard library  
 [hardentools](https://github.com/securitywithoutborders/hardentools): Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.  
 [DVWA](https://github.com/digininja/DVWA): Damn Vulnerable Web Application (DVWA)  
-[user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening
+[user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening  
+[Crypto-NFT-Drainer](https://github.com/0xTracey/Crypto-NFT-Drainer): 🌊 ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER
