@@ -283,4 +283,5 @@
 [ThePhish](https://github.com/emalderson/ThePhish): ThePhish: an automated phishing email analysis tool  
 [pentest-wiki](https://github.com/nixawk/pentest-wiki): PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.  
 [SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX): A cross-platform note-taking & target-tracking app for penetration testers.  
-[Helios](https://github.com/stefan2200/Helios): A Python based Web Application security scanner
+[Helios](https://github.com/stefan2200/Helios): A Python based Web Application security scanner  
+[Hacking-Resources](https://github.com/rng70/Hacking-Resources): This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, books, and links that need to be used for good purposes only. Do not do any illegal work using these sources.
