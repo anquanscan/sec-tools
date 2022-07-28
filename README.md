@@ -377,4 +377,5 @@
 [awesome-ctf](https://github.com/apsdehal/awesome-ctf): A curated list of CTF frameworks, libraries, resources and softwares  
 [windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources): Papers, blogposts, tutorials etc for learning about Windows kernel exploitation, internals and (r|b)ootkits  
 [timesketch-cli](https://github.com/jaegeral/timesketch-cli): A dedicated repo to interact with the API of Timesketch  
-[tracy](https://github.com/nccgroup/tracy): A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
+[tracy](https://github.com/nccgroup/tracy): A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.  
+[SubdomainTakeover](https://github.com/mrlew1s/SubdomainTakeover): Small python or powershell script to look for potential subdomain  takeover vulnerabilities via vulnerable Alias.
