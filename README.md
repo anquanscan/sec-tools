@@ -228,4 +228,5 @@
 [Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet): Active Directory & Red-Team Cheat-Sheet in constant expansion.  
 [Fortnite-Offsets](https://github.com/MJMODZZ/Fortnite-Offsets): These are the Fortnite Chapter 3 Seison 2 Newest Offsets.  
 [zeek-plugin-s7comm](https://github.com/amzn/zeek-plugin-s7comm): Zeek network security monitor plugin that enables parsing of the S7 protocol  
-[cybersecurity-threat-detection](https://github.com/paulveillard/cybersecurity-threat-detection): An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Detection & Hunting.
+[cybersecurity-threat-detection](https://github.com/paulveillard/cybersecurity-threat-detection): An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Detection & Hunting.  
+[DES](https://github.com/a-Ahmed13/DES): Data Encryption Standard c/c++
