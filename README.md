@@ -348,4 +348,5 @@
 [Roblox](https://github.com/bloxain/Roblox): A Script For Roblox supported by krnl,trigon,synapse and uses synapse x undected funcs fast load with files and supports 8+ Games!  
 [Sol-Typo](https://github.com/keyurtalati/Sol-Typo): Solidity Type Casting Identifier tool.  
 [turtle](https://github.com/spicesouls/turtle): MSFVenom Powershell Stager Encoder & Generator  
-[osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security
+[osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security  
+[External-Roblox-ESP](https://github.com/bditt/External-Roblox-ESP): This is an external ESP for Roblox. It was made while I was learning to reverse Roblox's structures. This is just a base so it doesn't do anything fancy. Please ignore the ugly code.
