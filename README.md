@@ -77,4 +77,5 @@
 [EzScript](https://github.com/xFaraday/EzScript): Cyberpatriot born Windows hardening script.  It serves as a way to get to baseline and can help specialists further secure the machine.   
 [PentestTools](https://github.com/arch3rPro/PentestTools): Awesome Pentest Tools Collection  
 [Drupalgeddon2](https://github.com/dreadlocked/Drupalgeddon2): Exploit for Drupal v7.x + v8.x (Drupalgeddon 2 / CVE-2018-7600 / SA-CORE-2018-002)  
-[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.  
+[beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework, extremely easy to configure by yaml 🚀
