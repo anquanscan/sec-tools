@@ -28,4 +28,5 @@
 [bugradar](https://github.com/samet-g/bugradar): Advanced external automation on bug bounty programs by running the best set of tools to perform scanning and finding out vulnerabilities.  
 [netelf](https://github.com/XiphosResearch/netelf): Run executables from memory, over the network, on Windows, Linux, OpenVMS... routers... spaceships... toasters etc.  
 [karton-config-extractor](https://github.com/CERT-Polska/karton-config-extractor): Static configuration extractor for the Karton framework  
-[laravel-littlegatekeeper](https://github.com/spatie/laravel-littlegatekeeper): Protect pages from access with a universal username/password
+[laravel-littlegatekeeper](https://github.com/spatie/laravel-littlegatekeeper): Protect pages from access with a universal username/password  
+[expcamera](https://github.com/vanpersiexp/expcamera): Exploit Netwave and GoAhead IP Camera
