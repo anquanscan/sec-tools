@@ -371,4 +371,5 @@
 [Knock](https://github.com/petercunha/Knock): :key: Scan the entire internet for SSH and Telnet services. Then hack them.  
 [changeme](https://github.com/ztgrace/changeme): A default credential scanner.  
 [SubRosa](https://github.com/ihack4falafel/SubRosa): Basic tool to automate backdooring PE files  
-[CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC): CVE-2022-22965 (Spring4Shell) Proof of Concept
+[CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC): CVE-2022-22965 (Spring4Shell) Proof of Concept  
+[Recsech](https://github.com/radenvodka/Recsech): Recsech is a tool for doing Footprinting and Reconnaissance on the target web. Recsech collects information such as DNS Information, Sub Domains, HoneySpot Detected, Subdomain takeovers, Reconnaissance On Github and much more you can see in Features in tools .
