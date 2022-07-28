@@ -55,4 +55,5 @@
 [spring-boot](https://github.com/timebusker/spring-boot): spring-boot 项目实践总结  
 [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022  
 [Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡  
-[Password_Strength](https://github.com/VirusZzHkP/Password_Strength): C++ program to check the strength of your password.
+[Password_Strength](https://github.com/VirusZzHkP/Password_Strength): C++ program to check the strength of your password.  
+[FuYao-Go](https://github.com/ExpLangcn/FuYao-Go): 自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用|通过使用被动在线资源来发现网站的有效子域｜通过强大且灵活的模板，模拟各种安全漏洞检查！Automate target asset detection and security vulnerability scanning | Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage | Discover valid subdomains of websites by using passive online resources | Simulate various Security Vulnerability Check
