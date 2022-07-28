@@ -314,4 +314,5 @@
 [F21ProInjector](https://github.com/MlgmXyysd/F21ProInjector): Exploit the vulnerability to install arbitrary applications in k61v1 without ROOT  
 [attack_to_veris](https://github.com/center-for-threat-informed-defense/attack_to_veris): The principal objectives and outputs of this project are the creation and dissemination of an extension to the VERIS schema incorporating ATT&CK mappings and associated usage documentation.  
 [aquatone](https://github.com/michenriksen/aquatone): A Tool for Domain Flyovers  
-[dorothy](https://github.com/elastic/dorothy): Dorothy is a tool to test security monitoring and detection for Okta environments
+[dorothy](https://github.com/elastic/dorothy): Dorothy is a tool to test security monitoring and detection for Okta environments  
+[oFx](https://github.com/bigblackhat/oFx): 漏洞批量验证框架
