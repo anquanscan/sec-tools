@@ -9,4 +9,5 @@
 [1earn](https://github.com/ffffffff0x/1earn): ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup  
 [pocassist](https://github.com/jweny/pocassist): 全新的漏洞测试框架，支持poc在线编辑、运行、批量测试。使用文档：  
 [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything): How to systematically secure anything: a repository about security engineering  
-[wireguard-manager](https://github.com/complexorganizations/wireguard-manager): ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
+[wireguard-manager](https://github.com/complexorganizations/wireguard-manager): ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.  
+[my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
