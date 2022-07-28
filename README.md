@@ -520,4 +520,5 @@
 [Prediction-DDoS](https://github.com/francescovolpe/Prediction-DDoS): Questo progetto è stato sviluppato per il corso universitario Analisi dei dati per la sicurezza. Il progetto mira ad estrarre conoscenza dai dati per la classificazione di attacchi DDos seguendo le fasi di sviluppo del processo KDD.  
 [hackable](https://github.com/JasonHinds13/hackable): A python flask app that is purposefully vulnerable to SQL injection and XSS attacks. To be used for demonstrating attacks  
 [SQL_Injection_Payload](https://github.com/omurugur/SQL_Injection_Payload): SQL Injection Payload List  
-[whoishere.py](https://github.com/hkm/whoishere.py): WIFI Client Detection - Identify people by assigning a name to a device performing a wireless probe request.
+[whoishere.py](https://github.com/hkm/whoishere.py): WIFI Client Detection - Identify people by assigning a name to a device performing a wireless probe request.  
+[StackedTotemLimiter](https://github.com/KRYMZ0N/StackedTotemLimiter): A plugin that prevents stacked totems. Useful if you own a server that facilitates the crafting dupe, but don't want to deal with stacked totems.
