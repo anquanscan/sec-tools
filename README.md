@@ -335,4 +335,5 @@
 [awesome-bbht](https://github.com/0xApt/awesome-bbht): A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain.  
 [pwn--](https://github.com/hugsy/pwn--): pwn++ :  my Windows & Linux pwn library to play with modern C++ - and yeah, it's pwn++, not pwn-- (toy lib, don't use in prod)  
 [osint](https://github.com/Vault-Cyber-Security/osint): Docker image for osint  
-[cookie_crimes](https://github.com/defaultnamehere/cookie_crimes): Read local Chrome cookies without root or decrypting
+[cookie_crimes](https://github.com/defaultnamehere/cookie_crimes): Read local Chrome cookies without root or decrypting  
+[CTF-Write-ups](https://github.com/csivitu/CTF-Write-ups): Write-ups for CTF challenges.
