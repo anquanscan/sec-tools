@@ -388,4 +388,5 @@
 [Ctf_Or_LearningLabs](https://github.com/gauravsachdev/Ctf_Or_LearningLabs): My thought processes as I'm working through the labs for portswigger and Hackthebox. It's just to keep account of what labs/ctf I've done. My blog will have certain cts that I did while doing my CEH. This will be all of the rest. Helps me keep account of my progress and methodology.  
 [storage-collision-poc](https://github.com/tinchoabbate/storage-collision-poc): A simple PoC to exploit storage collision in smart contracts  
 [recon-pipeline](https://github.com/epi052/recon-pipeline): An automated target reconnaissance pipeline.  
-[Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science
+[Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science  
+[b-ok-scraper](https://github.com/SofianeHamlaoui/b-ok-scraper): A b-ok.cc Simple Python Scraper
