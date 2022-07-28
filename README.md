@@ -43,4 +43,5 @@
 [uptux](https://github.com/initstring/uptux): Linux privilege escalation checks (systemd, dbus, socket fun, etc)  
 [edoardottt](https://github.com/edoardottt/edoardottt): Hey! I'm edoardottt! 🏴‍☠️👹  
 [vulncontrol](https://github.com/Amet13/vulncontrol): Python script for monitoring www.cvedetails.com vulnerabilities database  
-[dotdotpwn](https://github.com/wireghoul/dotdotpwn): DotDotPwn - The Directory Traversal Fuzzer
+[dotdotpwn](https://github.com/wireghoul/dotdotpwn): DotDotPwn - The Directory Traversal Fuzzer  
+[CVE-2021-40101](https://github.com/S1lkys/CVE-2021-40101): Survey XSS combined with CSRF leads to Admin Account Takeover in Concrete5 8.5.4
