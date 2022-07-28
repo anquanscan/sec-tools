@@ -218,4 +218,5 @@
 [Discord-Token-Cracker](https://github.com/tungdo0602/Discord-Token-Cracker): Simple and fast discord token cracker  
 [ntlmscan](https://github.com/nyxgeek/ntlmscan): scan for NTLM directories  
 [breachcheck](https://github.com/c0llision/breachcheck): Checks if entered password appears in the HaveIBeenPwned dataset of leaked passwords. Uses k-Anonymity to avoid exposing the password to HIBP servers.  
-[Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking): Cyclops 是一款具有 XSS 检测功能的浏览器
+[Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking): Cyclops 是一款具有 XSS 检测功能的浏览器  
+[ADMMutate](https://github.com/K2/ADMMutate): Classic code from 1999+ I am fairly sure this is the first public polymorphic shellcode ever (best IMHO and others http://ids.cs.columbia.edu/sites/default/files/ccs07poly.pdf  :)  If I ever port this to 64 or implement a few other suggestions (sorry I lost ppc code version contributed) it will be orders of magnitude more difficult to spot, so I hope nobody uses signatures for anything (virus / malware scanners included).
