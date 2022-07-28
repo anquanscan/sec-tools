@@ -241,4 +241,5 @@
 [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering): A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.  
 [jackhammer](https://github.com/olacabs/jackhammer): Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.  
 [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking): A list of web application security  
-[sdwannewhope](https://github.com/sdnewhop/sdwannewhope): SD-WAN security and insecurity
+[sdwannewhope](https://github.com/sdnewhop/sdwannewhope): SD-WAN security and insecurity  
+[offbyslash-django-dumper](https://github.com/adamyordan/offbyslash-django-dumper): A proof of concept to dump Django website's source code affected by NGINX's off-by-slash alias directive misconfiguration.
