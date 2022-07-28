@@ -299,4 +299,5 @@
 [Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources): A Huge Learning Resources with Labs For Offensive Security Players  
 [WebPocket](https://github.com/TuuuNya/WebPocket): Exploit management framework  
 [Rafel-Rat](https://github.com/swagkarna/Rafel-Rat): -------> RAFEL<------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices  
-[vulmap](https://github.com/zhzyker/vulmap): Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
+[vulmap](https://github.com/zhzyker/vulmap): Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能  
+[KeepNoteOSCP](https://github.com/AI-BlackB0x/KeepNoteOSCP): KeepNote For OSCP Course
