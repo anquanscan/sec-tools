@@ -458,4 +458,5 @@
 [linux-compliance-manager](https://github.com/sudoFerraz/linux-compliance-manager): A tool for managing machines in the same network that are in compliance with the given security policies, generating vulnerabilities insights  
 [AutoXploit](https://github.com/Yashvendra/AutoXploit): Fast exploitation based on metasploit.  
 [HTBWriteups](https://github.com/Kaosam/HTBWriteups): Writeups of Hack The Box machines, Italian and English languages  
-[myvpn-desktop](https://github.com/my0419/myvpn-desktop): VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server
+[myvpn-desktop](https://github.com/my0419/myvpn-desktop): VPN server configuration software. Protocols: L2TP, PPTP, OpenVPN, WireGuard, Socks5, ShadowSocks (v2ray). | Providers: DigitalOcean, Linode, CryptoServers, Hetzner Cloud, Custom Server  
+[RSA_Security_Token](https://github.com/GustaMagik/RSA_Security_Token): A Security token system for (two-factor) authentication to Linux / Unix using an FPGA and a PAM-module. Either A: 72-bit or B: 512-bit RSA. Version A is air-gapped. Version B uses USB UART. BSD-3 licensed.
