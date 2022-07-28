@@ -125,4 +125,5 @@
 [cloudfrunt](https://github.com/MindPointGroup/cloudfrunt): A tool for identifying misconfigured CloudFront domains  
 [xsscan](https://github.com/doomguy/xsscan): A simple script to detect unescaped characters in a web application for e.g. Cross Site Scripting (XSS) attacks.  
 [wikiprot](https://github.com/ProtAAPP/wikiprot): Repositorio de documentación y referencias relativas al mundo de la ciberseguridad, creado y mantenido por la Comunidad de ProtAAPP  
-[Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking): Study Notes For Web Hacking / Web安全学习笔记
+[Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking): Study Notes For Web Hacking / Web安全学习笔记  
+[cs5331](https://github.com/vhazali/cs5331): NUS CS5331 Web Security
