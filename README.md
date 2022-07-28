@@ -428,4 +428,5 @@
 [termux-desktop-lxqt](https://github.com/termux-desktop/termux-desktop-lxqt): Install a simple, fast and beautiful desktop in termux   
 [nsjail](https://github.com/google/nsjail): A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)  
 [keylogger_with_python_3](https://github.com/EdinsonRequena/keylogger_with_python_3): Keylogger with python 3  
-[springcore-0day-en](https://github.com/tweedge/springcore-0day-en): Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more.
+[springcore-0day-en](https://github.com/tweedge/springcore-0day-en): Everything I needed to understand what was going on with "Spring4Shell" - translated source materials, exploit, links to demo apps, and more.  
+[safety](https://github.com/pyupio/safety): Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
