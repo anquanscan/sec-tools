@@ -255,4 +255,5 @@
 [Malware-Database](https://github.com/cryptwareapps/Malware-Database): A large repository of malware samples with 2500+ malware samples & source codes for a variety of platforms by Cryptware.  
 [grinder](https://github.com/sdnewhop/grinder): :mag_right: Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)  
 [fisy-fuzz](https://github.com/0xricksanchez/fisy-fuzz): This is the full file system fuzzing framework that I presented at the Hack in the Box 2020 Lockdown Edition conference in April.  
-[WEB-DOJO-SECURITY](https://github.com/jacfpentester/WEB-DOJO-SECURITY): Instalacion, configuracion y resulcion de las maquinas de la VM Web Dojo Security ( Web Pentesting ).
+[WEB-DOJO-SECURITY](https://github.com/jacfpentester/WEB-DOJO-SECURITY): Instalacion, configuracion y resulcion de las maquinas de la VM Web Dojo Security ( Web Pentesting ).  
+[Cyber-News-Bot](https://github.com/JMousqueton/Cyber-News-Bot): A bot to retweet everything related to Cyber Security based on hashtag
