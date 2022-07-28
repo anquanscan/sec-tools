@@ -492,4 +492,5 @@
 [talks](https://github.com/SherlockSec/talks): Files for any talks that I give  
 [cve_searchsploit](https://github.com/andreafioraldi/cve_searchsploit): Search an exploit in the local exploitdb database by its CVE  
 [win-back-cat](https://github.com/RAF-87/win-back-cat): A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows.  
-[fstscan](https://github.com/thenurhabib/fstscan): Massive Vulnerability scanner
+[fstscan](https://github.com/thenurhabib/fstscan): Massive Vulnerability scanner  
+[CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One): CTF竞赛权威指南
