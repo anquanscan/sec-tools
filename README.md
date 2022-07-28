@@ -365,4 +365,5 @@
 [SatanSword](https://github.com/Lucifer1993/SatanSword): 红队综合渗透框架  
 [Cloakify](https://github.com/TryCatchHCF/Cloakify): CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting Controls, Social Engineering of Analysts, Evade AV Detection  
 [CVE-2020-15227](https://github.com/filipsedivy/CVE-2020-15227): CVE-2020-15227 checker  
-[DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC): Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".
+[DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC): Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".  
+[passworks](https://github.com/uclaacm/passworks): a learning lab that teaches the importance of password security! collab w/ ACM Cyber, jamie is a real MVP
