@@ -296,4 +296,5 @@
 [Cryptonite](https://github.com/CYBERDEVILZ/Cryptonite): A ransomware created for Windows OS. It is easy to test in a safe environment before deploying it to the victims. Developed using Python  
 [vulnscan](https://github.com/secretguard/vulnscan): Tool for Advaneced Vulnerability Scanning using NMAP  
 [HFSZap](https://github.com/VICXOR/HFSZap): Rejetto HTTP File Server (HFS) 2.3.x - Remote Command Execution for Windows  
-[Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources): A Huge Learning Resources with Labs For Offensive Security Players
+[Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources): A Huge Learning Resources with Labs For Offensive Security Players  
+[WebPocket](https://github.com/TuuuNya/WebPocket): Exploit management framework
