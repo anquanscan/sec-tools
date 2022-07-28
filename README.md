@@ -350,4 +350,5 @@
 [turtle](https://github.com/spicesouls/turtle): MSFVenom Powershell Stager Encoder & Generator  
 [osmedeus](https://github.com/j3ssie/osmedeus): A Workflow Engine for Offensive Security  
 [External-Roblox-ESP](https://github.com/bditt/External-Roblox-ESP): This is an external ESP for Roblox. It was made while I was learning to reverse Roblox's structures. This is just a base so it doesn't do anything fancy. Please ignore the ugly code.  
-[H1ve](https://github.com/D0g3-Lab/H1ve): An Easy / Quick / Cheap Integrated Platform
+[H1ve](https://github.com/D0g3-Lab/H1ve): An Easy / Quick / Cheap Integrated Platform  
+[vminspect](https://github.com/noxdafox/vminspect): Tools for inspecting disk images
