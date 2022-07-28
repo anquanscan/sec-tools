@@ -412,4 +412,5 @@
 [subdomain-scanner](https://github.com/momos1337/subdomain-scanner)  
 [ItLearnDir](https://github.com/Bluebear171/ItLearnDir): This Directory is to provide all the information for learning resource in IT world.  
 [cloudsplaining](https://github.com/salesforce/cloudsplaining): Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.  
-[deksterecon](https://github.com/0xdekster/deksterecon): Web Application recon automation
+[deksterecon](https://github.com/0xdekster/deksterecon): Web Application recon automation  
+[jenkins-cve-2016-0792](https://github.com/jpiechowka/jenkins-cve-2016-0792): Exploit for Jenkins serialization vulnerability - CVE-2016-0792
