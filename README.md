@@ -367,4 +367,5 @@
 [CVE-2020-15227](https://github.com/filipsedivy/CVE-2020-15227): CVE-2020-15227 checker  
 [DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC): Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".  
 [passworks](https://github.com/uclaacm/passworks): a learning lab that teaches the importance of password security! collab w/ ACM Cyber, jamie is a real MVP  
-[FudgeC2](https://github.com/Ziconius/FudgeC2): FudgeC2 - a command and control framework designed for team collaboration and post-exploitation activities.
+[FudgeC2](https://github.com/Ziconius/FudgeC2): FudgeC2 - a command and control framework designed for team collaboration and post-exploitation activities.  
+[Knock](https://github.com/petercunha/Knock): :key: Scan the entire internet for SSH and Telnet services. Then hack them.
