@@ -265,4 +265,5 @@
 [bountycat](https://github.com/blessingcharles/bountycat): A WEB SECURITY TESTING AUTOMATION TOOL FOR HUMANS  
 [krane](https://github.com/appvia/krane): Kubernetes RBAC static analysis & visualisation tool  
 [stethoscope](https://github.com/Netflix-Skunkworks/stethoscope): Personalized, user-focused recommendations for employee information security.  
-[knowledgezero](https://github.com/v-research/knowledgezero): KnowledgeZero is a place where we, @v-research, publish our research efforts, writing gentle introductions to our ideas but also sharing the hard-core scientific papers. 
+[knowledgezero](https://github.com/v-research/knowledgezero): KnowledgeZero is a place where we, @v-research, publish our research efforts, writing gentle introductions to our ideas but also sharing the hard-core scientific papers.   
+[pen-test-automation](https://github.com/secdec/pen-test-automation): A framework for automating penetration testing using a plugin based architecture
