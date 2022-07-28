@@ -70,4 +70,5 @@
 [Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking): Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)  
 [KeyKatcher](https://github.com/Himmii/KeyKatcher): KeyKatcher is a keylogger that records keystrokes made on a computer and sends to the E-Mail.  
 [Mass-Shell-upload](https://github.com/imhunterand/Mass-Shell-upload): Mass exploiter shell upload scanner tool  
-[Epimetheus](https://github.com/0x4meliorate/Epimetheus): Receive notifications/alerts on the most recent disclosed CVE's. 
+[Epimetheus](https://github.com/0x4meliorate/Epimetheus): Receive notifications/alerts on the most recent disclosed CVE's.   
+[hacking-with-python](https://github.com/drsh4rky/hacking-with-python): You guessed well, genius !! This tool is intended for the initiation to ethical hacking with python
