@@ -274,4 +274,5 @@
 [Minesweeper](https://github.com/codingo/Minesweeper): A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 23000 malicious cryptocurrency mining domains (cryptojacking).  
 [laravel-ban](https://github.com/cybercog/laravel-ban): Laravel Ban simplify blocking and banning Eloquent models.  
 [CVE-2022-25262](https://github.com/yuriisanin/CVE-2022-25262): PoC + vulnerability details for CVE-2022-25262 / JetBrains Hub single-click SAML response takeover  
-[PrivEsc](https://github.com/1N3/PrivEsc): A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
+[PrivEsc](https://github.com/1N3/PrivEsc): A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.  
+[MyOwnCheatSheet](https://github.com/graminha-matheus/MyOwnCheatSheet): Anotações pessoais relacionadas a pesquisas, estudos e vivências relacionadas à cybersecurity. Sendo constantemente atualizado e aberto a Pull requests caso queira adicionar algo.
