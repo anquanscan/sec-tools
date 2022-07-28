@@ -456,4 +456,5 @@
 [apache-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker): Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders  
 [TeleKiller](https://github.com/ultrasecurity/TeleKiller): A Tools Session Hijacking And Stealer Local Passcode Telegram Windows  
 [linux-compliance-manager](https://github.com/sudoFerraz/linux-compliance-manager): A tool for managing machines in the same network that are in compliance with the given security policies, generating vulnerabilities insights  
-[AutoXploit](https://github.com/Yashvendra/AutoXploit): Fast exploitation based on metasploit.
+[AutoXploit](https://github.com/Yashvendra/AutoXploit): Fast exploitation based on metasploit.  
+[HTBWriteups](https://github.com/Kaosam/HTBWriteups): Writeups of Hack The Box machines, Italian and English languages
