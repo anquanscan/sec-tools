@@ -252,4 +252,5 @@
 [lunasec](https://github.com/lunasec-io/lunasec): LunaSec - Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service. Get started in one-click via our GitHub App or host it yourself. https://github.com/apps/lunatrace-by-lunasec/  
 [sashay](https://github.com/scalabli/sashay): Sashay is an automatic installer for useful tools.  
 [RE_Mal_Exploit_Tutorials](https://github.com/msayyad/RE_Mal_Exploit_Tutorials): my reading list for reverse engineering malware & exploit development  
-[Malware-Database](https://github.com/cryptwareapps/Malware-Database): A large repository of malware samples with 2500+ malware samples & source codes for a variety of platforms by Cryptware.
+[Malware-Database](https://github.com/cryptwareapps/Malware-Database): A large repository of malware samples with 2500+ malware samples & source codes for a variety of platforms by Cryptware.  
+[grinder](https://github.com/sdnewhop/grinder): :mag_right: Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)
