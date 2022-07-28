@@ -253,4 +253,5 @@
 [sashay](https://github.com/scalabli/sashay): Sashay is an automatic installer for useful tools.  
 [RE_Mal_Exploit_Tutorials](https://github.com/msayyad/RE_Mal_Exploit_Tutorials): my reading list for reverse engineering malware & exploit development  
 [Malware-Database](https://github.com/cryptwareapps/Malware-Database): A large repository of malware samples with 2500+ malware samples & source codes for a variety of platforms by Cryptware.  
-[grinder](https://github.com/sdnewhop/grinder): :mag_right: Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)
+[grinder](https://github.com/sdnewhop/grinder): :mag_right: Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)  
+[fisy-fuzz](https://github.com/0xricksanchez/fisy-fuzz): This is the full file system fuzzing framework that I presented at the Hack in the Box 2020 Lockdown Edition conference in April.
