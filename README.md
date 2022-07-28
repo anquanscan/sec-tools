@@ -151,4 +151,5 @@
 [SecTools](https://github.com/IvanVoronov/SecTools): List of tools for SecDevOps, vulnerability analysis, network scanning  
 [NTS_LAB1-2-3_CYBER](https://github.com/hugofnmdev/NTS_LAB1-2-3_CYBER): CYBER - LAB 1-2-3 - S1 - NTS - EPITA  
 [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet): A list of interesting payloads, tips and tricks for bug bounty hunters.  
-[CVE-List-Public-Exploits](https://github.com/TheMirkin/CVE-List-Public-Exploits): Exploits for various CVEs
+[CVE-List-Public-Exploits](https://github.com/TheMirkin/CVE-List-Public-Exploits): Exploits for various CVEs  
+[SAP_vulnerabilities](https://github.com/vah13/SAP_vulnerabilities): DoS PoC's for SAP products 
