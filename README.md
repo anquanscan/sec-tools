@@ -52,4 +52,5 @@
 [docker_explorer](https://github.com/matiassequeira/docker_explorer): Scan DockerHub images that match a keyword to find secrets.  
 [Keylogger-email](https://github.com/Cen-Devv/Keylogger-email): Esse é um programa que nós permite monitorar o teclado e tudo que for digitado. Todos os dados serão colocados em arquivo e enviados para um e-mail no horário no qual defini-lo.  
 [Vulnerability_scanner](https://github.com/Hem1700/Vulnerability_scanner)  
-[spring-boot](https://github.com/timebusker/spring-boot): spring-boot 项目实践总结
+[spring-boot](https://github.com/timebusker/spring-boot): spring-boot 项目实践总结  
+[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
