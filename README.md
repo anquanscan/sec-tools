@@ -138,4 +138,5 @@
 [Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide): Open Source Security Guide  
 [CentosAuth](https://github.com/TrinityNET/CentosAuth): A .NET Authentication System written in C# & PHP  
 [Markopy](https://github.com/ignis-sec/Markopy): Markov Model libraries, optimized for cracking-focused password generations.  
-[CVE-2020-1337](https://github.com/VoidSec/CVE-2020-1337): CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch
+[CVE-2020-1337](https://github.com/VoidSec/CVE-2020-1337): CVE-2020-1337 a bypass of (PrintDemon) CVE-2020-1048’s patch  
+[resolvers](https://github.com/trickest/resolvers): The most exhaustive list of reliable DNS resolvers.
