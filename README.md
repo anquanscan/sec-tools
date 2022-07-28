@@ -547,4 +547,5 @@
 [weblogic_honeypot](https://github.com/Cymmetria/weblogic_honeypot): WebLogic Honeypot is a low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. This is a Remote Code Execution vulnerability.  
 [Webhook_Deleter](https://github.com/GabinCleaver/Webhook_Deleter): ✨ Un court code qui permet de Supprimer n'importe quel Webhook avec son lien en Python par moi, et en français.  
 [Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework): 🔐 Lockdoor Framework : A Penetration Testing framework with Cyber Security Resources  
-[Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning): Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond
+[Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning): Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond  
+[armory](https://github.com/polo-sec/armory): A curated repository of the tools, scripts, resources and programs I use regularly for CTF, BB or other security work.
