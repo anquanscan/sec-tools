@@ -54,4 +54,5 @@
 [Vulnerability_scanner](https://github.com/Hem1700/Vulnerability_scanner)  
 [spring-boot](https://github.com/timebusker/spring-boot): spring-boot 项目实践总结  
 [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022  
-[Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+[Ciphey](https://github.com/Ciphey/Ciphey): ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡  
+[Password_Strength](https://github.com/VirusZzHkP/Password_Strength): C++ program to check the strength of your password.
