@@ -73,4 +73,5 @@
 [Epimetheus](https://github.com/0x4meliorate/Epimetheus): Receive notifications/alerts on the most recent disclosed CVE's.   
 [hacking-with-python](https://github.com/drsh4rky/hacking-with-python): You guessed well, genius !! This tool is intended for the initiation to ethical hacking with python  
 [jerseyctf-2022-challenges](https://github.com/njitacm/jerseyctf-2022-challenges): JerseyCTF 2022  
-[fuzzbench](https://github.com/google/fuzzbench): FuzzBench - Fuzzer benchmarking as a service.
+[fuzzbench](https://github.com/google/fuzzbench): FuzzBench - Fuzzer benchmarking as a service.  
+[EzScript](https://github.com/xFaraday/EzScript): Cyberpatriot born Windows hardening script.  It serves as a way to get to baseline and can help specialists further secure the machine. 
