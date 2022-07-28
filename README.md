@@ -153,4 +153,5 @@
 [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet): A list of interesting payloads, tips and tricks for bug bounty hunters.  
 [CVE-List-Public-Exploits](https://github.com/TheMirkin/CVE-List-Public-Exploits): Exploits for various CVEs  
 [SAP_vulnerabilities](https://github.com/vah13/SAP_vulnerabilities): DoS PoC's for SAP products   
-[checkmyhttps](https://github.com/checkmyhttps/checkmyhttps): We propose a user-friendly add-on that allows you to check if your encrypted web traffic (SSL/TLS) towards secured Internet servers (HTTPS) is not intercepted (being listened to). 
+[checkmyhttps](https://github.com/checkmyhttps/checkmyhttps): We propose a user-friendly add-on that allows you to check if your encrypted web traffic (SSL/TLS) towards secured Internet servers (HTTPS) is not intercepted (being listened to).   
+[r3con](https://github.com/thenurhabib/r3con): Multi-functional Web Recon & Vulnerability Scanner Tool
