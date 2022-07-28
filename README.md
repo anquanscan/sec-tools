@@ -516,4 +516,5 @@
 [Shtreeba](https://github.com/mdilai/Shtreeba): VAC-proof 32bit DLL injector written in C++, using memory mapping and thread hijacking techniques  
 [falco](https://github.com/falcosecurity/falco): Cloud Native Runtime Security  
 [CVE-2018-11776-Python-PoC](https://github.com/hook-s3c/CVE-2018-11776-Python-PoC): Working Python test and PoC for CVE-2018-11776, includes Docker lab  
-[PcapViz](https://github.com/1ultimat3/PcapViz): Visualize network topologies and collect graph statistics based on pcap files
+[PcapViz](https://github.com/1ultimat3/PcapViz): Visualize network topologies and collect graph statistics based on pcap files  
+[Prediction-DDoS](https://github.com/francescovolpe/Prediction-DDoS): Questo progetto è stato sviluppato per il corso universitario Analisi dei dati per la sicurezza. Il progetto mira ad estrarre conoscenza dai dati per la classificazione di attacchi DDos seguendo le fasi di sviluppo del processo KDD.
