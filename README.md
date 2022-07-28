@@ -213,4 +213,5 @@
 [4K-Botnet](https://github.com/4k-developer/4K-Botnet): A simple and easy to use JS Botnet  
 [Github-Monitor](https://github.com/VKSRC/Github-Monitor): Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统)  
 [sysmon](https://github.com/sametsazak/sysmon): Sysmon and wazuh integration with Sigma sysmon rules [updated]  
-[savagedetector](https://github.com/gk2savage/savagedetector): Information Gathering and Vulnerability Scanner Tool
+[savagedetector](https://github.com/gk2savage/savagedetector): Information Gathering and Vulnerability Scanner Tool  
+[DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT): Australian Open Source Intelligence Gathering Resources,                                                                              Australias Largest Open Source Intelligence Repository for Cyber Professionals and Ethical Hackers
