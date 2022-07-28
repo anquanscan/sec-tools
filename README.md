@@ -244,4 +244,5 @@
 [sdwannewhope](https://github.com/sdnewhop/sdwannewhope): SD-WAN security and insecurity  
 [offbyslash-django-dumper](https://github.com/adamyordan/offbyslash-django-dumper): A proof of concept to dump Django website's source code affected by NGINX's off-by-slash alias directive misconfiguration.  
 [vulscan](https://github.com/vulscanteam/vulscan): vulscan 扫描系统：最新的poc&exp漏洞扫描，redis未授权、敏感文件、java反序列化、tomcat命令执行及各种未授权扫描等...  
-[phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit): phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code
+[phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit): phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code  
+[btc-hack](https://github.com/DavidMGilbert/btc-hack): An automated bitcoin wallet generator that brute forces random wallet addresses by checking their balance in real-time using an online API .
