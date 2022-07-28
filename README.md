@@ -498,4 +498,5 @@
 [CodeArgos](https://github.com/DanaEpp/CodeArgos): A python module for red teams to support the continuous recon of JavaScript files and HTML script blocks in an active web application.  
 [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security): 😎 Curated list about cryptocurrency security (reverse / exploit / fuzz..)  
 [rctf-scenario6](https://github.com/aliasrobotics/rctf-scenario6): Robotics CTF scenario 6  
-[VulnWeb](https://github.com/riz4d/VulnWeb): simple python program used to fetch admin panel of an website.
+[VulnWeb](https://github.com/riz4d/VulnWeb): simple python program used to fetch admin panel of an website.  
+[wildlogger](https://github.com/mustafadalga/wildlogger): This is a keylogger that collects all the data and e-mail it in a set time with system information which includes device S/N and hardware specs, every button that pushed, screenshots, and copying processes.
