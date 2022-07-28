@@ -233,4 +233,5 @@
 [Zeebsploit](https://github.com/jaxBCD/Zeebsploit): web scanner - exploitation - information gathering  
 [aparoid](https://github.com/stefan2200/aparoid): Static and dynamic Android application security analysis  
 [botanalyse](https://github.com/gtbotsonar/botanalyse): botsonar analyse open api  
-[satellite](https://github.com/t94j0/satellite): easy-to-use payload hosting
+[satellite](https://github.com/t94j0/satellite): easy-to-use payload hosting  
+[k8s-security](https://github.com/kabachook/k8s-security): Kubernetes security notes and best practices
