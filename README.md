@@ -224,4 +224,5 @@
 [steved3.github.io](https://github.com/SteveD3/steved3.github.io): SteveD3's personal journal for things that really don't fit on social media.  
 [jwt-helper](https://github.com/kaantekiner/jwt-helper): JWT Helper Tool 4 Pentests.  
 [trailscraper](https://github.com/flosell/trailscraper): A command-line tool to get valuable information out of AWS CloudTrail  
-[WebScanner](https://github.com/CyberCommands/WebScanner)
+[WebScanner](https://github.com/CyberCommands/WebScanner)  
+[Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet): Active Directory & Red-Team Cheat-Sheet in constant expansion.
