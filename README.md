@@ -506,4 +506,5 @@
 [caldera](https://github.com/mitre/caldera): Automated Adversary Emulation Platform  
 [Picocrypt](https://github.com/HACKERALERT/Picocrypt): A very small, very simple, yet very secure encryption tool.  
 [CVE-2021-27965](https://github.com/mathisvickie/CVE-2021-27965): stack based buffer overflow in MsIo64.sys, Proof of Concept Local Privilege Escalation to nt authority/system  
-[Safety-checklist](https://github.com/r0eXpeR/Safety-checklist): 🌴一些安全备忘清单
+[Safety-checklist](https://github.com/r0eXpeR/Safety-checklist): 🌴一些安全备忘清单  
+[RanSim](https://github.com/lawndoc/RanSim): Ransomware simulation script written in PowerShell. Useful for testing your defenses and backups against real ransomware-like activity in a controlled setting.
