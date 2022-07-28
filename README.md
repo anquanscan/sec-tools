@@ -169,4 +169,5 @@
 [Mega-Bot](https://github.com/Aron-Tn/Mega-Bot): [NEW] : Mega Bot ☣ Scanner & Auto Exploiter  
 [EnVisen](https://github.com/polyverse/EnVisen): ROP gadget finder and analysis in pure Javascript  
 [keycloak-scanner](https://github.com/NeuronAddict/keycloak-scanner): Keycloak security scanner  
-[Pentest-Tools-Framework](https://github.com/3xploit-db/Pentest-Tools-Framework): Pentest Tools Framework is a database of exploits, Scanners and tools for penetration testing. Pentest is a powerful framework includes a lot of tools for beginners. You can explore kernel vulnerabilities, network vulnerabilities 
+[Pentest-Tools-Framework](https://github.com/3xploit-db/Pentest-Tools-Framework): Pentest Tools Framework is a database of exploits, Scanners and tools for penetration testing. Pentest is a powerful framework includes a lot of tools for beginners. You can explore kernel vulnerabilities, network vulnerabilities   
+[bouncer](https://github.com/JosephSilber/bouncer): Eloquent roles and abilities.
