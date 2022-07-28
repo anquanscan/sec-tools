@@ -238,4 +238,5 @@
 [pentesting_script](https://github.com/TonnyMontenegro/pentesting_script): Laboratorio de pentesting con docker que nos permite descargar y desplegar aplicaciones web vulnerables para practicar pentesting en ellas  
 [WPContentInjection](https://github.com/lolwaleet/WPContentInjection): a quick n dirty poc for wp content injection vulnerability.  
 [AutomatedHunter](https://github.com/M507/AutomatedHunter): Google Chrome Extension automates testing fundamental Web Problems via Chrome  
-[Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering): A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+[Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering): A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.  
+[jackhammer](https://github.com/olacabs/jackhammer): Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
