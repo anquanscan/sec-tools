@@ -294,4 +294,5 @@
 [www-project-top-10-low-code-no-code-security-risks](https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks): OWASP No-Code Low-Code Security  
 [Hawkeye](https://github.com/0xbug/Hawkeye): GitHub 泄露监控系统(GitHub Sensitive Information Leakage Monitor Spider)  
 [Cryptonite](https://github.com/CYBERDEVILZ/Cryptonite): A ransomware created for Windows OS. It is easy to test in a safe environment before deploying it to the victims. Developed using Python  
-[vulnscan](https://github.com/secretguard/vulnscan): Tool for Advaneced Vulnerability Scanning using NMAP
+[vulnscan](https://github.com/secretguard/vulnscan): Tool for Advaneced Vulnerability Scanning using NMAP  
+[HFSZap](https://github.com/VICXOR/HFSZap): Rejetto HTTP File Server (HFS) 2.3.x - Remote Command Execution for Windows
