@@ -162,4 +162,5 @@
 [ipmiPwner](https://github.com/c0rnf13ld/ipmiPwner): Exploit to dump ipmi hashes  
 [drozer-modules](https://github.com/FSecureLABS/drozer-modules)  
 [Cypher-MINITOOL](https://github.com/Xooppp/Cypher-MINITOOL): Cypher-Multitool is a 'Hacking' Multitool written by me in Batch, don't steal the source code :). It's a MINI version of it, the MEGA version is coming out soon...  
-[docker-rekall](https://github.com/blacktop/docker-rekall): Rekall  Dockerfile
+[docker-rekall](https://github.com/blacktop/docker-rekall): Rekall  Dockerfile  
+[ssh-mitm](https://github.com/ssh-mitm/ssh-mitm): ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation
