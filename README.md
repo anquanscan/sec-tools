@@ -446,4 +446,5 @@
 [tripwire-open-source](https://github.com/Tripwire/tripwire-open-source): Open Source Tripwire®  
 [SafeDeserializationHelpers](https://github.com/zyanfx/SafeDeserializationHelpers): :japanese_ogre: Fixes known BinaryFormatter deserialization vulnerabilities  
 [recon-archy](https://github.com/shadawck/recon-archy): Linkedin Tools (and maybe later other source) to reconstruct a company hierarchy from scraping relations and jobs title  
-[sipvicious](https://github.com/EnableSecurity/sipvicious): SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications.
+[sipvicious](https://github.com/EnableSecurity/sipvicious): SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications.  
+[Bei-Gai-penetration-test-guide](https://github.com/ngadminq/Bei-Gai-penetration-test-guide): 渗透测试文章，如果对你有帮助记得star，未完结更新中，将写到至少2022年
