@@ -438,4 +438,5 @@
 [osv-detector](https://github.com/G-Rath/osv-detector)  
 [GSIL](https://github.com/FeeiCN/GSIL): GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）  
 [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz): GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).  
-[OpenSC](https://github.com/OpenSC/OpenSC): Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+[OpenSC](https://github.com/OpenSC/OpenSC): Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend  
+[blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in social networks.
