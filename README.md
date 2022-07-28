@@ -408,4 +408,5 @@
 [AutoTTP](https://github.com/jymcheong/AutoTTP): Automated Tactics Techniques & Procedures  
 [Kali-Linux-Ebooks](https://github.com/yeahhub/Kali-Linux-Ebooks): Top 20 Kali Linux Related E-books (Free Download)  
 [owasp-threat-dragon-gitlab](https://github.com/appsecco/owasp-threat-dragon-gitlab): OWASP Threat Dragon with Gitlab Integration  
-[Browser-exploit](https://github.com/yngweijs/Browser-exploit)
+[Browser-exploit](https://github.com/yngweijs/Browser-exploit)  
+[subdomain-scanner](https://github.com/momos1337/subdomain-scanner)
