@@ -476,4 +476,5 @@
 [Flytrap](https://github.com/nedwards86/Flytrap): A TCP based honeyport written in Python. Once an attacker accesses the port this service is listening on, the attacker's IP is blocked by the local system and a notification is sent to the specified syslog server. Runs on both Windows and Linux.  
 [awesome-pentest-tools](https://github.com/unexpectedBy/awesome-pentest-tools): List of Security Archives Tools and software, generally for facilitate security & penetration research. Opening it up to everyone will facilitate a knowledge transfer. Hopefully the initial set will grow and expand.  
 [pshape](https://github.com/Alexandre-Bartel/pshape): Inspector-gadget (a.k.a. PSHAPE - Practical Support for Half-Automated Program Exploitation) is an open source tool which assists analysts in exploit development. It discovers gadgets, chains gadgets together, and ensures that side effects such as register dereferences do not crash the program.  
-[captcha](https://github.com/mewebstudio/captcha): Captcha for Laravel 5/6/7/8/9
+[captcha](https://github.com/mewebstudio/captcha): Captcha for Laravel 5/6/7/8/9  
+[go-cve-search](https://github.com/s-index/go-cve-search): lightweight CVE search
