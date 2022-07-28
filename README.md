@@ -441,4 +441,5 @@
 [OpenSC](https://github.com/OpenSC/OpenSC): Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend  
 [blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username in social networks.  
 [sbt-dependency-check-action](https://github.com/albuch/sbt-dependency-check-action): A Github Action to parse DependencyCheck JSON reports, print the found vulnerabilities and fail the build.  
-[lynis](https://github.com/CISOfy/lynis): Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+[lynis](https://github.com/CISOfy/lynis): Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.  
+[kido](https://github.com/tikeswar/kido): White hat hacking passwords using ML
