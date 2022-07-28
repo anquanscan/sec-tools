@@ -529,4 +529,5 @@
 [lor-axe](https://github.com/ajmwagar/lor-axe): 🪓 a multi-threaded, low-bandwidth HTTP DOS tool  
 [gscript](https://github.com/gen0cide/gscript):  framework to rapidly implement custom droppers for all three major operating systems  
 [GVM-Deployment](https://github.com/wajdihajji/GVM-Deployment): Dockerised Greenbone Vulnerability Management components  
-[ioc-explorer](https://github.com/lion-gu/ioc-explorer): Explore Indicators of Compromise Automatically
+[ioc-explorer](https://github.com/lion-gu/ioc-explorer): Explore Indicators of Compromise Automatically  
+[Name-That-Hash](https://github.com/HashPals/Name-That-Hash): 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
