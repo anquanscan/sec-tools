@@ -376,4 +376,5 @@
 [p4wnp1_payloads](https://github.com/chriskalv/p4wnp1_payloads): Functional payloads for a P4wnP1 A.L.O.A. device.  
 [awesome-ctf](https://github.com/apsdehal/awesome-ctf): A curated list of CTF frameworks, libraries, resources and softwares  
 [windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources): Papers, blogposts, tutorials etc for learning about Windows kernel exploitation, internals and (r|b)ootkits  
-[timesketch-cli](https://github.com/jaegeral/timesketch-cli): A dedicated repo to interact with the API of Timesketch
+[timesketch-cli](https://github.com/jaegeral/timesketch-cli): A dedicated repo to interact with the API of Timesketch  
+[tracy](https://github.com/nccgroup/tracy): A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
