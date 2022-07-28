@@ -64,4 +64,5 @@
 [top-attack-techniques](https://github.com/center-for-threat-informed-defense/top-attack-techniques): Top ATT&CK Techniques provides defenders with a systematic approach to prioritizing ATT&CK techniques.   
 [Kuiper](https://github.com/DFIRKuiper/Kuiper): Digital Forensics Investigation Platform  
 [hashview-old](https://github.com/hashview/hashview-old): A web front-end for password cracking and analytics  
-[dependency-confusion-exploit](https://github.com/sorahed/dependency-confusion-exploit): a demonstration of how the dependency-confusion attack with npm works
+[dependency-confusion-exploit](https://github.com/sorahed/dependency-confusion-exploit): a demonstration of how the dependency-confusion attack with npm works  
+[HackingNews](https://github.com/olafgoj/HackingNews): O co chodzi w #hackingnews?  W skrócie: wrzucam linki do ciekawych stron, które napotkam na swojej drodze. :)
