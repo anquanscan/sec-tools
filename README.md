@@ -415,4 +415,5 @@
 [deksterecon](https://github.com/0xdekster/deksterecon): Web Application recon automation  
 [jenkins-cve-2016-0792](https://github.com/jpiechowka/jenkins-cve-2016-0792): Exploit for Jenkins serialization vulnerability - CVE-2016-0792  
 [Phoenix-CS02-CyberSecurity_Project](https://github.com/Phoenix-CS02-Cybersecurity-project/Phoenix-CS02-CyberSecurity_Project): Cybersecurity Internship Project  
-[awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university): 🎓 Because Education should be free. Contributions welcome! 🕵️ 
+[awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university): 🎓 Because Education should be free. Contributions welcome! 🕵️   
+[CEHv10-Notes](https://github.com/Optixal/CEHv10-Notes): :closed_book: Both personal and public notes for EC-Council's CEHv10 312-50, because it's thousands of pages/slides of boredom, and a braindump to many
