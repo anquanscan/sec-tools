@@ -398,4 +398,5 @@
 [voucher](https://github.com/boxproject/voucher): Enterprise-grade security solution for digital assets custody, using a cryptographically secure offline network.  
 [sentey](https://github.com/ComuGamersES/sentey): Protect your Spigot server by blocking unknown BungeeCord and Velocity proxies and checking for invalid IP forwarding addresses.  
 [Open_Source_Web-Vulnerability-Scanner-and-Patcher](https://github.com/Malwareman007/Open_Source_Web-Vulnerability-Scanner-and-Patcher): A Open Source  Web Vulnerability Scanner and Patcher   
-[binaryalert](https://github.com/airbnb/binaryalert): BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.
+[binaryalert](https://github.com/airbnb/binaryalert): BinaryAlert: Serverless, Real-time & Retroactive Malware Detection.  
+[dump-scripts](https://github.com/the-xentropy/dump-scripts): Downloads all scripts on an external page to a local directory, with support for automatic deobfuscation/prettifying.
