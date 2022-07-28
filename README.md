@@ -327,4 +327,5 @@
 [ghost](https://github.com/AHXR/ghost): :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware  
 [Multithreaded-Mass-Web-Search](https://github.com/GabrielBigardi/Multithreaded-Mass-Web-Search): Scanner that scan IP ranges to find some text on the websites  
 [sshesame](https://github.com/jaksi/sshesame): An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity  
-[linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester): Linux privilege escalation auditing tool
+[linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester): Linux privilege escalation auditing tool  
+[xss-http-injector](https://github.com/epsylon/xss-http-injector): XSS HTTP Inject0r is a proof of concept tool that shows how XSS (Cross Site Scripting) flags can be exploited easily.  It is written in HTML + Javascript + PHP and released under GPLv3. 
