@@ -97,4 +97,5 @@
 [CVE-2021-33766](https://github.com/bhdresh/CVE-2021-33766): ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit  
 [memrepl](https://github.com/agustingianni/memrepl): Memory inspection REPL interface  
 [omega](https://github.com/anthares101/omega): From Wordpress admin to pty automatically!  
-[is-password-pwned](https://github.com/commenthol/is-password-pwned): Check password against pwnedpasswords.com using k-anonimity model
+[is-password-pwned](https://github.com/commenthol/is-password-pwned): Check password against pwnedpasswords.com using k-anonimity model  
+[psudohash](https://github.com/t3l3machus/psudohash): Password list generator that focuses on keywords mutated by commonly used password creation patterns
