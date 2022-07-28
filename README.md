@@ -268,4 +268,5 @@
 [knowledgezero](https://github.com/v-research/knowledgezero): KnowledgeZero is a place where we, @v-research, publish our research efforts, writing gentle introductions to our ideas but also sharing the hard-core scientific papers.   
 [pen-test-automation](https://github.com/secdec/pen-test-automation): A framework for automating penetration testing using a plugin based architecture  
 [AspNet.Security.OAuth.Okta](https://github.com/ayubamini/AspNet.Security.OAuth.Okta): AspNet.Security.OAuth.Okta is library include collection of security middlewares to authorize users based on OAuth 2.0 and OpenId Connect protocol in your application.  
-[CVE-2021-27928](https://github.com/GatoGamer1155/CVE-2021-27928): Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928
+[CVE-2021-27928](https://github.com/GatoGamer1155/CVE-2021-27928): Pasos a seguir para explotar la vulnerabilidad CVE-2021-27928  
+[can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns): "Can I take over DNS?" — a list of DNS providers and how to claim (sub)domains via missing hosted zones 
