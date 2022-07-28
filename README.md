@@ -452,4 +452,5 @@
 [trivy-docker-compose](https://github.com/flavienbwk/trivy-docker-compose): Deployment-ready docker configuration and instructions to use Trivy on your infrastructure and CIs.  
 [CVEScannerV2](https://github.com/scmanjarrez/CVEScannerV2): Nmap script that searches for probable vulnerabilities based on services discovered in open ports.   
 [CTFs](https://github.com/AhmedKAwwad/CTFs): K- CTF writeups  
-[git-hound](https://github.com/tillson/git-hound): Reconnaissance tool for GitHub code search. Finds exposed API keys using pattern matching, commit history searching, and a unique result scoring system.
+[git-hound](https://github.com/tillson/git-hound): Reconnaissance tool for GitHub code search. Finds exposed API keys using pattern matching, commit history searching, and a unique result scoring system.  
+[apache-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker): Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders
