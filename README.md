@@ -136,4 +136,5 @@
 [adguard-ps4-usersguide](https://github.com/upal212/adguard-ps4-usersguide): 'Users Guide' via the help of AdGuard Home  
 [taketv](https://github.com/SVelizDonoso/taketv): TakeTV permite descubrir dispositivos de red DLNA/UPnP y ayuda a reproducir archivos multimedia en los televisores inteligentes desde nuestra terminal en Linux.  
 [Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide): Open Source Security Guide  
-[CentosAuth](https://github.com/TrinityNET/CentosAuth): A .NET Authentication System written in C# & PHP
+[CentosAuth](https://github.com/TrinityNET/CentosAuth): A .NET Authentication System written in C# & PHP  
+[Markopy](https://github.com/ignis-sec/Markopy): Markov Model libraries, optimized for cracking-focused password generations.
