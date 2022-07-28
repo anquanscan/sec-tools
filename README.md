@@ -80,4 +80,5 @@
 [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.  
 [beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework, extremely easy to configure by yaml 🚀  
 [w2vcluster](https://github.com/mylamour/w2vcluster): word2vec & k-means cluster  
-[jok3r](https://github.com/koutto/jok3r): Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
+[jok3r](https://github.com/koutto/jok3r): Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework  
+[fpvs](https://github.com/vanschelven/fpvs): Fast Python Vulnerability Scanner
