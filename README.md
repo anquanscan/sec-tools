@@ -159,4 +159,5 @@
 [nfcgate](https://github.com/nfcgate/nfcgate): An NFC research toolkit application for Android  
 [CamHell](https://github.com/SuperBuker/CamHell): Ingenic T10 IP camera crawler  
 [imap-honey](https://github.com/yvesago/imap-honey): IMAP or SMTP honeypot written in Golang  
-[ipmiPwner](https://github.com/c0rnf13ld/ipmiPwner): Exploit to dump ipmi hashes
+[ipmiPwner](https://github.com/c0rnf13ld/ipmiPwner): Exploit to dump ipmi hashes  
+[drozer-modules](https://github.com/FSecureLABS/drozer-modules)
