@@ -93,4 +93,5 @@
 [IntelOwl-ng](https://github.com/intelowlproject/IntelOwl-ng): IntelOwl's Web Interface. Built with Angular 10.  
 [latte](https://github.com/nette/latte): ☕ Latte: the safest & truly intuitive templates for PHP. Engine for those who want the most secure PHP sites.  
 [Hacker-Playbook-Utility](https://github.com/p1r-a-t3/Hacker-Playbook-Utility): A Python3 powered bash script written to slightly automate the tool installation process of the Hacker Playbook Book (http://thehackerplaybook.com).  
-[iskan](https://github.com/alcideio/iskan): Kubernetes Native, Runtime Container Image Scanning
+[iskan](https://github.com/alcideio/iskan): Kubernetes Native, Runtime Container Image Scanning  
+[CVE-2021-33766](https://github.com/bhdresh/CVE-2021-33766): ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit
