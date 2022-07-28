@@ -122,4 +122,5 @@
 [pingcastle](https://github.com/vletoux/pingcastle): PingCastle - Get Active Directory Security at 80% in 20% of the time  
 [SSLtest](https://github.com/psc4re/SSLtest): SSL check through SSL Labs API  
 [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC): 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms  
-[cloudfrunt](https://github.com/MindPointGroup/cloudfrunt): A tool for identifying misconfigured CloudFront domains
+[cloudfrunt](https://github.com/MindPointGroup/cloudfrunt): A tool for identifying misconfigured CloudFront domains  
+[xsscan](https://github.com/doomguy/xsscan): A simple script to detect unescaped characters in a web application for e.g. Cross Site Scripting (XSS) attacks.
