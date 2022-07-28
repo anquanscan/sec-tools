@@ -525,4 +525,5 @@
 [OXIDTools](https://github.com/risspect/OXIDTools): 200 TOOLS BY 0XID4FF0X FOR TERMUX  
 [bleachbit](https://github.com/bleachbit/bleachbit): BleachBit system cleaner for Windows and Linux  
 [recon-my-way](https://github.com/ehsahil/recon-my-way): This repository created for personal use and added tools from my latest blog post.  
-[searchport](https://github.com/gabrielfelipecsk/searchport): Search ports in multiples hosts
+[searchport](https://github.com/gabrielfelipecsk/searchport): Search ports in multiples hosts  
+[lor-axe](https://github.com/ajmwagar/lor-axe): 🪓 a multi-threaded, low-bandwidth HTTP DOS tool
