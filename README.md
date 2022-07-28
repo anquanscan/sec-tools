@@ -98,4 +98,5 @@
 [memrepl](https://github.com/agustingianni/memrepl): Memory inspection REPL interface  
 [omega](https://github.com/anthares101/omega): From Wordpress admin to pty automatically!  
 [is-password-pwned](https://github.com/commenthol/is-password-pwned): Check password against pwnedpasswords.com using k-anonimity model  
-[psudohash](https://github.com/t3l3machus/psudohash): Password list generator that focuses on keywords mutated by commonly used password creation patterns
+[psudohash](https://github.com/t3l3machus/psudohash): Password list generator that focuses on keywords mutated by commonly used password creation patterns  
+[sinker](https://github.com/mmartins000/sinker): Sinker is a Python tool to automate the execution of dockerized container scanning security tools merging their findings into one report.
