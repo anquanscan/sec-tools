@@ -101,4 +101,5 @@
 [psudohash](https://github.com/t3l3machus/psudohash): Password list generator that focuses on keywords mutated by commonly used password creation patterns  
 [sinker](https://github.com/mmartins000/sinker): Sinker is a Python tool to automate the execution of dockerized container scanning security tools merging their findings into one report.  
 [BHR_Labs](https://github.com/blackhatruby/BHR_Labs): Black Hat Ruby book | Lab files | Buy the book https://www.amazon.com/dp/B08JHSF6GT  
-[UnSAFE_Bank](https://github.com/lucideus-repo/UnSAFE_Bank): Vulnerable Banking Suite
+[UnSAFE_Bank](https://github.com/lucideus-repo/UnSAFE_Bank): Vulnerable Banking Suite  
+[usbguard](https://github.com/USBGuard/usbguard): USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)
