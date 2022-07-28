@@ -15,4 +15,5 @@
 [easy-wg-quick](https://github.com/burghardt/easy-wg-quick): Creates Wireguard configuration for hub and peers with ease  
 [cap-std](https://github.com/bytecodealliance/cap-std): Capability-oriented version of the Rust standard library  
 [hardentools](https://github.com/securitywithoutborders/hardentools): Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.  
-[DVWA](https://github.com/digininja/DVWA): Damn Vulnerable Web Application (DVWA)
+[DVWA](https://github.com/digininja/DVWA): Damn Vulnerable Web Application (DVWA)  
+[user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening
