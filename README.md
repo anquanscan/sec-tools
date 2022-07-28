@@ -362,4 +362,5 @@
 [email-nuker](https://github.com/bagarrattaa/email-nuker): this is a email bomber unlike  other email bombers u don't need your gmail email id to use this  
 [moria](https://github.com/josconno/moria): Python library for interacting with in-memory C structures using data mined from binary DWARF debug info.  
 [useful-utilities](https://github.com/kaosagnt/useful-utilities): Useful Un*x / BSD / macOS utilities  
-[SatanSword](https://github.com/Lucifer1993/SatanSword): 红队综合渗透框架
+[SatanSword](https://github.com/Lucifer1993/SatanSword): 红队综合渗透框架  
+[Cloakify](https://github.com/TryCatchHCF/Cloakify): CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting Controls, Social Engineering of Analysts, Evade AV Detection
