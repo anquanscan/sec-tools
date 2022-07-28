@@ -502,4 +502,5 @@
 [wildlogger](https://github.com/mustafadalga/wildlogger): This is a keylogger that collects all the data and e-mail it in a set time with system information which includes device S/N and hardware specs, every button that pushed, screenshots, and copying processes.  
 [hacl-rs](https://github.com/aatxe/hacl-rs): Rusty bindings for HACL*, a formally verified cryptographic library written in F*.  
 [dufflebag](https://github.com/BishopFox/dufflebag): Search exposed EBS volumes for secrets  
-[awesome-incident-response](https://github.com/meirwah/awesome-incident-response): A curated list of tools for incident response
+[awesome-incident-response](https://github.com/meirwah/awesome-incident-response): A curated list of tools for incident response  
+[caldera](https://github.com/mitre/caldera): Automated Adversary Emulation Platform
