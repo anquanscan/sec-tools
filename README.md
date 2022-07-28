@@ -201,4 +201,5 @@
 [BUSCO-PROGRAMADOR](https://github.com/Astorga31/BUSCO-PROGRAMADOR): Hola a todos, soy nuevo aquí. Estoy buscando un perfil que pueda simpatizar con esta idea escrita. Queremos crear una plataforma desde cero y que se convierta en un monstruo de la era digital. Si tú sabes cómo lograrlo y tienes la ambición. Contáctame.  
 [chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles across multiple diverse machines, securely.  
 [goflood](https://github.com/lismore/goflood): A connection flood attack application written in Go  
-[enumy](https://github.com/luke-goddard/enumy): Linux post exploitation privilege escalation enumeration 
+[enumy](https://github.com/luke-goddard/enumy): Linux post exploitation privilege escalation enumeration   
+[SharpStrike](https://github.com/iomoath/SharpStrike): A Post exploitation tool written in C# uses either CIM or WMI to query remote systems.
