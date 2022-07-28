@@ -194,4 +194,5 @@
 [npm-initial-access](https://github.com/gmatuz/npm-initial-access): Easy to extend initial access scenario to help with EDR testing on Linux and Mac  
 [AgnerSecurity](https://github.com/AgnerSecurity/AgnerSecurity): Uma ferramenta WEB de segurança open source de redes de computadores com Nmap, honeypot, vulnerabilidade de equipamentos de rede etc.  
 [h-infect](https://github.com/jravis-8520/h-infect): H-INFECT is a tool to create a virus for android, windows, and macOS.  
-[alternative-frontends](https://github.com/digitalblossom/alternative-frontends): 🔐🌐 Privacy-respecting web frontends for popular services 
+[alternative-frontends](https://github.com/digitalblossom/alternative-frontends): 🔐🌐 Privacy-respecting web frontends for popular services   
+[Google-Maps-API-Scanner](https://github.com/Kevaljagani/Google-Maps-API-Scanner): Check if the leaked Google-Maps API key is vulnerable or not.
