@@ -160,4 +160,5 @@
 [CamHell](https://github.com/SuperBuker/CamHell): Ingenic T10 IP camera crawler  
 [imap-honey](https://github.com/yvesago/imap-honey): IMAP or SMTP honeypot written in Golang  
 [ipmiPwner](https://github.com/c0rnf13ld/ipmiPwner): Exploit to dump ipmi hashes  
-[drozer-modules](https://github.com/FSecureLABS/drozer-modules)
+[drozer-modules](https://github.com/FSecureLABS/drozer-modules)  
+[Cypher-MINITOOL](https://github.com/Xooppp/Cypher-MINITOOL): Cypher-Multitool is a 'Hacking' Multitool written by me in Batch, don't steal the source code :). It's a MINI version of it, the MEGA version is coming out soon...
