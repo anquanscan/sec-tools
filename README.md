@@ -374,4 +374,5 @@
 [CVE-2022-22965-PoC](https://github.com/sunnyvale-it/CVE-2022-22965-PoC): CVE-2022-22965 (Spring4Shell) Proof of Concept  
 [Recsech](https://github.com/radenvodka/Recsech): Recsech is a tool for doing Footprinting and Reconnaissance on the target web. Recsech collects information such as DNS Information, Sub Domains, HoneySpot Detected, Subdomain takeovers, Reconnaissance On Github and much more you can see in Features in tools .  
 [p4wnp1_payloads](https://github.com/chriskalv/p4wnp1_payloads): Functional payloads for a P4wnP1 A.L.O.A. device.  
-[awesome-ctf](https://github.com/apsdehal/awesome-ctf): A curated list of CTF frameworks, libraries, resources and softwares
+[awesome-ctf](https://github.com/apsdehal/awesome-ctf): A curated list of CTF frameworks, libraries, resources and softwares  
+[windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources): Papers, blogposts, tutorials etc for learning about Windows kernel exploitation, internals and (r|b)ootkits
