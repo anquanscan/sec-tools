@@ -165,4 +165,5 @@
 [docker-rekall](https://github.com/blacktop/docker-rekall): Rekall  Dockerfile  
 [ssh-mitm](https://github.com/ssh-mitm/ssh-mitm): ssh mitm server for security audits supporting public key authentication, session hijacking and file manipulation  
 [exploit-CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033): PHPMailer < 5.2.18 Remote Code Execution exploit and vulnerable container  
-[django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo): DefectDojo is a DevSecOps and vulnerability management tool.
+[django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo): DefectDojo is a DevSecOps and vulnerability management tool.  
+[Mega-Bot](https://github.com/Aron-Tn/Mega-Bot): [NEW] : Mega Bot ☣ Scanner & Auto Exploiter
