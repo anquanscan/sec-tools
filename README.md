@@ -256,4 +256,5 @@
 [grinder](https://github.com/sdnewhop/grinder): :mag_right: Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)  
 [fisy-fuzz](https://github.com/0xricksanchez/fisy-fuzz): This is the full file system fuzzing framework that I presented at the Hack in the Box 2020 Lockdown Edition conference in April.  
 [WEB-DOJO-SECURITY](https://github.com/jacfpentester/WEB-DOJO-SECURITY): Instalacion, configuracion y resulcion de las maquinas de la VM Web Dojo Security ( Web Pentesting ).  
-[Cyber-News-Bot](https://github.com/JMousqueton/Cyber-News-Bot): A bot to retweet everything related to Cyber Security based on hashtag
+[Cyber-News-Bot](https://github.com/JMousqueton/Cyber-News-Bot): A bot to retweet everything related to Cyber Security based on hashtag  
+[shodanwave](https://github.com/jimywork/shodanwave): Shodanwave is a tool for exploring and obtaining information from Netwave IP Camera. 
