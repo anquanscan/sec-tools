@@ -239,4 +239,5 @@
 [WPContentInjection](https://github.com/lolwaleet/WPContentInjection): a quick n dirty poc for wp content injection vulnerability.  
 [AutomatedHunter](https://github.com/M507/AutomatedHunter): Google Chrome Extension automates testing fundamental Web Problems via Chrome  
 [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering): A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.  
-[jackhammer](https://github.com/olacabs/jackhammer): Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
+[jackhammer](https://github.com/olacabs/jackhammer): Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.  
+[awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking): A list of web application security
