@@ -995,4 +995,5 @@
 [aws-ecr-continuous-scan](https://github.com/t04glovern/aws-ecr-continuous-scan): ECR Container Image Re-Scan  
 [hblock](https://github.com/hectorm/hblock): Improve your security and privacy by blocking ads, tracking and malware domains.  
 [kernel-exploits](https://github.com/bcoles/kernel-exploits): Various kernel exploits  
-[introspector](https://github.com/goldfiglabs/introspector): A schema and set of tools for using SQL to query cloud infrastructure.
+[introspector](https://github.com/goldfiglabs/introspector): A schema and set of tools for using SQL to query cloud infrastructure.  
+[malgazer](https://github.com/keithjjones/malgazer): A Python malware analysis library.
