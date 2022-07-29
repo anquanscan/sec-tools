@@ -789,4 +789,5 @@
 [404StarLink](https://github.com/knownsec/404StarLink): 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目  
 [browserrecon-asp](https://github.com/scipag/browserrecon-asp): Advanced Web Browser Fingerprinting  
 [kscan](https://github.com/lcvvvv/kscan): Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。  
-[SportBruter](https://github.com/liltrendi/SportBruter): A bruteforce script aimed at sending authentication requests to the SportPesa website in an attempt to log in as a user against a supplied set of passwords
+[SportBruter](https://github.com/liltrendi/SportBruter): A bruteforce script aimed at sending authentication requests to the SportPesa website in an attempt to log in as a user against a supplied set of passwords  
+[subzer0](https://github.com/0xApt/subzer0): A tool that scans a list of given domains, and returns the status codes for each domain on both port 80 & 443
