@@ -746,4 +746,5 @@
 [DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper): DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic  
 [fake-sms](https://github.com/machine1337/fake-sms): A small script to send messages anonymously. very fast and secure SMS sending script.  
 [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA): RSA public/private key encryption in Swift  
-[Deep-Explorer](https://github.com/blueudp/Deep-Explorer): Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
+[Deep-Explorer](https://github.com/blueudp/Deep-Explorer): Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained  
+[exploit-CVE-2015-3306](https://github.com/t0kx/exploit-CVE-2015-3306): ProFTPd 1.3.5 - (mod_copy) Remote Command Execution exploit and vulnerable container
