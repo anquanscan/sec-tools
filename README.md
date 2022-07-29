@@ -984,4 +984,5 @@
 [inthewilddb](https://github.com/gmatuz/inthewilddb): Hourly updated database of exploit and exploitation reports  
 [winafl](https://github.com/googleprojectzero/winafl): A fork of AFL for fuzzing Windows binaries  
 [box-Authorizer](https://github.com/boxproject/box-Authorizer): PKApp is used to start, stop and authorise approval flow of authorizer.  
-[shufti](https://github.com/vaibhavkrjha/shufti): All in one OSINT Framework
+[shufti](https://github.com/vaibhavkrjha/shufti): All in one OSINT Framework  
+[AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa): Asp.Net 5.0 & Angular 13 SPA Fullstack application with plenty of examples. Live demo: 
