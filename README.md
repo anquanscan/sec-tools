@@ -666,4 +666,5 @@
 [CiscoExploit](https://github.com/k8gege/CiscoExploit): Cisco Exploit  (CVE-2019-1821 Cisco Prime Infrastructure Remote Code Execution/CVE-2019-1653/Cisco SNMP RCE/Dump Cisco RV320 Password)  
 [faraday_agent_dispatcher](https://github.com/infobyte/faraday_agent_dispatcher): Faraday Agent Dispatcher launches any security tools and send results to Faradaysec Platform.  
 [conti-pentester-guide-leak](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak): Leaked pentesting manuals given to Conti ransomware crooks  
-[Xonory](https://github.com/Mahmoud7Osman/Xonory): The Xonory Programming Language For Advanced Malware Development
+[Xonory](https://github.com/Mahmoud7Osman/Xonory): The Xonory Programming Language For Advanced Malware Development  
+[CVE-2018-8120](https://github.com/unamer/CVE-2018-8120): CVE-2018-8120 Windows LPE exploit
