@@ -842,4 +842,5 @@
 [Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules): Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules.   
 [Attacker-Group-Predictor](https://github.com/omergunal/Attacker-Group-Predictor): Tool to predict attacker groups from the techniques and software used  
 [fake-admin-honeypot-V1.1](https://github.com/pH-7/fake-admin-honeypot-V1.1): :honey_pot: New Honeypot Version: 1.2! :honeybee: This pH7CMS module is a simple but effective honeypot fake Admin CP for the security  of your website. Honeypot for the attackers!  
-[Log4j-RCE](https://github.com/momos1337/Log4j-RCE): Log4j RCE - (CVE-2021-44228)
+[Log4j-RCE](https://github.com/momos1337/Log4j-RCE): Log4j RCE - (CVE-2021-44228)  
+[cybersecurity-dynamic-analysis](https://github.com/paulveillard/cybersecurity-dynamic-analysis): An ongoing & curated collection of awesome vulnerability scanning software, libraries and frameworks, best guidelines and technical resources and most important dynamic application security testing (DAST)
