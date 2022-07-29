@@ -705,4 +705,5 @@
 [WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide): WireGuard Guide  
 [tsharrk](https://github.com/hrbrmstr/tsharrk): 🦈 Tools to Make Analyses Using tshark Easier in R  
 [rhizobia_J](https://github.com/momosecurity/rhizobia_J): JAVA安全SDK及编码规范  
-[One-Lin3r](https://github.com/D4Vinci/One-Lin3r): Gives you one-liners that aids in penetration testing operations, privilege escalation and more
+[One-Lin3r](https://github.com/D4Vinci/One-Lin3r): Gives you one-liners that aids in penetration testing operations, privilege escalation and more  
+[angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner): Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.
