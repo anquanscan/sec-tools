@@ -641,4 +641,5 @@
 [zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist): Checklist of security precautions for Ruby on Rails applications.  
 [Roblox-Dev](https://github.com/Professor-Puddle/Roblox-Dev): An awesome Roblox Exploit for Roblox  
 [XSS-LOADER](https://github.com/capture0x/XSS-LOADER): Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder  
-[information-security](https://github.com/JakobTheDev/information-security): A place where I can create, collect and share tooling, resources and knowledge about information security.
+[information-security](https://github.com/JakobTheDev/information-security): A place where I can create, collect and share tooling, resources and knowledge about information security.  
+[sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy): Sleepy Puppy XSS Payload Management Framework
