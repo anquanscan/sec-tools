@@ -623,4 +623,5 @@
 [security-trust-settings-tools](https://github.com/ntkme/security-trust-settings-tools): :lock: OS X Keychain Trust Settings Tools.  
 [ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources): A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players 🚩  
 [ppfuzz](https://github.com/dwisiswant0/ppfuzz): A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀  
-[reverse-shell](https://github.com/lukechilds/reverse-shell): Reverse Shell as a Service
+[reverse-shell](https://github.com/lukechilds/reverse-shell): Reverse Shell as a Service  
+[Puwr](https://github.com/Xeonrx/Puwr): Pivot your way deeper into networks by discovering hosts & ports, using a compromised machine via SSH
