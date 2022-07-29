@@ -732,4 +732,5 @@
 [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer): A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.  
 [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games  
 [CTF-WriteUps](https://github.com/m0rphtail/CTF-WriteUps): Writeups for the CTFs I solve  
-[ORLFTExploit](https://github.com/JLDevOps/ORLFTExploit): Exploit script to constantly get free access to O'Reilly Learning material via their Free Trial Page - https://learning.oreilly.com/register/
+[ORLFTExploit](https://github.com/JLDevOps/ORLFTExploit): Exploit script to constantly get free access to O'Reilly Learning material via their Free Trial Page - https://learning.oreilly.com/register/  
+[site-vulns-finder](https://github.com/ntexe/site-vulns-finder): Scans site for vulnerabilities, such as admin panels, logs
