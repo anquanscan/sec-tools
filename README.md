@@ -800,4 +800,5 @@
 [Kali_Port_Scanning](https://github.com/MSadekUni/Kali_Port_Scanning): NBCU command line implementation of python-portscan  
 [Payload-Guest-With-Icons](https://github.com/upal212/Payload-Guest-With-Icons): Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00  
 [technowlogger](https://github.com/PushpenderIndia/technowlogger): TechNowLogger is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info  
-[HITB2020_FSFUZZER](https://github.com/0xricksanchez/HITB2020_FSFUZZER): My Material for the HITB presentation
+[HITB2020_FSFUZZER](https://github.com/0xricksanchez/HITB2020_FSFUZZER): My Material for the HITB presentation  
+[AndroRAT](https://github.com/karma9874/AndroRAT): A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
