@@ -556,4 +556,5 @@
 [hisilicon-dvr-telnet](https://github.com/Snawoot/hisilicon-dvr-telnet): PoC materials for article https://habr.com/en/post/486856/  
 [WebApplicationVulnerabilityScanners](https://github.com/michaeloconnelliii/WebApplicationVulnerabilityScanners): Tested two web application vulnerability scanners and testing platforms for their effectiveness at detecting all known categories of SQL Injection (SQLi) and Cross-Site Scripting vulnerabilities (XSS).  
 [ric9rdo.github.io](https://github.com/ric9rdo/ric9rdo.github.io): Just a random cybersecurity (b)log that I use as a personal database   
-[SecNotes](https://github.com/0xRar/SecNotes): cyber security notes for your consumption.
+[SecNotes](https://github.com/0xRar/SecNotes): cyber security notes for your consumption.  
+[SAP_ransomware](https://github.com/vah13/SAP_ransomware): Simple remote command execution exploit code for SAP GUI
