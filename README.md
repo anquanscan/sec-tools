@@ -599,4 +599,5 @@
 [hackigniter](https://github.com/ferhatcil/hackigniter): HackIgniter, PHP CodeIgniter Framework'ü üzerinde kodlanmış zafiyetli bir web uygulamasıdır. Uygulama üzerinde bulunan zafiyetler, sızma testi sırasında en çok tespit edilen zafiyetlere benzer olacak şekilde hazırlanmıştır.  
 [0x03-ARM-32-Hacking-Float](https://github.com/mytechnotalent/0x03-ARM-32-Hacking-Float): ARM 32-bit Raspberry Pi Hacking Float example in Kali Linux.  
 [ciscoasa_honeypot](https://github.com/Cymmetria/ciscoasa_honeypot): A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.  
-[evilkit](https://github.com/krishpranav/evilkit): A Simple Backdoor ToolKit Using Rust
+[evilkit](https://github.com/krishpranav/evilkit): A Simple Backdoor ToolKit Using Rust  
+[GIVINGSTORM](https://github.com/rustrose/GIVINGSTORM): Infection vector that bypasses AV, IDS, and IPS. (For now...)
