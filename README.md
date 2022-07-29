@@ -826,4 +826,5 @@
 [linux-anti-recon](https://github.com/brodzik/linux-anti-recon): Linux anti-reconnaissance kernel module. Mitigates OS fingerprinting and service detection. Based on "A deception based approach for defeating OS and service fingerprinting" by M. Albanese, E. Battista and S. Jajodia.  
 [wwwordlist](https://github.com/Zarcolio/wwwordlist): Wwwordlist is a wordlist generator. It extract words from HTML, URLs, JS/HTTP/input variables, quoted texts in the text and mail files.  
 [Ironsquirrel](https://github.com/MRGEffitas/Ironsquirrel): Encrypted exploit delivery for the masses  
-[android-hosts](https://github.com/privacy-guides/android-hosts): This is a small repository that has many different of hosts files with certain use-cases. It's meant to be used with the F-Droid version of Netguard https://github.com/M66B/NetGuard | https://www.netguard.me .
+[android-hosts](https://github.com/privacy-guides/android-hosts): This is a small repository that has many different of hosts files with certain use-cases. It's meant to be used with the F-Droid version of Netguard https://github.com/M66B/NetGuard | https://www.netguard.me .  
+[PassBox](https://github.com/sectool/PassBox): Password Management Control Panel
