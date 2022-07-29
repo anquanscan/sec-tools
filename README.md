@@ -590,4 +590,5 @@
 [GVM-Docker](https://github.com/Secure-Compliance-Solutions-LLC/GVM-Docker): Greenbone Vulnerability Management Docker Image with OpenVAS  
 [spiderfoot](https://github.com/smicallef/spiderfoot): SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.  
 [AntiDDOS-system](https://github.com/Sanix-Darker/AntiDDOS-system): 🛡️⚔️ Protect your web app from DDOS attack or the Dead Ping + CAPTCHA VERIFICATION in one line!  
-[gopwn](https://github.com/hupe1980/gopwn): Golang CTF framework and exploit development module
+[gopwn](https://github.com/hupe1980/gopwn): Golang CTF framework and exploit development module  
+[heappy](https://github.com/gand3lf/heappy): A happy heap editor to support your exploitation process :slightly_smiling_face:
