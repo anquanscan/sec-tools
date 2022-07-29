@@ -954,4 +954,5 @@
 [cve-fix-reporter](https://github.com/sriramkandukuri/cve-fix-reporter): A Script to find fixes for CVE ids by parsing nvd website and respective git repository log.  
 [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor): Help building an adaptive and fine-grained pod security policy  
 [Sexeca-FreeVersion](https://github.com/JasonDerulo1259/Sexeca-FreeVersion): A tool for senecalearning, that gets the answers for the questions, coded in c#  
-[lockphish](https://github.com/jaykali/lockphish): Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
+[lockphish](https://github.com/jaykali/lockphish): Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.  
+[Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet): A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
