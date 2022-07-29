@@ -784,4 +784,5 @@
 [rustbuster](https://github.com/phra/rustbuster): A Comprehensive Web Fuzzer and Content Discovery Tool  
 [ExAuth](https://github.com/ExosphericDev/ExAuth): Authentication/Whitelist system for Roblox [Synapse X]  
 [Wordlists](https://github.com/kkrypt0nn/Wordlists): A collection of wordlists for many different usages.  
-[zap-docked](https://github.com/umbraesoulsbane/zap-docked): This is a skeleton project for working with Zap (https://www.zaproxy.org/), a web application security scanner, in a Docker environment.
+[zap-docked](https://github.com/umbraesoulsbane/zap-docked): This is a skeleton project for working with Zap (https://www.zaproxy.org/), a web application security scanner, in a Docker environment.  
+[Reconnoitre](https://github.com/codingo/Reconnoitre): A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
