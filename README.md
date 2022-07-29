@@ -888,4 +888,5 @@
 [LFIscanner](https://github.com/R3LI4NT/LFIscanner): Simple Local File Inclusion (LFI) scanner.  
 [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet): Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.  
 [opensnitch](https://github.com/evilsocket/opensnitch): OpenSnitch is a GNU/Linux port of the Little Snitch application firewall  
-[Susanoo](https://github.com/ant4g0nist/Susanoo): A REST API security testing framework. 
+[Susanoo](https://github.com/ant4g0nist/Susanoo): A REST API security testing framework.   
+[rdroid](https://github.com/m301/rdroid): [Android RAT] Remotely manage your android phone using PHP Interface 
