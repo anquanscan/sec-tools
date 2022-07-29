@@ -779,4 +779,5 @@
 [exploit-pattern](https://github.com/Svenito/exploit-pattern): generate and search pattern string for exploit development   
 [MixewayOpenVASRestAPI](https://github.com/Mixeway/MixewayOpenVASRestAPI): JAVA Spring-Boot implementation of REST API for OpenVAS Security Vulnerability Scanner. REST API is using gvm-cli in order to communicate with OpenVAS  
 [spring-boot-leaning](https://github.com/ityouknow/spring-boot-leaning): Spring Boot 2.X 最全课程代码  
-[cryptic](https://github.com/cryptic-game/cryptic): The official repository of Cryptic
+[cryptic](https://github.com/cryptic-game/cryptic): The official repository of Cryptic  
+[AvArmy](https://github.com/jesusgarcia2/AvArmy): AvArmy is a software for the detection and analysis of vulnerabilities in services and web applications using Machine learning.
