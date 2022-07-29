@@ -947,4 +947,5 @@
 [pwn-pulse](https://github.com/BishopFox/pwn-pulse): Exploit for Pulse Connect Secure SSL VPN arbitrary file read vulnerability (CVE-2019-11510)  
 [host_security](https://github.com/skipmcgee/host_security): Red Hat Enterprise Linux 6 & 7 security tool for enumerating security and IT operations-relevant information on a host and forwarding to a SIEM or enterprise syslog server in key='value' format.  
 [TheXFramework](https://github.com/r3dxpl0it/TheXFramework): Network/WebApplication Information Gathering, Enumeration and Vulnerability Scanning (Under Development)  
-[ShellShockHunter](https://github.com/MrCl0wnLab/ShellShockHunter): It's a simple tool for test vulnerability shellshock
+[ShellShockHunter](https://github.com/MrCl0wnLab/ShellShockHunter): It's a simple tool for test vulnerability shellshock  
+[id-obfuscator](https://github.com/jchambers/id-obfuscator): A Java library for reversibly obfuscating numerical identifiers (e.g. 1234 ↔ 4TQCNTL)
