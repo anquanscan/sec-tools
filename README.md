@@ -774,4 +774,5 @@
 [thycotic.secretserver](https://github.com/thycotic-ps/thycotic.secretserver): PowerShell module for automating with Thycotic Secret Server REST API  
 [k8gege.github.io](https://github.com/k8gege/k8gege.github.io): K8博客  
 [ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan): GitHub Action to check for vulnerabilities in your container image  
-[net.security](https://github.com/r-net-tools/net.security): Security R package with a set of utils to analyse the different industry standards (MITRE and NIST).
+[net.security](https://github.com/r-net-tools/net.security): Security R package with a set of utils to analyse the different industry standards (MITRE and NIST).  
+[Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs): Practical Ethical Hacking Labs 🗡🛡
