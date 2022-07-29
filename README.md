@@ -909,4 +909,5 @@
 [helmet](https://github.com/helmetjs/helmet): Help secure Express apps with various HTTP headers  
 [PatrowlEngines](https://github.com/Patrowl/PatrowlEngines): PatrOwl - Open Source, Free and Scalable Security Operations Orchestration Platform  
 [yookiterm-slides](https://github.com/dobin/yookiterm-slides): Exploitation and Mitigation Slides  
-[SecureBit](https://github.com/richeshgupta/SecureBit): SecureBit is a chat client where Security is number one priority. B)
+[SecureBit](https://github.com/richeshgupta/SecureBit): SecureBit is a chat client where Security is number one priority. B)  
+[SyntheticSun](https://github.com/jonrau1/SyntheticSun): SyntheticSun is a defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to continuously prevent, detect and respond to threats.
