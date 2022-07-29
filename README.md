@@ -563,4 +563,5 @@
 [Passwords](https://github.com/ducn1806/Passwords): Final project for R course at Hult, conducting an analysis about whether cybersecurity is still a business problem, specifically about passwords.  
 [CRLFsuite](https://github.com/Nefcore/CRLFsuite): The most powerful CRLF injection (HTTP Response Splitting) scanner.  
 [cariddi](https://github.com/edoardottt/cariddi): Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more  
-[psploit](https://github.com/colorblindpentester/psploit): psploit - bash script for using PRET with a lot of IP addresses in the row.
+[psploit](https://github.com/colorblindpentester/psploit): psploit - bash script for using PRET with a lot of IP addresses in the row.  
+[k8s-harbor](https://github.com/ruzickap/k8s-harbor): Harbor in Kubernetes
