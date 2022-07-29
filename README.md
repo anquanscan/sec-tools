@@ -750,4 +750,5 @@
 [exploit-CVE-2015-3306](https://github.com/t0kx/exploit-CVE-2015-3306): ProFTPd 1.3.5 - (mod_copy) Remote Command Execution exploit and vulnerable container  
 [saucerframe](https://github.com/saucer-man/saucerframe): python3批量poc检测工具  
 [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security): 🚗  A curated list of resources for learning about vehicle security and car hacking.  
-[Gish-Code-1.12.2](https://github.com/GishReloaded/Gish-Code-1.12.2): This is a hacked modification for Minecraft Forge 1.12.2
+[Gish-Code-1.12.2](https://github.com/GishReloaded/Gish-Code-1.12.2): This is a hacked modification for Minecraft Forge 1.12.2  
+[shfz](https://github.com/shfz/shfz): TypeScript Scenario-Based Web Application Fuzzing Framework
