@@ -663,4 +663,5 @@
 [xlogin](https://github.com/Crakem/xlogin): Lightweight, secure and login like console display manager for X  
 [PyRedactKit](https://github.com/brootware/PyRedactKit): Python CLI tool to redact and un-redact sensitive data from text files. 🔐📝  
 [OctopusWAF](https://github.com/CoolerVoid/OctopusWAF): OctopusWAF is a WAF( Web application firewall) with high performance, made in C language and use libevent.  
-[CiscoExploit](https://github.com/k8gege/CiscoExploit): Cisco Exploit  (CVE-2019-1821 Cisco Prime Infrastructure Remote Code Execution/CVE-2019-1653/Cisco SNMP RCE/Dump Cisco RV320 Password)
+[CiscoExploit](https://github.com/k8gege/CiscoExploit): Cisco Exploit  (CVE-2019-1821 Cisco Prime Infrastructure Remote Code Execution/CVE-2019-1653/Cisco SNMP RCE/Dump Cisco RV320 Password)  
+[faraday_agent_dispatcher](https://github.com/infobyte/faraday_agent_dispatcher): Faraday Agent Dispatcher launches any security tools and send results to Faradaysec Platform.
