@@ -672,4 +672,5 @@
 [Conti-Ransomware](https://github.com/gharty03/Conti-Ransomware): Full source of the Conti Ransomware Including the missing Locker files from the original leak. I have fixed some of the errors intentionally introduced by the leaker to prevent the locker from being built. The Queue header file which implements a few linked list data structures that Conti uses for task scheduling in the Threadpool had several missing commas, there are still errors which I believe to be the result of a missing #ifdef pre-processsor macro in one of the header files but haven't had time to find it. Will be uploading English Translated Documentation In the future  
 [wsltools](https://github.com/Symbo1/wsltools): Web Scan Lazy Tools - Python Package  
 [KubeArmor](https://github.com/kubearmor/KubeArmor): Cloud-native Runtime Security Enforcement System  
-[redis-exploit](https://github.com/fagray/redis-exploit): an exploit to an open redis instance
+[redis-exploit](https://github.com/fagray/redis-exploit): an exploit to an open redis instance  
+[penetration-script](https://github.com/saucer-man/penetration-script): 渗透测试脚本，为防忘记开设（垃圾桶）
