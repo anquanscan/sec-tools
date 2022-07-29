@@ -767,4 +767,5 @@
 [scapy](https://github.com/secdev/scapy): Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.  
 [BlockList-Malware](https://github.com/Esox-Lucius/BlockList-Malware): Making Blocklists/blacklists with data from AlienVault Threat Exchange.            CC0 1.0 Universal  
 [PENTOL](https://github.com/radenvodka/PENTOL): PENTOL - Pentester Toolkit for Fiddler2  
-[privapi](https://github.com/Veridax/privapi): Detect Sensitive REST API communication using Deep Neural Networks
+[privapi](https://github.com/Veridax/privapi): Detect Sensitive REST API communication using Deep Neural Networks  
+[adversarial-MTSR](https://github.com/dependable-cps/adversarial-MTSR)
