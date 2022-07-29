@@ -629,4 +629,5 @@
 [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED): A platform to develop, run and administer CTF competitions. The online echoCTF.RED platform user interfaces and codebase  
 [SpectrePoC](https://github.com/crozone/SpectrePoC): Proof of concept code for the Spectre CPU exploit.  
 [OmegaPSToolkit](https://github.com/MyMeepSQL/OmegaPSToolkit): Totally in development! A toolkit that brings together penetration testing tools such as wireless tools, web tools, password cracking tools, etc.  
-[awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security): Awesome .NET Security Resources
+[awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security): Awesome .NET Security Resources  
+[CVE-2021-34429](https://github.com/ColdFusionX/CVE-2021-34429): POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure
