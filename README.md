@@ -744,4 +744,5 @@
 [SQLzr-i](https://github.com/mfazrinizar/SQLzr-i): This is a Perl program to do an automated SQL Injection for pentesting web's SQL database protection. Coded by M.Fazri Nizar.  
 [CTI-Quiz](https://github.com/BushidoUK/CTI-Quiz): Practice CTI Quiz  
 [DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper): DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic  
-[fake-sms](https://github.com/machine1337/fake-sms): A small script to send messages anonymously. very fast and secure SMS sending script.
+[fake-sms](https://github.com/machine1337/fake-sms): A small script to send messages anonymously. very fast and secure SMS sending script.  
+[SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA): RSA public/private key encryption in Swift
