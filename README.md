@@ -868,4 +868,5 @@
 [CVE-2018-10583](https://github.com/MrTaherAmine/CVE-2018-10583): An information disclosure vulnerability occurs when LibreOffice 6.0.3 and Apache OpenOffice Writer 4.1.5 automatically process and initiate an SMB connection embedded in a malicious file, as demonstrated by "xlink:href=file://192.168.0.2/test.jpg" within an "office:document-content" element in a ".odt XML document".  
 [Scout](https://github.com/TheHairyJ/Scout): Scout - a Contactless Active Reconnaissance Tool  
 [envkey-node](https://github.com/envkey/envkey-node): EnvKey's official Node.js client library  
-[facebook-cracker](https://github.com/Ha3MrX/facebook-cracker): Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall 
+[facebook-cracker](https://github.com/Ha3MrX/facebook-cracker): Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall   
+[GobyVuls](https://github.com/gobysec/GobyVuls): Vulnerabilities of Goby supported with exploitation.
