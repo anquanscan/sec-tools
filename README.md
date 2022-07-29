@@ -957,4 +957,5 @@
 [lockphish](https://github.com/jaykali/lockphish): Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.  
 [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet): A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.  
 [syzkaller](https://github.com/google/syzkaller): syzkaller is an unsupervised coverage-guided kernel fuzzer  
-[UAficionado](https://github.com/quantumcore/UAficionado): Red Team vs Blue Team. Series of  5 challanges. Are you up for it?
+[UAficionado](https://github.com/quantumcore/UAficionado): Red Team vs Blue Team. Series of  5 challanges. Are you up for it?  
+[-CVE-2017-9805](https://github.com/0x00-0x00/-CVE-2017-9805): Exploit script for Apache Struts2 REST Plugin XStream RCE (‎CVE-2017-9805)
