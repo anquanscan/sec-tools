@@ -987,4 +987,5 @@
 [shufti](https://github.com/vaibhavkrjha/shufti): All in one OSINT Framework  
 [AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa): Asp.Net 5.0 & Angular 13 SPA Fullstack application with plenty of examples. Live demo:   
 [oidc-workshop-spring-io-2019](https://github.com/andifalk/oidc-workshop-spring-io-2019): Workshop at Spring I/O 2019 on "Securing Microservices with OpenID Connect and Spring Security 5.1"  
-[FlameCord](https://github.com/2lstudios-mc/FlameCord): Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks.
+[FlameCord](https://github.com/2lstudios-mc/FlameCord): Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks.  
+[spring-break_cve-2017-8046](https://github.com/m3ssap0/spring-break_cve-2017-8046): This is a Java program that exploits Spring Break vulnerability (CVE-2017-8046).
