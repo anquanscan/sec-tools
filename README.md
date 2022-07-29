@@ -821,4 +821,5 @@
 [rekor](https://github.com/sigstore/rekor): Software Supply Chain Transparency Log  
 [goblin](https://github.com/xiecat/goblin): 一款适用于红蓝对抗中的仿真钓鱼系统  
 [cazador_unr](https://github.com/YasserGersy/cazador_unr): Hacking tools  
-[pwninit](https://github.com/io12/pwninit): pwninit - automate starting binary exploit challenges
+[pwninit](https://github.com/io12/pwninit): pwninit - automate starting binary exploit challenges  
+[AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning): 安全场景、基于AI的安全算法和安全数据分析业界实践
