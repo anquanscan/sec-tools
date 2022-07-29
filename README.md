@@ -971,4 +971,5 @@
 [reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator): Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)  
 [Packet-Sequence](https://github.com/gamemann/Packet-Sequence): A tool that can be used to send single or multiple packets in sequences with a lot of packet customization. Can be used as a DoS attack tool for pen-testing purposes and more including network monitoring.  
 [brutemap](https://github.com/brutemap-dev/brutemap): Let's find someone's account  
-[PatrowlHearsData](https://github.com/Patrowl/PatrowlHearsData): Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds
+[PatrowlHearsData](https://github.com/Patrowl/PatrowlHearsData): Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds  
+[stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app): A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
