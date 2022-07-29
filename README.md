@@ -582,4 +582,5 @@
 [osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): A collection of several hundred online tools for OSINT  
 [brakeman](https://github.com/presidentbeef/brakeman): A static analysis security vulnerability scanner for Ruby on Rails applications  
 [jerseyctf-2021-challenges](https://github.com/njitacm/jerseyctf-2021-challenges): JerseyCTF 2021  
-[jfrog-docker-desktop-extension](https://github.com/jfrog/jfrog-docker-desktop-extension): 🐸 Scans any of your local Docker images for security vulnerabilities. 🐋
+[jfrog-docker-desktop-extension](https://github.com/jfrog/jfrog-docker-desktop-extension): 🐸 Scans any of your local Docker images for security vulnerabilities. 🐋  
+[osquery](https://github.com/osquery/osquery): SQL powered operating system instrumentation, monitoring, and analytics.
