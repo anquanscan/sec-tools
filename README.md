@@ -834,4 +834,5 @@
 [halfempty](https://github.com/googleprojectzero/halfempty): A fast, parallel test case minimization tool.  
 [secureCodeBox](https://github.com/secureCodeBox/secureCodeBox): secureCodeBox (SCB) - continuous secure delivery out of the box   
 [hacking-tool](https://github.com/rixon-cochi/hacking-tool): Social media & camera hacking & whatsapp virus & SMS bombing  
-[memguard](https://github.com/awnumar/memguard): Secure software enclave for storage of sensitive information in memory.
+[memguard](https://github.com/awnumar/memguard): Secure software enclave for storage of sensitive information in memory.  
+[CVE-2019-16759-Vbulletin-rce-exploit](https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit): Vbulletin rce exploit CVE-2019-16759
