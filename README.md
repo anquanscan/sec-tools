@@ -1001,4 +1001,5 @@
 [arpspoof](https://github.com/YeautyYE/arpspoof): :trollface: arpspoof for macOS  - intercept packets on a switched LAN  
 [HEVD_Kernel_Exploit](https://github.com/mgeeky/HEVD_Kernel_Exploit): Exploits pack for the Windows Kernel mode driver HackSysExtremeVulnerableDriver written for educational purposes.  
 [FBI-tools](https://github.com/danieldurnea/FBI-tools): 🕵️ OSINT Tools for gathering information and actions forensic 🕵️   
-[tfsec](https://github.com/aquasecurity/tfsec): Security scanner for your Terraform code
+[tfsec](https://github.com/aquasecurity/tfsec): Security scanner for your Terraform code  
+[reveng_rtkit](https://github.com/reveng007/reveng_rtkit): Linux Loadable Kernel Module (LKM) based rootkit (ring-0), capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter  antirootkit.
