@@ -970,4 +970,5 @@
 [Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner): Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).  
 [reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator): Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)  
 [Packet-Sequence](https://github.com/gamemann/Packet-Sequence): A tool that can be used to send single or multiple packets in sequences with a lot of packet customization. Can be used as a DoS attack tool for pen-testing purposes and more including network monitoring.  
-[brutemap](https://github.com/brutemap-dev/brutemap): Let's find someone's account
+[brutemap](https://github.com/brutemap-dev/brutemap): Let's find someone's account  
+[PatrowlHearsData](https://github.com/Patrowl/PatrowlHearsData): Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds
