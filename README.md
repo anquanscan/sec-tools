@@ -679,4 +679,5 @@
 [dockerized-parrot](https://github.com/gurayops/dockerized-parrot): Dockerized version of Parrot GNU/Linux  
 [Windows-Exploit-Suggester-2](https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2): A tool to recommend available exploits for Windows Operating Systems  
 [Hikari](https://github.com/HikariObfuscator/Hikari): LLVM Obfuscator  
-[XSS-Payload-without-Anything](https://github.com/hahwul/XSS-Payload-without-Anything): XSS Payload without Anything.
+[XSS-Payload-without-Anything](https://github.com/hahwul/XSS-Payload-without-Anything): XSS Payload without Anything.  
+[STIX-Java](https://github.com/StephenOTT/STIX-Java): STIX 2.x Java Library
