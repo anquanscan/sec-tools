@@ -828,4 +828,5 @@
 [Ironsquirrel](https://github.com/MRGEffitas/Ironsquirrel): Encrypted exploit delivery for the masses  
 [android-hosts](https://github.com/privacy-guides/android-hosts): This is a small repository that has many different of hosts files with certain use-cases. It's meant to be used with the F-Droid version of Netguard https://github.com/M66B/NetGuard | https://www.netguard.me .  
 [PassBox](https://github.com/sectool/PassBox): Password Management Control Panel  
-[Basic-HTML-Website-Cyber-Security](https://github.com/sgupta-1/Basic-HTML-Website-Cyber-Security): This website was made during my college presentation and here, I am trying to convey the need for Cyber Security and how to prevent malicious activities through it, and also how to safeguard our children from child predators. It's a really simple and basic HTML, CSS, and JS-based website.
+[Basic-HTML-Website-Cyber-Security](https://github.com/sgupta-1/Basic-HTML-Website-Cyber-Security): This website was made during my college presentation and here, I am trying to convey the need for Cyber Security and how to prevent malicious activities through it, and also how to safeguard our children from child predators. It's a really simple and basic HTML, CSS, and JS-based website.  
+[1nternist.github.io](https://github.com/1nternist/1nternist.github.io): 1nternist's Cydia repository on Github
