@@ -686,4 +686,5 @@
 [enum4linux-ng](https://github.com/cddmp/enum4linux-ng): A next generation version of enum4linux (a Windows/Samba enumeration tool) with additional features like JSON/YAML export. Aimed for security professionals and CTF players.  
 [wowInjector](https://github.com/aaaddress1/wowInjector): PoC: Exploit 32-bit Thread Snapshot of WOW64 to Take Over $RIP & Inject & Bypass Antivirus HIPS  (HITB 2021)  
 [Phoenix-Framework](https://github.com/HackerDev-Felix/Phoenix-Framework): Phoenix Framework Project  
-[repo-security-scanner](https://github.com/techjacker/repo-security-scanner): CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+[repo-security-scanner](https://github.com/techjacker/repo-security-scanner): CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys  
+[lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools): Little Bug Bounty & Hacking Tools⚔️
