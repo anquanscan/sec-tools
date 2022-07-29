@@ -827,4 +827,5 @@
 [wwwordlist](https://github.com/Zarcolio/wwwordlist): Wwwordlist is a wordlist generator. It extract words from HTML, URLs, JS/HTTP/input variables, quoted texts in the text and mail files.  
 [Ironsquirrel](https://github.com/MRGEffitas/Ironsquirrel): Encrypted exploit delivery for the masses  
 [android-hosts](https://github.com/privacy-guides/android-hosts): This is a small repository that has many different of hosts files with certain use-cases. It's meant to be used with the F-Droid version of Netguard https://github.com/M66B/NetGuard | https://www.netguard.me .  
-[PassBox](https://github.com/sectool/PassBox): Password Management Control Panel
+[PassBox](https://github.com/sectool/PassBox): Password Management Control Panel  
+[Basic-HTML-Website-Cyber-Security](https://github.com/sgupta-1/Basic-HTML-Website-Cyber-Security): This website was made during my college presentation and here, I am trying to convey the need for Cyber Security and how to prevent malicious activities through it, and also how to safeguard our children from child predators. It's a really simple and basic HTML, CSS, and JS-based website.
