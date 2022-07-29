@@ -632,4 +632,5 @@
 [awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security): Awesome .NET Security Resources  
 [CVE-2021-34429](https://github.com/ColdFusionX/CVE-2021-34429): POC for CVE-2021-34429 - Eclipse Jetty 11.0.5 Sensitive File Disclosure  
 [purpura-csgo-sdk](https://github.com/swoopae/purpura-csgo-sdk): small little public internal base/cheat i'm currently working on  
-[sifter](https://github.com/whiterabb17/sifter): Sifter - All purpose penetration testing op-center
+[sifter](https://github.com/whiterabb17/sifter): Sifter - All purpose penetration testing op-center  
+[cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard): Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules.
