@@ -895,4 +895,5 @@
 [Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS): 🔒 Anti DDOS | Bash Script Project 🔒  
 [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI): C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)  
 [TORhunter](https://github.com/Err0r-ICA/TORhunter): Designed to scan and exploit vulnerabilities within Tor hidden services. TORhunter allows most tools to work as normal while resolving .onion  
-[honeyLambda](https://github.com/0x4D31/honeyLambda): honeyλ - a simple, serverless application designed to create and monitor fake HTTP endpoints (i.e. URL honeytokens) automatically, on top of AWS Lambda and Amazon API Gateway
+[honeyLambda](https://github.com/0x4D31/honeyLambda): honeyλ - a simple, serverless application designed to create and monitor fake HTTP endpoints (i.e. URL honeytokens) automatically, on top of AWS Lambda and Amazon API Gateway  
+[dnsbin](https://github.com/ettic-team/dnsbin): The request.bin of DNS request
