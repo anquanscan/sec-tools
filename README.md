@@ -985,4 +985,5 @@
 [winafl](https://github.com/googleprojectzero/winafl): A fork of AFL for fuzzing Windows binaries  
 [box-Authorizer](https://github.com/boxproject/box-Authorizer): PKApp is used to start, stop and authorise approval flow of authorizer.  
 [shufti](https://github.com/vaibhavkrjha/shufti): All in one OSINT Framework  
-[AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa): Asp.Net 5.0 & Angular 13 SPA Fullstack application with plenty of examples. Live demo: 
+[AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa): Asp.Net 5.0 & Angular 13 SPA Fullstack application with plenty of examples. Live demo:   
+[oidc-workshop-spring-io-2019](https://github.com/andifalk/oidc-workshop-spring-io-2019): Workshop at Spring I/O 2019 on "Securing Microservices with OpenID Connect and Spring Security 5.1"
