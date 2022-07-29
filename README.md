@@ -883,4 +883,5 @@
 [laravel-url-signer](https://github.com/spatie/laravel-url-signer): Create and validate signed URLs with a limited lifetime  
 [nosqlInjector](https://github.com/blessingcharles/nosqlInjector): A nosql automated injection tools for nonrelational guys  
 [Brutegram](https://github.com/Err0r-ICA/Brutegram): Instagram multi-bruteforce Platfrom  
-[ghorg](https://github.com/gabrie30/ghorg): Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
+[ghorg](https://github.com/gabrie30/ghorg): Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚  
+[code-injector](https://github.com/mustafadalga/code-injector): Aynı ağ içerisinde , ARP Spoofing saldırısı yapılmış hedef bilgisayarın ziyaret ettiği , HTTP protokolünü kullanan web sitelerine kod enjekte ederek manipüle etmenize yarayan bir script.
