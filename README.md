@@ -661,4 +661,5 @@
 [CVE-2022-0540-RCE](https://github.com/Pear1y/CVE-2022-0540-RCE): Atlassian Jira Seraph Authentication Bypass RCE（CVE-2022-0540）  
 [vulnerability-scanner](https://github.com/loricallum/vulnerability-scanner): A vulnerability detection scanner utility for Solidity smart contracts  
 [xlogin](https://github.com/Crakem/xlogin): Lightweight, secure and login like console display manager for X  
-[PyRedactKit](https://github.com/brootware/PyRedactKit): Python CLI tool to redact and un-redact sensitive data from text files. 🔐📝
+[PyRedactKit](https://github.com/brootware/PyRedactKit): Python CLI tool to redact and un-redact sensitive data from text files. 🔐📝  
+[OctopusWAF](https://github.com/CoolerVoid/OctopusWAF): OctopusWAF is a WAF( Web application firewall) with high performance, made in C language and use libevent.
