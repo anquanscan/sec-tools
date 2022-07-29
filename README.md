@@ -713,4 +713,5 @@
 [TheThreatHuntLibrary](https://github.com/svch0stz/TheThreatHuntLibrary): Library of threat hunts to get any user started!  
 [alarmo](https://github.com/nielsfaber/alarmo): Easy to use alarm system integration for Home Assistant  
 [KernelForge](https://github.com/Cr4sh/KernelForge): A library to develop kernel level Windows payloads for post HVCI era  
-[polymorphic_compression_malware](https://github.com/t94j0/polymorphic_compression_malware): Warning, this is malware. Don't do something stupid with it
+[polymorphic_compression_malware](https://github.com/t94j0/polymorphic_compression_malware): Warning, this is malware. Don't do something stupid with it  
+[GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool): GDA is a new fast and powerful decompiler in C++(working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc. 
