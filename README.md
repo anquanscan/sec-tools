@@ -687,4 +687,5 @@
 [wowInjector](https://github.com/aaaddress1/wowInjector): PoC: Exploit 32-bit Thread Snapshot of WOW64 to Take Over $RIP & Inject & Bypass Antivirus HIPS  (HITB 2021)  
 [Phoenix-Framework](https://github.com/HackerDev-Felix/Phoenix-Framework): Phoenix Framework Project  
 [repo-security-scanner](https://github.com/techjacker/repo-security-scanner): CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys  
-[lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools): Little Bug Bounty & Hacking Tools⚔️
+[lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools): Little Bug Bounty & Hacking Tools⚔️  
+[road-to-hacking](https://github.com/R3LI4NT/road-to-hacking): ¿Quieres empezar en el mundo hacking? En esta revista te enseño a instalar Kali Linux desde cero y a manipular herramientas esenciales en el Hacking Ético.
