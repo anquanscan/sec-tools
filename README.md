@@ -890,4 +890,5 @@
 [opensnitch](https://github.com/evilsocket/opensnitch): OpenSnitch is a GNU/Linux port of the Little Snitch application firewall  
 [Susanoo](https://github.com/ant4g0nist/Susanoo): A REST API security testing framework.   
 [rdroid](https://github.com/m301/rdroid): [Android RAT] Remotely manage your android phone using PHP Interface   
-[Gngr_remote_keylogger](https://github.com/abdulkadir-gungor/Gngr_remote_keylogger): (On 09/04/2021) Remote Keylogger software has been made for the latest up-to-date "Windows 7, 8 and 10" operatings systems. It managed to circumvent the "Windows Defender" program.
+[Gngr_remote_keylogger](https://github.com/abdulkadir-gungor/Gngr_remote_keylogger): (On 09/04/2021) Remote Keylogger software has been made for the latest up-to-date "Windows 7, 8 and 10" operatings systems. It managed to circumvent the "Windows Defender" program.  
+[vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html): Safe replacement for the v-html directive
