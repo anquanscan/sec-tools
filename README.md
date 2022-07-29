@@ -943,4 +943,5 @@
 [nesca_audit](https://github.com/enemy-submarine/nesca_audit): The Good, the Bad and the Ugly: результаты частичного аудита кода Nesca  
 [secret_agent](https://github.com/ahamez/secret_agent): An Elixir library to manage secrets  
 [eslint-plugin-security-node](https://github.com/gkouziik/eslint-plugin-security-node): ESLint security plugin for Node.js  
-[ockam](https://github.com/build-trust/ockam): Build Trust with a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication.
+[ockam](https://github.com/build-trust/ockam): Build Trust with a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication.  
+[pwn-pulse](https://github.com/BishopFox/pwn-pulse): Exploit for Pulse Connect Secure SSL VPN arbitrary file read vulnerability (CVE-2019-11510)
