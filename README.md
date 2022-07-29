@@ -956,4 +956,5 @@
 [Sexeca-FreeVersion](https://github.com/JasonDerulo1259/Sexeca-FreeVersion): A tool for senecalearning, that gets the answers for the questions, coded in c#  
 [lockphish](https://github.com/jaykali/lockphish): Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.  
 [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet): A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.  
-[syzkaller](https://github.com/google/syzkaller): syzkaller is an unsupervised coverage-guided kernel fuzzer
+[syzkaller](https://github.com/google/syzkaller): syzkaller is an unsupervised coverage-guided kernel fuzzer  
+[UAficionado](https://github.com/quantumcore/UAficionado): Red Team vs Blue Team. Series of  5 challanges. Are you up for it?
