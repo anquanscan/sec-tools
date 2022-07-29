@@ -975,4 +975,5 @@
 [stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app): A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.  
 [gorsh](https://github.com/audibleblink/gorsh): A Golang Reverse Shell w/ a Tmux-driven psuedo-C2 Interface  
 [VulnFanatic](https://github.com/Martyx00/VulnFanatic): A Binary Ninja plugin for vulnerability research.  
-[mad-metasploit](https://github.com/hahwul/mad-metasploit): Metasploit custom modules, plugins, resource script and.. awesome metasploit collection
+[mad-metasploit](https://github.com/hahwul/mad-metasploit): Metasploit custom modules, plugins, resource script and.. awesome metasploit collection  
+[frappe](https://github.com/frappe/frappe): Low code web framework for real world applications, in Python and Javascript
