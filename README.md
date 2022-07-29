@@ -707,4 +707,5 @@
 [rhizobia_J](https://github.com/momosecurity/rhizobia_J): JAVA安全SDK及编码规范  
 [One-Lin3r](https://github.com/D4Vinci/One-Lin3r): Gives you one-liners that aids in penetration testing operations, privilege escalation and more  
 [angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner): Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.  
-[honeyshell](https://github.com/wisepythagoras/honeyshell): An SSH honeypot based on the libssh library written entirely in Go.
+[honeyshell](https://github.com/wisepythagoras/honeyshell): An SSH honeypot based on the libssh library written entirely in Go.  
+[CIS-Ubuntu-20.04-Ansible](https://github.com/alivx/CIS-Ubuntu-20.04-Ansible): Ansible Role to Automate CIS v1.1.0 Ubuntu Linux 18.04 LTS, 20.04 LTS Remediation 
