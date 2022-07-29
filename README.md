@@ -594,4 +594,5 @@
 [heappy](https://github.com/gand3lf/heappy): A happy heap editor to support your exploitation process :slightly_smiling_face:  
 [shreddedmeat](https://github.com/PrismName/shreddedmeat): shredded meat a vulnerability audit tools  
 [jaam](https://github.com/jishanshaikh4/jaam): Web Browser Security Framework  
-[openvpn-gui](https://github.com/OpenVPN/openvpn-gui): OpenVPN GUI is a graphical frontend for OpenVPN running on Windows 7 / 8 / 10. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.
+[openvpn-gui](https://github.com/OpenVPN/openvpn-gui): OpenVPN GUI is a graphical frontend for OpenVPN running on Windows 7 / 8 / 10. It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.  
+[exgdb](https://github.com/miyase256/exgdb): Extension for GDB
