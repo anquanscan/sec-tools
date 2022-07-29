@@ -886,4 +886,5 @@
 [ghorg](https://github.com/gabrie30/ghorg): Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚  
 [code-injector](https://github.com/mustafadalga/code-injector): Aynı ağ içerisinde , ARP Spoofing saldırısı yapılmış hedef bilgisayarın ziyaret ettiği , HTTP protokolünü kullanan web sitelerine kod enjekte ederek manipüle etmenize yarayan bir script.  
 [LFIscanner](https://github.com/R3LI4NT/LFIscanner): Simple Local File Inclusion (LFI) scanner.  
-[xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet): Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
+[xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet): Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.  
+[opensnitch](https://github.com/evilsocket/opensnitch): OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
