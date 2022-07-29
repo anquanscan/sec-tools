@@ -682,4 +682,5 @@
 [XSS-Payload-without-Anything](https://github.com/hahwul/XSS-Payload-without-Anything): XSS Payload without Anything.  
 [STIX-Java](https://github.com/StephenOTT/STIX-Java): STIX 2.x Java Library  
 [unsign](https://github.com/steakknife/unsign): Remove code signatures from OSX Mach-O binaries (note: unsigned binaries cannot currently be re-codesign'ed. Patches welcome!)  
-[advanced-censys-client](https://github.com/Inplex-sys/advanced-censys-client): It's a censys client who able to you to scrape the censys API with multiple api keys. It will able to you to scrape more than 10k ips.
+[advanced-censys-client](https://github.com/Inplex-sys/advanced-censys-client): It's a censys client who able to you to scrape the censys API with multiple api keys. It will able to you to scrape more than 10k ips.  
+[enum4linux-ng](https://github.com/cddmp/enum4linux-ng): A next generation version of enum4linux (a Windows/Samba enumeration tool) with additional features like JSON/YAML export. Aimed for security professionals and CTF players.
