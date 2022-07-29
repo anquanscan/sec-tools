@@ -645,4 +645,5 @@
 [sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy): Sleepy Puppy XSS Payload Management Framework  
 [CVE-2021-3493](https://github.com/inspiringz/CVE-2021-3493): CVE-2021-3493 Ubuntu OverlayFS Local Privesc (Interactive Bash Shell & Execute Command Entered)  
 [struts-scan](https://github.com/Lucifer1993/struts-scan): Python2编写的struts2漏洞全版本检测和利用工具  
-[Amazing-Cybersec-Resources](https://github.com/lohitakshnandan/Amazing-Cybersec-Resources): Amazing Collection of Cyber Security resources (Books, Tutorials, Blogs, Podcasts, ...)
+[Amazing-Cybersec-Resources](https://github.com/lohitakshnandan/Amazing-Cybersec-Resources): Amazing Collection of Cyber Security resources (Books, Tutorials, Blogs, Podcasts, ...)  
+[Valet](https://github.com/square/Valet): Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
