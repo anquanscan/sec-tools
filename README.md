@@ -992,4 +992,5 @@
 [tracee](https://github.com/aquasecurity/tracee): Linux Runtime Security and Forensics using eBPF  
 [WWWE](https://github.com/chrispetrou/WWWE): :droplet: Check your email(s) using popular online services to see if it appears in any data-breach  
 [Simple-CTF-Writeups](https://github.com/rc4ne/Simple-CTF-Writeups): CTF Writeups  
-[aws-ecr-continuous-scan](https://github.com/t04glovern/aws-ecr-continuous-scan): ECR Container Image Re-Scan
+[aws-ecr-continuous-scan](https://github.com/t04glovern/aws-ecr-continuous-scan): ECR Container Image Re-Scan  
+[hblock](https://github.com/hectorm/hblock): Improve your security and privacy by blocking ads, tracking and malware domains.
