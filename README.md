@@ -652,4 +652,5 @@
 [0x02-ARM-32-Hacking-Int](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int): ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.  
 [XAttacker](https://github.com/Moham3dRiahi/XAttacker): X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter  
 [chain-bench](https://github.com/aquasecurity/chain-bench): An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.  
-[xira](https://github.com/xadhrit/xira): xss vulnerability scanner and input fuzzing tool.
+[xira](https://github.com/xadhrit/xira): xss vulnerability scanner and input fuzzing tool.  
+[PoW-Shield](https://github.com/RuiSiang/PoW-Shield): Project dedicated to fight Layer 7 DDoS with proof of work, featuring an additional WAF. Completed with full set of features and containerized for rapid and lightweight deployment.
