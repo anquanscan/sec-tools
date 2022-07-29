@@ -990,4 +990,5 @@
 [FlameCord](https://github.com/2lstudios-mc/FlameCord): Patches for Waterfall to improve overall performance, fix memory issues and protect against attacks.  
 [spring-break_cve-2017-8046](https://github.com/m3ssap0/spring-break_cve-2017-8046): This is a Java program that exploits Spring Break vulnerability (CVE-2017-8046).  
 [tracee](https://github.com/aquasecurity/tracee): Linux Runtime Security and Forensics using eBPF  
-[WWWE](https://github.com/chrispetrou/WWWE): :droplet: Check your email(s) using popular online services to see if it appears in any data-breach
+[WWWE](https://github.com/chrispetrou/WWWE): :droplet: Check your email(s) using popular online services to see if it appears in any data-breach  
+[Simple-CTF-Writeups](https://github.com/rc4ne/Simple-CTF-Writeups): CTF Writeups
