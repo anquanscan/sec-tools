@@ -718,4 +718,5 @@
 [InfiniDrive](https://github.com/DavidBerdik/InfiniDrive): A project that leverages Google Drive's API and "0 size file" rules for native Docs for unlimited storage space. - A SteelHacks 2019 Project  
 [sipcheck](https://github.com/sinologicnet/sipcheck): SIPCheck is a tool that watch the authentication of users of Asterisk and bans automatically if some user (or bot) try to register o make calls using wrong passwords.   
 [Awesome-Honeypot](https://github.com/code-byter/Awesome-Honeypot): Cowrie Honeypot with Elasticsearch  
-[Keye](https://github.com/clirimemini/Keye): Keye is a reconnaissance tool that was written in Python with SQLite3 integrated. After adding a single URL, or a list of URLs, it will make a request to these URLs and try to detect changes based on their response's body length.
+[Keye](https://github.com/clirimemini/Keye): Keye is a reconnaissance tool that was written in Python with SQLite3 integrated. After adding a single URL, or a list of URLs, it will make a request to these URLs and try to detect changes based on their response's body length.  
+[WebInfraScanner](https://github.com/devershichandra27/WebInfraScanner): A vulnerability scanner designed for remote web server. Uses nmap and whatweb extensively
