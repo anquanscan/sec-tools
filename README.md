@@ -673,4 +673,5 @@
 [wsltools](https://github.com/Symbo1/wsltools): Web Scan Lazy Tools - Python Package  
 [KubeArmor](https://github.com/kubearmor/KubeArmor): Cloud-native Runtime Security Enforcement System  
 [redis-exploit](https://github.com/fagray/redis-exploit): an exploit to an open redis instance  
-[penetration-script](https://github.com/saucer-man/penetration-script): 渗透测试脚本，为防忘记开设（垃圾桶）
+[penetration-script](https://github.com/saucer-man/penetration-script): 渗透测试脚本，为防忘记开设（垃圾桶）  
+[WriteUps](https://github.com/deut-erium/WriteUps): Repository for writeups of ctf challenges
