@@ -600,4 +600,5 @@
 [0x03-ARM-32-Hacking-Float](https://github.com/mytechnotalent/0x03-ARM-32-Hacking-Float): ARM 32-bit Raspberry Pi Hacking Float example in Kali Linux.  
 [ciscoasa_honeypot](https://github.com/Cymmetria/ciscoasa_honeypot): A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.  
 [evilkit](https://github.com/krishpranav/evilkit): A Simple Backdoor ToolKit Using Rust  
-[GIVINGSTORM](https://github.com/rustrose/GIVINGSTORM): Infection vector that bypasses AV, IDS, and IPS. (For now...)
+[GIVINGSTORM](https://github.com/rustrose/GIVINGSTORM): Infection vector that bypasses AV, IDS, and IPS. (For now...)  
+[claircli](https://github.com/joelee2012/claircli): Command line tool to interact with Quay Clair
