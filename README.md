@@ -811,4 +811,5 @@
 [linuxboot](https://github.com/linuxboot/linuxboot): The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.  
 [fileintel](https://github.com/keithjjones/fileintel): A modular Python application to pull intelligence about malicious files  
 [jexboss](https://github.com/joaomatosf/jexboss): JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool  
-[FairEmail](https://github.com/M66B/FairEmail): Fully featured, open source, privacy friendly email app for Android
+[FairEmail](https://github.com/M66B/FairEmail): Fully featured, open source, privacy friendly email app for Android  
+[ICS-Security-Products](https://github.com/S3cur1tyH4ggis/ICS-Security-Products): Lists of products useful for ICS security
