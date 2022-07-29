@@ -806,4 +806,5 @@
 [fast-security-scanners](https://github.com/whitespots/fast-security-scanners): Security checks for your researches  
 [Hacking-P-B](https://github.com/ORCA666/Hacking-P-B): the only place u can acquire knowledge   
 [Pwnlab-Security-Resources](https://github.com/PwnLabMe-Project/Pwnlab-Security-Resources): Sharing our knowledge and resources in the field of cyber security  
-[Security4Delphi](https://github.com/ezequieljuliano/Security4Delphi): Enables and use of the concept of security in your Delphi applications
+[Security4Delphi](https://github.com/ezequieljuliano/Security4Delphi): Enables and use of the concept of security in your Delphi applications  
+[ansvif](https://github.com/oxagast/ansvif): A Not So Very Intelligent Fuzzer: An advanced fuzzing framework designed to find vulnerabilities in C/C++ code.
