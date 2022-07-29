@@ -722,4 +722,5 @@
 [WebInfraScanner](https://github.com/devershichandra27/WebInfraScanner): A vulnerability scanner designed for remote web server. Uses nmap and whatweb extensively  
 [linux-russian-roulette](https://github.com/thebabush/linux-russian-roulette): Like Russian roulette, but for your kernel.  
 [WMAT](https://github.com/Ivan-Markovic/WMAT): WMAT is automatic tool for testing webmail accounts. Support SSL pages, have automatic generator for default passwords. XML driven patterns. Included on Backtrack Linux 4.  
-[pysdk-core](https://github.com/XQ-Message-Inc/pysdk-core): A Python Implementation of XQ Message SDK (V.2) which provides convenient access to the XQ Message API. 
+[pysdk-core](https://github.com/XQ-Message-Inc/pysdk-core): A Python Implementation of XQ Message SDK (V.2) which provides convenient access to the XQ Message API.   
+[IRIS](https://github.com/IRIS-Team/IRIS): 🔍  IRIS: An open-source intelligence framework
