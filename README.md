@@ -640,4 +640,5 @@
 [jake](https://github.com/sonatype-nexus-community/jake): Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
 [zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist): Checklist of security precautions for Ruby on Rails applications.  
 [Roblox-Dev](https://github.com/Professor-Puddle/Roblox-Dev): An awesome Roblox Exploit for Roblox  
-[XSS-LOADER](https://github.com/capture0x/XSS-LOADER): Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder
+[XSS-LOADER](https://github.com/capture0x/XSS-LOADER): Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder  
+[information-security](https://github.com/JakobTheDev/information-security): A place where I can create, collect and share tooling, resources and knowledge about information security.
