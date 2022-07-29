@@ -742,4 +742,5 @@
 [xray](https://github.com/chaitin/xray): 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档  
 [SuperLibrary](https://github.com/MrM8BRH/SuperLibrary): Information Security Library  
 [SQLzr-i](https://github.com/mfazrinizar/SQLzr-i): This is a Perl program to do an automated SQL Injection for pentesting web's SQL database protection. Coded by M.Fazri Nizar.  
-[CTI-Quiz](https://github.com/BushidoUK/CTI-Quiz): Practice CTI Quiz
+[CTI-Quiz](https://github.com/BushidoUK/CTI-Quiz): Practice CTI Quiz  
+[DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper): DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
