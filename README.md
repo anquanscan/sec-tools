@@ -721,4 +721,5 @@
 [Keye](https://github.com/clirimemini/Keye): Keye is a reconnaissance tool that was written in Python with SQLite3 integrated. After adding a single URL, or a list of URLs, it will make a request to these URLs and try to detect changes based on their response's body length.  
 [WebInfraScanner](https://github.com/devershichandra27/WebInfraScanner): A vulnerability scanner designed for remote web server. Uses nmap and whatweb extensively  
 [linux-russian-roulette](https://github.com/thebabush/linux-russian-roulette): Like Russian roulette, but for your kernel.  
-[WMAT](https://github.com/Ivan-Markovic/WMAT): WMAT is automatic tool for testing webmail accounts. Support SSL pages, have automatic generator for default passwords. XML driven patterns. Included on Backtrack Linux 4.
+[WMAT](https://github.com/Ivan-Markovic/WMAT): WMAT is automatic tool for testing webmail accounts. Support SSL pages, have automatic generator for default passwords. XML driven patterns. Included on Backtrack Linux 4.  
+[pysdk-core](https://github.com/XQ-Message-Inc/pysdk-core): A Python Implementation of XQ Message SDK (V.2) which provides convenient access to the XQ Message API. 
