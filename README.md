@@ -824,4 +824,5 @@
 [pwninit](https://github.com/io12/pwninit): pwninit - automate starting binary exploit challenges  
 [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning): 安全场景、基于AI的安全算法和安全数据分析业界实践  
 [linux-anti-recon](https://github.com/brodzik/linux-anti-recon): Linux anti-reconnaissance kernel module. Mitigates OS fingerprinting and service detection. Based on "A deception based approach for defeating OS and service fingerprinting" by M. Albanese, E. Battista and S. Jajodia.  
-[wwwordlist](https://github.com/Zarcolio/wwwordlist): Wwwordlist is a wordlist generator. It extract words from HTML, URLs, JS/HTTP/input variables, quoted texts in the text and mail files.
+[wwwordlist](https://github.com/Zarcolio/wwwordlist): Wwwordlist is a wordlist generator. It extract words from HTML, URLs, JS/HTTP/input variables, quoted texts in the text and mail files.  
+[Ironsquirrel](https://github.com/MRGEffitas/Ironsquirrel): Encrypted exploit delivery for the masses
