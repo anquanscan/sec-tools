@@ -580,4 +580,5 @@
 [CVE-2020-9283](https://github.com/brompwnie/CVE-2020-9283): Exploit for CVE-2020-9283 based on Go   
 [zenbuster](https://github.com/0xTas/zenbuster): Multi-threaded URL enumeration/brute-forcing tool in Python.  
 [osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): A collection of several hundred online tools for OSINT  
-[brakeman](https://github.com/presidentbeef/brakeman): A static analysis security vulnerability scanner for Ruby on Rails applications
+[brakeman](https://github.com/presidentbeef/brakeman): A static analysis security vulnerability scanner for Ruby on Rails applications  
+[jerseyctf-2021-challenges](https://github.com/njitacm/jerseyctf-2021-challenges): JerseyCTF 2021
