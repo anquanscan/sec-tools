@@ -614,4 +614,5 @@
 [heap-viewer](https://github.com/danigargu/heap-viewer): IDA Pro plugin to examine the glibc heap, focused on exploit development  
 [vulture-base](https://github.com/VultureProject/vulture-base): Vulture 4 base system and bootstrap scripts  
 [indocrack](https://github.com/htr-tech/indocrack): All in one Indian Facebook Account Cloner [ 7/8/9/10 DIGIT ]  
-[wsvuls](https://github.com/anouarbensaad/wsvuls): wsvuls - website vulnerability scanner detect issues [ outdated server software and insecure HTTP headers.]
+[wsvuls](https://github.com/anouarbensaad/wsvuls): wsvuls - website vulnerability scanner detect issues [ outdated server software and insecure HTTP headers.]  
+[thewhiteh4t.github.io](https://github.com/thewhiteh4t/thewhiteh4t.github.io): thewhiteh4t's Blog
