@@ -762,4 +762,5 @@
 [Wifi-Sentinel](https://github.com/caelan-a/Wifi-Sentinel): A service that runs on a Raspberry Pi Zero W to identify and log wifi devices entering your home.  
 [wannaNotes](https://github.com/impulsado/wannaNotes): Markdown Cybersecurity Notes  
 [DeepScan](https://github.com/tahmed11/DeepScan): A simple shell script which utilizes nmap, nikto, dirb, enum4linux and other open source goodies to automate enumeration process.  
-[dheater](https://github.com/Balasys/dheater): D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange.
+[dheater](https://github.com/Balasys/dheater): D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange.  
+[BITS-v5.5](https://github.com/BITS-Editor/BITS-v5.5): Behörden-IT-Sicherheitstraining bis v5.5
