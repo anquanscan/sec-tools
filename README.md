@@ -965,4 +965,5 @@
 [ByteCog](https://github.com/IlluminatiFish/ByteCog): A way to analyse how malware and/or goodware samples vary from each other using Shannon Entropy, Hausdorff Distance and Jaro-Winkler Distance  
 [caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS  
 [sysmon-modular](https://github.com/olafhartong/sysmon-modular): A repository of sysmon configuration modules  
-[mitreattack-python](https://github.com/mitre-attack/mitreattack-python): A python module for working with ATT&CK
+[mitreattack-python](https://github.com/mitre-attack/mitreattack-python): A python module for working with ATT&CK  
+[Croissanted.py](https://github.com/arthur-pte/Croissanted.py): A Python script exploiting Discord's authorization token.
