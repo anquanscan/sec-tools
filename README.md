@@ -935,4 +935,5 @@
 [Probe_spider](https://github.com/Aravindha1234u/Probe_spider): Probe_Spider is a Open Source Intelligence Tool made complete out of Python.  
 [C2-Pwn](https://github.com/LukeBob-zz/C2-Pwn): Uses Shodan API to pull down C2 servers to run known exploits on them.  
 [objection](https://github.com/sensepost/objection): 📱 objection - runtime mobile exploration  
-[CyberSecurity_Conferences](https://github.com/MrM8BRH/CyberSecurity_Conferences): List of some cybersecurity conferences 
+[CyberSecurity_Conferences](https://github.com/MrM8BRH/CyberSecurity_Conferences): List of some cybersecurity conferences   
+[Speedhack](https://github.com/absoIute/Speedhack): Speedhack coded in C++, inspired by Cheat Engine's own speedhack.
