@@ -878,4 +878,5 @@
 [HolisticInfoSec-For-WebDevelopers-Fascicle0](https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle0): :books: Overview :lock: Tooling :lock: Process :lock: Physical :lock: People :books:  
 [Robber](https://github.com/MojtabaTajik/Robber): Robber is open source tool for finding executables prone to DLL hijacking  
 [awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security): A curated list of awesome iOS application security resources.  
-[TIWAP](https://github.com/tombstoneghost/TIWAP): Totally Insecure Web Application Project (TIWAP)
+[TIWAP](https://github.com/tombstoneghost/TIWAP): Totally Insecure Web Application Project (TIWAP)  
+[SusCheck](https://github.com/k0rnh0li0/SusCheck): Reveals impostors in Among Us
