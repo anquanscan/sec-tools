@@ -982,4 +982,5 @@
 [MonarcAppFO](https://github.com/monarc-project/MonarcAppFO): MONARC - Method for an Optimised aNAlysis of Risks by @CASES-LU  
 [BucketsHunter](https://github.com/DanielAzulayy/BucketsHunter): A CLI tool to find open buckets, misconfigurations, and dump bucket contents - under dev  
 [inthewilddb](https://github.com/gmatuz/inthewilddb): Hourly updated database of exploit and exploitation reports  
-[winafl](https://github.com/googleprojectzero/winafl): A fork of AFL for fuzzing Windows binaries
+[winafl](https://github.com/googleprojectzero/winafl): A fork of AFL for fuzzing Windows binaries  
+[box-Authorizer](https://github.com/boxproject/box-Authorizer): PKApp is used to start, stop and authorise approval flow of authorizer.
