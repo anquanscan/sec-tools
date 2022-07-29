@@ -734,4 +734,5 @@
 [CTF-WriteUps](https://github.com/m0rphtail/CTF-WriteUps): Writeups for the CTFs I solve  
 [ORLFTExploit](https://github.com/JLDevOps/ORLFTExploit): Exploit script to constantly get free access to O'Reilly Learning material via their Free Trial Page - https://learning.oreilly.com/register/  
 [site-vulns-finder](https://github.com/ntexe/site-vulns-finder): Scans site for vulnerabilities, such as admin panels, logs  
-[TorBot](https://github.com/DedSecInside/TorBot): Dark Web OSINT Tool
+[TorBot](https://github.com/DedSecInside/TorBot): Dark Web OSINT Tool  
+[Vine](https://github.com/CompanionCubeGD/Vine): Python 3 Hacking Tools
