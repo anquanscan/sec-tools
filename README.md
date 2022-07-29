@@ -768,4 +768,5 @@
 [BlockList-Malware](https://github.com/Esox-Lucius/BlockList-Malware): Making Blocklists/blacklists with data from AlienVault Threat Exchange.            CC0 1.0 Universal  
 [PENTOL](https://github.com/radenvodka/PENTOL): PENTOL - Pentester Toolkit for Fiddler2  
 [privapi](https://github.com/Veridax/privapi): Detect Sensitive REST API communication using Deep Neural Networks  
-[adversarial-MTSR](https://github.com/dependable-cps/adversarial-MTSR)
+[adversarial-MTSR](https://github.com/dependable-cps/adversarial-MTSR)  
+[AndroidSecNotes](https://github.com/iamsarvagyaa/AndroidSecNotes): An actively maintained, Self curated notes related to android application security for security professionals, bugbounty hunters,  pentesters, reverse engineer, and redteamers.
