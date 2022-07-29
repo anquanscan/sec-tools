@@ -765,4 +765,5 @@
 [dheater](https://github.com/Balasys/dheater): D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange.  
 [BITS-v5.5](https://github.com/BITS-Editor/BITS-v5.5): Behörden-IT-Sicherheitstraining bis v5.5  
 [scapy](https://github.com/secdev/scapy): Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.  
-[BlockList-Malware](https://github.com/Esox-Lucius/BlockList-Malware): Making Blocklists/blacklists with data from AlienVault Threat Exchange.            CC0 1.0 Universal
+[BlockList-Malware](https://github.com/Esox-Lucius/BlockList-Malware): Making Blocklists/blacklists with data from AlienVault Threat Exchange.            CC0 1.0 Universal  
+[PENTOL](https://github.com/radenvodka/PENTOL): PENTOL - Pentester Toolkit for Fiddler2
