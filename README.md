@@ -579,4 +579,5 @@
 [rengine](https://github.com/yogeshojha/rengine): reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.  
 [CVE-2020-9283](https://github.com/brompwnie/CVE-2020-9283): Exploit for CVE-2020-9283 based on Go   
 [zenbuster](https://github.com/0xTas/zenbuster): Multi-threaded URL enumeration/brute-forcing tool in Python.  
-[osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): A collection of several hundred online tools for OSINT
+[osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): A collection of several hundred online tools for OSINT  
+[brakeman](https://github.com/presidentbeef/brakeman): A static analysis security vulnerability scanner for Ruby on Rails applications
