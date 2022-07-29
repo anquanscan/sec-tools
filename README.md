@@ -695,4 +695,5 @@
 [burp-shell-fwd-lfi](https://github.com/gnothiseautonlw/burp-shell-fwd-lfi): A Burp Suite plugin/extension that offers a shell in Burp. Both useful for OS Command injection and LFI exploration  
 [Monitor-pastebin-leaks](https://github.com/OdinF13/Monitor-pastebin-leaks): Script to monitor pastebin.com's public pastes for sensitive data leakage  
 [tryhackme-ctf](https://github.com/edoardottt/tryhackme-ctf): TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions.  
-[metta](https://github.com/uber-common/metta): An information security preparedness tool to do adversarial simulation.
+[metta](https://github.com/uber-common/metta): An information security preparedness tool to do adversarial simulation.  
+[FreeFire-Phishing](https://github.com/OnlineHacKing/FreeFire-Phishing): Free Fire Account Hack Phishing tool with Termux 
