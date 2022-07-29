@@ -620,4 +620,5 @@
 [can2RNET](https://github.com/redragonx/can2RNET): This repo has code and documentation to control power-wheelchairs with R-Net electronics.  
 [AIVPN](https://github.com/stratosphereips/AIVPN): The AI VPN provides an security assessment of VPN clients' network traffic to identify cyber security threats.  
 [MemWars](https://github.com/moccajoghurt/MemWars)  
-[security-trust-settings-tools](https://github.com/ntkme/security-trust-settings-tools): :lock: OS X Keychain Trust Settings Tools.
+[security-trust-settings-tools](https://github.com/ntkme/security-trust-settings-tools): :lock: OS X Keychain Trust Settings Tools.  
+[ctf-awesome-resources](https://github.com/devploit/ctf-awesome-resources): A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players 🚩
