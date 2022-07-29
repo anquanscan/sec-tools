@@ -809,4 +809,5 @@
 [Security4Delphi](https://github.com/ezequieljuliano/Security4Delphi): Enables and use of the concept of security in your Delphi applications  
 [ansvif](https://github.com/oxagast/ansvif): A Not So Very Intelligent Fuzzer: An advanced fuzzing framework designed to find vulnerabilities in C/C++ code.  
 [linuxboot](https://github.com/linuxboot/linuxboot): The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.  
-[fileintel](https://github.com/keithjjones/fileintel): A modular Python application to pull intelligence about malicious files
+[fileintel](https://github.com/keithjjones/fileintel): A modular Python application to pull intelligence about malicious files  
+[jexboss](https://github.com/joaomatosf/jexboss): JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool
