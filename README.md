@@ -880,4 +880,5 @@
 [awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security): A curated list of awesome iOS application security resources.  
 [TIWAP](https://github.com/tombstoneghost/TIWAP): Totally Insecure Web Application Project (TIWAP)  
 [SusCheck](https://github.com/k0rnh0li0/SusCheck): Reveals impostors in Among Us  
-[laravel-url-signer](https://github.com/spatie/laravel-url-signer): Create and validate signed URLs with a limited lifetime
+[laravel-url-signer](https://github.com/spatie/laravel-url-signer): Create and validate signed URLs with a limited lifetime  
+[nosqlInjector](https://github.com/blessingcharles/nosqlInjector): A nosql automated injection tools for nonrelational guys
