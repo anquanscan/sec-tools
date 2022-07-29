@@ -761,4 +761,5 @@
 [arachni-docked](https://github.com/umbraesoulsbane/arachni-docked): This is a skeleton project for working with Arachni (https://www.arachni-scanner.com/), a web application security scanner framework, in a Docker environment.   
 [Wifi-Sentinel](https://github.com/caelan-a/Wifi-Sentinel): A service that runs on a Raspberry Pi Zero W to identify and log wifi devices entering your home.  
 [wannaNotes](https://github.com/impulsado/wannaNotes): Markdown Cybersecurity Notes  
-[DeepScan](https://github.com/tahmed11/DeepScan): A simple shell script which utilizes nmap, nikto, dirb, enum4linux and other open source goodies to automate enumeration process.
+[DeepScan](https://github.com/tahmed11/DeepScan): A simple shell script which utilizes nmap, nikto, dirb, enum4linux and other open source goodies to automate enumeration process.  
+[dheater](https://github.com/Balasys/dheater): D(HE)ater is a proof of concept implementation of the D(HE)at  attack (CVE-2002-20001) through which denial-of-service can be performed by enforcing the Diffie-Hellman key exchange.
