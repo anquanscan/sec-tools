@@ -919,4 +919,5 @@
 [bb-tips-tricks](https://github.com/rudrasingh99/bb-tips-tricks): Just Some Tips & Tricks for BB found on the Internet :D  
 [streamalert](https://github.com/airbnb/streamalert): StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.  
 [Shellcode-Extractor](https://github.com/Neetx/Shellcode-Extractor): Python script to extract shellcode from linux executables  
-[IsmailScript](https://github.com/thearrival/IsmailScript): Is a tool written by using python programming language. Enable a penetration testers to save a time and performing a full Reconnaissance and Information Gathering on any Web Application Server.
+[IsmailScript](https://github.com/thearrival/IsmailScript): Is a tool written by using python programming language. Enable a penetration testers to save a time and performing a full Reconnaissance and Information Gathering on any Web Application Server.  
+[Microsoft-Sentinel-4-SecOps](https://github.com/eshlomo1/Microsoft-Sentinel-4-SecOps): Microsoft Sentinel 4 SecOps
