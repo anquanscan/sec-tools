@@ -775,4 +775,5 @@
 [k8gege.github.io](https://github.com/k8gege/k8gege.github.io): K8博客  
 [ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan): GitHub Action to check for vulnerabilities in your container image  
 [net.security](https://github.com/r-net-tools/net.security): Security R package with a set of utils to analyse the different industry standards (MITRE and NIST).  
-[Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs): Practical Ethical Hacking Labs 🗡🛡
+[Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs): Practical Ethical Hacking Labs 🗡🛡  
+[exploit-pattern](https://github.com/Svenito/exploit-pattern): generate and search pattern string for exploit development 
