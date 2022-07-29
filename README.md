@@ -908,4 +908,5 @@
 [vechain-core-nodes-security-checklist](https://github.com/slowmist/vechain-core-nodes-security-checklist): VeChain core nodes security checklist（唯链核心节点安全执行指南）  
 [helmet](https://github.com/helmetjs/helmet): Help secure Express apps with various HTTP headers  
 [PatrowlEngines](https://github.com/Patrowl/PatrowlEngines): PatrOwl - Open Source, Free and Scalable Security Operations Orchestration Platform  
-[yookiterm-slides](https://github.com/dobin/yookiterm-slides): Exploitation and Mitigation Slides
+[yookiterm-slides](https://github.com/dobin/yookiterm-slides): Exploitation and Mitigation Slides  
+[SecureBit](https://github.com/richeshgupta/SecureBit): SecureBit is a chat client where Security is number one priority. B)
