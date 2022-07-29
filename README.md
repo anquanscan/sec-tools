@@ -865,4 +865,5 @@
 [Anti-Debugging](https://github.com/ThomasThelen/Anti-Debugging): A collection of c++ programs that demonstrate common ways to detect the presence of an attached debugger.  
 [qualys_parser](https://github.com/eRaMvn/qualys_parser): CLI tool that parses the csv report from Qualys and gives quick result  
 [awesome-hacking](https://github.com/jekil/awesome-hacking): Awesome hacking is an awesome collection of hacking tools.  
-[CVE-2018-10583](https://github.com/MrTaherAmine/CVE-2018-10583): An information disclosure vulnerability occurs when LibreOffice 6.0.3 and Apache OpenOffice Writer 4.1.5 automatically process and initiate an SMB connection embedded in a malicious file, as demonstrated by "xlink:href=file://192.168.0.2/test.jpg" within an "office:document-content" element in a ".odt XML document".
+[CVE-2018-10583](https://github.com/MrTaherAmine/CVE-2018-10583): An information disclosure vulnerability occurs when LibreOffice 6.0.3 and Apache OpenOffice Writer 4.1.5 automatically process and initiate an SMB connection embedded in a malicious file, as demonstrated by "xlink:href=file://192.168.0.2/test.jpg" within an "office:document-content" element in a ".odt XML document".  
+[Scout](https://github.com/TheHairyJ/Scout): Scout - a Contactless Active Reconnaissance Tool
