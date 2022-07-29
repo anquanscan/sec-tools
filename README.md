@@ -656,4 +656,5 @@
 [PoW-Shield](https://github.com/RuiSiang/PoW-Shield): Project dedicated to fight Layer 7 DDoS with proof of work, featuring an additional WAF. Completed with full set of features and containerized for rapid and lightweight deployment.  
 [CEH_v10_Dumps](https://github.com/omurugur/CEH_v10_Dumps): Certified Ethical Hacker ( C|EH v.10 ) Dump   
 [stegseek](https://github.com/RickdeJager/stegseek): :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:  
-[Richkware](https://github.com/richkmeli/Richkware): Framework for building Windows malware, written in C++
+[Richkware](https://github.com/richkmeli/Richkware): Framework for building Windows malware, written in C++  
+[LROSecurity](https://github.com/cltc-berkeley/LROSecurity): This guide is intended as an introductory document for low-risk organizations interested in improving their cybersecurity practices. Produced by Citizen Clinic at UC Berkeley's Center for Long-Term Cybersecurity. An introduction to this guide, and an overview on how to use it, can be seen on TechSoup: 
