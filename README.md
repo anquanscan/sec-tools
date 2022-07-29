@@ -848,4 +848,5 @@
 [Kong-API-Manager](https://github.com/safernandez666/Kong-API-Manager): Kong API Manager with Prometheus And Graylog  
 [Hacktoberfest2020](https://github.com/IzaquielCordeiro/Hacktoberfest2020): Submit your samples here :D  
 [Gr33k](https://github.com/lijiaxing1997/Gr33k): 图形化漏洞利用集成工具  
-[ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
+[ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.  
+[cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Red Team (Offensive) in Cybersecurity.
