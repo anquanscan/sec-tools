@@ -651,4 +651,5 @@
 [reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks): A chronological and (hopefully) complete list of reentrancy attacks to date.  
 [0x02-ARM-32-Hacking-Int](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int): ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.  
 [XAttacker](https://github.com/Moham3dRiahi/XAttacker): X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter  
-[chain-bench](https://github.com/aquasecurity/chain-bench): An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
+[chain-bench](https://github.com/aquasecurity/chain-bench): An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.  
+[xira](https://github.com/xadhrit/xira): xss vulnerability scanner and input fuzzing tool.
