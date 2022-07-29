@@ -832,4 +832,5 @@
 [1nternist.github.io](https://github.com/1nternist/1nternist.github.io): 1nternist's Cydia repository on Github  
 [ownlist](https://github.com/thelikes/ownlist): Weekly compilation of offensive security tools and write-ups  
 [halfempty](https://github.com/googleprojectzero/halfempty): A fast, parallel test case minimization tool.  
-[secureCodeBox](https://github.com/secureCodeBox/secureCodeBox): secureCodeBox (SCB) - continuous secure delivery out of the box 
+[secureCodeBox](https://github.com/secureCodeBox/secureCodeBox): secureCodeBox (SCB) - continuous secure delivery out of the box   
+[hacking-tool](https://github.com/rixon-cochi/hacking-tool): Social media & camera hacking & whatsapp virus & SMS bombing
