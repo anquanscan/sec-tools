@@ -913,4 +913,5 @@
 [SyntheticSun](https://github.com/jonrau1/SyntheticSun): SyntheticSun is a defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to continuously prevent, detect and respond to threats.  
 [ExtensionSpoofer](https://github.com/henriksb/ExtensionSpoofer): Spoof file icons and extensions in Windows  
 [adminexploit](https://github.com/daddyparodz/adminexploit): this is the fastest way that you can get admin rights at work,school,etc in only a few seconds  
-[awesome-R-cyber-security](https://github.com/MonaxGT/awesome-R-cyber-security): awesome-R-cyber-security
+[awesome-R-cyber-security](https://github.com/MonaxGT/awesome-R-cyber-security): awesome-R-cyber-security  
+[komand-tools](https://github.com/jaegeral/komand-tools): A dedicated repo to interact with the API of Rapid 7 Komand API
