@@ -618,4 +618,5 @@
 [thewhiteh4t.github.io](https://github.com/thewhiteh4t/thewhiteh4t.github.io): thewhiteh4t's Blog  
 [hacker-roadmap](https://github.com/sundowndev/hacker-roadmap): A collection of hacking tools, resources and references to practice ethical hacking.  
 [can2RNET](https://github.com/redragonx/can2RNET): This repo has code and documentation to control power-wheelchairs with R-Net electronics.  
-[AIVPN](https://github.com/stratosphereips/AIVPN): The AI VPN provides an security assessment of VPN clients' network traffic to identify cyber security threats.
+[AIVPN](https://github.com/stratosphereips/AIVPN): The AI VPN provides an security assessment of VPN clients' network traffic to identify cyber security threats.  
+[MemWars](https://github.com/moccajoghurt/MemWars)
