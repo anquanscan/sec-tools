@@ -701,4 +701,5 @@
 [RWCTF-FastStructureCache](https://github.com/A2nkF/RWCTF-FastStructureCache): My heavily commented analysis/reimplementation of the exploit for the FastStructureCache WebKit 1day Challenge from 2019's RealWorld CTF finals  
 [Red-Team-Essentials](https://github.com/hexachordanu/Red-Team-Essentials): This repo will contain some basic pentest/RT commands.   
 [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth): Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes  
-[jsbackdoor](https://github.com/SVelizDonoso/jsbackdoor): Script que por medio de un XSS permite la ejecución remota de JavaScript utilizando un Socket Server. El script es muy simple y sencillo, especial para principiantes que deseen aprender más sobre Python y ataques del lado del cliente.
+[jsbackdoor](https://github.com/SVelizDonoso/jsbackdoor): Script que por medio de un XSS permite la ejecución remota de JavaScript utilizando un Socket Server. El script es muy simple y sencillo, especial para principiantes que deseen aprender más sobre Python y ataques del lado del cliente.  
+[WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide): WireGuard Guide
