@@ -738,4 +738,5 @@
 [Vine](https://github.com/CompanionCubeGD/Vine): Python 3 Hacking Tools  
 [malidate](https://github.com/redfast00/malidate): A logging DNS and HTTP(S) server. Opensource alternative to some parts of the Burpsuite Collaborator server.  
 [Amazing-Bug-Bounty-Path](https://github.com/lohitakshnandan/Amazing-Bug-Bounty-Path): Amazing Collection of Bug Bounty Hunting resources  
-[labsecurity](https://github.com/dylanmeca/labsecurity): labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface
+[labsecurity](https://github.com/dylanmeca/labsecurity): labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface  
+[xray](https://github.com/chaitin/xray): 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
