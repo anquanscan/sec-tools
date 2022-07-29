@@ -914,4 +914,5 @@
 [ExtensionSpoofer](https://github.com/henriksb/ExtensionSpoofer): Spoof file icons and extensions in Windows  
 [adminexploit](https://github.com/daddyparodz/adminexploit): this is the fastest way that you can get admin rights at work,school,etc in only a few seconds  
 [awesome-R-cyber-security](https://github.com/MonaxGT/awesome-R-cyber-security): awesome-R-cyber-security  
-[komand-tools](https://github.com/jaegeral/komand-tools): A dedicated repo to interact with the API of Rapid 7 Komand API
+[komand-tools](https://github.com/jaegeral/komand-tools): A dedicated repo to interact with the API of Rapid 7 Komand API  
+[Malicious-Urlv5](https://github.com/abhisheksaxena1998/Malicious-Urlv5): A multi-layered and multi-tiered Machine Learning security solution, it supports always on detection system, Django REST framework used, equipped with a web-browser extension that uses a REST API call.
