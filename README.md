@@ -776,4 +776,5 @@
 [ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan): GitHub Action to check for vulnerabilities in your container image  
 [net.security](https://github.com/r-net-tools/net.security): Security R package with a set of utils to analyse the different industry standards (MITRE and NIST).  
 [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs): Practical Ethical Hacking Labs 🗡🛡  
-[exploit-pattern](https://github.com/Svenito/exploit-pattern): generate and search pattern string for exploit development 
+[exploit-pattern](https://github.com/Svenito/exploit-pattern): generate and search pattern string for exploit development   
+[MixewayOpenVASRestAPI](https://github.com/Mixeway/MixewayOpenVASRestAPI): JAVA Spring-Boot implementation of REST API for OpenVAS Security Vulnerability Scanner. REST API is using gvm-cli in order to communicate with OpenVAS
