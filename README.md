@@ -592,4 +592,5 @@
 [AntiDDOS-system](https://github.com/Sanix-Darker/AntiDDOS-system): 🛡️⚔️ Protect your web app from DDOS attack or the Dead Ping + CAPTCHA VERIFICATION in one line!  
 [gopwn](https://github.com/hupe1980/gopwn): Golang CTF framework and exploit development module  
 [heappy](https://github.com/gand3lf/heappy): A happy heap editor to support your exploitation process :slightly_smiling_face:  
-[shreddedmeat](https://github.com/PrismName/shreddedmeat): shredded meat a vulnerability audit tools
+[shreddedmeat](https://github.com/PrismName/shreddedmeat): shredded meat a vulnerability audit tools  
+[jaam](https://github.com/jishanshaikh4/jaam): Web Browser Security Framework
