@@ -605,4 +605,5 @@
 [onionize](https://github.com/Anish-M-code/onionize): Script to create Onion Mirror for Clearnet site based on Enterprise Onion Toolkit  
 [EmailAll](https://github.com/Taonn/EmailAll): EmailAll is a powerful Email Collect tool — 一款强大的邮箱收集工具  
 [ScanPro](https://github.com/AnLoMinus/ScanPro): ScanPro - NMap Scanning Scripts ~ Network Mapper  
-[cve-2019-14326](https://github.com/seqred-s-a/cve-2019-14326): Privilege escalation in Andy emulator
+[cve-2019-14326](https://github.com/seqred-s-a/cve-2019-14326): Privilege escalation in Andy emulator  
+[gitoops](https://github.com/ovotech/gitoops): all paths lead to clouds
