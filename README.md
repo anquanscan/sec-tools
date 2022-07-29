@@ -611,4 +611,5 @@
 [riceteacatpanda](https://github.com/JEF1056/riceteacatpanda): repo with challenge material for riceteacatpanda (2020)  
 [sarna](https://github.com/rsrdesarrollo/sarna): Security Assessment Report geNerated Automatically  
 [Simple-Async-Port-Scanner](https://github.com/EONRaider/Simple-Async-Port-Scanner): A simple asynchronous TCP/IP Connect Port Scanner in Python 3  
-[heap-viewer](https://github.com/danigargu/heap-viewer): IDA Pro plugin to examine the glibc heap, focused on exploit development
+[heap-viewer](https://github.com/danigargu/heap-viewer): IDA Pro plugin to examine the glibc heap, focused on exploit development  
+[vulture-base](https://github.com/VultureProject/vulture-base): Vulture 4 base system and bootstrap scripts
