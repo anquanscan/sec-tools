@@ -737,4 +737,5 @@
 [TorBot](https://github.com/DedSecInside/TorBot): Dark Web OSINT Tool  
 [Vine](https://github.com/CompanionCubeGD/Vine): Python 3 Hacking Tools  
 [malidate](https://github.com/redfast00/malidate): A logging DNS and HTTP(S) server. Opensource alternative to some parts of the Burpsuite Collaborator server.  
-[Amazing-Bug-Bounty-Path](https://github.com/lohitakshnandan/Amazing-Bug-Bounty-Path): Amazing Collection of Bug Bounty Hunting resources
+[Amazing-Bug-Bounty-Path](https://github.com/lohitakshnandan/Amazing-Bug-Bounty-Path): Amazing Collection of Bug Bounty Hunting resources  
+[labsecurity](https://github.com/dylanmeca/labsecurity): labsecurity is a tool that brings together python scripts made for ethical hacking, in a single tool, through a console interface
