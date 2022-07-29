@@ -735,4 +735,5 @@
 [ORLFTExploit](https://github.com/JLDevOps/ORLFTExploit): Exploit script to constantly get free access to O'Reilly Learning material via their Free Trial Page - https://learning.oreilly.com/register/  
 [site-vulns-finder](https://github.com/ntexe/site-vulns-finder): Scans site for vulnerabilities, such as admin panels, logs  
 [TorBot](https://github.com/DedSecInside/TorBot): Dark Web OSINT Tool  
-[Vine](https://github.com/CompanionCubeGD/Vine): Python 3 Hacking Tools
+[Vine](https://github.com/CompanionCubeGD/Vine): Python 3 Hacking Tools  
+[malidate](https://github.com/redfast00/malidate): A logging DNS and HTTP(S) server. Opensource alternative to some parts of the Burpsuite Collaborator server.
