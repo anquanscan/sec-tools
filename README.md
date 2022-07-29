@@ -769,4 +769,5 @@
 [PENTOL](https://github.com/radenvodka/PENTOL): PENTOL - Pentester Toolkit for Fiddler2  
 [privapi](https://github.com/Veridax/privapi): Detect Sensitive REST API communication using Deep Neural Networks  
 [adversarial-MTSR](https://github.com/dependable-cps/adversarial-MTSR)  
-[AndroidSecNotes](https://github.com/iamsarvagyaa/AndroidSecNotes): An actively maintained, Self curated notes related to android application security for security professionals, bugbounty hunters,  pentesters, reverse engineer, and redteamers.
+[AndroidSecNotes](https://github.com/iamsarvagyaa/AndroidSecNotes): An actively maintained, Self curated notes related to android application security for security professionals, bugbounty hunters,  pentesters, reverse engineer, and redteamers.  
+[mythril](https://github.com/ConsenSys/mythril): Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
