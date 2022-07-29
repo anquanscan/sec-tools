@@ -643,4 +643,5 @@
 [XSS-LOADER](https://github.com/capture0x/XSS-LOADER): Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder  
 [information-security](https://github.com/JakobTheDev/information-security): A place where I can create, collect and share tooling, resources and knowledge about information security.  
 [sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy): Sleepy Puppy XSS Payload Management Framework  
-[CVE-2021-3493](https://github.com/inspiringz/CVE-2021-3493): CVE-2021-3493 Ubuntu OverlayFS Local Privesc (Interactive Bash Shell & Execute Command Entered)
+[CVE-2021-3493](https://github.com/inspiringz/CVE-2021-3493): CVE-2021-3493 Ubuntu OverlayFS Local Privesc (Interactive Bash Shell & Execute Command Entered)  
+[struts-scan](https://github.com/Lucifer1993/struts-scan): Python2编写的struts2漏洞全版本检测和利用工具
