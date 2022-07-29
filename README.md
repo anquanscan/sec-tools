@@ -731,4 +731,5 @@
 [violent-python3](https://github.com/EONRaider/violent-python3): Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.  
 [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer): A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.  
 [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking): A guide for hacking unity games  
-[CTF-WriteUps](https://github.com/m0rphtail/CTF-WriteUps): Writeups for the CTFs I solve
+[CTF-WriteUps](https://github.com/m0rphtail/CTF-WriteUps): Writeups for the CTFs I solve  
+[ORLFTExploit](https://github.com/JLDevOps/ORLFTExploit): Exploit script to constantly get free access to O'Reilly Learning material via their Free Trial Page - https://learning.oreilly.com/register/
