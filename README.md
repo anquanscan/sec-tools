@@ -928,4 +928,5 @@
 [Magento-shoplift-python-exploit](https://github.com/incredibleindishell/Magento-shoplift-python-exploit): Magento shoplift exploit is vulnerability which was discovered by CheckPoint team (http://blog.checkpoint.com/2015/04/20/analyzing-magento-vulnerability/) This python script developed by joren but it was having some bug because of which it was not working properly. If magento version is vulnerable, this script will create admin account with username forme and password forme   
 [What-Is-RESETHACKER](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER): ResetHacker celebrates its 2 year anniversary  
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF  
-[Spykeyboard](https://github.com/Sh4rk0-666/Spykeyboard): keylogger which sends us the data to our gmail.
+[Spykeyboard](https://github.com/Sh4rk0-666/Spykeyboard): keylogger which sends us the data to our gmail.  
+[pysploit-framework](https://github.com/ahmadnourallah/pysploit-framework): free exploit framework written use python language version 3.3
