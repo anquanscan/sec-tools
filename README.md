@@ -952,4 +952,5 @@
 [Scripts-Sploits](https://github.com/alienwithin/Scripts-Sploits): A number of scripts POC's and problems solved as pentests move along.   
 [cyber_training_materials](https://github.com/moshekaplan/cyber_training_materials): Training materials I've written.  
 [cve-fix-reporter](https://github.com/sriramkandukuri/cve-fix-reporter): A Script to find fixes for CVE ids by parsing nvd website and respective git repository log.  
-[kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor): Help building an adaptive and fine-grained pod security policy
+[kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor): Help building an adaptive and fine-grained pod security policy  
+[Sexeca-FreeVersion](https://github.com/JasonDerulo1259/Sexeca-FreeVersion): A tool for senecalearning, that gets the answers for the questions, coded in c#
