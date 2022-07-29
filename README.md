@@ -851,4 +851,5 @@
 [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.  
 [cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Red Team (Offensive) in Cybersecurity.  
 [SAGEMCOM-FAST-5370e-TELIA](https://github.com/wuseman/SAGEMCOM-FAST-5370e-TELIA): This is my personal wiki for hacking the router firmware used by (Sagemcom)F@ast Version 3.43.2 delivered from Sagemcom  
-[memcached](https://github.com/rayschu/memcached): Scan the memcached vulnerability.
+[memcached](https://github.com/rayschu/memcached): Scan the memcached vulnerability.  
+[pwnKit](https://github.com/drapl0n/pwnKit): pwnKit: Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you.
