@@ -937,4 +937,5 @@
 [objection](https://github.com/sensepost/objection): 📱 objection - runtime mobile exploration  
 [CyberSecurity_Conferences](https://github.com/MrM8BRH/CyberSecurity_Conferences): List of some cybersecurity conferences   
 [Speedhack](https://github.com/absoIute/Speedhack): Speedhack coded in C++, inspired by Cheat Engine's own speedhack.  
-[spicedb](https://github.com/authzed/spicedb): Open source permissions database inspired by Google Zanzibar
+[spicedb](https://github.com/authzed/spicedb): Open source permissions database inspired by Google Zanzibar  
+[tyranoscript_vulnerability](https://github.com/satoki/tyranoscript_vulnerability): 👻 [PoC] TyranoScript 5.13b - Arbitrary Code Execution (0day)
