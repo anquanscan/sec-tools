@@ -997,4 +997,5 @@
 [kernel-exploits](https://github.com/bcoles/kernel-exploits): Various kernel exploits  
 [introspector](https://github.com/goldfiglabs/introspector): A schema and set of tools for using SQL to query cloud infrastructure.  
 [malgazer](https://github.com/keithjjones/malgazer): A Python malware analysis library.  
-[filterbypass](https://github.com/masatokinugawa/filterbypass): Browser's XSS Filter Bypass Cheat Sheet
+[filterbypass](https://github.com/masatokinugawa/filterbypass): Browser's XSS Filter Bypass Cheat Sheet  
+[arpspoof](https://github.com/YeautyYE/arpspoof): :trollface: arpspoof for macOS  - intercept packets on a switched LAN
