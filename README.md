@@ -760,4 +760,5 @@
 [opal](https://github.com/EOP-OMB/opal): OSCAL Policy Administration Library (OPAL) provides a simple web application for managing System Security Plans. The data modle is based on the OSCAL standard.  
 [arachni-docked](https://github.com/umbraesoulsbane/arachni-docked): This is a skeleton project for working with Arachni (https://www.arachni-scanner.com/), a web application security scanner framework, in a Docker environment.   
 [Wifi-Sentinel](https://github.com/caelan-a/Wifi-Sentinel): A service that runs on a Raspberry Pi Zero W to identify and log wifi devices entering your home.  
-[wannaNotes](https://github.com/impulsado/wannaNotes): Markdown Cybersecurity Notes
+[wannaNotes](https://github.com/impulsado/wannaNotes): Markdown Cybersecurity Notes  
+[DeepScan](https://github.com/tahmed11/DeepScan): A simple shell script which utilizes nmap, nikto, dirb, enum4linux and other open source goodies to automate enumeration process.
