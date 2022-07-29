@@ -796,4 +796,5 @@
 [The-Big-List-of-Hacked-Malware-Web-Sites](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites): This repository contains a list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans.  
 [M4nifest0-Payload-Builder](https://github.com/attakercyebr/M4nifest0-Payload-Builder): Crypter and downloader rat  
 [ctf-archive-created](https://github.com/samueltangz/ctf-archive-created): CTF problems I have created.  
-[A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries): RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.
+[A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries): RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.  
+[Kali_Port_Scanning](https://github.com/MSadekUni/Kali_Port_Scanning): NBCU command line implementation of python-portscan
