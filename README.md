@@ -757,4 +757,5 @@
 [Web-Scraper](https://github.com/Encryptor-Sec/Web-Scraper): Web Scraper is a melange of Web tools for web hacking, reconnaissance, bug bounty so on. This tool consists of 20 most used web tools for security assessment  
 [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons): ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting  
 [ir-rescue](https://github.com/diogo-fernan/ir-rescue): A Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.  
-[opal](https://github.com/EOP-OMB/opal): OSCAL Policy Administration Library (OPAL) provides a simple web application for managing System Security Plans. The data modle is based on the OSCAL standard.
+[opal](https://github.com/EOP-OMB/opal): OSCAL Policy Administration Library (OPAL) provides a simple web application for managing System Security Plans. The data modle is based on the OSCAL standard.  
+[arachni-docked](https://github.com/umbraesoulsbane/arachni-docked): This is a skeleton project for working with Arachni (https://www.arachni-scanner.com/), a web application security scanner framework, in a Docker environment. 
