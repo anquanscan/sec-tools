@@ -812,4 +812,5 @@
 [fileintel](https://github.com/keithjjones/fileintel): A modular Python application to pull intelligence about malicious files  
 [jexboss](https://github.com/joaomatosf/jexboss): JexBoss: Jboss (and Java Deserialization Vulnerabilities) verify and EXploitation Tool  
 [FairEmail](https://github.com/M66B/FairEmail): Fully featured, open source, privacy friendly email app for Android  
-[ICS-Security-Products](https://github.com/S3cur1tyH4ggis/ICS-Security-Products): Lists of products useful for ICS security
+[ICS-Security-Products](https://github.com/S3cur1tyH4ggis/ICS-Security-Products): Lists of products useful for ICS security  
+[Vulnogram](https://github.com/Vulnogram/Vulnogram): Vulnogram is a tool for creating and editing CVE information in CVE JSON format
