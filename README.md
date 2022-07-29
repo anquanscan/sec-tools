@@ -858,4 +858,5 @@
 [sack](https://github.com/jofpin/sack): Identify connection of sessions for social engineering attacks.  
 [kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform  
 [ExploitableApp](https://github.com/postworthy/ExploitableApp): A .NET core project for web based pen testing  
-[werdlists](https://github.com/decal/werdlists): :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
+[werdlists](https://github.com/decal/werdlists): :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases  
+[Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources): 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
