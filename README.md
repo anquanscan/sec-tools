@@ -964,4 +964,5 @@
 [PolicyGlass](https://github.com/CloudWanderer-io/PolicyGlass): PolicyGlass allows you to analyse one or more AWS policies' effective permissions in aggregate, by restating them in the form of PolicyShards which are always Allow, never Deny.  
 [ByteCog](https://github.com/IlluminatiFish/ByteCog): A way to analyse how malware and/or goodware samples vary from each other using Shannon Entropy, Hausdorff Distance and Jaro-Winkler Distance  
 [caddy](https://github.com/caddyserver/caddy): Fast, multi-platform web server with automatic HTTPS  
-[sysmon-modular](https://github.com/olafhartong/sysmon-modular): A repository of sysmon configuration modules
+[sysmon-modular](https://github.com/olafhartong/sysmon-modular): A repository of sysmon configuration modules  
+[mitreattack-python](https://github.com/mitre-attack/mitreattack-python): A python module for working with ATT&CK
