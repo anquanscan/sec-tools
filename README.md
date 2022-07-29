@@ -567,4 +567,5 @@
 [k8s-harbor](https://github.com/ruzickap/k8s-harbor): Harbor in Kubernetes  
 [network-threats-taxonomy](https://github.com/AbertayMachineLearningGroup/network-threats-taxonomy): Machine Learning based Intrusion Detection Systems are difficult to evaluate due to a shortage of datasets representing accurately network traffic and their associated threats. In this project we attempt at solving this problem by presenting two taxonomies  
 [targets](https://github.com/BugBountyResources/targets): A collection of over 5.1 million sub-domains and assets belonging to public bug bounty programs, compiled into a repo, for performing bulk operations.  
-[tartufo](https://github.com/godaddy/tartufo): Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+[tartufo](https://github.com/godaddy/tartufo): Searches through git repositories for high entropy strings and secrets, digging deep into commit history  
+[yakit](https://github.com/yaklang/yakit): Cyber Security ALL-IN-ONE Platform
