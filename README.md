@@ -911,4 +911,5 @@
 [yookiterm-slides](https://github.com/dobin/yookiterm-slides): Exploitation and Mitigation Slides  
 [SecureBit](https://github.com/richeshgupta/SecureBit): SecureBit is a chat client where Security is number one priority. B)  
 [SyntheticSun](https://github.com/jonrau1/SyntheticSun): SyntheticSun is a defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to continuously prevent, detect and respond to threats.  
-[ExtensionSpoofer](https://github.com/henriksb/ExtensionSpoofer): Spoof file icons and extensions in Windows
+[ExtensionSpoofer](https://github.com/henriksb/ExtensionSpoofer): Spoof file icons and extensions in Windows  
+[adminexploit](https://github.com/daddyparodz/adminexploit): this is the fastest way that you can get admin rights at work,school,etc in only a few seconds
