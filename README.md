@@ -736,4 +736,5 @@
 [site-vulns-finder](https://github.com/ntexe/site-vulns-finder): Scans site for vulnerabilities, such as admin panels, logs  
 [TorBot](https://github.com/DedSecInside/TorBot): Dark Web OSINT Tool  
 [Vine](https://github.com/CompanionCubeGD/Vine): Python 3 Hacking Tools  
-[malidate](https://github.com/redfast00/malidate): A logging DNS and HTTP(S) server. Opensource alternative to some parts of the Burpsuite Collaborator server.
+[malidate](https://github.com/redfast00/malidate): A logging DNS and HTTP(S) server. Opensource alternative to some parts of the Burpsuite Collaborator server.  
+[Amazing-Bug-Bounty-Path](https://github.com/lohitakshnandan/Amazing-Bug-Bounty-Path): Amazing Collection of Bug Bounty Hunting resources
