@@ -788,4 +788,5 @@
 [Reconnoitre](https://github.com/codingo/Reconnoitre): A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.  
 [404StarLink](https://github.com/knownsec/404StarLink): 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目  
 [browserrecon-asp](https://github.com/scipag/browserrecon-asp): Advanced Web Browser Fingerprinting  
-[kscan](https://github.com/lcvvvv/kscan): Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。
+[kscan](https://github.com/lcvvvv/kscan): Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。  
+[SportBruter](https://github.com/liltrendi/SportBruter): A bruteforce script aimed at sending authentication requests to the SportPesa website in an attempt to log in as a user against a supplied set of passwords
