@@ -649,4 +649,5 @@
 [Valet](https://github.com/square/Valet): Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.  
 [MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList): A list of vulnerabilities or design flaws that Microsoft does not intend to fix. Since the number is growing, I decided to make a list. This list covers only vulnerabilities that came up in July 2021 (and SpoolSample ;-))  
 [reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks): A chronological and (hopefully) complete list of reentrancy attacks to date.  
-[0x02-ARM-32-Hacking-Int](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int): ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
+[0x02-ARM-32-Hacking-Int](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int): ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.  
+[XAttacker](https://github.com/Moham3dRiahi/XAttacker): X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
