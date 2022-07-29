@@ -698,4 +698,5 @@
 [metta](https://github.com/uber-common/metta): An information security preparedness tool to do adversarial simulation.  
 [FreeFire-Phishing](https://github.com/OnlineHacKing/FreeFire-Phishing): Free Fire Account Hack Phishing tool with Termux   
 [Tscan](https://github.com/TerrehDactyl/Tscan): A simple port scanner (with option to print to file) written in C using GTK 3.0  
-[RWCTF-FastStructureCache](https://github.com/A2nkF/RWCTF-FastStructureCache): My heavily commented analysis/reimplementation of the exploit for the FastStructureCache WebKit 1day Challenge from 2019's RealWorld CTF finals
+[RWCTF-FastStructureCache](https://github.com/A2nkF/RWCTF-FastStructureCache): My heavily commented analysis/reimplementation of the exploit for the FastStructureCache WebKit 1day Challenge from 2019's RealWorld CTF finals  
+[Red-Team-Essentials](https://github.com/hexachordanu/Red-Team-Essentials): This repo will contain some basic pentest/RT commands. 
