@@ -753,4 +753,5 @@
 [Gish-Code-1.12.2](https://github.com/GishReloaded/Gish-Code-1.12.2): This is a hacked modification for Minecraft Forge 1.12.2  
 [shfz](https://github.com/shfz/shfz): TypeScript Scenario-Based Web Application Fuzzing Framework  
 [CVE-2021-21315-PoC](https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC): CVE 2021-21315 PoC  
-[setcap-static](https://github.com/sjinks/setcap-static): A statically linked lightweight version of setcap(8) to use in `scratch` images
+[setcap-static](https://github.com/sjinks/setcap-static): A statically linked lightweight version of setcap(8) to use in `scratch` images  
+[Web-Scraper](https://github.com/Encryptor-Sec/Web-Scraper): Web Scraper is a melange of Web tools for web hacking, reconnaissance, bug bounty so on. This tool consists of 20 most used web tools for security assessment
