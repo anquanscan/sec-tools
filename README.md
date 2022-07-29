@@ -613,4 +613,5 @@
 [Simple-Async-Port-Scanner](https://github.com/EONRaider/Simple-Async-Port-Scanner): A simple asynchronous TCP/IP Connect Port Scanner in Python 3  
 [heap-viewer](https://github.com/danigargu/heap-viewer): IDA Pro plugin to examine the glibc heap, focused on exploit development  
 [vulture-base](https://github.com/VultureProject/vulture-base): Vulture 4 base system and bootstrap scripts  
-[indocrack](https://github.com/htr-tech/indocrack): All in one Indian Facebook Account Cloner [ 7/8/9/10 DIGIT ]
+[indocrack](https://github.com/htr-tech/indocrack): All in one Indian Facebook Account Cloner [ 7/8/9/10 DIGIT ]  
+[wsvuls](https://github.com/anouarbensaad/wsvuls): wsvuls - website vulnerability scanner detect issues [ outdated server software and insecure HTTP headers.]
