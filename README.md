@@ -608,4 +608,5 @@
 [cve-2019-14326](https://github.com/seqred-s-a/cve-2019-14326): Privilege escalation in Andy emulator  
 [gitoops](https://github.com/ovotech/gitoops): all paths lead to clouds  
 [crawleet](https://github.com/truerandom/crawleet): Web Recon & Exploitation Tool.  
-[riceteacatpanda](https://github.com/JEF1056/riceteacatpanda): repo with challenge material for riceteacatpanda (2020)
+[riceteacatpanda](https://github.com/JEF1056/riceteacatpanda): repo with challenge material for riceteacatpanda (2020)  
+[sarna](https://github.com/rsrdesarrollo/sarna): Security Assessment Report geNerated Automatically
