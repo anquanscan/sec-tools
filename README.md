@@ -709,4 +709,5 @@
 [angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner): Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.  
 [honeyshell](https://github.com/wisepythagoras/honeyshell): An SSH honeypot based on the libssh library written entirely in Go.  
 [CIS-Ubuntu-20.04-Ansible](https://github.com/alivx/CIS-Ubuntu-20.04-Ansible): Ansible Role to Automate CIS v1.1.0 Ubuntu Linux 18.04 LTS, 20.04 LTS Remediation   
-[liffier](https://github.com/momenbasel/liffier): tired of manually add dot-dot-slash to your possible path traversal? this short snippet will increment ../ on the URL.
+[liffier](https://github.com/momenbasel/liffier): tired of manually add dot-dot-slash to your possible path traversal? this short snippet will increment ../ on the URL.  
+[TheThreatHuntLibrary](https://github.com/svch0stz/TheThreatHuntLibrary): Library of threat hunts to get any user started!
