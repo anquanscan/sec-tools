@@ -960,4 +960,5 @@
 [UAficionado](https://github.com/quantumcore/UAficionado): Red Team vs Blue Team. Series of  5 challanges. Are you up for it?  
 [-CVE-2017-9805](https://github.com/0x00-0x00/-CVE-2017-9805): Exploit script for Apache Struts2 REST Plugin XStream RCE (‎CVE-2017-9805)  
 [boreas](https://github.com/greenbone/boreas): Boreas a command line tool to scan for alive hosts  
-[school-of-sre](https://github.com/linkedin/school-of-sre): At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
+[school-of-sre](https://github.com/linkedin/school-of-sre): At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.  
+[PolicyGlass](https://github.com/CloudWanderer-io/PolicyGlass): PolicyGlass allows you to analyse one or more AWS policies' effective permissions in aggregate, by restating them in the form of PolicyShards which are always Allow, never Deny.
