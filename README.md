@@ -675,4 +675,5 @@
 [redis-exploit](https://github.com/fagray/redis-exploit): an exploit to an open redis instance  
 [penetration-script](https://github.com/saucer-man/penetration-script): 渗透测试脚本，为防忘记开设（垃圾桶）  
 [WriteUps](https://github.com/deut-erium/WriteUps): Repository for writeups of ctf challenges  
-[crithit](https://github.com/codingo/crithit): Takes a single wordlist item and tests it one by one over a large collection of websites before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.
+[crithit](https://github.com/codingo/crithit): Takes a single wordlist item and tests it one by one over a large collection of websites before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.  
+[dockerized-parrot](https://github.com/gurayops/dockerized-parrot): Dockerized version of Parrot GNU/Linux
