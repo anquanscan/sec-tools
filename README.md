@@ -654,4 +654,5 @@
 [chain-bench](https://github.com/aquasecurity/chain-bench): An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.  
 [xira](https://github.com/xadhrit/xira): xss vulnerability scanner and input fuzzing tool.  
 [PoW-Shield](https://github.com/RuiSiang/PoW-Shield): Project dedicated to fight Layer 7 DDoS with proof of work, featuring an additional WAF. Completed with full set of features and containerized for rapid and lightweight deployment.  
-[CEH_v10_Dumps](https://github.com/omurugur/CEH_v10_Dumps): Certified Ethical Hacker ( C|EH v.10 ) Dump 
+[CEH_v10_Dumps](https://github.com/omurugur/CEH_v10_Dumps): Certified Ethical Hacker ( C|EH v.10 ) Dump   
+[stegseek](https://github.com/RickdeJager/stegseek): :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
