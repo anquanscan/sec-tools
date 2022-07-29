@@ -642,4 +642,5 @@
 [Roblox-Dev](https://github.com/Professor-Puddle/Roblox-Dev): An awesome Roblox Exploit for Roblox  
 [XSS-LOADER](https://github.com/capture0x/XSS-LOADER): Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder  
 [information-security](https://github.com/JakobTheDev/information-security): A place where I can create, collect and share tooling, resources and knowledge about information security.  
-[sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy): Sleepy Puppy XSS Payload Management Framework
+[sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy): Sleepy Puppy XSS Payload Management Framework  
+[CVE-2021-3493](https://github.com/inspiringz/CVE-2021-3493): CVE-2021-3493 Ubuntu OverlayFS Local Privesc (Interactive Bash Shell & Execute Command Entered)
