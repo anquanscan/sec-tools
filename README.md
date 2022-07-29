@@ -586,4 +586,5 @@
 [osquery](https://github.com/osquery/osquery): SQL powered operating system instrumentation, monitoring, and analytics.  
 [CloseTheGapCybersecurity](https://github.com/ChristianSchwarzOTHRegensburg/CloseTheGapCybersecurity): Repository for the Close the Gap - Cybersecurity E-Book. A Book about transforming your theoretical programming Knowledge from University into real Life Python Projects   
 [final-java-backend](https://github.com/ZootHii/final-java-backend): n-tier java web api example spring boot, postgre sql, SOLID design  
-[ExGen](https://github.com/Naategh/ExGen): Exploit generator for bug hunters
+[ExGen](https://github.com/Naategh/ExGen): Exploit generator for bug hunters  
+[GVM-Docker](https://github.com/Secure-Compliance-Solutions-LLC/GVM-Docker): Greenbone Vulnerability Management Docker Image with OpenVAS
