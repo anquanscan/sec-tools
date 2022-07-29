@@ -569,4 +569,5 @@
 [targets](https://github.com/BugBountyResources/targets): A collection of over 5.1 million sub-domains and assets belonging to public bug bounty programs, compiled into a repo, for performing bulk operations.  
 [tartufo](https://github.com/godaddy/tartufo): Searches through git repositories for high entropy strings and secrets, digging deep into commit history  
 [yakit](https://github.com/yaklang/yakit): Cyber Security ALL-IN-ONE Platform  
-[nuclipy](https://github.com/prasant-paudel/nuclipy): A simple template based vulnerability scanner in python (Inspired by ProjectDiscovery's Nuclei)
+[nuclipy](https://github.com/prasant-paudel/nuclipy): A simple template based vulnerability scanner in python (Inspired by ProjectDiscovery's Nuclei)  
+[Nightingale](https://github.com/RAJANAGORI/Nightingale): It's a Docker Environment for pentesting which having all the required tool for VAPT.
