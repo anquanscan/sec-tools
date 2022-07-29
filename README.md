@@ -558,4 +558,5 @@
 [ric9rdo.github.io](https://github.com/ric9rdo/ric9rdo.github.io): Just a random cybersecurity (b)log that I use as a personal database   
 [SecNotes](https://github.com/0xRar/SecNotes): cyber security notes for your consumption.  
 [SAP_ransomware](https://github.com/vah13/SAP_ransomware): Simple remote command execution exploit code for SAP GUI  
-[gvm-libs](https://github.com/greenbone/gvm-libs): Greenbone Vulnerability Management Libraries
+[gvm-libs](https://github.com/greenbone/gvm-libs): Greenbone Vulnerability Management Libraries  
+[Layla](https://github.com/mthf0/Layla): BETA: Layla - recon tool for bug bounty
