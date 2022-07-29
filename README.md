@@ -860,4 +860,5 @@
 [ExploitableApp](https://github.com/postworthy/ExploitableApp): A .NET core project for web based pen testing  
 [werdlists](https://github.com/decal/werdlists): :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases  
 [Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources): 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.  
-[blankspace](https://github.com/jbaines-r7/blankspace): Proof of Concept for EFSRPC Arbitrary File Upload  (CVE-2021-43893)
+[blankspace](https://github.com/jbaines-r7/blankspace): Proof of Concept for EFSRPC Arbitrary File Upload  (CVE-2021-43893)  
+[webGuard](https://github.com/makemytrip/webGuard): webGuard is a Web Application Testing tool that helps find security vulnerabilities in your applications.
