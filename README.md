@@ -977,4 +977,5 @@
 [VulnFanatic](https://github.com/Martyx00/VulnFanatic): A Binary Ninja plugin for vulnerability research.  
 [mad-metasploit](https://github.com/hahwul/mad-metasploit): Metasploit custom modules, plugins, resource script and.. awesome metasploit collection  
 [frappe](https://github.com/frappe/frappe): Low code web framework for real world applications, in Python and Javascript  
-[sentinel-attack](https://github.com/BlueTeamLabs/sentinel-attack): Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK
+[sentinel-attack](https://github.com/BlueTeamLabs/sentinel-attack): Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK  
+[BadUSB256](https://github.com/endbehavi0r/BadUSB256): A BadUSB Human Interface Device project that can store and execute 256 scripts at a time.
