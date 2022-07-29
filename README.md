@@ -634,4 +634,5 @@
 [purpura-csgo-sdk](https://github.com/swoopae/purpura-csgo-sdk): small little public internal base/cheat i'm currently working on  
 [sifter](https://github.com/whiterabb17/sifter): Sifter - All purpose penetration testing op-center  
 [cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard): Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules.  
-[Backdoorcreator](https://github.com/krishpranav/Backdoorcreator): Exploit toolkit
+[Backdoorcreator](https://github.com/krishpranav/Backdoorcreator): Exploit toolkit  
+[Ontology-Triones-Service-Node-security-checklist](https://github.com/slowmist/Ontology-Triones-Service-Node-security-checklist): Ontology Triones Service Node security checklist（本体北斗共识集群安全执行指南）
