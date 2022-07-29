@@ -561,4 +561,5 @@
 [gvm-libs](https://github.com/greenbone/gvm-libs): Greenbone Vulnerability Management Libraries  
 [Layla](https://github.com/mthf0/Layla): BETA: Layla - recon tool for bug bounty  
 [Passwords](https://github.com/ducn1806/Passwords): Final project for R course at Hult, conducting an analysis about whether cybersecurity is still a business problem, specifically about passwords.  
-[CRLFsuite](https://github.com/Nefcore/CRLFsuite): The most powerful CRLF injection (HTTP Response Splitting) scanner.
+[CRLFsuite](https://github.com/Nefcore/CRLFsuite): The most powerful CRLF injection (HTTP Response Splitting) scanner.  
+[cariddi](https://github.com/edoardottt/cariddi): Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
