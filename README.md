@@ -863,4 +863,5 @@
 [blankspace](https://github.com/jbaines-r7/blankspace): Proof of Concept for EFSRPC Arbitrary File Upload  (CVE-2021-43893)  
 [webGuard](https://github.com/makemytrip/webGuard): webGuard is a Web Application Testing tool that helps find security vulnerabilities in your applications.  
 [Anti-Debugging](https://github.com/ThomasThelen/Anti-Debugging): A collection of c++ programs that demonstrate common ways to detect the presence of an attached debugger.  
-[qualys_parser](https://github.com/eRaMvn/qualys_parser): CLI tool that parses the csv report from Qualys and gives quick result
+[qualys_parser](https://github.com/eRaMvn/qualys_parser): CLI tool that parses the csv report from Qualys and gives quick result  
+[awesome-hacking](https://github.com/jekil/awesome-hacking): Awesome hacking is an awesome collection of hacking tools.
