@@ -798,4 +798,5 @@
 [ctf-archive-created](https://github.com/samueltangz/ctf-archive-created): CTF problems I have created.  
 [A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries): RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.  
 [Kali_Port_Scanning](https://github.com/MSadekUni/Kali_Port_Scanning): NBCU command line implementation of python-portscan  
-[Payload-Guest-With-Icons](https://github.com/upal212/Payload-Guest-With-Icons): Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00
+[Payload-Guest-With-Icons](https://github.com/upal212/Payload-Guest-With-Icons): Payloads with Icons for Payload Guest by Al Azif - Firmware 9.00  
+[technowlogger](https://github.com/PushpenderIndia/technowlogger): TechNowLogger is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
