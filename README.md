@@ -693,4 +693,5 @@
 [ZVulDrill](https://github.com/710leo/ZVulDrill): Web漏洞演练平台  
 [Google-Chrome-Browser-Database-Hack](https://github.com/ncorbuk/Google-Chrome-Browser-Database-Hack): Google Chrome Database Cracking Hacking - Get username & passwords  
 [burp-shell-fwd-lfi](https://github.com/gnothiseautonlw/burp-shell-fwd-lfi): A Burp Suite plugin/extension that offers a shell in Burp. Both useful for OS Command injection and LFI exploration  
-[Monitor-pastebin-leaks](https://github.com/OdinF13/Monitor-pastebin-leaks): Script to monitor pastebin.com's public pastes for sensitive data leakage
+[Monitor-pastebin-leaks](https://github.com/OdinF13/Monitor-pastebin-leaks): Script to monitor pastebin.com's public pastes for sensitive data leakage  
+[tryhackme-ctf](https://github.com/edoardottt/tryhackme-ctf): TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions.
