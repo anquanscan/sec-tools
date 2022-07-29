@@ -857,4 +857,5 @@
 [Sinput](https://github.com/devayes/Sinput): Standards compliant XSS input filtering package for Laravel 6, 7, 8 built on top of the popular HTMLPurifier package.  
 [sack](https://github.com/jofpin/sack): Identify connection of sessions for social engineering attacks.  
 [kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform  
-[ExploitableApp](https://github.com/postworthy/ExploitableApp): A .NET core project for web based pen testing
+[ExploitableApp](https://github.com/postworthy/ExploitableApp): A .NET core project for web based pen testing  
+[werdlists](https://github.com/decal/werdlists): :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
