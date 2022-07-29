@@ -782,4 +782,5 @@
 [cryptic](https://github.com/cryptic-game/cryptic): The official repository of Cryptic  
 [AvArmy](https://github.com/jesusgarcia2/AvArmy): AvArmy is a software for the detection and analysis of vulnerabilities in services and web applications using Machine learning.  
 [rustbuster](https://github.com/phra/rustbuster): A Comprehensive Web Fuzzer and Content Discovery Tool  
-[ExAuth](https://github.com/ExosphericDev/ExAuth): Authentication/Whitelist system for Roblox [Synapse X]
+[ExAuth](https://github.com/ExosphericDev/ExAuth): Authentication/Whitelist system for Roblox [Synapse X]  
+[Wordlists](https://github.com/kkrypt0nn/Wordlists): A collection of wordlists for many different usages.
