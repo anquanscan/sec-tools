@@ -690,4 +690,5 @@
 [lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools): Little Bug Bounty & Hacking Tools⚔️  
 [road-to-hacking](https://github.com/R3LI4NT/road-to-hacking): ¿Quieres empezar en el mundo hacking? En esta revista te enseño a instalar Kali Linux desde cero y a manipular herramientas esenciales en el Hacking Ético.  
 [tofu](https://github.com/puckblush/tofu): Windows offline filesystem hacking tool for Linux  
-[ZVulDrill](https://github.com/710leo/ZVulDrill): Web漏洞演练平台
+[ZVulDrill](https://github.com/710leo/ZVulDrill): Web漏洞演练平台  
+[Google-Chrome-Browser-Database-Hack](https://github.com/ncorbuk/Google-Chrome-Browser-Database-Hack): Google Chrome Database Cracking Hacking - Get username & passwords
