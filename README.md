@@ -979,4 +979,5 @@
 [frappe](https://github.com/frappe/frappe): Low code web framework for real world applications, in Python and Javascript  
 [sentinel-attack](https://github.com/BlueTeamLabs/sentinel-attack): Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK  
 [BadUSB256](https://github.com/endbehavi0r/BadUSB256): A BadUSB Human Interface Device project that can store and execute 256 scripts at a time.  
-[MonarcAppFO](https://github.com/monarc-project/MonarcAppFO): MONARC - Method for an Optimised aNAlysis of Risks by @CASES-LU
+[MonarcAppFO](https://github.com/monarc-project/MonarcAppFO): MONARC - Method for an Optimised aNAlysis of Risks by @CASES-LU  
+[BucketsHunter](https://github.com/DanielAzulayy/BucketsHunter): A CLI tool to find open buckets, misconfigurations, and dump bucket contents - under dev
