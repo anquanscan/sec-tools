@@ -999,4 +999,5 @@
 [malgazer](https://github.com/keithjjones/malgazer): A Python malware analysis library.  
 [filterbypass](https://github.com/masatokinugawa/filterbypass): Browser's XSS Filter Bypass Cheat Sheet  
 [arpspoof](https://github.com/YeautyYE/arpspoof): :trollface: arpspoof for macOS  - intercept packets on a switched LAN  
-[HEVD_Kernel_Exploit](https://github.com/mgeeky/HEVD_Kernel_Exploit): Exploits pack for the Windows Kernel mode driver HackSysExtremeVulnerableDriver written for educational purposes.
+[HEVD_Kernel_Exploit](https://github.com/mgeeky/HEVD_Kernel_Exploit): Exploits pack for the Windows Kernel mode driver HackSysExtremeVulnerableDriver written for educational purposes.  
+[FBI-tools](https://github.com/danieldurnea/FBI-tools): 🕵️ OSINT Tools for gathering information and actions forensic 🕵️ 
