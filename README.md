@@ -893,4 +893,5 @@
 [Gngr_remote_keylogger](https://github.com/abdulkadir-gungor/Gngr_remote_keylogger): (On 09/04/2021) Remote Keylogger software has been made for the latest up-to-date "Windows 7, 8 and 10" operatings systems. It managed to circumvent the "Windows Defender" program.  
 [vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html): Safe replacement for the v-html directive  
 [Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS): 🔒 Anti DDOS | Bash Script Project 🔒  
-[TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI): C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)
+[TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI): C++ GUI for TegraRcmSmash (Fusée Gelée exploit for Nintendo Switch)  
+[TORhunter](https://github.com/Err0r-ICA/TORhunter): Designed to scan and exploit vulnerabilities within Tor hidden services. TORhunter allows most tools to work as normal while resolving .onion
