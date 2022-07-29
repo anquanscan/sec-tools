@@ -795,4 +795,5 @@
 [spoofpoint](https://github.com/grahamhelton/spoofpoint): Spoofpoint is a domain monitoring tool that allows you to generate a list of domains that are 1 character off of your domain (grahamhelton.com turns into -> grahamheIton.com ((The L is a capital I )), check a list of domains you already have, or check as single domain.  
 [The-Big-List-of-Hacked-Malware-Web-Sites](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites): This repository contains a list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans.  
 [M4nifest0-Payload-Builder](https://github.com/attakercyebr/M4nifest0-Payload-Builder): Crypter and downloader rat  
-[ctf-archive-created](https://github.com/samueltangz/ctf-archive-created): CTF problems I have created.
+[ctf-archive-created](https://github.com/samueltangz/ctf-archive-created): CTF problems I have created.  
+[A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries): RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.
