@@ -855,4 +855,5 @@
 [pwnKit](https://github.com/drapl0n/pwnKit): pwnKit: Privilege Escalation USB-Rubber-Ducky payload, which exploits CVE-2021-4034 in less than 10sec's and spawns root shell for you.  
 [smart-home-device-cyberattack-detection](https://github.com/asegun-cod/smart-home-device-cyberattack-detection): This is a collaborative work between Asmau (a Ph.D. research), Thejavathy and Oluwasegun under the supervision of Dr. Jun and Dr. Xiaoqi at Nottingham Trent University, UK.  
 [Sinput](https://github.com/devayes/Sinput): Standards compliant XSS input filtering package for Laravel 6, 7, 8 built on top of the popular HTMLPurifier package.  
-[sack](https://github.com/jofpin/sack): Identify connection of sessions for social engineering attacks.
+[sack](https://github.com/jofpin/sack): Identify connection of sessions for social engineering attacks.  
+[kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform
