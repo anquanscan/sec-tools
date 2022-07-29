@@ -710,4 +710,5 @@
 [honeyshell](https://github.com/wisepythagoras/honeyshell): An SSH honeypot based on the libssh library written entirely in Go.  
 [CIS-Ubuntu-20.04-Ansible](https://github.com/alivx/CIS-Ubuntu-20.04-Ansible): Ansible Role to Automate CIS v1.1.0 Ubuntu Linux 18.04 LTS, 20.04 LTS Remediation   
 [liffier](https://github.com/momenbasel/liffier): tired of manually add dot-dot-slash to your possible path traversal? this short snippet will increment ../ on the URL.  
-[TheThreatHuntLibrary](https://github.com/svch0stz/TheThreatHuntLibrary): Library of threat hunts to get any user started!
+[TheThreatHuntLibrary](https://github.com/svch0stz/TheThreatHuntLibrary): Library of threat hunts to get any user started!  
+[alarmo](https://github.com/nielsfaber/alarmo): Easy to use alarm system integration for Home Assistant
