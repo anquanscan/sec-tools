@@ -676,4 +676,5 @@
 [penetration-script](https://github.com/saucer-man/penetration-script): 渗透测试脚本，为防忘记开设（垃圾桶）  
 [WriteUps](https://github.com/deut-erium/WriteUps): Repository for writeups of ctf challenges  
 [crithit](https://github.com/codingo/crithit): Takes a single wordlist item and tests it one by one over a large collection of websites before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts.  
-[dockerized-parrot](https://github.com/gurayops/dockerized-parrot): Dockerized version of Parrot GNU/Linux
+[dockerized-parrot](https://github.com/gurayops/dockerized-parrot): Dockerized version of Parrot GNU/Linux  
+[Windows-Exploit-Suggester-2](https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2): A tool to recommend available exploits for Windows Operating Systems
