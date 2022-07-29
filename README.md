@@ -944,4 +944,5 @@
 [secret_agent](https://github.com/ahamez/secret_agent): An Elixir library to manage secrets  
 [eslint-plugin-security-node](https://github.com/gkouziik/eslint-plugin-security-node): ESLint security plugin for Node.js  
 [ockam](https://github.com/build-trust/ockam): Build Trust with a simple developer experience and powerful primitives that orchestrate end-to-end encryption, key management, authorization policy enforcement, and mutual authentication.  
-[pwn-pulse](https://github.com/BishopFox/pwn-pulse): Exploit for Pulse Connect Secure SSL VPN arbitrary file read vulnerability (CVE-2019-11510)
+[pwn-pulse](https://github.com/BishopFox/pwn-pulse): Exploit for Pulse Connect Secure SSL VPN arbitrary file read vulnerability (CVE-2019-11510)  
+[host_security](https://github.com/skipmcgee/host_security): Red Hat Enterprise Linux 6 & 7 security tool for enumerating security and IT operations-relevant information on a host and forwarding to a SIEM or enterprise syslog server in key='value' format.
