@@ -941,4 +941,5 @@
 [tyranoscript_vulnerability](https://github.com/satoki/tyranoscript_vulnerability): 👻 [PoC] TyranoScript 5.13b - Arbitrary Code Execution (0day)  
 [ioc-scanner](https://github.com/cisagov/ioc-scanner): Search a filesystem for indicators of compromise (IoC).  
 [nesca_audit](https://github.com/enemy-submarine/nesca_audit): The Good, the Bad and the Ugly: результаты частичного аудита кода Nesca  
-[secret_agent](https://github.com/ahamez/secret_agent): An Elixir library to manage secrets
+[secret_agent](https://github.com/ahamez/secret_agent): An Elixir library to manage secrets  
+[eslint-plugin-security-node](https://github.com/gkouziik/eslint-plugin-security-node): ESLint security plugin for Node.js
