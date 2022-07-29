@@ -754,4 +754,5 @@
 [shfz](https://github.com/shfz/shfz): TypeScript Scenario-Based Web Application Fuzzing Framework  
 [CVE-2021-21315-PoC](https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC): CVE 2021-21315 PoC  
 [setcap-static](https://github.com/sjinks/setcap-static): A statically linked lightweight version of setcap(8) to use in `scratch` images  
-[Web-Scraper](https://github.com/Encryptor-Sec/Web-Scraper): Web Scraper is a melange of Web tools for web hacking, reconnaissance, bug bounty so on. This tool consists of 20 most used web tools for security assessment
+[Web-Scraper](https://github.com/Encryptor-Sec/Web-Scraper): Web Scraper is a melange of Web tools for web hacking, reconnaissance, bug bounty so on. This tool consists of 20 most used web tools for security assessment  
+[WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons): ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
