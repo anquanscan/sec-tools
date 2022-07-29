@@ -727,4 +727,5 @@
 [LadonGo](https://github.com/k8gege/LadonGo): LadonGO 4.2 Pentest Scanner framework  全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。  
 [k8s-security-dashboard](https://github.com/k8scop/k8s-security-dashboard): A security monitoring solution for Kubernetes  
 [TWAPT](https://github.com/MoisesTapia/TWAPT): Deploy your own lab of web application penetration testing with docker and docker-compose, webgoat, dvwap, bwapp and Juice Shop  
-[dr_checker_4_linux](https://github.com/marcinguy/dr_checker_4_linux): Port of "DR.CHECKER : A Soundy Vulnerability Detection Tool for Linux Kernel Drivers" to Clang/LLVM 10 and Linux Kernel
+[dr_checker_4_linux](https://github.com/marcinguy/dr_checker_4_linux): Port of "DR.CHECKER : A Soundy Vulnerability Detection Tool for Linux Kernel Drivers" to Clang/LLVM 10 and Linux Kernel  
+[violent-python3](https://github.com/EONRaider/violent-python3): Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
