@@ -949,4 +949,5 @@
 [TheXFramework](https://github.com/r3dxpl0it/TheXFramework): Network/WebApplication Information Gathering, Enumeration and Vulnerability Scanning (Under Development)  
 [ShellShockHunter](https://github.com/MrCl0wnLab/ShellShockHunter): It's a simple tool for test vulnerability shellshock  
 [id-obfuscator](https://github.com/jchambers/id-obfuscator): A Java library for reversibly obfuscating numerical identifiers (e.g. 1234 ↔ 4TQCNTL)  
-[Scripts-Sploits](https://github.com/alienwithin/Scripts-Sploits): A number of scripts POC's and problems solved as pentests move along. 
+[Scripts-Sploits](https://github.com/alienwithin/Scripts-Sploits): A number of scripts POC's and problems solved as pentests move along.   
+[cyber_training_materials](https://github.com/moshekaplan/cyber_training_materials): Training materials I've written.
