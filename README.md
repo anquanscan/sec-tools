@@ -872,4 +872,5 @@
 [GobyVuls](https://github.com/gobysec/GobyVuls): Vulnerabilities of Goby supported with exploitation.  
 [aws-check-publicly-exposed](https://github.com/trackit/aws-check-publicly-exposed): Check your EC2 and ELB public exposure.  
 [APAC-Meetups](https://github.com/Infosec-Community/APAC-Meetups): A community contributed consolidated list of InfoSec meetups in the Asia Pacific region.  
-[Pegasus-samples](https://github.com/9aylas/Pegasus-samples): Here's samples of android/ios spyware named "Pegasus" made by the NSOGROUP
+[Pegasus-samples](https://github.com/9aylas/Pegasus-samples): Here's samples of android/ios spyware named "Pegasus" made by the NSOGROUP  
+[vpn_killer](https://github.com/noarchwastaken/vpn_killer): Kill any Android VPN in the browser, and expose the client's real IP address.
