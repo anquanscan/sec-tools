@@ -639,4 +639,5 @@
 [BTPS-SecPack](https://github.com/OsbornePro/BTPS-SecPack): This repository contains a collection of PowerShell tools that can be utilized to protect and defend an environment based on the recommendations of multiple cyber security researchers at Microsoft. These tools were created with a small to medium size enterprise environment in mind as smaller organizations do not always have the type of funding available to overly spend on security. The goal of this project is to help add value to an smaller organizations security by creating more visibility for the average IT Administrator. Organizations with 1,000’s of devices may find that this entire suite does not apply to them.  
 [jake](https://github.com/sonatype-nexus-community/jake): Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.  
 [zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist): Checklist of security precautions for Ruby on Rails applications.  
-[Roblox-Dev](https://github.com/Professor-Puddle/Roblox-Dev): An awesome Roblox Exploit for Roblox
+[Roblox-Dev](https://github.com/Professor-Puddle/Roblox-Dev): An awesome Roblox Exploit for Roblox  
+[XSS-LOADER](https://github.com/capture0x/XSS-LOADER): Xss Payload Generator ~ Xss Scanner ~ Xss Dork Finder
