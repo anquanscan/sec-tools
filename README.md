@@ -696,4 +696,5 @@
 [Monitor-pastebin-leaks](https://github.com/OdinF13/Monitor-pastebin-leaks): Script to monitor pastebin.com's public pastes for sensitive data leakage  
 [tryhackme-ctf](https://github.com/edoardottt/tryhackme-ctf): TryHackMe CTFs writeups, notes, dratfs, scrabbles, files and solutions.  
 [metta](https://github.com/uber-common/metta): An information security preparedness tool to do adversarial simulation.  
-[FreeFire-Phishing](https://github.com/OnlineHacKing/FreeFire-Phishing): Free Fire Account Hack Phishing tool with Termux 
+[FreeFire-Phishing](https://github.com/OnlineHacKing/FreeFire-Phishing): Free Fire Account Hack Phishing tool with Termux   
+[Tscan](https://github.com/TerrehDactyl/Tscan): A simple port scanner (with option to print to file) written in C using GTK 3.0
