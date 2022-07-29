@@ -584,4 +584,5 @@
 [jerseyctf-2021-challenges](https://github.com/njitacm/jerseyctf-2021-challenges): JerseyCTF 2021  
 [jfrog-docker-desktop-extension](https://github.com/jfrog/jfrog-docker-desktop-extension): 🐸 Scans any of your local Docker images for security vulnerabilities. 🐋  
 [osquery](https://github.com/osquery/osquery): SQL powered operating system instrumentation, monitoring, and analytics.  
-[CloseTheGapCybersecurity](https://github.com/ChristianSchwarzOTHRegensburg/CloseTheGapCybersecurity): Repository for the Close the Gap - Cybersecurity E-Book. A Book about transforming your theoretical programming Knowledge from University into real Life Python Projects 
+[CloseTheGapCybersecurity](https://github.com/ChristianSchwarzOTHRegensburg/CloseTheGapCybersecurity): Repository for the Close the Gap - Cybersecurity E-Book. A Book about transforming your theoretical programming Knowledge from University into real Life Python Projects   
+[final-java-backend](https://github.com/ZootHii/final-java-backend): n-tier java web api example spring boot, postgre sql, SOLID design
