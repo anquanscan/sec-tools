@@ -1256,4 +1256,5 @@
 [log4shell-looker](https://github.com/ravro-ir/log4shell-looker): log4jshell vulnerability scanner for bug bounty  
 [ggtfobins](https://github.com/CristinaSolana/ggtfobins): Get GTFOBins info about a given exploit from the command line  
 [teleport](https://github.com/gravitational/teleport): Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops  
-[SmartBatteryHack](https://github.com/laszlodaniel/SmartBatteryHack): Arduino based hacking tool for smart batteries using SMBus.
+[SmartBatteryHack](https://github.com/laszlodaniel/SmartBatteryHack): Arduino based hacking tool for smart batteries using SMBus.  
+[cybersecurity-malware-analysis](https://github.com/paulveillard/cybersecurity-malware-analysis): A collection of Malware Analysis software, materials, libraries, documents, books, resources  about malware analysis in Cybersecurity.
