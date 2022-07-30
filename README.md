@@ -1022,4 +1022,5 @@
 [SlowLoris](https://github.com/maxkrivich/SlowLoris): Asynchronous Python implementation of SlowLoris DoS attack  
 [klustair-helm](https://github.com/klustair/klustair-helm): Helm chart do deploy klustair with anchore  
 [omsp](https://github.com/zerolynx/omsp): Open Mobility Security Project is an open source project dedicated to standardize a framework of technical controls to evaluate security in all types of vehicles.  
-[CVE-2020-3153](https://github.com/shubham0d/CVE-2020-3153): POC code for CVE-2020-3153 - Cisco anyconnect path traversal vulnerability
+[CVE-2020-3153](https://github.com/shubham0d/CVE-2020-3153): POC code for CVE-2020-3153 - Cisco anyconnect path traversal vulnerability  
+[hostedscan-api-examples](https://github.com/hostedscan/hostedscan-api-examples): HostedScan Security API examples. 
