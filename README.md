@@ -1068,4 +1068,5 @@
 [KeychainCracker](https://github.com/macmade/KeychainCracker): macOS keychain cracking tool  
 [black-hat-rust](https://github.com/skerkour/black-hat-rust): Applied offensive security with Rust  - https://kerkour.com/black-hat-rust  
 [GEVAUDAN](https://github.com/MauroEldritch/GEVAUDAN): Exploit for Red Hat / GlusterFS CVE-2018-1088 & CVE-2018-1112, featured @ DEFCON 26, Las Vegas!  
-[who_and_what_to_follow](https://github.com/santosomar/who_and_what_to_follow): Who and what to follow in the world of cyber security
+[who_and_what_to_follow](https://github.com/santosomar/who_and_what_to_follow): Who and what to follow in the world of cyber security  
+[tjson.js](https://github.com/tjson/tjson.js): JavaScript-compatible implementation of Tagged JSON (TJSON), written in TypeScript.
