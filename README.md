@@ -1318,4 +1318,5 @@
 [Valkyrie](https://github.com/soufianetahiri/Valkyrie): Another OSINT tool  
 [BlooketHack](https://github.com/kgsensei/BlooketHack): One of the First Blooket hacks online.  
 [VanCleef](https://github.com/MauroEldritch/VanCleef): Exploit for CVE-2019-11881 (Rancher 2.1.4 Web Parameter Tampering)  
-[joomscan](https://github.com/OWASP/joomscan): OWASP Joomla Vulnerability Scanner Project
+[joomscan](https://github.com/OWASP/joomscan): OWASP Joomla Vulnerability Scanner Project  
+[PwnLnX](https://github.com/0xTRAW/PwnLnX): An advanced multi-threaded, multi-client python reverse shell for hacking linux systems. There's still more work to do so feel free to help out with the development. Disclaimer: This reverse shell should only be used in the lawful, remote administration of authorized systems. Accessing a computer network without authorization or permission is illegal.
