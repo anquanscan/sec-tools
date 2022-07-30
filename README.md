@@ -1099,4 +1099,5 @@
 [Windows-Event-Monitor](https://github.com/jrdnbradford/Windows-Event-Monitor): Python 3-based multithreaded Windows Event monitoring program  
 [FakeUSB](https://github.com/Skazza94/FakeUSB): Make your own BadUSB device!  
 [dionaea](https://github.com/DinoTools/dionaea): Home of the dionaea honeypot  
-[Make-It-Burn](https://github.com/Ud0g-Py/Make-It-Burn): Colección de herramientas y scripts enfocados al Red-Team y CTFs
+[Make-It-Burn](https://github.com/Ud0g-Py/Make-It-Burn): Colección de herramientas y scripts enfocados al Red-Team y CTFs  
+[GetMeUacPerms](https://github.com/KaizerFox/GetMeUacPerms): this will be deleted when its patched
