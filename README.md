@@ -1069,4 +1069,5 @@
 [black-hat-rust](https://github.com/skerkour/black-hat-rust): Applied offensive security with Rust  - https://kerkour.com/black-hat-rust  
 [GEVAUDAN](https://github.com/MauroEldritch/GEVAUDAN): Exploit for Red Hat / GlusterFS CVE-2018-1088 & CVE-2018-1112, featured @ DEFCON 26, Las Vegas!  
 [who_and_what_to_follow](https://github.com/santosomar/who_and_what_to_follow): Who and what to follow in the world of cyber security  
-[tjson.js](https://github.com/tjson/tjson.js): JavaScript-compatible implementation of Tagged JSON (TJSON), written in TypeScript.
+[tjson.js](https://github.com/tjson/tjson.js): JavaScript-compatible implementation of Tagged JSON (TJSON), written in TypeScript.  
+[OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN): OSINT-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.
