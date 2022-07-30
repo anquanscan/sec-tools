@@ -1124,4 +1124,5 @@
 [zbn](https://github.com/zbnio/zbn): 安全编排与自动化响应平台  
 [heimdall-framework](https://github.com/Heimdall-Framework/heimdall-framework): USB threat evaluation framework for Linux   
 [SharpSQLPwn](https://github.com/lefayjey/SharpSQLPwn): C# tool to identify and exploit weaknesses within MSSQL instances in Active Directory environments  
-[autovpn](https://github.com/ttlequals0/autovpn): Create On Demand Disposable OpenVPN Endpoints on AWS.
+[autovpn](https://github.com/ttlequals0/autovpn): Create On Demand Disposable OpenVPN Endpoints on AWS.  
+[fireELF](https://github.com/rek7/fireELF): fireELF - Fileless Linux Malware Framework
