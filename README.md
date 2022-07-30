@@ -1037,4 +1037,5 @@
 [invenio](https://github.com/UMassCybersecurity/invenio): :mag_right: Cve-scanner and vulnerability scanner for local-hosting and local/web-wide scanning  
 [ccd-signal-injection-attacks](https://github.com/ssloxford/ccd-signal-injection-attacks): Source code to execute signal injection attacks against CCD image sensors  
 [Zero-attacker](https://github.com/AsjadOooO/Zero-attacker): Zero-attacker is an multipurpose hacking tool with over 24 tools like token-gen, ddos and more (code public in sometime)  
-[python-injector](https://github.com/pseudorandomuser/python-injector): A Python runtime code injector written in C++. Abandoned 2012.
+[python-injector](https://github.com/pseudorandomuser/python-injector): A Python runtime code injector written in C++. Abandoned 2012.  
+[APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices): Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian.
