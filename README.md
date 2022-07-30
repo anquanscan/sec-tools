@@ -1263,4 +1263,5 @@
 [spectre_meltdown](https://github.com/jarmouz/spectre_meltdown): Meltdown and Spectre : CPU vulnerabilities — Explained and Exploited  
 [railsgoat](https://github.com/OWASP/railsgoat): A vulnerable version of Rails that follows the OWASP Top 10  
 [ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer): Craft PNG files that appear completely different in Apple software [NOW PATCHED]  
-[browser-creds](https://github.com/HugoLB0/browser-creds): recover Firefox and more browsers logins
+[browser-creds](https://github.com/HugoLB0/browser-creds): recover Firefox and more browsers logins  
+[ez-pwnkit](https://github.com/OXDBXKXO/ez-pwnkit): Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034)
