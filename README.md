@@ -1166,4 +1166,5 @@
 [HellRaiser](https://github.com/m0nad/HellRaiser): Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.  
 [Cloak-And-Dagger](https://github.com/NoahS96/Cloak-And-Dagger): An overlay attack example  
 [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers): Security Guide for Developers (实用性开发人员安全须知)  
-[kubestriker](https://github.com/vchinnipilli/kubestriker): A Blazing fast Security Auditing tool for Kubernetes
+[kubestriker](https://github.com/vchinnipilli/kubestriker): A Blazing fast Security Auditing tool for Kubernetes  
+[Multi-Client-Reverse-Shell](https://github.com/mustafadalga/Multi-Client-Reverse-Shell): A multi-client reverse shell that allows multiple connections from target computers  ||  Hedef bilgisayarlardan gelen birden fazla bağlantıya izin veren çoklu istemcili reverse shell.
