@@ -1135,4 +1135,5 @@
 [chef-cis-tomcat-hardening](https://github.com/mitre/chef-cis-tomcat-hardening): (WIP) Chef recipe for hardening tomcat 8 to the CIS Tomcat Benchmark v1.0.1  
 [V3n0M-Scanner](https://github.com/v3n0m-Scanner/V3n0M-Scanner): Popular Pentesting scanner in Python3.6 for SQLi/XSS/LFI/RFI and other Vulns  
 [KeyLogger](https://github.com/jagdishpatil2111/KeyLogger): This Advanced Keylogger is much more than a Keylogger. This keylogger includes more features other than just keylogging. This program is capable of Recording Keystrokes, Takes Screensnaps, Records Audio,  Cracks System Configurations, Records data copied in Clipboard, Sends all the above data via E-mail.  
-[CVE-2019-12594](https://github.com/Alexandre-Bartel/CVE-2019-12594): This is a PoC for CVE-2019-12594, a vulnerability in DOSBox 0.74-2.
+[CVE-2019-12594](https://github.com/Alexandre-Bartel/CVE-2019-12594): This is a PoC for CVE-2019-12594, a vulnerability in DOSBox 0.74-2.  
+[programming-challenges](https://github.com/michelbernardods/programming-challenges): Algorithmic, Data Structures, Frontend and Pentest - Programming challenges and competitions to improve knowledge.
