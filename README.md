@@ -1087,4 +1087,5 @@
 [chainsaw](https://github.com/countercept/chainsaw):  Rapidly Search and Hunt through Windows Event Logs   
 [openvas-light](https://github.com/MrSuicideParrot/openvas-light): A dockerized version of openvas and totally independent of the greenbone stack.  
 [hmac-timing-attacks](https://github.com/eggie5/hmac-timing-attacks): HMAC timing attack's w/ statistical analysis   
-[titanm](https://github.com/quarkslab/titanm): This repository contains the tools we used in our research on the Google Titan M chip
+[titanm](https://github.com/quarkslab/titanm): This repository contains the tools we used in our research on the Google Titan M chip  
+[Crash-Call-Discord](https://github.com/Its-Vichy/Crash-Call-Discord): Crash discord dm / group vocal
