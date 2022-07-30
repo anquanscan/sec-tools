@@ -1152,4 +1152,5 @@
 [packet-maze-example](https://github.com/hrbrmstr/packet-maze-example): 🔀 📕Example R project for the CyberDefenders Packet Maze e-book walkthrough  
 [AllHackingTools](https://github.com/LOGI-LAB/AllHackingTools): ALL HACKING TOOLS IN ONE REPO  
 [docker-volatility](https://github.com/blacktop/docker-volatility): Volatility Dockerfile  
-[puffgo](https://github.com/ARaChn3/puffgo):  A go package implementing a simple logic-bomb. 
+[puffgo](https://github.com/ARaChn3/puffgo):  A go package implementing a simple logic-bomb.   
+[vsftpd-3.0.3-DoS](https://github.com/prodseanb/vsftpd-3.0.3-DoS): vsftpd 3.0.3 Exploit - Remote Denial of Service
