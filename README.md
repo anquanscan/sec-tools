@@ -1109,4 +1109,5 @@
 [Tor2web](https://github.com/tor2web/Tor2web): Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers  
 [Niko](https://github.com/narumii/Niko): Small crash client base for retarded(german) people who steal other people's code.  
 [BAF](https://github.com/TralseDev/BAF): winx86 Stack-Based Buffer Overflow Scanner  
-[aws-least-privilege](https://github.com/functionalone/aws-least-privilege): Use AWS X-Ray to reach Least Privilege
+[aws-least-privilege](https://github.com/functionalone/aws-least-privilege): Use AWS X-Ray to reach Least Privilege  
+[evillimiter-windows](https://github.com/bitbrute/evillimiter-windows): Tool that limits bandwidth of devices on the same network without access.
