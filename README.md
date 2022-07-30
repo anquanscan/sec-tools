@@ -1261,4 +1261,5 @@
 [meshbird](https://github.com/meshbird/meshbird): Distributed private networking  
 [reosploit](https://github.com/spicesouls/reosploit): A Tool that Finds, Enumerates, and Exploits Reolink Cameras.  
 [spectre_meltdown](https://github.com/jarmouz/spectre_meltdown): Meltdown and Spectre : CPU vulnerabilities — Explained and Exploited  
-[railsgoat](https://github.com/OWASP/railsgoat): A vulnerable version of Rails that follows the OWASP Top 10
+[railsgoat](https://github.com/OWASP/railsgoat): A vulnerable version of Rails that follows the OWASP Top 10  
+[ambiguous-png-packer](https://github.com/DavidBuchanan314/ambiguous-png-packer): Craft PNG files that appear completely different in Apple software [NOW PATCHED]
