@@ -1240,4 +1240,5 @@
 [AnsiblePlaybooks](https://github.com/byt3bl33d3r/AnsiblePlaybooks): A collection of Ansible Playbooks that configure Kali to use Fish & install a number of tools  
 [tp_link_gdpr](https://github.com/0xf15h/tp_link_gdpr): Breaking TP-Link's attempt at GDPR compliance   
 [MISP](https://github.com/MISP/MISP): MISP (core software) - Open Source Threat Intelligence and Sharing Platform  
-[gensec](https://github.com/fstab50/gensec): General Security Utilities for Linux
+[gensec](https://github.com/fstab50/gensec): General Security Utilities for Linux  
+[PatrowlManager](https://github.com/Patrowl/PatrowlManager): PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
