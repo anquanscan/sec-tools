@@ -1249,4 +1249,5 @@
 [security-bulletins](https://github.com/Netflix/security-bulletins): Security Bulletins that relate to Netflix Open Source  
 [ADPWN](https://github.com/r4wd3r/ADPWN): Useful Windows and AD tools  
 [gvm-install-script](https://github.com/Jarthianur/gvm-install-script): An unofficial script to install GVM alias OpenVAS.  
-[hiddenwave](https://github.com/thehackersbrain/hiddenwave): An Audio Steganography Tool, written in C++
+[hiddenwave](https://github.com/thehackersbrain/hiddenwave): An Audio Steganography Tool, written in C++  
+[ppmap](https://github.com/kleiton0x00/ppmap): A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.
