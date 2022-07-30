@@ -1056,4 +1056,5 @@
 [SSH-tunneling-internal](https://github.com/aconstantinou-cmd/SSH-tunneling-internal): Scripts to assist in deploying virtual ethernet adapter and ssh tunneling for vulnerability scanning/ penetration testing  
 [wordlistgen](https://github.com/ameenmaali/wordlistgen): Quickly generate context-specific wordlists for content discovery from lists of URLs or paths  
 [the-bastion](https://github.com/ovh/the-bastion): Authentication, authorization, traceability and auditability for SSH accesses.  
-[cve-2016-1764](https://github.com/moloch--/cve-2016-1764): Extraction of iMessage Data via XSS
+[cve-2016-1764](https://github.com/moloch--/cve-2016-1764): Extraction of iMessage Data via XSS  
+[attack-control-framework-mappings](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings): Security control framework mappings to MITRE ATT&CK provide a critically important resource for organizations to assess their security control coverage against real-world threats and provide a bridge for integrating ATT&CK-based threat information into the risk management process.
