@@ -1251,4 +1251,5 @@
 [gvm-install-script](https://github.com/Jarthianur/gvm-install-script): An unofficial script to install GVM alias OpenVAS.  
 [hiddenwave](https://github.com/thehackersbrain/hiddenwave): An Audio Steganography Tool, written in C++  
 [ppmap](https://github.com/kleiton0x00/ppmap): A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.  
-[openredscan](https://github.com/thenurhabib/openredscan): Multifunctional open redirection vulnerability scanner.
+[openredscan](https://github.com/thenurhabib/openredscan): Multifunctional open redirection vulnerability scanner.  
+[find-gh-poc](https://github.com/trickest/find-gh-poc): Find CVE PoCs on GitHub
