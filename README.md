@@ -1253,4 +1253,5 @@
 [ppmap](https://github.com/kleiton0x00/ppmap): A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets.  
 [openredscan](https://github.com/thenurhabib/openredscan): Multifunctional open redirection vulnerability scanner.  
 [find-gh-poc](https://github.com/trickest/find-gh-poc): Find CVE PoCs on GitHub  
-[log4shell-looker](https://github.com/ravro-ir/log4shell-looker): log4jshell vulnerability scanner for bug bounty
+[log4shell-looker](https://github.com/ravro-ir/log4shell-looker): log4jshell vulnerability scanner for bug bounty  
+[ggtfobins](https://github.com/CristinaSolana/ggtfobins): Get GTFOBins info about a given exploit from the command line
