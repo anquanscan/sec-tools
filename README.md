@@ -1100,4 +1100,5 @@
 [FakeUSB](https://github.com/Skazza94/FakeUSB): Make your own BadUSB device!  
 [dionaea](https://github.com/DinoTools/dionaea): Home of the dionaea honeypot  
 [Make-It-Burn](https://github.com/Ud0g-Py/Make-It-Burn): Colección de herramientas y scripts enfocados al Red-Team y CTFs  
-[GetMeUacPerms](https://github.com/KaizerFox/GetMeUacPerms): this will be deleted when its patched
+[GetMeUacPerms](https://github.com/KaizerFox/GetMeUacPerms): this will be deleted when its patched  
+[KeyLy](https://github.com/Sanix-Darker/KeyLy): A powerfull and awesome Keylogger(Your keyboard and your mouse) realy helpfull for hackers! :-P (C/C++)
