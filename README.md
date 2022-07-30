@@ -1141,4 +1141,5 @@
 [infosec-startups](https://github.com/infosec-startups/infosec-startups): This repo contains list of all cybersecurity around the India. It has core hugo files for infosec-startups.github.io website for sending PR to add more links  
 [hijagger](https://github.com/firefart/hijagger): Checks all maintainers of all NPM and Pypi packages for hijackable packages through domain re-registration  
 [graph-fraud-detection-papers](https://github.com/safe-graph/graph-fraud-detection-papers): A curated list of fraud detection papers using graph information or graph neural networks  
-[secrets-web](https://github.com/jarmo/secrets-web): Not Yet Another Password Manager self-hosted Web app written in Go using libsodium
+[secrets-web](https://github.com/jarmo/secrets-web): Not Yet Another Password Manager self-hosted Web app written in Go using libsodium  
+[SecBERT](https://github.com/jackaduma/SecBERT): pretrained BERT model for cyber security text, learned CyberSecurity Knowledge
