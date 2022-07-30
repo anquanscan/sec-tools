@@ -1190,4 +1190,5 @@
 [sops](https://github.com/mozilla/sops): Simple and flexible tool for managing secrets  
 [WebHackingNotes](https://github.com/inj3ctor-m4/WebHackingNotes): RECON Notes taking from every fucking book about bugbounty and web-app penetration testing exists  
 [urchin](https://github.com/keeganjk/urchin): :shell::collision: Python socket remote shell that lets you connect to others computers through the shell when they run the client.   
-[bpfd](https://github.com/genuinetools/bpfd): Framework for running BPF programs with rules on Linux as a daemon. Container aware.
+[bpfd](https://github.com/genuinetools/bpfd): Framework for running BPF programs with rules on Linux as a daemon. Container aware.  
+[pyKeylogger](https://github.com/kartikmehta8/pyKeylogger): A Python-based Keylogger that can track your keystrokes, clipboard text, take screenshots at regular intervals, and records audio. It sends the data as SMS to the target phone number using Twilio.
