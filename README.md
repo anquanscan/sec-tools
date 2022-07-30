@@ -1204,4 +1204,5 @@
 [dbuster-pro](https://github.com/DioBruh/dbuster-pro): Dbuster-pro is a beta open-source hacking tool for scanning directories in the websites!   
 [command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list): 🎯 Command Injection Payload List  
 [mercator](https://github.com/dbarzin/mercator): Cartographie du système d'information / Mapping the information system  
-[RVD](https://github.com/aliasrobotics/RVD): Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.
+[RVD](https://github.com/aliasrobotics/RVD): Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.  
+[WhatsPayloadRCE](https://github.com/Err0r-ICA/WhatsPayloadRCE): Whatsapp Automatic Payload Generator [CVE-2019-11932]
