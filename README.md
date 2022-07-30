@@ -1092,4 +1092,5 @@
 [Hunter-Toolkit](https://github.com/Keyj33k/Hunter-Toolkit): Hunter-Toolkit Pentesting Assistant: Information Gathering And More.  
 [Cascade](https://github.com/binarybird/Cascade): Cascade - Dataflow graphing and analysis for C#  
 [shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.  
-[soos-ci-analysis-circleci-orb](https://github.com/soos-io/soos-ci-analysis-circleci-orb): SOOS SCA for CircleCI
+[soos-ci-analysis-circleci-orb](https://github.com/soos-io/soos-ci-analysis-circleci-orb): SOOS SCA for CircleCI  
+[uokoo_exploit](https://github.com/0xf15h/uokoo_exploit): Post-Auth RCE & Persistence on UOKOO Security Cameras
