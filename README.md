@@ -1160,4 +1160,5 @@
 [RubyFu](https://github.com/rubyfu/RubyFu): Rubyfu, where Ruby goes evil!  
 [codeclimate-rubocop](https://github.com/codeclimate/codeclimate-rubocop): Code Climate Engine for Rubocop   
 [HacKingPro](https://github.com/AnLoMinus/HacKingPro): HacKingPro - Hack Like A Pro !  
-[MrKaplan](https://github.com/Idov31/MrKaplan): MrKaplan is a tool aimed to help red teamers to stay hidden by clearing evidence of execution.
+[MrKaplan](https://github.com/Idov31/MrKaplan): MrKaplan is a tool aimed to help red teamers to stay hidden by clearing evidence of execution.  
+[batchql](https://github.com/assetnote/batchql): GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations
