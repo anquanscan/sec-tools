@@ -1145,4 +1145,5 @@
 [SecBERT](https://github.com/jackaduma/SecBERT): pretrained BERT model for cyber security text, learned CyberSecurity Knowledge  
 [PXEnum](https://github.com/shawnduong/PXEnum): A shell script that automatically performs a series of *NIX enumeration tasks.  
 [overkill](https://github.com/jbaines-r7/overkill): QNAP N-Day (Probably not CVE-2020-2509)  
-[goHackTools](https://github.com/dreddsa5dies/goHackTools): Hacker tools on Go (Golang)
+[goHackTools](https://github.com/dreddsa5dies/goHackTools): Hacker tools on Go (Golang)  
+[richelieu](https://github.com/tarraschk/richelieu): List of the most common French passwords
