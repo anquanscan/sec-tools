@@ -1307,4 +1307,5 @@
 [wp-api-exploit-v4.7.0-v4.7.1](https://github.com/kvcpr/wp-api-exploit-v4.7.0-v4.7.1):  WordPress 4.7.0-4.7.1 REST API Post privilege escalation / defacement exploit  
 [MBF-HACK](https://github.com/Hammond-sys/MBF-HACK): gunakan dengan bijak  
 [wallnet](https://github.com/wallarm/wallnet)  
-[saractl](https://github.com/smeso/saractl): saractl is the userspace counterpart of the S.A.R.A. LSM.
+[saractl](https://github.com/smeso/saractl): saractl is the userspace counterpart of the S.A.R.A. LSM.  
+[w13scan](https://github.com/w-digital-scanner/w13scan): Passive Security Scanner (被动式安全扫描器)
