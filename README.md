@@ -1309,4 +1309,5 @@
 [wallnet](https://github.com/wallarm/wallnet)  
 [saractl](https://github.com/smeso/saractl): saractl is the userspace counterpart of the S.A.R.A. LSM.  
 [w13scan](https://github.com/w-digital-scanner/w13scan): Passive Security Scanner (被动式安全扫描器)  
-[anonfiles](https://github.com/TheSpeedX/anonfiles): Share Files More Anonymously Than  Ever...
+[anonfiles](https://github.com/TheSpeedX/anonfiles): Share Files More Anonymously Than  Ever...  
+[TITANIC-DATASET-ANALYSIS](https://github.com/drsanchikagupta/TITANIC-DATASET-ANALYSIS): Kaggle Titanic Challenge  link:  https://www.kaggle.com/c/titanic-gettingStarted
