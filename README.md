@@ -1301,4 +1301,5 @@
 [DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline): The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.  
 [RECON-SCANNER](https://github.com/tburakdirlik/RECON-SCANNER): Recon scanner is a web crawling and vulnerability scanning tool. Available modules: whoIs, subdomain scanner, port scanner, directory traversal finder, xss finder.   
 [cybersecurity-interview-questions](https://github.com/jassics/cybersecurity-interview-questions): Security interview questions with possible explanation   
-[G-Unsicherheit](https://github.com/java-crypto/G-Unsicherheit): G-Unsecure
+[G-Unsicherheit](https://github.com/java-crypto/G-Unsicherheit): G-Unsecure  
+[httpsuite](https://github.com/whoamisec75/httpsuite): A toolkit for web reconnaissance, it's fast and easy to use.  
