@@ -1231,4 +1231,5 @@
 [starboard](https://github.com/aquasecurity/starboard): Moved to https://github.com/aquasecurity/trivy-operator  
 [Jira-Lens](https://github.com/MayankPandey01/Jira-Lens): Fast and customizable vulnerability scanner For JIRA written in Python  
 [zaproxy-automation](https://github.com/ZFPSystems/zaproxy-automation): This is a collection of ZAProxy Automation Tools and scripts to automate security tests of WEB Applications and WEB Sites  
-[Stowaway](https://github.com/ph4ntonn/Stowaway): 👻Stowaway -- Multi-hop Proxy Tool for pentesters
+[Stowaway](https://github.com/ph4ntonn/Stowaway): 👻Stowaway -- Multi-hop Proxy Tool for pentesters  
+[secure-webhosting-infra](https://github.com/david-strejc/secure-webhosting-infra): WordPress, security, speed, backuping, webhosting, and tuned Apache2.4 server with php-fpm, chroot and other stuff.
