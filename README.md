@@ -1267,4 +1267,5 @@
 [ez-pwnkit](https://github.com/OXDBXKXO/ez-pwnkit): Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034)  
 [TotalPass](https://github.com/0xHJK/TotalPass): Default password scanner. 默认密码扫描器  
 [Teardroid-phprat](https://github.com/ScRiPt1337/Teardroid-phprat): :india: :robot: It's easy to use android botnet work without port forwarding, vps and android studio  
-[cve-2020-27358-27359](https://github.com/sebastian-mora/cve-2020-27358-27359): CVE-2020-27358 and CVE-2020-27359
+[cve-2020-27358-27359](https://github.com/sebastian-mora/cve-2020-27358-27359): CVE-2020-27358 and CVE-2020-27359  
+[AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner): 一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
