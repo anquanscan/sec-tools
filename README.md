@@ -1292,4 +1292,5 @@
 [Miner](https://github.com/M507/Miner): Local Privilege Escalation Miner  
 [wholeaked](https://github.com/utkusen/wholeaked): a file-sharing tool that allows you to find the responsible person in case of a leakage  
 [second-order](https://github.com/mhmdiaa/second-order): Second-order subdomain takeover scanner  
-[opencti](https://github.com/OpenCTI-Platform/opencti): Open Cyber Threat Intelligence Platform
+[opencti](https://github.com/OpenCTI-Platform/opencti): Open Cyber Threat Intelligence Platform  
+[mobile-heavy-artillery](https://github.com/Fricciolosa-Red-Team/mobile-heavy-artillery): 🔥Ready, Aim, Fire.🔥
