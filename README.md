@@ -1290,4 +1290,5 @@
 [envchain](https://github.com/sorah/envchain): Environment variables meet macOS Keychain and gnome-keyring <3  
 [Exploit-Slient-Doc-Pdf](https://github.com/attakercyebr/Exploit-Slient-Doc-Pdf): ulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silen…  
 [Miner](https://github.com/M507/Miner): Local Privilege Escalation Miner  
-[wholeaked](https://github.com/utkusen/wholeaked): a file-sharing tool that allows you to find the responsible person in case of a leakage
+[wholeaked](https://github.com/utkusen/wholeaked): a file-sharing tool that allows you to find the responsible person in case of a leakage  
+[second-order](https://github.com/mhmdiaa/second-order): Second-order subdomain takeover scanner
