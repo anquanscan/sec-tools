@@ -1114,4 +1114,5 @@
 [Docx-Exploit-2021](https://github.com/LazarusReborn/Docx-Exploit-2021): This docx exploit uses res files inside Microsoft .docx file to execute malicious files. This exploit is related to CVE-2021-40444  
 [MixewayScanner](https://github.com/Mixeway/MixewayScanner): Mixeway Scanner is Spring Boot application which aggregate integration with number of OpenSource Vulnerability scanners - both SAST and DAST types  
 [search_vulns](https://github.com/ra1nb0rn/search_vulns): Search for known vulnerabilities in software using software titles or a CPE 2.3 string  
-[PcapXray](https://github.com/Srinivas11789/PcapXray): :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
+[PcapXray](https://github.com/Srinivas11789/PcapXray): :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction  
+[Auditr](https://github.com/0x1CA3/Auditr): A utility for auditing C code for vulnerabilities.
