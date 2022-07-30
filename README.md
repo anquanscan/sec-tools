@@ -1272,4 +1272,5 @@
 [WitnessMe](https://github.com/byt3bl33d3r/WitnessMe): Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.  
 [cics-java-liberty-loans-and-scoring](https://github.com/cicsdev/cics-java-liberty-loans-and-scoring): Sample materials for the article "Using the Liberty JWT Feature with CICS" that illustrate how CICS and Liberty for z/OS capabilities can be used to handle JSON Web Token (JWT)  
 [HTP](https://github.com/aryanrtm/HTP): Hack The Printer  
-[The-Awesome-And-Dangerous-collection](https://github.com/maxamin/The-Awesome-And-Dangerous-collection)
+[The-Awesome-And-Dangerous-collection](https://github.com/maxamin/The-Awesome-And-Dangerous-collection)  
+[fuxi](https://github.com/jeffzh3ng/fuxi): Penetration Testing Platform
