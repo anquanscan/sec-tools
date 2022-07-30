@@ -1094,4 +1094,5 @@
 [shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.  
 [soos-ci-analysis-circleci-orb](https://github.com/soos-io/soos-ci-analysis-circleci-orb): SOOS SCA for CircleCI  
 [uokoo_exploit](https://github.com/0xf15h/uokoo_exploit): Post-Auth RCE & Persistence on UOKOO Security Cameras  
-[cycat-service](https://github.com/CyCat-project/cycat-service): CyCAT.org API back-end server including crawlers
+[cycat-service](https://github.com/CyCat-project/cycat-service): CyCAT.org API back-end server including crawlers  
+[Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): A list of resources for those interested in getting started in bug bounties
