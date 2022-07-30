@@ -1225,4 +1225,5 @@
 [hacker101](https://github.com/Hacker0x01/hacker101): Source code for Hacker101.com - a free online web and mobile security class.  
 [Kissing-Bug](https://github.com/Mayur-Debu/Kissing-Bug): This is a combination of a hacking and a cracking tool.  
 [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API  
-[VanakkamNanbaFW](https://github.com/karuppan-the-pentester/VanakkamNanbaFW): ;-P
+[VanakkamNanbaFW](https://github.com/karuppan-the-pentester/VanakkamNanbaFW): ;-P  
+[go-hash](https://github.com/renatoathaydes/go-hash): Small utility to store secret information like passwords.
