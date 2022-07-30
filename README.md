@@ -1151,4 +1151,5 @@
 [CVE-2020-0796](https://github.com/ORCA666/CVE-2020-0796): local exploit  
 [packet-maze-example](https://github.com/hrbrmstr/packet-maze-example): 🔀 📕Example R project for the CyberDefenders Packet Maze e-book walkthrough  
 [AllHackingTools](https://github.com/LOGI-LAB/AllHackingTools): ALL HACKING TOOLS IN ONE REPO  
-[docker-volatility](https://github.com/blacktop/docker-volatility): Volatility Dockerfile
+[docker-volatility](https://github.com/blacktop/docker-volatility): Volatility Dockerfile  
+[puffgo](https://github.com/ARaChn3/puffgo):  A go package implementing a simple logic-bomb. 
