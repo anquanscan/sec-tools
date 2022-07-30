@@ -1077,4 +1077,5 @@
 [openpyn-nordvpn](https://github.com/jotyGill/openpyn-nordvpn): Easily connect to and switch between, OpenVPN servers hosted by NordVPN on Linux (+patch leakes)  
 [aardvark](https://github.com/Netflix-Skunkworks/aardvark): Aardvark is a multi-account AWS IAM Access Advisor API  
 [CVE-2019-10149](https://github.com/Diefunction/CVE-2019-10149): CVE-2019-10149 : A flaw was found in Exim versions 4.87 to 4.91 (inclusive). Improper validation of recipient address in deliver_message() function in /src/deliver.c may lead to remote command execution.  
-[nero-phishing-server](https://github.com/kurogai/nero-phishing-server): An full HTTP server for Phishing. Downloads recursively the entire webpage.
+[nero-phishing-server](https://github.com/kurogai/nero-phishing-server): An full HTTP server for Phishing. Downloads recursively the entire webpage.  
+[AutoPentest](https://github.com/bodavk/AutoPentest): A system for automation of the penetration testing procedure. Master's thesis work
