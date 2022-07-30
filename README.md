@@ -1238,4 +1238,5 @@
 [Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes): You didn't think I'd go and leave the blue team out, right?   
 [buji-pac4j](https://github.com/bujiio/buji-pac4j): pac4j security library for Shiro: OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...  
 [AnsiblePlaybooks](https://github.com/byt3bl33d3r/AnsiblePlaybooks): A collection of Ansible Playbooks that configure Kali to use Fish & install a number of tools  
-[tp_link_gdpr](https://github.com/0xf15h/tp_link_gdpr): Breaking TP-Link's attempt at GDPR compliance 
+[tp_link_gdpr](https://github.com/0xf15h/tp_link_gdpr): Breaking TP-Link's attempt at GDPR compliance   
+[MISP](https://github.com/MISP/MISP): MISP (core software) - Open Source Threat Intelligence and Sharing Platform
