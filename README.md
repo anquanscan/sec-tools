@@ -1170,4 +1170,5 @@
 [Multi-Client-Reverse-Shell](https://github.com/mustafadalga/Multi-Client-Reverse-Shell): A multi-client reverse shell that allows multiple connections from target computers  ||  Hedef bilgisayarlardan gelen birden fazla bağlantıya izin veren çoklu istemcili reverse shell.  
 [LambdaGuard](https://github.com/Skyscanner/LambdaGuard): AWS Serverless Security  
 [SecurityManageFramwork](https://github.com/we1h0/SecurityManageFramwork): Security Manage Framwork is a security management platform for enterprise intranet, which includes asset management, vulnerability management, account management, knowledge base management, security scanning automation function modules, and can be used for internal security management. This platform is designed to help Party A with fewer security personnel, complicated business lines, difficult periodic inspection and low automation to better achieve internal safety management.  
-[box-appServer](https://github.com/boxproject/box-appServer): The Staff-Manager App Server for Enterprise Token Safe BOX
+[box-appServer](https://github.com/boxproject/box-appServer): The Staff-Manager App Server for Enterprise Token Safe BOX  
+[OhMyDoS](https://github.com/martinkubecka/OhMyDoS): :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service.
