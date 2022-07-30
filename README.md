@@ -1282,4 +1282,5 @@
 [PseudoROX.github.io](https://github.com/PseudoROX/PseudoROX.github.io): PseudoROX cybersecurity opensource project website.  
 [snoop](https://github.com/snooppr/snoop): Snoop — инструмент разведки на основе открытых данных (OSINT world)  
 [Slacker](https://github.com/kordup/Slacker): Slacker makes navigating tools while focusing on a single target quicker, and easier with global targeting and preset tool functionality, as well as optional custom argument input.  
-[nocom-explanation](https://github.com/nerdsinspace/nocom-explanation): block game military grade radar
+[nocom-explanation](https://github.com/nerdsinspace/nocom-explanation): block game military grade radar  
+[Asnlookup](https://github.com/yassineaboukir/Asnlookup): Leverage ASN to look up IP addresses (IPv4 & IPv6) owned by a specific organization for reconnaissance purposes, then run port scanning on it.
