@@ -1163,4 +1163,5 @@
 [MrKaplan](https://github.com/Idov31/MrKaplan): MrKaplan is a tool aimed to help red teamers to stay hidden by clearing evidence of execution.  
 [batchql](https://github.com/assetnote/batchql): GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations  
 [subshot](https://github.com/boydlowr/subshot): :bug: Screenshot subdomains w/ Sublist3r.  
-[HellRaiser](https://github.com/m0nad/HellRaiser): Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
+[HellRaiser](https://github.com/m0nad/HellRaiser): Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.  
+[Cloak-And-Dagger](https://github.com/NoahS96/Cloak-And-Dagger): An overlay attack example
