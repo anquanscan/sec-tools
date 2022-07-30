@@ -1061,4 +1061,5 @@
 [topscan](https://github.com/thenurhabib/topscan): Web Vulnerability Scanner.  
 [hack-technicolor](https://github.com/hack-technicolor/hack-technicolor): Hacking Technicolor Gateways wiki repository   
 [Ethlint](https://github.com/duaraghav8/Ethlint): (Formerly Solium) Code quality & Security Linter for Solidity  
-[gateCracker](https://github.com/aydinnyunus/gateCracker)
+[gateCracker](https://github.com/aydinnyunus/gateCracker)  
+[CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words): 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks
