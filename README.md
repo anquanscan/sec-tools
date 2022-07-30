@@ -1287,4 +1287,5 @@
 [orbot](https://github.com/guardianproject/orbot): The Github home of Orbot: Tor on Android (Also available on gitlab!)  
 [wprecon](https://github.com/blackcrw/wprecon): WPRecon, is a tool for the recognition of vulnerabilities and blackbox information for wordpress.  
 [rdp0708scanner](https://github.com/l9c/rdp0708scanner): cve-2019-0708 vulnerablility scanner  
-[envchain](https://github.com/sorah/envchain): Environment variables meet macOS Keychain and gnome-keyring <3
+[envchain](https://github.com/sorah/envchain): Environment variables meet macOS Keychain and gnome-keyring <3  
+[Exploit-Slient-Doc-Pdf](https://github.com/attakercyebr/Exploit-Slient-Doc-Pdf): ulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders. Silent PDF Exploit silent-pdf-exploit-2018silent-pdf-exploit-2018 Silen…
