@@ -1090,4 +1090,5 @@
 [titanm](https://github.com/quarkslab/titanm): This repository contains the tools we used in our research on the Google Titan M chip  
 [Crash-Call-Discord](https://github.com/Its-Vichy/Crash-Call-Discord): Crash discord dm / group vocal  
 [Hunter-Toolkit](https://github.com/Keyj33k/Hunter-Toolkit): Hunter-Toolkit Pentesting Assistant: Information Gathering And More.  
-[Cascade](https://github.com/binarybird/Cascade): Cascade - Dataflow graphing and analysis for C#
+[Cascade](https://github.com/binarybird/Cascade): Cascade - Dataflow graphing and analysis for C#  
+[shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
