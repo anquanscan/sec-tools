@@ -1048,4 +1048,5 @@
 [unicorn](https://github.com/unicorn-engine/unicorn): Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)  
 [jsubfinder](https://github.com/ThreatUnkown/jsubfinder): jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).  
 [Incident-Playbook](https://github.com/austinsonger/Incident-Playbook): GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]  
-[xiringuito](https://github.com/ivanilves/xiringuito): SSH-based "VPN for poors"
+[xiringuito](https://github.com/ivanilves/xiringuito): SSH-based "VPN for poors"  
+[bluemaho](https://github.com/zenware/bluemaho): BlueMaho is GUI-shell (interface) for suite of tools for testing security of bluetooth devices. It is freeware, opensource, written on python, uses wxPyhon. It can be used for testing BT-devices for known vulnerabilities and major thing to do – testing to find unknown vulns. Also it can form nice statistics.
