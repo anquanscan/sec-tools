@@ -1266,4 +1266,5 @@
 [browser-creds](https://github.com/HugoLB0/browser-creds): recover Firefox and more browsers logins  
 [ez-pwnkit](https://github.com/OXDBXKXO/ez-pwnkit): Go implementation of the PwnKit Linux Local Privilege Escalation exploit (CVE-2021-4034)  
 [TotalPass](https://github.com/0xHJK/TotalPass): Default password scanner. 默认密码扫描器  
-[Teardroid-phprat](https://github.com/ScRiPt1337/Teardroid-phprat): :india: :robot: It's easy to use android botnet work without port forwarding, vps and android studio
+[Teardroid-phprat](https://github.com/ScRiPt1337/Teardroid-phprat): :india: :robot: It's easy to use android botnet work without port forwarding, vps and android studio  
+[cve-2020-27358-27359](https://github.com/sebastian-mora/cve-2020-27358-27359): CVE-2020-27358 and CVE-2020-27359
