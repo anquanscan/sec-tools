@@ -1080,4 +1080,5 @@
 [nero-phishing-server](https://github.com/kurogai/nero-phishing-server): An full HTTP server for Phishing. Downloads recursively the entire webpage.  
 [AutoPentest](https://github.com/bodavk/AutoPentest): A system for automation of the penetration testing procedure. Master's thesis work  
 [CloudScraper](https://github.com/jordanpotti/CloudScraper): CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.  
-[ImgBackdoor](https://github.com/Tsuyoken/ImgBackdoor): Hide your payload into .jpg file
+[ImgBackdoor](https://github.com/Tsuyoken/ImgBackdoor): Hide your payload into .jpg file  
+[kravatte](https://github.com/inmcm/kravatte): Implementation of Kravatte Encryption Suite
