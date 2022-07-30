@@ -1106,4 +1106,5 @@
 [paypalsocialengineering](https://github.com/rafadeveloper14/paypalsocialengineering): Uma ferramenta simples , de fácil instalação e bem desenvolvida com o objetivo de facilitar a prática em ambiente de pentesting o acesso a contas PayPal  
 [bypassjqueryrealpersoncaptcha](https://github.com/willthornton/bypassjqueryrealpersoncaptcha): A Chrome Plugin to Bypass jQuery Real Person Captcha  
 [CVSS_Calculator](https://github.com/moeinfatehi/CVSS_Calculator): CVSS Calculator - a burp suite extension for calculating CVSS v2 and v3.1 scores of vulnerabilities.  
-[Tor2web](https://github.com/tor2web/Tor2web): Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers
+[Tor2web](https://github.com/tor2web/Tor2web): Tor2web is an HTTP proxy software that enables access to  Tor Hidden Services by mean of common web browsers  
+[Niko](https://github.com/narumii/Niko): Small crash client base for retarded(german) people who steal other people's code.
