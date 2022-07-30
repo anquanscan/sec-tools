@@ -1277,4 +1277,5 @@
 [Instabruteforce](https://github.com/Hackertrackersj/Instabruteforce): hacking-tool termux-tools termux noob-friendly instagram-bot bruteforce-password-cracker wordlist-technique  
 [robot_hacking_manual](https://github.com/vmayoral/robot_hacking_manual): Robot Hacking Manual (RHM). From robotics to cybersecurity. Papers, notes and writeups from a journey into robot cybersecurity.  
 [Forum-de-cursos](https://github.com/Gabrie345/Forum-de-cursos): Aplicação desenvolvida com o curso da alura Spring-boot-seguranca-cache-monitoramento  
-[sploitfun-linux-x86-exp-tut-zh](https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh): :book: [译] SploitFun Linux x86 Exploit 开发系列教程
+[sploitfun-linux-x86-exp-tut-zh](https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh): :book: [译] SploitFun Linux x86 Exploit 开发系列教程  
+[charlas-ciberseguras](https://github.com/andersonjoseph/charlas-ciberseguras): Charlas / Conferencias de hacking y seguridad informática en español
