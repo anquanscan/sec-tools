@@ -1179,4 +1179,5 @@
 [Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection): Awesome graph anomaly detection techniques built based on deep learning frameworks. Collections of commonly used datasets, papers as well as implementations are listed in this github repository. We also invite researchers interested in anomaly detection, graph representation learning, and graph anomaly detection to join this project as contributors and boost further research in this area.  
 [cpwntools](https://github.com/nequ4tion/cpwntools): Fast, portable implementations for exploit development in C.  
 [TFM](https://github.com/VictorNS69/TFM): Resolución y explicación de Cap y Seal (HTB)  
-[envkey-python](https://github.com/envkey/envkey-python): EnvKey's python library. Protect API keys and credentials. Keep configuration in sync.
+[envkey-python](https://github.com/envkey/envkey-python): EnvKey's python library. Protect API keys and credentials. Keep configuration in sync.  
+[spike_detector](https://github.com/pjain03/spike_detector): Tool to detect unusually high CPU usage (as in harmful cryptojacking)
