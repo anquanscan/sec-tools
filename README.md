@@ -1296,4 +1296,5 @@
 [mobile-heavy-artillery](https://github.com/Fricciolosa-Red-Team/mobile-heavy-artillery): 🔥Ready, Aim, Fire.🔥  
 [netauditor](https://github.com/scmanjarrez/netauditor): Mirror repository of https://gitlab.gast.it.uc3m.es/schica/netauditor  
 [Whaler](https://github.com/P3GLEG/Whaler): Program to reverse Docker images into Dockerfiles  
-[container.binwalk](https://github.com/0dayInc/container.binwalk): Project that Leverages Packer to Produce a Docker Container w/ binwalk and its Dependencies
+[container.binwalk](https://github.com/0dayInc/container.binwalk): Project that Leverages Packer to Produce a Docker Container w/ binwalk and its Dependencies  
+[EvtXHunt](https://github.com/Lyc4on/EvtXHunt): EvtXHunt is an Autopsy plugin that is able to analyze Windows EVTX logs against a library of SIGMA rules.
