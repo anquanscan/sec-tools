@@ -1085,4 +1085,5 @@
 [t14m4t](https://github.com/MS-WEB-BN/t14m4t): Automated brute-forcing attack tool.  
 [lempo](https://github.com/MauroEldritch/lempo): LEMPO (Ldap Exposure on POrtainer) is an exploit for CVE-2018-19466 (LDAP Credentials Disclosure on Portainer). Featured @ DevFest Siberia 2018  
 [chainsaw](https://github.com/countercept/chainsaw):  Rapidly Search and Hunt through Windows Event Logs   
-[openvas-light](https://github.com/MrSuicideParrot/openvas-light): A dockerized version of openvas and totally independent of the greenbone stack.
+[openvas-light](https://github.com/MrSuicideParrot/openvas-light): A dockerized version of openvas and totally independent of the greenbone stack.  
+[hmac-timing-attacks](https://github.com/eggie5/hmac-timing-attacks): HMAC timing attack's w/ statistical analysis 
