@@ -1046,4 +1046,5 @@
 [slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action): Github Action implementation of SLSA Provenance Generation  
 [lemmeknow](https://github.com/swanandx/lemmeknow): The fastest way to identify anything!  
 [unicorn](https://github.com/unicorn-engine/unicorn): Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)  
-[jsubfinder](https://github.com/ThreatUnkown/jsubfinder): jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
+[jsubfinder](https://github.com/ThreatUnkown/jsubfinder): jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).  
+[Incident-Playbook](https://github.com/austinsonger/Incident-Playbook): GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]
