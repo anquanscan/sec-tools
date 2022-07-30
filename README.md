@@ -1093,4 +1093,5 @@
 [Cascade](https://github.com/binarybird/Cascade): Cascade - Dataflow graphing and analysis for C#  
 [shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.  
 [soos-ci-analysis-circleci-orb](https://github.com/soos-io/soos-ci-analysis-circleci-orb): SOOS SCA for CircleCI  
-[uokoo_exploit](https://github.com/0xf15h/uokoo_exploit): Post-Auth RCE & Persistence on UOKOO Security Cameras
+[uokoo_exploit](https://github.com/0xf15h/uokoo_exploit): Post-Auth RCE & Persistence on UOKOO Security Cameras  
+[cycat-service](https://github.com/CyCat-project/cycat-service): CyCAT.org API back-end server including crawlers
