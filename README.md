@@ -1014,4 +1014,5 @@
 [struts2_cve-2017-5638](https://github.com/m3ssap0/struts2_cve-2017-5638): This is a sort of Java porting of the Python exploit at: https://www.exploit-db.com/exploits/41570/.  
 [wtf](https://github.com/0vercl0k/wtf): wtf is a distributed, code-coverage guided, customizable, cross-platform snapshot-based fuzzer designed for attacking user and / or kernel-mode targets running on Microsoft Windows.  
 [secure-pipeline-advisor](https://github.com/ciandt-dev/secure-pipeline-advisor): Improve your code security by running different security checks/validation in a simple way.  
-[awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn): 网络安全 · 攻防对抗 · 蓝队清单，中文版
+[awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn): 网络安全 · 攻防对抗 · 蓝队清单，中文版  
+[vuln-scanner-flask](https://github.com/krishpranav/vuln-scanner-flask): A flask web app made for scanning vulnerabilites on a website, network exploitation, reconnaissance
