@@ -1017,4 +1017,5 @@
 [awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn): 网络安全 · 攻防对抗 · 蓝队清单，中文版  
 [vuln-scanner-flask](https://github.com/krishpranav/vuln-scanner-flask): A flask web app made for scanning vulnerabilites on a website, network exploitation, reconnaissance  
 [reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.  
-[xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher): Firmware patcher for Xiaomi routers
+[xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher): Firmware patcher for Xiaomi routers  
+[pillager](https://github.com/brittonhayes/pillager): Pillage filesystems for sensitive information with Go 🔍
