@@ -1138,4 +1138,5 @@
 [CVE-2019-12594](https://github.com/Alexandre-Bartel/CVE-2019-12594): This is a PoC for CVE-2019-12594, a vulnerability in DOSBox 0.74-2.  
 [programming-challenges](https://github.com/michelbernardods/programming-challenges): Algorithmic, Data Structures, Frontend and Pentest - Programming challenges and competitions to improve knowledge.  
 [RHEL7-CIS](https://github.com/ansible-lockdown/RHEL7-CIS): Ansible role for Red Hat 7 CIS Baseline  
-[infosec-startups](https://github.com/infosec-startups/infosec-startups): This repo contains list of all cybersecurity around the India. It has core hugo files for infosec-startups.github.io website for sending PR to add more links
+[infosec-startups](https://github.com/infosec-startups/infosec-startups): This repo contains list of all cybersecurity around the India. It has core hugo files for infosec-startups.github.io website for sending PR to add more links  
+[hijagger](https://github.com/firefart/hijagger): Checks all maintainers of all NPM and Pypi packages for hijackable packages through domain re-registration
