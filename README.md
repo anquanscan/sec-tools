@@ -1241,4 +1241,5 @@
 [tp_link_gdpr](https://github.com/0xf15h/tp_link_gdpr): Breaking TP-Link's attempt at GDPR compliance   
 [MISP](https://github.com/MISP/MISP): MISP (core software) - Open Source Threat Intelligence and Sharing Platform  
 [gensec](https://github.com/fstab50/gensec): General Security Utilities for Linux  
-[PatrowlManager](https://github.com/Patrowl/PatrowlManager): PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
+[PatrowlManager](https://github.com/Patrowl/PatrowlManager): PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform  
+[neoblox](https://github.com/NeobloxExecutor/neoblox): A level 7 keyless Lua executor for Roblox. Free, forever! 
