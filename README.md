@@ -1098,4 +1098,5 @@
 [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): A list of resources for those interested in getting started in bug bounties  
 [Windows-Event-Monitor](https://github.com/jrdnbradford/Windows-Event-Monitor): Python 3-based multithreaded Windows Event monitoring program  
 [FakeUSB](https://github.com/Skazza94/FakeUSB): Make your own BadUSB device!  
-[dionaea](https://github.com/DinoTools/dionaea): Home of the dionaea honeypot
+[dionaea](https://github.com/DinoTools/dionaea): Home of the dionaea honeypot  
+[Make-It-Burn](https://github.com/Ud0g-Py/Make-It-Burn): Colección de herramientas y scripts enfocados al Red-Team y CTFs
