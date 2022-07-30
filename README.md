@@ -1235,4 +1235,5 @@
 [secure-webhosting-infra](https://github.com/david-strejc/secure-webhosting-infra): WordPress, security, speed, backuping, webhosting, and tuned Apache2.4 server with php-fpm, chroot and other stuff.  
 [suricata-rules](https://github.com/al0ne/suricata-rules): Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等  
 [CVE-2020-29134](https://github.com/Ls4ss/CVE-2020-29134): Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal  
-[Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes): You didn't think I'd go and leave the blue team out, right? 
+[Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes): You didn't think I'd go and leave the blue team out, right?   
+[buji-pac4j](https://github.com/bujiio/buji-pac4j): pac4j security library for Shiro: OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
