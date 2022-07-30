@@ -1142,4 +1142,5 @@
 [hijagger](https://github.com/firefart/hijagger): Checks all maintainers of all NPM and Pypi packages for hijackable packages through domain re-registration  
 [graph-fraud-detection-papers](https://github.com/safe-graph/graph-fraud-detection-papers): A curated list of fraud detection papers using graph information or graph neural networks  
 [secrets-web](https://github.com/jarmo/secrets-web): Not Yet Another Password Manager self-hosted Web app written in Go using libsodium  
-[SecBERT](https://github.com/jackaduma/SecBERT): pretrained BERT model for cyber security text, learned CyberSecurity Knowledge
+[SecBERT](https://github.com/jackaduma/SecBERT): pretrained BERT model for cyber security text, learned CyberSecurity Knowledge  
+[PXEnum](https://github.com/shawnduong/PXEnum): A shell script that automatically performs a series of *NIX enumeration tasks.
