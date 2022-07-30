@@ -1024,4 +1024,5 @@
 [omsp](https://github.com/zerolynx/omsp): Open Mobility Security Project is an open source project dedicated to standardize a framework of technical controls to evaluate security in all types of vehicles.  
 [CVE-2020-3153](https://github.com/shubham0d/CVE-2020-3153): POC code for CVE-2020-3153 - Cisco anyconnect path traversal vulnerability  
 [hostedscan-api-examples](https://github.com/hostedscan/hostedscan-api-examples): HostedScan Security API examples.   
-[CVenom](https://github.com/Mahmoud7Osman/CVenom): CVenom is An Ultra Easy-To-Use Cross-Platform Malware Development Framework For Advanced Malware Development
+[CVenom](https://github.com/Mahmoud7Osman/CVenom): CVenom is An Ultra Easy-To-Use Cross-Platform Malware Development Framework For Advanced Malware Development  
+[h1st](https://github.com/h1st-ai/h1st): Power Tools for AI Engineers With Deadlines
