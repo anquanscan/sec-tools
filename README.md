@@ -1095,4 +1095,5 @@
 [soos-ci-analysis-circleci-orb](https://github.com/soos-io/soos-ci-analysis-circleci-orb): SOOS SCA for CircleCI  
 [uokoo_exploit](https://github.com/0xf15h/uokoo_exploit): Post-Auth RCE & Persistence on UOKOO Security Cameras  
 [cycat-service](https://github.com/CyCat-project/cycat-service): CyCAT.org API back-end server including crawlers  
-[Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): A list of resources for those interested in getting started in bug bounties
+[Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): A list of resources for those interested in getting started in bug bounties  
+[Windows-Event-Monitor](https://github.com/jrdnbradford/Windows-Event-Monitor): Python 3-based multithreaded Windows Event monitoring program
