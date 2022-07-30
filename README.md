@@ -1173,4 +1173,5 @@
 [box-appServer](https://github.com/boxproject/box-appServer): The Staff-Manager App Server for Enterprise Token Safe BOX  
 [OhMyDoS](https://github.com/martinkubecka/OhMyDoS): :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service.  
 [EventTranscriptParser](https://github.com/stuxnet999/EventTranscriptParser): Python based tool to extract forensic info from EventTranscript.db (Windows Diagnostic Data)  
-[openmz](https://github.com/castor-software/openmz): OpenMZ, a security kernel for RISC-V targeting secure coprocessors and secure embedded systems.
+[openmz](https://github.com/castor-software/openmz): OpenMZ, a security kernel for RISC-V targeting secure coprocessors and secure embedded systems.  
+[metasploit-cheat-sheet](https://github.com/security-cheatsheet/metasploit-cheat-sheet): Metasploit Cheat Sheet 💣
