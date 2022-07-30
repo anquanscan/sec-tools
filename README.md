@@ -1200,4 +1200,5 @@
 [CVE-2021-3317](https://github.com/Al1ex/CVE-2021-3317): CVE-2021-3317  
 [MAOYYK2018](https://github.com/atalayx7/MAOYYK2018): Mustafa Akgül Özgür Yazılım Yaz Kampı 2018 - Ağ Güvenliği ve Denetimi Kursu Notları  
 [honggfuzz](https://github.com/google/honggfuzz): Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)  
-[Doxxer-Toolkit](https://github.com/Euronymou5/Doxxer-Toolkit): Todo lo necesario que un doxxer debe de tener siempre a mano
+[Doxxer-Toolkit](https://github.com/Euronymou5/Doxxer-Toolkit): Todo lo necesario que un doxxer debe de tener siempre a mano  
+[dbuster-pro](https://github.com/DioBruh/dbuster-pro): Dbuster-pro is a beta open-source hacking tool for scanning directories in the websites! 
