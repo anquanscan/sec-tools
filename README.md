@@ -1303,4 +1303,5 @@
 [cybersecurity-interview-questions](https://github.com/jassics/cybersecurity-interview-questions): Security interview questions with possible explanation   
 [G-Unsicherheit](https://github.com/java-crypto/G-Unsicherheit): G-Unsecure  
 [httpsuite](https://github.com/whoamisec75/httpsuite): A toolkit for web reconnaissance, it's fast and easy to use.    
-[Fuzzing101](https://github.com/antonio-morales/Fuzzing101): An step by step fuzzing tutorial. A GitHub Security Lab initiative 
+[Fuzzing101](https://github.com/antonio-morales/Fuzzing101): An step by step fuzzing tutorial. A GitHub Security Lab initiative   
+[wp-api-exploit-v4.7.0-v4.7.1](https://github.com/kvcpr/wp-api-exploit-v4.7.0-v4.7.1):  WordPress 4.7.0-4.7.1 REST API Post privilege escalation / defacement exploit
