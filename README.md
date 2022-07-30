@@ -1044,4 +1044,5 @@
 [AttackSurfaceManagement](https://github.com/1N3/AttackSurfaceManagement): Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty   
 [i-Haklab](https://github.com/ivam3/i-Haklab): i-Haklab is a hacking laboratory for Termux that contains open source tools for pentesting, scan/find vulnerabilities, explotation and post-explotation recommended by Ivam3 with automation hacking commands and many guides and tutorials to learn use it.  
 [slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action): Github Action implementation of SLSA Provenance Generation  
-[lemmeknow](https://github.com/swanandx/lemmeknow): The fastest way to identify anything!
+[lemmeknow](https://github.com/swanandx/lemmeknow): The fastest way to identify anything!  
+[unicorn](https://github.com/unicorn-engine/unicorn): Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
