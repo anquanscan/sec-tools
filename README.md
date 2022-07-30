@@ -1286,4 +1286,5 @@
 [Asnlookup](https://github.com/yassineaboukir/Asnlookup): Leverage ASN to look up IP addresses (IPv4 & IPv6) owned by a specific organization for reconnaissance purposes, then run port scanning on it.  
 [orbot](https://github.com/guardianproject/orbot): The Github home of Orbot: Tor on Android (Also available on gitlab!)  
 [wprecon](https://github.com/blackcrw/wprecon): WPRecon, is a tool for the recognition of vulnerabilities and blackbox information for wordpress.  
-[rdp0708scanner](https://github.com/l9c/rdp0708scanner): cve-2019-0708 vulnerablility scanner
+[rdp0708scanner](https://github.com/l9c/rdp0708scanner): cve-2019-0708 vulnerablility scanner  
+[envchain](https://github.com/sorah/envchain): Environment variables meet macOS Keychain and gnome-keyring <3
