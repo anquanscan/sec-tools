@@ -1244,4 +1244,5 @@
 [PatrowlManager](https://github.com/Patrowl/PatrowlManager): PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform  
 [neoblox](https://github.com/NeobloxExecutor/neoblox): A level 7 keyless Lua executor for Roblox. Free, forever!   
 [websocket-connection-smuggler](https://github.com/hahwul/websocket-connection-smuggler): websocket-connection-smuggler  
-[IDORD](https://github.com/AyemunHossain/IDORD): The only IDOR Vulnerablitiy detection tools ever.
+[IDORD](https://github.com/AyemunHossain/IDORD): The only IDOR Vulnerablitiy detection tools ever.  
+[jarbou3](https://github.com/youhacker55/jarbou3): Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients
