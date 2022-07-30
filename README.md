@@ -1116,4 +1116,5 @@
 [search_vulns](https://github.com/ra1nb0rn/search_vulns): Search for known vulnerabilities in software using software titles or a CPE 2.3 string  
 [PcapXray](https://github.com/Srinivas11789/PcapXray): :snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction  
 [Auditr](https://github.com/0x1CA3/Auditr): A utility for auditing C code for vulnerabilities.  
-[OWASP-Risk-Assessment-Calculator](https://github.com/Ivan-Markovic/OWASP-Risk-Assessment-Calculator): This Risk Rating Calculator is based on OWASP's Risk Rating Methodology
+[OWASP-Risk-Assessment-Calculator](https://github.com/Ivan-Markovic/OWASP-Risk-Assessment-Calculator): This Risk Rating Calculator is based on OWASP's Risk Rating Methodology  
+[BSOD-Trigger](https://github.com/superblaubeere27/BSOD-Trigger)
