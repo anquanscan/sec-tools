@@ -1045,4 +1045,5 @@
 [i-Haklab](https://github.com/ivam3/i-Haklab): i-Haklab is a hacking laboratory for Termux that contains open source tools for pentesting, scan/find vulnerabilities, explotation and post-explotation recommended by Ivam3 with automation hacking commands and many guides and tutorials to learn use it.  
 [slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action): Github Action implementation of SLSA Provenance Generation  
 [lemmeknow](https://github.com/swanandx/lemmeknow): The fastest way to identify anything!  
-[unicorn](https://github.com/unicorn-engine/unicorn): Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
+[unicorn](https://github.com/unicorn-engine/unicorn): Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)  
+[jsubfinder](https://github.com/ThreatUnkown/jsubfinder): jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
