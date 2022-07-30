@@ -1302,4 +1302,5 @@
 [RECON-SCANNER](https://github.com/tburakdirlik/RECON-SCANNER): Recon scanner is a web crawling and vulnerability scanning tool. Available modules: whoIs, subdomain scanner, port scanner, directory traversal finder, xss finder.   
 [cybersecurity-interview-questions](https://github.com/jassics/cybersecurity-interview-questions): Security interview questions with possible explanation   
 [G-Unsicherheit](https://github.com/java-crypto/G-Unsicherheit): G-Unsecure  
-[httpsuite](https://github.com/whoamisec75/httpsuite): A toolkit for web reconnaissance, it's fast and easy to use.  
+[httpsuite](https://github.com/whoamisec75/httpsuite): A toolkit for web reconnaissance, it's fast and easy to use.    
+[Fuzzing101](https://github.com/antonio-morales/Fuzzing101): An step by step fuzzing tutorial. A GitHub Security Lab initiative 
