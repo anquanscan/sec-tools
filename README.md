@@ -1159,4 +1159,5 @@
 [encrypted-list](https://github.com/oneminch/encrypted-list): EncryptedList 2.0 - Collective List of Products & Services that Offer Zero-Knowledge or End-to-End Encryption.  
 [RubyFu](https://github.com/rubyfu/RubyFu): Rubyfu, where Ruby goes evil!  
 [codeclimate-rubocop](https://github.com/codeclimate/codeclimate-rubocop): Code Climate Engine for Rubocop   
-[HacKingPro](https://github.com/AnLoMinus/HacKingPro): HacKingPro - Hack Like A Pro !
+[HacKingPro](https://github.com/AnLoMinus/HacKingPro): HacKingPro - Hack Like A Pro !  
+[MrKaplan](https://github.com/Idov31/MrKaplan): MrKaplan is a tool aimed to help red teamers to stay hidden by clearing evidence of execution.
