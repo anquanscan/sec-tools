@@ -1195,4 +1195,5 @@
 [Secode](https://github.com/AliasgarSabunwala/Secode): Static Code Analyzer For Scanning Insecure Functions In The Given C++ Code  
 [Crascan](https://github.com/aryanrtm/Crascan): Crascan is a simple LFI, RFI, RCE, and Joomla Components vulnerability scanner.  
 [logback](https://github.com/longfeizheng/logback): 💡 SpringBoot+Spring Security基本配置  
-[sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker): This game is developed in vanilla js. This project won 2nd prize in Merge Intern's Hack You Hackathon 🎉
+[sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker): This game is developed in vanilla js. This project won 2nd prize in Merge Intern's Hack You Hackathon 🎉  
+[Vigenere](https://github.com/STIFTMAN/Vigenere): This small C-program is able to encrypt and decrypt simple textfiles using Vigenere algorithm.
