@@ -1211,4 +1211,5 @@
 [assimilation-official](https://github.com/assimilation/assimilation-official): This is the official main repository for the Assimilation project  
 [evilgrade](https://github.com/infobyte/evilgrade): Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates.  
 [Exploit-jpg](https://github.com/attakercyebr/Exploit-jpg): Vulnerability Disclosure Timeline Closer inspection of the Exploit JPG content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit JPG from Python encrypted code content which we also implement in couple of our builders.Silent JPG Exploit There are multiple Exploit JPG in Silent JPG Exploit…  
-[DiabHack](https://github.com/trojanfoe/DiabHack): The definitive Diablo 1 hacking program
+[DiabHack](https://github.com/trojanfoe/DiabHack): The definitive Diablo 1 hacking program  
+[encryption-decrypted](https://github.com/TobiasFrahm/encryption-decrypted): How does RSA Work, who was Diffie Hellman? I need this for my Finals, feel free to use on your own risk
