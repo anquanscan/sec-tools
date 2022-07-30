@@ -1187,4 +1187,5 @@
 [discord-bugs-exploits](https://github.com/DevEntro/discord-bugs-exploits): A Collection of Various Discord Bugs, Exploits, Un-Documented Parts of the Discord API, and Other Discord Related Miscellaneous Stuff.  
 [ThreatReportExtractor](https://github.com/jackaduma/ThreatReportExtractor): Extracting Attack Behavior from Threat Reports  
 [athena-iso](https://github.com/Athena-OS/athena-iso): Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!  
-[sops](https://github.com/mozilla/sops): Simple and flexible tool for managing secrets
+[sops](https://github.com/mozilla/sops): Simple and flexible tool for managing secrets  
+[WebHackingNotes](https://github.com/inj3ctor-m4/WebHackingNotes): RECON Notes taking from every fucking book about bugbounty and web-app penetration testing exists
