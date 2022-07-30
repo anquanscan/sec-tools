@@ -1171,4 +1171,5 @@
 [LambdaGuard](https://github.com/Skyscanner/LambdaGuard): AWS Serverless Security  
 [SecurityManageFramwork](https://github.com/we1h0/SecurityManageFramwork): Security Manage Framwork is a security management platform for enterprise intranet, which includes asset management, vulnerability management, account management, knowledge base management, security scanning automation function modules, and can be used for internal security management. This platform is designed to help Party A with fewer security personnel, complicated business lines, difficult periodic inspection and low automation to better achieve internal safety management.  
 [box-appServer](https://github.com/boxproject/box-appServer): The Staff-Manager App Server for Enterprise Token Safe BOX  
-[OhMyDoS](https://github.com/martinkubecka/OhMyDoS): :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service.
+[OhMyDoS](https://github.com/martinkubecka/OhMyDoS): :no_entry: Console application abusing Wordpress API called XML-RPC and its functions with aim of Denial-of-Service.  
+[EventTranscriptParser](https://github.com/stuxnet999/EventTranscriptParser): Python based tool to extract forensic info from EventTranscript.db (Windows Diagnostic Data)
