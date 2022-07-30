@@ -1060,4 +1060,5 @@
 [attack-control-framework-mappings](https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings): Security control framework mappings to MITRE ATT&CK provide a critically important resource for organizations to assess their security control coverage against real-world threats and provide a bridge for integrating ATT&CK-based threat information into the risk management process.  
 [topscan](https://github.com/thenurhabib/topscan): Web Vulnerability Scanner.  
 [hack-technicolor](https://github.com/hack-technicolor/hack-technicolor): Hacking Technicolor Gateways wiki repository   
-[Ethlint](https://github.com/duaraghav8/Ethlint): (Formerly Solium) Code quality & Security Linter for Solidity
+[Ethlint](https://github.com/duaraghav8/Ethlint): (Formerly Solium) Code quality & Security Linter for Solidity  
+[gateCracker](https://github.com/aydinnyunus/gateCracker)
