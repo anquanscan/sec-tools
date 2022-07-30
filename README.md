@@ -1102,4 +1102,5 @@
 [Make-It-Burn](https://github.com/Ud0g-Py/Make-It-Burn): Colección de herramientas y scripts enfocados al Red-Team y CTFs  
 [GetMeUacPerms](https://github.com/KaizerFox/GetMeUacPerms): this will be deleted when its patched  
 [KeyLy](https://github.com/Sanix-Darker/KeyLy): A powerfull and awesome Keylogger(Your keyboard and your mouse) realy helpfull for hackers! :-P (C/C++)  
-[cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+[cherrybomb](https://github.com/blst-security/cherrybomb): Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.  
+[paypalsocialengineering](https://github.com/rafadeveloper14/paypalsocialengineering): Uma ferramenta simples , de fácil instalação e bem desenvolvida com o objetivo de facilitar a prática em ambiente de pentesting o acesso a contas PayPal
