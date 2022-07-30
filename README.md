@@ -1322,4 +1322,5 @@
 [PwnLnX](https://github.com/0xTRAW/PwnLnX): An advanced multi-threaded, multi-client python reverse shell for hacking linux systems. There's still more work to do so feel free to help out with the development. Disclaimer: This reverse shell should only be used in the lawful, remote administration of authorized systems. Accessing a computer network without authorization or permission is illegal.  
 [recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers): All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.  
 [wingkalabs](https://github.com/SVelizDonoso/wingkalabs): Wingkalabs (Linux)  Wingkalabs es una máquina Virtual Linux intencionalmente vulnerable. Esta máquina virtual se puede utilizar para realizar entrenamientos de seguridad, probar herramientas de seguridad y practicar técnicas comunes de pruebas de penetración.  
-[cloudlist](https://github.com/projectdiscovery/cloudlist): Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+[cloudlist](https://github.com/projectdiscovery/cloudlist): Cloudlist is a tool for listing Assets from multiple Cloud Providers.  
+[click-click](https://github.com/anirudhdggl/click-click): click-click is a python script to quickly scan for clickjacking vulnerability in a given list of URLs
