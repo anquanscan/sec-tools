@@ -1259,4 +1259,5 @@
 [SmartBatteryHack](https://github.com/laszlodaniel/SmartBatteryHack): Arduino based hacking tool for smart batteries using SMBus.  
 [cybersecurity-malware-analysis](https://github.com/paulveillard/cybersecurity-malware-analysis): A collection of Malware Analysis software, materials, libraries, documents, books, resources  about malware analysis in Cybersecurity.  
 [meshbird](https://github.com/meshbird/meshbird): Distributed private networking  
-[reosploit](https://github.com/spicesouls/reosploit): A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
+[reosploit](https://github.com/spicesouls/reosploit): A Tool that Finds, Enumerates, and Exploits Reolink Cameras.  
+[spectre_meltdown](https://github.com/jarmouz/spectre_meltdown): Meltdown and Spectre : CPU vulnerabilities — Explained and Exploited
