@@ -1315,4 +1315,5 @@
 [Python-Nikto-Vulnerability-Report-Tool](https://github.com/sectool/Python-Nikto-Vulnerability-Report-Tool): Nikto Vulnerability Report Tool 🌌  
 [hawk](https://github.com/medpaf/hawk): Network, recon and offensive-security tool for Linux.  
 [intrigue-ident](https://github.com/intrigueio/intrigue-ident): Application and Service Fingerprinting  
-[Valkyrie](https://github.com/soufianetahiri/Valkyrie): Another OSINT tool
+[Valkyrie](https://github.com/soufianetahiri/Valkyrie): Another OSINT tool  
+[BlooketHack](https://github.com/kgsensei/BlooketHack): One of the First Blooket hacks online.
