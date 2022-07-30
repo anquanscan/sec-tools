@@ -1019,4 +1019,5 @@
 [reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.  
 [xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher): Firmware patcher for Xiaomi routers  
 [pillager](https://github.com/brittonhayes/pillager): Pillage filesystems for sensitive information with Go 🔍  
-[SlowLoris](https://github.com/maxkrivich/SlowLoris): Asynchronous Python implementation of SlowLoris DoS attack
+[SlowLoris](https://github.com/maxkrivich/SlowLoris): Asynchronous Python implementation of SlowLoris DoS attack  
+[klustair-helm](https://github.com/klustair/klustair-helm): Helm chart do deploy klustair with anchore
