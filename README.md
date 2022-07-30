@@ -1220,4 +1220,5 @@
 [gvmd](https://github.com/greenbone/gvmd): Greenbone Vulnerability Manager - The database backend for the Greenbone Community Edition  
 [criptografia-arquivos](https://github.com/utfpr-sas-criptografia/criptografia-arquivos): A ideia deste projeto é desenvolver um sistema que permite usuários gravarem dados em um servidor não conﬁável. O servidor não deve ser capaz de observar os dados enviados por usuários e também não deve ser capaz de corromper os arquivos enviados sem que isto seja notado. O sistema deve permitir a coexistência de diferentes usuários que podem compartilhar arquivos entre si. Para cada arquivo deve ser possível controlar o conjunto de usuários que podem ler e/ou escrever para aquele arquivo.  
 [TimeLapse](https://github.com/jonasjuffinger/TimeLapse): A time lapse app for Sony Alpha camera using the OpenMemories framework  
-[limitrr-php](https://github.com/eddiejibson/limitrr-php): Better PHP rate limiting using Redis.
+[limitrr-php](https://github.com/eddiejibson/limitrr-php): Better PHP rate limiting using Redis.  
+[Peergos](https://github.com/Peergos/Peergos): A p2p, secure file storage, social network and application protocol
