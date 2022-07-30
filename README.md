@@ -1055,4 +1055,5 @@
 [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉  
 [SSH-tunneling-internal](https://github.com/aconstantinou-cmd/SSH-tunneling-internal): Scripts to assist in deploying virtual ethernet adapter and ssh tunneling for vulnerability scanning/ penetration testing  
 [wordlistgen](https://github.com/ameenmaali/wordlistgen): Quickly generate context-specific wordlists for content discovery from lists of URLs or paths  
-[the-bastion](https://github.com/ovh/the-bastion): Authentication, authorization, traceability and auditability for SSH accesses.
+[the-bastion](https://github.com/ovh/the-bastion): Authentication, authorization, traceability and auditability for SSH accesses.  
+[cve-2016-1764](https://github.com/moloch--/cve-2016-1764): Extraction of iMessage Data via XSS
