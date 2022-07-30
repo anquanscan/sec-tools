@@ -1186,4 +1186,5 @@
 [aws-recon](https://github.com/darkbitio/aws-recon): Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.  
 [discord-bugs-exploits](https://github.com/DevEntro/discord-bugs-exploits): A Collection of Various Discord Bugs, Exploits, Un-Documented Parts of the Discord API, and Other Discord Related Miscellaneous Stuff.  
 [ThreatReportExtractor](https://github.com/jackaduma/ThreatReportExtractor): Extracting Attack Behavior from Threat Reports  
-[athena-iso](https://github.com/Athena-OS/athena-iso): Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+[athena-iso](https://github.com/Athena-OS/athena-iso): Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!  
+[sops](https://github.com/mozilla/sops): Simple and flexible tool for managing secrets
