@@ -1131,4 +1131,5 @@
 [blue_hydra](https://github.com/ZeroChaos-/blue_hydra): Blue Hydra  
 [browserrecon-php](https://github.com/scipag/browserrecon-php): Advanced Web Browser Fingerprinting  
 [IoT-Network-Intrusion-Detection-System-UNSW-NB15](https://github.com/abhinav-bhardwaj/IoT-Network-Intrusion-Detection-System-UNSW-NB15): Network Intrusion Detection based on various machine learning and deep learning algorithms using UNSW-NB15 Dataset  
-[Android_Hacking](https://github.com/AzimsTech/Android_Hacking): All things Android | Happy New Year 🎉 2022️⃣!
+[Android_Hacking](https://github.com/AzimsTech/Android_Hacking): All things Android | Happy New Year 🎉 2022️⃣!  
+[chef-cis-tomcat-hardening](https://github.com/mitre/chef-cis-tomcat-hardening): (WIP) Chef recipe for hardening tomcat 8 to the CIS Tomcat Benchmark v1.0.1
