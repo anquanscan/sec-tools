@@ -1127,4 +1127,5 @@
 [autovpn](https://github.com/ttlequals0/autovpn): Create On Demand Disposable OpenVPN Endpoints on AWS.  
 [fireELF](https://github.com/rek7/fireELF): fireELF - Fileless Linux Malware Framework  
 [kaminsky_exploit](https://github.com/filipdavidovic/kaminsky_exploit): Tool to exploit the Kaminsky DNS vulnerability  
-[wildzarek.github.io](https://github.com/WildZarek/wildzarek.github.io): Artículos sobre ciberseguridad, hacking ético, resolución de CTFs, programación y mucho más.
+[wildzarek.github.io](https://github.com/WildZarek/wildzarek.github.io): Artículos sobre ciberseguridad, hacking ético, resolución de CTFs, programación y mucho más.  
+[blue_hydra](https://github.com/ZeroChaos-/blue_hydra): Blue Hydra
