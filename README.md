@@ -1073,4 +1073,5 @@
 [OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN): OSINT-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.  
 [CVE-2020-7931](https://github.com/gquere/CVE-2020-7931): Hacking Artifactory with server side template injection  
 [cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs)  
-[Zilcorili](https://github.com/b3-v3r/Zilcorili)
+[Zilcorili](https://github.com/b3-v3r/Zilcorili)  
+[openpyn-nordvpn](https://github.com/jotyGill/openpyn-nordvpn): Easily connect to and switch between, OpenVPN servers hosted by NordVPN on Linux (+patch leakes)
