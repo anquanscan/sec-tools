@@ -1247,4 +1247,5 @@
 [IDORD](https://github.com/AyemunHossain/IDORD): The only IDOR Vulnerablitiy detection tools ever.  
 [jarbou3](https://github.com/youhacker55/jarbou3): Jarbou3 is  rat  tool  coded in python with C&C which can accept multiple connections from clients  
 [security-bulletins](https://github.com/Netflix/security-bulletins): Security Bulletins that relate to Netflix Open Source  
-[ADPWN](https://github.com/r4wd3r/ADPWN): Useful Windows and AD tools
+[ADPWN](https://github.com/r4wd3r/ADPWN): Useful Windows and AD tools  
+[gvm-install-script](https://github.com/Jarthianur/gvm-install-script): An unofficial script to install GVM alias OpenVAS.
