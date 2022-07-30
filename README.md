@@ -1269,4 +1269,5 @@
 [Teardroid-phprat](https://github.com/ScRiPt1337/Teardroid-phprat): :india: :robot: It's easy to use android botnet work without port forwarding, vps and android studio  
 [cve-2020-27358-27359](https://github.com/sebastian-mora/cve-2020-27358-27359): CVE-2020-27358 and CVE-2020-27359  
 [AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner): 一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。  
-[WitnessMe](https://github.com/byt3bl33d3r/WitnessMe): Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
+[WitnessMe](https://github.com/byt3bl33d3r/WitnessMe): Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.  
+[cics-java-liberty-loans-and-scoring](https://github.com/cicsdev/cics-java-liberty-loans-and-scoring): Sample materials for the article "Using the Liberty JWT Feature with CICS" that illustrate how CICS and Liberty for z/OS capabilities can be used to handle JSON Web Token (JWT)
