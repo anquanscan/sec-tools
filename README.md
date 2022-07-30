@@ -1237,4 +1237,5 @@
 [CVE-2020-29134](https://github.com/Ls4ss/CVE-2020-29134): Exploit CVE-2020-29134 - TOTVS Fluig Platform - Path Traversal  
 [Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes): You didn't think I'd go and leave the blue team out, right?   
 [buji-pac4j](https://github.com/bujiio/buji-pac4j): pac4j security library for Shiro: OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...  
-[AnsiblePlaybooks](https://github.com/byt3bl33d3r/AnsiblePlaybooks): A collection of Ansible Playbooks that configure Kali to use Fish & install a number of tools
+[AnsiblePlaybooks](https://github.com/byt3bl33d3r/AnsiblePlaybooks): A collection of Ansible Playbooks that configure Kali to use Fish & install a number of tools  
+[tp_link_gdpr](https://github.com/0xf15h/tp_link_gdpr): Breaking TP-Link's attempt at GDPR compliance 
