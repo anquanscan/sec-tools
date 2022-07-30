@@ -1071,4 +1071,5 @@
 [who_and_what_to_follow](https://github.com/santosomar/who_and_what_to_follow): Who and what to follow in the world of cyber security  
 [tjson.js](https://github.com/tjson/tjson.js): JavaScript-compatible implementation of Tagged JSON (TJSON), written in TypeScript.  
 [OSINT-SAN](https://github.com/Bafomet666/OSINT-SAN): OSINT-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.  
-[CVE-2020-7931](https://github.com/gquere/CVE-2020-7931): Hacking Artifactory with server side template injection
+[CVE-2020-7931](https://github.com/gquere/CVE-2020-7931): Hacking Artifactory with server side template injection  
+[cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs)
