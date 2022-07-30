@@ -1274,4 +1274,5 @@
 [HTP](https://github.com/aryanrtm/HTP): Hack The Printer  
 [The-Awesome-And-Dangerous-collection](https://github.com/maxamin/The-Awesome-And-Dangerous-collection)  
 [fuxi](https://github.com/jeffzh3ng/fuxi): Penetration Testing Platform  
-[Instabruteforce](https://github.com/Hackertrackersj/Instabruteforce): hacking-tool termux-tools termux noob-friendly instagram-bot bruteforce-password-cracker wordlist-technique
+[Instabruteforce](https://github.com/Hackertrackersj/Instabruteforce): hacking-tool termux-tools termux noob-friendly instagram-bot bruteforce-password-cracker wordlist-technique  
+[robot_hacking_manual](https://github.com/vmayoral/robot_hacking_manual): Robot Hacking Manual (RHM). From robotics to cybersecurity. Papers, notes and writeups from a journey into robot cybersecurity.
