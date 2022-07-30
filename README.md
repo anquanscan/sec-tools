@@ -1198,4 +1198,5 @@
 [sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker): This game is developed in vanilla js. This project won 2nd prize in Merge Intern's Hack You Hackathon 🎉  
 [Vigenere](https://github.com/STIFTMAN/Vigenere): This small C-program is able to encrypt and decrypt simple textfiles using Vigenere algorithm.  
 [CVE-2021-3317](https://github.com/Al1ex/CVE-2021-3317): CVE-2021-3317  
-[MAOYYK2018](https://github.com/atalayx7/MAOYYK2018): Mustafa Akgül Özgür Yazılım Yaz Kampı 2018 - Ağ Güvenliği ve Denetimi Kursu Notları
+[MAOYYK2018](https://github.com/atalayx7/MAOYYK2018): Mustafa Akgül Özgür Yazılım Yaz Kampı 2018 - Ağ Güvenliği ve Denetimi Kursu Notları  
+[honggfuzz](https://github.com/google/honggfuzz): Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
