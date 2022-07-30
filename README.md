@@ -1154,4 +1154,5 @@
 [docker-volatility](https://github.com/blacktop/docker-volatility): Volatility Dockerfile  
 [puffgo](https://github.com/ARaChn3/puffgo):  A go package implementing a simple logic-bomb.   
 [vsftpd-3.0.3-DoS](https://github.com/prodseanb/vsftpd-3.0.3-DoS): vsftpd 3.0.3 Exploit - Remote Denial of Service  
-[SecPump](https://github.com/r3glisss/SecPump): A wireless infusion pump system workbench for security research
+[SecPump](https://github.com/r3glisss/SecPump): A wireless infusion pump system workbench for security research  
+[Standard-Keylogger](https://github.com/liagason/Standard-Keylogger): A simple, small in size and portable keylogger for Windows XP/Vista/7/8/10/11 that doesn't require .NET Framework.
