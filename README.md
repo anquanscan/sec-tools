@@ -1175,4 +1175,5 @@
 [EventTranscriptParser](https://github.com/stuxnet999/EventTranscriptParser): Python based tool to extract forensic info from EventTranscript.db (Windows Diagnostic Data)  
 [openmz](https://github.com/castor-software/openmz): OpenMZ, a security kernel for RISC-V targeting secure coprocessors and secure embedded systems.  
 [metasploit-cheat-sheet](https://github.com/security-cheatsheet/metasploit-cheat-sheet): Metasploit Cheat Sheet 💣  
-[Angora](https://github.com/AngoraFuzzer/Angora): Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution. 
+[Angora](https://github.com/AngoraFuzzer/Angora): Angora is a mutation-based fuzzer.  The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.   
+[Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection): Awesome graph anomaly detection techniques built based on deep learning frameworks. Collections of commonly used datasets, papers as well as implementations are listed in this github repository. We also invite researchers interested in anomaly detection, graph representation learning, and graph anomaly detection to join this project as contributors and boost further research in this area.
