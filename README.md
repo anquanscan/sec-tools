@@ -1273,4 +1273,5 @@
 [cics-java-liberty-loans-and-scoring](https://github.com/cicsdev/cics-java-liberty-loans-and-scoring): Sample materials for the article "Using the Liberty JWT Feature with CICS" that illustrate how CICS and Liberty for z/OS capabilities can be used to handle JSON Web Token (JWT)  
 [HTP](https://github.com/aryanrtm/HTP): Hack The Printer  
 [The-Awesome-And-Dangerous-collection](https://github.com/maxamin/The-Awesome-And-Dangerous-collection)  
-[fuxi](https://github.com/jeffzh3ng/fuxi): Penetration Testing Platform
+[fuxi](https://github.com/jeffzh3ng/fuxi): Penetration Testing Platform  
+[Instabruteforce](https://github.com/Hackertrackersj/Instabruteforce): hacking-tool termux-tools termux noob-friendly instagram-bot bruteforce-password-cracker wordlist-technique
