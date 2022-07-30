@@ -1298,4 +1298,5 @@
 [Whaler](https://github.com/P3GLEG/Whaler): Program to reverse Docker images into Dockerfiles  
 [container.binwalk](https://github.com/0dayInc/container.binwalk): Project that Leverages Packer to Produce a Docker Container w/ binwalk and its Dependencies  
 [EvtXHunt](https://github.com/Lyc4on/EvtXHunt): EvtXHunt is an Autopsy plugin that is able to analyze Windows EVTX logs against a library of SIGMA rules.  
-[DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline): The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
+[DevSecOpsGuideline](https://github.com/OWASP/DevSecOpsGuideline): The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.  
+[RECON-SCANNER](https://github.com/tburakdirlik/RECON-SCANNER): Recon scanner is a web crawling and vulnerability scanning tool. Available modules: whoIs, subdomain scanner, port scanner, directory traversal finder, xss finder. 
