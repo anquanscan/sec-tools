@@ -1229,4 +1229,5 @@
 [go-hash](https://github.com/renatoathaydes/go-hash): Small utility to store secret information like passwords.  
 [adsimulator](https://github.com/nicolas-carolo/adsimulator): A realistic simulator of Active Directory domains  
 [starboard](https://github.com/aquasecurity/starboard): Moved to https://github.com/aquasecurity/trivy-operator  
-[Jira-Lens](https://github.com/MayankPandey01/Jira-Lens): Fast and customizable vulnerability scanner For JIRA written in Python
+[Jira-Lens](https://github.com/MayankPandey01/Jira-Lens): Fast and customizable vulnerability scanner For JIRA written in Python  
+[zaproxy-automation](https://github.com/ZFPSystems/zaproxy-automation): This is a collection of ZAProxy Automation Tools and scripts to automate security tests of WEB Applications and WEB Sites
