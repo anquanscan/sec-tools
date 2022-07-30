@@ -1119,4 +1119,5 @@
 [OWASP-Risk-Assessment-Calculator](https://github.com/Ivan-Markovic/OWASP-Risk-Assessment-Calculator): This Risk Rating Calculator is based on OWASP's Risk Rating Methodology  
 [BSOD-Trigger](https://github.com/superblaubeere27/BSOD-Trigger)  
 [CVE-2019-0708-Tool](https://github.com/adalenv/CVE-2019-0708-Tool): A social experiment  
-[Seth](https://github.com/SySS-Research/Seth): Perform a MitM attack and extract clear text credentials from RDP connections
+[Seth](https://github.com/SySS-Research/Seth): Perform a MitM attack and extract clear text credentials from RDP connections  
+[MyBBscan](https://github.com/0xB9/MyBBscan): Scans plugins directory for possible vulnerable plugins.
