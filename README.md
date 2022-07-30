@@ -1164,4 +1164,5 @@
 [batchql](https://github.com/assetnote/batchql): GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations  
 [subshot](https://github.com/boydlowr/subshot): :bug: Screenshot subdomains w/ Sublist3r.  
 [HellRaiser](https://github.com/m0nad/HellRaiser): Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.  
-[Cloak-And-Dagger](https://github.com/NoahS96/Cloak-And-Dagger): An overlay attack example
+[Cloak-And-Dagger](https://github.com/NoahS96/Cloak-And-Dagger): An overlay attack example  
+[security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers): Security Guide for Developers (实用性开发人员安全须知)
