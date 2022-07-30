@@ -1293,4 +1293,5 @@
 [wholeaked](https://github.com/utkusen/wholeaked): a file-sharing tool that allows you to find the responsible person in case of a leakage  
 [second-order](https://github.com/mhmdiaa/second-order): Second-order subdomain takeover scanner  
 [opencti](https://github.com/OpenCTI-Platform/opencti): Open Cyber Threat Intelligence Platform  
-[mobile-heavy-artillery](https://github.com/Fricciolosa-Red-Team/mobile-heavy-artillery): 🔥Ready, Aim, Fire.🔥
+[mobile-heavy-artillery](https://github.com/Fricciolosa-Red-Team/mobile-heavy-artillery): 🔥Ready, Aim, Fire.🔥  
+[netauditor](https://github.com/scmanjarrez/netauditor): Mirror repository of https://gitlab.gast.it.uc3m.es/schica/netauditor
