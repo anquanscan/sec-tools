@@ -1317,4 +1317,5 @@
 [intrigue-ident](https://github.com/intrigueio/intrigue-ident): Application and Service Fingerprinting  
 [Valkyrie](https://github.com/soufianetahiri/Valkyrie): Another OSINT tool  
 [BlooketHack](https://github.com/kgsensei/BlooketHack): One of the First Blooket hacks online.  
-[VanCleef](https://github.com/MauroEldritch/VanCleef): Exploit for CVE-2019-11881 (Rancher 2.1.4 Web Parameter Tampering)
+[VanCleef](https://github.com/MauroEldritch/VanCleef): Exploit for CVE-2019-11881 (Rancher 2.1.4 Web Parameter Tampering)  
+[joomscan](https://github.com/OWASP/joomscan): OWASP Joomla Vulnerability Scanner Project
