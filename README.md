@@ -1147,4 +1147,5 @@
 [overkill](https://github.com/jbaines-r7/overkill): QNAP N-Day (Probably not CVE-2020-2509)  
 [goHackTools](https://github.com/dreddsa5dies/goHackTools): Hacker tools on Go (Golang)  
 [richelieu](https://github.com/tarraschk/richelieu): List of the most common French passwords  
-[Vault-7](https://github.com/DarrenRainey/Vault-7): A Public available archive of the leaked Vault 7 archive files
+[Vault-7](https://github.com/DarrenRainey/Vault-7): A Public available archive of the leaked Vault 7 archive files  
+[CVE-2020-0796](https://github.com/ORCA666/CVE-2020-0796): local exploit
