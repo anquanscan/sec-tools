@@ -1030,4 +1030,5 @@
 [T-LOAD](https://github.com/ExpertAnonymous/T-LOAD)  
 [kaudit](https://github.com/alcideio/kaudit): Alcide Kubernetes Audit Log Analyzer - Alcide kAudit  
 [ail-feeder-leak](https://github.com/ail-project/ail-feeder-leak): AIL LeakFeeder: A Module for AIL Framework that automate the process to feed leaked files automatically  
-[openvas-up](https://github.com/rezen/openvas-up): Levels up scripting OpenVAS
+[openvas-up](https://github.com/rezen/openvas-up): Levels up scripting OpenVAS  
+[HackAllTheThings](https://github.com/akenofu/HackAllTheThings): Cheatsheets, References, and notes on various red teaming/pentesting topics.
