@@ -1182,4 +1182,5 @@
 [envkey-python](https://github.com/envkey/envkey-python): EnvKey's python library. Protect API keys and credentials. Keep configuration in sync.  
 [spike_detector](https://github.com/pjain03/spike_detector): Tool to detect unusually high CPU usage (as in harmful cryptojacking)  
 [iblessing](https://github.com/Soulghost/iblessing): iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.  
-[samaritan](https://github.com/MAkcanca/samaritan): Samaritan clone from the hit CBS T.V. show, Person of Interest.
+[samaritan](https://github.com/MAkcanca/samaritan): Samaritan clone from the hit CBS T.V. show, Person of Interest.  
+[aws-recon](https://github.com/darkbitio/aws-recon): Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
