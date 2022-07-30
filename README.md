@@ -1066,4 +1066,5 @@
 [Infosec-and-Hacking-Scripts](https://github.com/alvin-tosh/Infosec-and-Hacking-Scripts): 🚀  This is a collection of hacking and pentesting 🧐 scripts to help with enumeration, OSINT, exploitation and post exploitation automated scripts to make work easier. Have fun!😎  
 [graphqlInjector](https://github.com/blessingcharles/graphqlInjector): A graphQl Injector for REST in peace guys  
 [KeychainCracker](https://github.com/macmade/KeychainCracker): macOS keychain cracking tool  
-[black-hat-rust](https://github.com/skerkour/black-hat-rust): Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
+[black-hat-rust](https://github.com/skerkour/black-hat-rust): Applied offensive security with Rust  - https://kerkour.com/black-hat-rust  
+[GEVAUDAN](https://github.com/MauroEldritch/GEVAUDAN): Exploit for Red Hat / GlusterFS CVE-2018-1088 & CVE-2018-1112, featured @ DEFCON 26, Las Vegas!
