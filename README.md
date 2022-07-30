@@ -1254,4 +1254,5 @@
 [openredscan](https://github.com/thenurhabib/openredscan): Multifunctional open redirection vulnerability scanner.  
 [find-gh-poc](https://github.com/trickest/find-gh-poc): Find CVE PoCs on GitHub  
 [log4shell-looker](https://github.com/ravro-ir/log4shell-looker): log4jshell vulnerability scanner for bug bounty  
-[ggtfobins](https://github.com/CristinaSolana/ggtfobins): Get GTFOBins info about a given exploit from the command line
+[ggtfobins](https://github.com/CristinaSolana/ggtfobins): Get GTFOBins info about a given exploit from the command line  
+[teleport](https://github.com/gravitational/teleport): Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
