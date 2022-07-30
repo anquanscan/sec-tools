@@ -1284,4 +1284,5 @@
 [Slacker](https://github.com/kordup/Slacker): Slacker makes navigating tools while focusing on a single target quicker, and easier with global targeting and preset tool functionality, as well as optional custom argument input.  
 [nocom-explanation](https://github.com/nerdsinspace/nocom-explanation): block game military grade radar  
 [Asnlookup](https://github.com/yassineaboukir/Asnlookup): Leverage ASN to look up IP addresses (IPv4 & IPv6) owned by a specific organization for reconnaissance purposes, then run port scanning on it.  
-[orbot](https://github.com/guardianproject/orbot): The Github home of Orbot: Tor on Android (Also available on gitlab!)
+[orbot](https://github.com/guardianproject/orbot): The Github home of Orbot: Tor on Android (Also available on gitlab!)  
+[wprecon](https://github.com/blackcrw/wprecon): WPRecon, is a tool for the recognition of vulnerabilities and blackbox information for wordpress.
