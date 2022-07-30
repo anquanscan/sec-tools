@@ -1041,4 +1041,5 @@
 [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices): Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian.  
 [converged-security-suite](https://github.com/9elements/converged-security-suite): Converged Security Suite for Intel & AMD platform security features  
 [Android-Exploits](https://github.com/sundaysec/Android-Exploits): A collection of android Exploits and Hacks  
-[AttackSurfaceManagement](https://github.com/1N3/AttackSurfaceManagement): Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty 
+[AttackSurfaceManagement](https://github.com/1N3/AttackSurfaceManagement): Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty   
+[i-Haklab](https://github.com/ivam3/i-Haklab): i-Haklab is a hacking laboratory for Termux that contains open source tools for pentesting, scan/find vulnerabilities, explotation and post-explotation recommended by Ivam3 with automation hacking commands and many guides and tutorials to learn use it.
