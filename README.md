@@ -1281,4 +1281,5 @@
 [charlas-ciberseguras](https://github.com/andersonjoseph/charlas-ciberseguras): Charlas / Conferencias de hacking y seguridad informática en español  
 [PseudoROX.github.io](https://github.com/PseudoROX/PseudoROX.github.io): PseudoROX cybersecurity opensource project website.  
 [snoop](https://github.com/snooppr/snoop): Snoop — инструмент разведки на основе открытых данных (OSINT world)  
-[Slacker](https://github.com/kordup/Slacker): Slacker makes navigating tools while focusing on a single target quicker, and easier with global targeting and preset tool functionality, as well as optional custom argument input.
+[Slacker](https://github.com/kordup/Slacker): Slacker makes navigating tools while focusing on a single target quicker, and easier with global targeting and preset tool functionality, as well as optional custom argument input.  
+[nocom-explanation](https://github.com/nerdsinspace/nocom-explanation): block game military grade radar
