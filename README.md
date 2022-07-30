@@ -1083,4 +1083,5 @@
 [ImgBackdoor](https://github.com/Tsuyoken/ImgBackdoor): Hide your payload into .jpg file  
 [kravatte](https://github.com/inmcm/kravatte): Implementation of Kravatte Encryption Suite  
 [t14m4t](https://github.com/MS-WEB-BN/t14m4t): Automated brute-forcing attack tool.  
-[lempo](https://github.com/MauroEldritch/lempo): LEMPO (Ldap Exposure on POrtainer) is an exploit for CVE-2018-19466 (LDAP Credentials Disclosure on Portainer). Featured @ DevFest Siberia 2018
+[lempo](https://github.com/MauroEldritch/lempo): LEMPO (Ldap Exposure on POrtainer) is an exploit for CVE-2018-19466 (LDAP Credentials Disclosure on Portainer). Featured @ DevFest Siberia 2018  
+[chainsaw](https://github.com/countercept/chainsaw):  Rapidly Search and Hunt through Windows Event Logs 
