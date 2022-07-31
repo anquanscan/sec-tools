@@ -1601,4 +1601,5 @@
 [CheckPasswordHash](https://github.com/MikeS159/CheckPasswordHash): Lets you check your password hash against a list in a textfile (for the have i been pwned database)  
 [clusterfuzzlite](https://github.com/google/clusterfuzzlite): ClusterFuzzLite - Simple continuous fuzzing that runs in CI.  
 [simple-port-scanner](https://github.com/EdinsonRequena/simple-port-scanner): This is a simple port scanner built in python 3.8  
-[pentbox](https://github.com/technicaldada/pentbox): PentBox is a tool that allows us to create honeypot in our system this is written in ruby language.
+[pentbox](https://github.com/technicaldada/pentbox): PentBox is a tool that allows us to create honeypot in our system this is written in ruby language.  
+[jiff](https://github.com/multiparty/jiff): JavaScript library for building web-based applications that employ secure multi-party computation (MPC).
