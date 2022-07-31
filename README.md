@@ -1542,4 +1542,5 @@
 [sel4-armv8-vmm-manifest](https://github.com/dornerworks/sel4-armv8-vmm-manifest): A manifest that allows one to build virtualized seL4 for zcu102 and i.MX8  
 [os-newify](https://github.com/justincpresley/os-newify): os-newify: A set of steps to update, clean, reset, and maintain different types of operating systems to boost security and make the device(s) more efficient.  
 [awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables): 🦄🔒 Awesome list of secrets in environment variables 🖥️  
-[TIL](https://github.com/waeandway/TIL): 📚 Today I Learned : Security
+[TIL](https://github.com/waeandway/TIL): 📚 Today I Learned : Security  
+[Watcher](https://github.com/thalesgroup-cert/Watcher): Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.
