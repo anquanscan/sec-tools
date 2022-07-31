@@ -1409,4 +1409,5 @@
 [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs): Hands on labs and code to help you learn, measure, and build using architectural best practices.  
 [exploit-CVE-2014-6271](https://github.com/opsxcq/exploit-CVE-2014-6271): Shellshock exploit + vulnerable environment  
 [CCSC-CTF-2020](https://github.com/cybermouflons/CCSC-CTF-2020): All challenges for the CCSC 2020 CTF  
-[xxUSBSentinel](https://github.com/thereisnotime/xxUSBSentinel): Windows anti-forensics USB monitoring tool.
+[xxUSBSentinel](https://github.com/thereisnotime/xxUSBSentinel): Windows anti-forensics USB monitoring tool.  
+[SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno): :white_check_mark: .NET crypto done right. Professionally audited.
