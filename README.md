@@ -1565,4 +1565,5 @@
 [teensy3.2-projects](https://github.com/teensy-hacking/teensy3.2-projects): Teensy 3.2 Projects - Teensy with CMD Command Execution Attack Example 💣  
 [Blog-Pessoal](https://github.com/leosouzv/Blog-Pessoal): Projeto blog pessoal para praticar CRUD, realizado durando o bootcamp da Generation Brasil   
 [Shady-Hook](https://github.com/nybble04/Shady-Hook): Proof of Concept - Hooking API calls of a Ransomware  
-[CVE-2020-15368](https://github.com/stong/CVE-2020-15368): CVE-2020-15368, aka "How to exploit a vulnerable driver"
+[CVE-2020-15368](https://github.com/stong/CVE-2020-15368): CVE-2020-15368, aka "How to exploit a vulnerable driver"  
+[hackage-security](https://github.com/R3K1NG/hackage-security): Hackage security framework based on TUF (The Update Framework)
