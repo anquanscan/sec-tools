@@ -1440,4 +1440,5 @@
 [Discord-Nuker](https://github.com/tungdo0602/Discord-Nuker): Super fast nuker written in python with proxy and many thing!  
 [Vailyn](https://github.com/VainlyStrain/Vailyn): A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python  
 [vilicus](https://github.com/edersonbrilhante/vilicus): Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.  
-[flightsim](https://github.com/alphasoc/flightsim): A utility to safely generate malicious network traffic patterns and evaluate controls.
+[flightsim](https://github.com/alphasoc/flightsim): A utility to safely generate malicious network traffic patterns and evaluate controls.  
+[Python-Scripts](https://github.com/bing0o/Python-Scripts): Collection of Python Scripts
