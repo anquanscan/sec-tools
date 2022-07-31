@@ -1368,4 +1368,5 @@
 [php-casbin](https://github.com/php-casbin/php-casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in PHP .  
 [pwn2exploit](https://github.com/jmpews/pwn2exploit): all mine papers, pwn & exploit  
 [webstor](https://github.com/RossGeerlings/webstor): A script to quickly enumerate all websites across all of your organization's networks, store their responses, and query for known web technologies, such as those with zero-day vulnerabilities.  
-[getroot](https://github.com/sdushantha/getroot): 🛠️  Tool to bypass my school's security system to get sudo privileges on MacOS
+[getroot](https://github.com/sdushantha/getroot): 🛠️  Tool to bypass my school's security system to get sudo privileges on MacOS  
+[OSCP-Human-Guide](https://github.com/six2dez/OSCP-Human-Guide): My own OSCP guide
