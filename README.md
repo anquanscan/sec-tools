@@ -1574,4 +1574,5 @@
 [the-broken-links-project](https://github.com/jspeed-meyers/the-broken-links-project): A site for an IQT R&D initiative on software supply chain security.  
 [Nettacker](https://github.com/OWASP/Nettacker): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management  
 [XSpear](https://github.com/hahwul/XSpear): Powerfull XSS Scanning and Parameter analysis tool&gem  
-[threat-personas](https://github.com/cydea/threat-personas): We borrow the concept of 'personas' from UX/service design and apply it to threat actors to improve understanding between security, technology and business teams. Created at the Open Security Summit 2020.
+[threat-personas](https://github.com/cydea/threat-personas): We borrow the concept of 'personas' from UX/service design and apply it to threat actors to improve understanding between security, technology and business teams. Created at the Open Security Summit 2020.  
+[spidex](https://github.com/alechilczenko/spidex): Continuous reconnaissance scanner. Find and analyze internet-connected devices in minutes.
