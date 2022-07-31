@@ -1547,4 +1547,5 @@
 [zong-wifi](https://github.com/abdullah2993/zong-wifi)  
 [IntRec-Pack](https://github.com/NullArray/IntRec-Pack): Intelligence and Reconnaissance Package/Bundle installer.  
 [iBadApple](https://github.com/WilliamHottzz/iBadApple): First ever: Windows, free iCloud & activation lock bypass... that isn't a malware!  
-[gitleaks](https://github.com/zricethezav/gitleaks): Protect and discover secrets using Gitleaks 🔑
+[gitleaks](https://github.com/zricethezav/gitleaks): Protect and discover secrets using Gitleaks 🔑  
+[linuxScripts](https://github.com/akakayev/linuxScripts): University(SevGU) master's project. Several scripts to scan Linux OS, detect vulnerabilities and manage them.
