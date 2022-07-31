@@ -1553,4 +1553,5 @@
 [redteam_vul](https://github.com/r0eXpeR/redteam_vul): 红队作战中比较常遇到的一些重点系统漏洞整理。  
 [csplogger](https://github.com/giuliocomi/csplogger): A CSP endpoint to aggregate, correlate and analyze report-uri violations across your infrastructure  
 [WebExp](https://github.com/safesword/WebExp): 2020年~2021年 网站CMS、中间件、框架系统漏洞集合  
-[badKarma](https://github.com/r3vn/badKarma): network reconnaissance toolkit
+[badKarma](https://github.com/r3vn/badKarma): network reconnaissance toolkit  
+[sike-java](https://github.com/wultra/sike-java): SIKE for Java is a software library that implements experimental supersingular isogeny cryptographic schemes that aim to provide protection against attackers running a large-scale quantum computer.
