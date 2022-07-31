@@ -1445,4 +1445,5 @@
 [PHPVulFinder](https://github.com/meizjm3i/PHPVulFinder): PHP Static Program Analysis  
 [tpot-terraform](https://github.com/prateepb/tpot-terraform): DEPRECATED: Deploy T-Pot Honeypot to EC2 Using Terraform  
 [NETNOOB](https://github.com/NARCOTIC/NETNOOB): A simple program written in bash that contains basic Linux network tools, information gathering tools and scanning tools.  
-[android-hacking-part-2](https://github.com/vinagrsec/android-hacking-part-2): How to Hack an Android Phone using an Malicious Android Application - Part-2 (More Sophisticated Way)
+[android-hacking-part-2](https://github.com/vinagrsec/android-hacking-part-2): How to Hack an Android Phone using an Malicious Android Application - Part-2 (More Sophisticated Way)  
+[CVE-2022-33891](https://github.com/AmoloHT/CVE-2022-33891): 「💥」CVE-2022-33891 - Apache Spark Shell Command Injection
