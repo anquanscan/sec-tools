@@ -1412,4 +1412,5 @@
 [xxUSBSentinel](https://github.com/thereisnotime/xxUSBSentinel): Windows anti-forensics USB monitoring tool.  
 [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno): :white_check_mark: .NET crypto done right. Professionally audited.  
 [OSINT-SearchOperators](https://github.com/BushidoUK/OSINT-SearchOperators)  
-[cipher4j](https://github.com/cszxyang/cipher4j): Pure Implementations for encryption algorithms including DES, RSA, AES, RC4
+[cipher4j](https://github.com/cszxyang/cipher4j): Pure Implementations for encryption algorithms including DES, RSA, AES, RC4  
+[hubcommander](https://github.com/Netflix/hubcommander): A Slack bot for GitHub organization management -- and other things too
