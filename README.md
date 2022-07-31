@@ -1392,4 +1392,5 @@
 [seccubus](https://github.com/seccubus/seccubus): Easy automated vulnerability scanning, reporting and analysis  
 [go-cpe](https://github.com/knqyf263/go-cpe): A Go library for CPE (A Common Platform Enumeration 2.3)  
 [SwissArmyPi](https://github.com/vs4vijay/SwissArmyPi): A set of utility/tools to make Raspberry Pi [Zero W] into Swiss Army Knife  
-[terrascan](https://github.com/tenable/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+[terrascan](https://github.com/tenable/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.  
+[openvas-scanner](https://github.com/greenbone/openvas-scanner): This repository contains the scanner component for Greenbone Community Edition.
