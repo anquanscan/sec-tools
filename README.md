@@ -1537,4 +1537,5 @@
 [MalGAN](https://github.com/PowerLZY/MalGAN): 主题为”基于GAN的恶意软件对抗样本生成“。首先介绍了恶意软件发展现状，引出基于模式匹配、特征空间和问题空间三种方式去检测恶意软件。然后介绍了如何生成对抗样本攻击恶意软件检测器，详细介绍了基于GAN的恶意软件对抗样本的MalGAN框架，并对实验结果进行了对比。最后总结了结构性对抗样本的约束：可用转换 、保留语义、似然性、副作用特征。  
 [phackerpy](https://github.com/xmc2/phackerpy): p hacker  
 [SpicyPass](https://github.com/JFreegman/SpicyPass): A light-weight password manager with a focus on simplicity and security  
-[exploit-CVE-2016-6515](https://github.com/opsxcq/exploit-CVE-2016-6515): OpenSSH remote DOS exploit and vulnerable container
+[exploit-CVE-2016-6515](https://github.com/opsxcq/exploit-CVE-2016-6515): OpenSSH remote DOS exploit and vulnerable container  
+[VISE](https://github.com/antonioforte1995/VISE): A search engine on information delivered by OSINT sources to support Vulnerability Assessment
