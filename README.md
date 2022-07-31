@@ -1521,4 +1521,5 @@
 [collection-document](https://github.com/tom0li/collection-document): Collection of quality safety articles. Awesome articles.    
 [habu](https://github.com/fportantier/habu): Hacking Toolkit  
 [keeweb](https://github.com/keeweb/keeweb): Free cross-platform password manager compatible with KeePass  
-[capsulecorp-pentest](https://github.com/R3dy/capsulecorp-pentest): Vagrant VirtualBox environment for conducting an internal network penetration test
+[capsulecorp-pentest](https://github.com/R3dy/capsulecorp-pentest): Vagrant VirtualBox environment for conducting an internal network penetration test  
+[Ethical-Hacking-Python-Scripts](https://github.com/SHathi28/Ethical-Hacking-Python-Scripts): Repository for security-related Python scripts.
