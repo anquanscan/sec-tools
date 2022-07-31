@@ -1517,4 +1517,5 @@
 [advisory-db](https://github.com/rustsec/advisory-db): Security advisory database for Rust crates published through crates.io  
 [UserFinder](https://github.com/mishakorzik/UserFinder): OSINT tool for finding profiles by username  
 [Exploits-in-c](https://github.com/online6731/Exploits-in-c): Exploits in c  
-[scan-cli-plugin](https://github.com/docker/scan-cli-plugin): Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images
+[scan-cli-plugin](https://github.com/docker/scan-cli-plugin): Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images  
+[collection-document](https://github.com/tom0li/collection-document): Collection of quality safety articles. Awesome articles.  
