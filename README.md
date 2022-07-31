@@ -1502,4 +1502,5 @@
 [violent_python](https://github.com/AllGloryToTheHypnotoad/violent_python): Example programs from Violent Python book  
 [awesome-cloud-osint](https://github.com/testrockytesting/awesome-cloud-osint): This repository will host resources for collecting information about cloud providers - SaaS, IaaS, PaaS, DaaS etc.  
 [multi-juicer](https://github.com/iteratec/multi-juicer): Run Capture the Flags and Security Trainings with OWASP Juice Shop  
-[Vanquish](https://github.com/frizb/Vanquish): Vanquish is Kali Linux based Enumeration Orchestrator. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.
+[Vanquish](https://github.com/frizb/Vanquish): Vanquish is Kali Linux based Enumeration Orchestrator. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.  
+[attckr](https://github.com/hrbrmstr/attckr): ⚔️MITRE ATT&CK Machinations in R
