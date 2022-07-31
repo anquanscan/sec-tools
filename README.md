@@ -1571,4 +1571,5 @@
 [packit](https://github.com/resurrecting-open-source-projects/packit): network packet generator and capture tool  
 [ctf-exploit-farm](https://github.com/andgein/ctf-exploit-farm): Asynchronous exploit farm for attack-defence CTF   
 [vgs-rails-bikerental](https://github.com/verygoodsecurity/vgs-rails-bikerental): An example demonstrating how Very Good Security can secure a Rails application without any code changes and instantly make it PCI DSS Level 2 compliant.  
-[the-broken-links-project](https://github.com/jspeed-meyers/the-broken-links-project): A site for an IQT R&D initiative on software supply chain security.
+[the-broken-links-project](https://github.com/jspeed-meyers/the-broken-links-project): A site for an IQT R&D initiative on software supply chain security.  
+[Nettacker](https://github.com/OWASP/Nettacker): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
