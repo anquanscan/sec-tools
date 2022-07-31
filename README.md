@@ -1414,4 +1414,5 @@
 [OSINT-SearchOperators](https://github.com/BushidoUK/OSINT-SearchOperators)  
 [cipher4j](https://github.com/cszxyang/cipher4j): Pure Implementations for encryption algorithms including DES, RSA, AES, RC4  
 [hubcommander](https://github.com/Netflix/hubcommander): A Slack bot for GitHub organization management -- and other things too  
-[WarioLand4MultiEditor](https://github.com/shinespeciall/WarioLand4MultiEditor): MultiEditor for Wario Land 4
+[WarioLand4MultiEditor](https://github.com/shinespeciall/WarioLand4MultiEditor): MultiEditor for Wario Land 4  
+[TokenUniverse](https://github.com/diversenok/TokenUniverse): An advanced tool for working with access tokens and Windows security policy.
