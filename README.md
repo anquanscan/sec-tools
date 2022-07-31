@@ -1389,4 +1389,5 @@
 [certonid](https://github.com/certonid/certonid): Certonid is a Serverless SSH Certificate Authority  
 [Mass-exploit-CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464): Mass Exploit for CVE 2022-29464 on Carbon  
 [CVE-2022-23808](https://github.com/dipakpanchal456/CVE-2022-23808): phpMyAdmin XSS   
-[seccubus](https://github.com/seccubus/seccubus): Easy automated vulnerability scanning, reporting and analysis
+[seccubus](https://github.com/seccubus/seccubus): Easy automated vulnerability scanning, reporting and analysis  
+[go-cpe](https://github.com/knqyf263/go-cpe): A Go library for CPE (A Common Platform Enumeration 2.3)
