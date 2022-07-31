@@ -1438,4 +1438,5 @@
 [Adhrit](https://github.com/abhi-r3v0/Adhrit): Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks.  
 [mdptropfort.github.io](https://github.com/MDPTropFort/mdptropfort.github.io): Et si on essayait collectivement d'adopter une meilleure hygiène informatique ?  
 [Discord-Nuker](https://github.com/tungdo0602/Discord-Nuker): Super fast nuker written in python with proxy and many thing!  
-[Vailyn](https://github.com/VainlyStrain/Vailyn): A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python
+[Vailyn](https://github.com/VainlyStrain/Vailyn): A phased, evasive Path Traversal + LFI scanning & exploitation tool in Python  
+[vilicus](https://github.com/edersonbrilhante/vilicus): Vilicus is an open source tool that orchestrates security scans of container images(docker/oci) and centralizes all results into a database for further analysis and metrics.
