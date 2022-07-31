@@ -1549,4 +1549,5 @@
 [iBadApple](https://github.com/WilliamHottzz/iBadApple): First ever: Windows, free iCloud & activation lock bypass... that isn't a malware!  
 [gitleaks](https://github.com/zricethezav/gitleaks): Protect and discover secrets using Gitleaks 🔑  
 [linuxScripts](https://github.com/akakayev/linuxScripts): University(SevGU) master's project. Several scripts to scan Linux OS, detect vulnerabilities and manage them.  
-[Shellshocker](https://github.com/NullArray/Shellshocker): A Bash script to test a list of URLs for the shellshock vulnerability.
+[Shellshocker](https://github.com/NullArray/Shellshocker): A Bash script to test a list of URLs for the shellshock vulnerability.  
+[redteam_vul](https://github.com/r0eXpeR/redteam_vul): 红队作战中比较常遇到的一些重点系统漏洞整理。
