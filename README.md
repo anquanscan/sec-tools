@@ -1358,4 +1358,5 @@
 [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide): This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).  
 [Yazilarim](https://github.com/expday/Yazilarim): Geçmiş zamanlarda yazdığım yazılar. Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ...v.s...  
 [cloudmarker](https://github.com/cloudmarker/cloudmarker): Cloud security monitoring tool and framework  
-[CVE-2019-8449](https://github.com/mufeedvh/CVE-2019-8449): CVE-2019-8449 Exploit for Jira v2.1 - v8.3.4
+[CVE-2019-8449](https://github.com/mufeedvh/CVE-2019-8449): CVE-2019-8449 Exploit for Jira v2.1 - v8.3.4  
+[IoTVulnerabilityScanner](https://github.com/yashpungaliya/IoTVulnerabilityScanner): An interactive IoT vulnerability scanner.
