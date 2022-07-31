@@ -1344,4 +1344,5 @@
 [GitLab-11.4.7-RCE](https://github.com/ctrlsam/GitLab-11.4.7-RCE): POC for GitLabs Authenticated RCE in version 11.4.7 community edition  
 [hostintel](https://github.com/keithjjones/hostintel): A modular Python application to collect intelligence for malicious hosts.  
 [OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks): OSINT Bookmarks for Firefox / Chrome / Edge / Safari  
-[CTI-Lexicon](https://github.com/BushidoUK/CTI-Lexicon): Dictionary of CTI-related acronyms, terms, and jargon
+[CTI-Lexicon](https://github.com/BushidoUK/CTI-Lexicon): Dictionary of CTI-related acronyms, terms, and jargon  
+[dexcalibur](https://github.com/FrenchYeti/dexcalibur): [Official] Android reverse engineering tool focused on dynamic instrumentation automation leveraging Frida. It disassembles dex, analyzes it statically, generates hooks, discovers reflected methods, stores intercepted data and does new things from it. Its aim is to be an all-in-one Android reverse engineering platform.
