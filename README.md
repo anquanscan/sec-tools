@@ -1561,4 +1561,5 @@
 [Perun](https://github.com/WyAtu/Perun): Perun是一款主要适用于乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架  
 [PWF](https://github.com/bluecapesecurity/PWF): Practical Windows Forensics Training  
 [HERCULES](https://github.com/EgeBalci/HERCULES): HERCULES is a special payload generator that can bypass antivirus softwares.   
-[How-2-Get-Bootcamp-Content](https://github.com/JaniceW777/How-2-Get-Bootcamp-Content): Samples of how I write how-to's
+[How-2-Get-Bootcamp-Content](https://github.com/JaniceW777/How-2-Get-Bootcamp-Content): Samples of how I write how-to's  
+[teensy3.2-projects](https://github.com/teensy-hacking/teensy3.2-projects): Teensy 3.2 Projects - Teensy with CMD Command Execution Attack Example 💣
