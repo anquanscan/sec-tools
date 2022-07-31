@@ -1609,4 +1609,5 @@
 [nerve](https://github.com/PaytmLabs/nerve): NERVE Continuous Vulnerability Scanner  
 [Hacking-Notebooks](https://github.com/rambasnet/Hacking-Notebooks): Hacking Tricks, Techniques & Tools  
 [cyber-camp-2020-writeup](https://github.com/9p4/cyber-camp-2020-writeup): Cyber Camp 2020 CTF by SANS Institute Writeup  
-[attack_monitor](https://github.com/yarox24/attack_monitor): Endpoint detection & Malware analysis software
+[attack_monitor](https://github.com/yarox24/attack_monitor): Endpoint detection & Malware analysis software  
+[azure_password_harvesting](https://github.com/guardicore/azure_password_harvesting): Plaintext Password harvesting from Azure Windows VMs
