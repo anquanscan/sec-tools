@@ -1489,4 +1489,5 @@
 [falcon](https://github.com/qeeqbox/falcon): Collection of exploits that were verified by an automated system  
 [psytester.github.io](https://github.com/psytester/psytester.github.io): Blog  
 [security-bundle](https://github.com/symfony/security-bundle): The security system is one of the most powerful parts of Symfony and can largely be controlled via its configuration.  
-[scilla](https://github.com/edoardottt/scilla): Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+[scilla](https://github.com/edoardottt/scilla): Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration  
+[Hax-That-Fuck](https://github.com/akalankauk/Hax-That-Fuck): Hax That F#uck Html Page
