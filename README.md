@@ -1567,4 +1567,5 @@
 [Shady-Hook](https://github.com/nybble04/Shady-Hook): Proof of Concept - Hooking API calls of a Ransomware  
 [CVE-2020-15368](https://github.com/stong/CVE-2020-15368): CVE-2020-15368, aka "How to exploit a vulnerable driver"  
 [hackage-security](https://github.com/R3K1NG/hackage-security): Hackage security framework based on TUF (The Update Framework)  
-[WebToken](https://github.com/Mntry/WebToken): Monetary's WebToken JS Client
+[WebToken](https://github.com/Mntry/WebToken): Monetary's WebToken JS Client  
+[packit](https://github.com/resurrecting-open-source-projects/packit): network packet generator and capture tool
