@@ -1500,4 +1500,5 @@
 [jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot): Jasypt integration for Spring boot  
 [facebook-exploit-toolkit](https://github.com/jagreetdg/facebook-exploit-toolkit): Toolkit for Penetration Testing Facebook  
 [violent_python](https://github.com/AllGloryToTheHypnotoad/violent_python): Example programs from Violent Python book  
-[awesome-cloud-osint](https://github.com/testrockytesting/awesome-cloud-osint): This repository will host resources for collecting information about cloud providers - SaaS, IaaS, PaaS, DaaS etc.
+[awesome-cloud-osint](https://github.com/testrockytesting/awesome-cloud-osint): This repository will host resources for collecting information about cloud providers - SaaS, IaaS, PaaS, DaaS etc.  
+[multi-juicer](https://github.com/iteratec/multi-juicer): Run Capture the Flags and Security Trainings with OWASP Juice Shop
