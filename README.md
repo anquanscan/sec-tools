@@ -1327,4 +1327,5 @@
 [lyncsmash](https://github.com/nyxgeek/lyncsmash): locate and attack Lync/Skype for Business  
 [ns3-cybersecurity-simulations](https://github.com/Saket-Upadhyay/ns3-cybersecurity-simulations): Collection of Common Cybersecurity Scenarios/Simulations in NS3 w/ NetAnim.  
 [pocassistdb](https://github.com/jweny/pocassistdb): database of pocassist（漏洞库）  
-[argus](https://github.com/ALDON94/argus): Argus Advanced Remote & Local Keylogger For macOS and Windows
+[argus](https://github.com/ALDON94/argus): Argus Advanced Remote & Local Keylogger For macOS and Windows  
+[RainbowAttack](https://github.com/alahyaoui/RainbowAttack):  C++ application that cracks password using a Rainbow Table
