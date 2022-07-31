@@ -1519,4 +1519,5 @@
 [Exploits-in-c](https://github.com/online6731/Exploits-in-c): Exploits in c  
 [scan-cli-plugin](https://github.com/docker/scan-cli-plugin): Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images  
 [collection-document](https://github.com/tom0li/collection-document): Collection of quality safety articles. Awesome articles.    
-[habu](https://github.com/fportantier/habu): Hacking Toolkit
+[habu](https://github.com/fportantier/habu): Hacking Toolkit  
+[keeweb](https://github.com/keeweb/keeweb): Free cross-platform password manager compatible with KeePass
