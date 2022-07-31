@@ -1425,4 +1425,5 @@
 [dnsFookup](https://github.com/makuga01/dnsFookup): DNS rebinding toolkit  
 [ProxyExe](https://github.com/scipag/ProxyExe): Launch a Windows EXE file with this EXE file (application filter evasion)  
 [TextAttack](https://github.com/QData/TextAttack): TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/  
-[midfp-win32](https://github.com/scipag/midfp-win32): Mail Message-ID Fingerprinting
+[midfp-win32](https://github.com/scipag/midfp-win32): Mail Message-ID Fingerprinting  
+[SyscallExtractorAnalyzer](https://github.com/Truvis/SyscallExtractorAnalyzer): This script will pull and analyze syscalls in given application(s) allowing for easier security research purposes
