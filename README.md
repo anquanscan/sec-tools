@@ -1606,4 +1606,5 @@
 [pwnscripts](https://github.com/152334H/pwnscripts): Very simple script(s) to hasten binary exploit creation  
 [rastrea2r-server](https://github.com/rastrea2r/rastrea2r-server): Restful Server to handle requests from rastrea2r client  
 [One-Click-Image-Logger](https://github.com/FLUORESCENTXX/One-Click-Image-Logger): A method on how to make a One Click Image Logger!  
-[nerve](https://github.com/PaytmLabs/nerve): NERVE Continuous Vulnerability Scanner
+[nerve](https://github.com/PaytmLabs/nerve): NERVE Continuous Vulnerability Scanner  
+[Hacking-Notebooks](https://github.com/rambasnet/Hacking-Notebooks): Hacking Tricks, Techniques & Tools
