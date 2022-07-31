@@ -1357,4 +1357,5 @@
 [CVE-2021-21123-PoC-Google-Chrome](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome): 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski | Total Bug Bounty Reward: $5.000 | CVE-2021-21123 and 5 more...  
 [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide): This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).  
 [Yazilarim](https://github.com/expday/Yazilarim): Geçmiş zamanlarda yazdığım yazılar. Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ...v.s...  
-[cloudmarker](https://github.com/cloudmarker/cloudmarker): Cloud security monitoring tool and framework
+[cloudmarker](https://github.com/cloudmarker/cloudmarker): Cloud security monitoring tool and framework  
+[CVE-2019-8449](https://github.com/mufeedvh/CVE-2019-8449): CVE-2019-8449 Exploit for Jira v2.1 - v8.3.4
