@@ -1384,4 +1384,5 @@
 [ForceReset](https://github.com/Fweak/ForceReset): Simple Tool to Temp Disable Discord Accounts | Force them to Reset their password  
 [cti-stix-diamond-activity-attack-graph](https://github.com/yukh1402/cti-stix-diamond-activity-attack-graph): STIX 2.1 Visualizer, Attack and Activity Thread Graph for Threat Modeling  
 [DeimosC2](https://github.com/DeimosC2/DeimosC2): DeimosC2 is a Golang command and control framework for post-exploitation.  
-[ManageEngineFileUploadExploit](https://github.com/Trek333/ManageEngineFileUploadExploit): POC script for the ManageEngine Multiple Products Authenticated File Upload Exploit
+[ManageEngineFileUploadExploit](https://github.com/Trek333/ManageEngineFileUploadExploit): POC script for the ManageEngine Multiple Products Authenticated File Upload Exploit  
+[unipacker](https://github.com/unipacker/unipacker): Automatic and platform-independent unpacker for Windows binaries based on emulation
