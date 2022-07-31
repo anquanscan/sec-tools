@@ -1407,4 +1407,5 @@
 [hacker-scripts](https://github.com/restran/hacker-scripts): ⛷ A collection of hacker scripts.  
 [codecat](https://github.com/CoolerVoid/codecat): CodeCat is an open-source tool to help you find/track user input sinks and security bugs using static code analysis. These points follow regex rules. Beta version.  
 [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs): Hands on labs and code to help you learn, measure, and build using architectural best practices.  
-[exploit-CVE-2014-6271](https://github.com/opsxcq/exploit-CVE-2014-6271): Shellshock exploit + vulnerable environment
+[exploit-CVE-2014-6271](https://github.com/opsxcq/exploit-CVE-2014-6271): Shellshock exploit + vulnerable environment  
+[CCSC-CTF-2020](https://github.com/cybermouflons/CCSC-CTF-2020): All challenges for the CCSC 2020 CTF
