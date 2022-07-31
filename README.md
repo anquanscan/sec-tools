@@ -1509,4 +1509,5 @@
 [ApplicationSecurity_Interview_Questions_Answers](https://github.com/mafiaguy/ApplicationSecurity_Interview_Questions_Answers): Some of the queries that were asked in interviews for Application/Security Engineering roles and were submitted to Glassdoor.com. I felt these queries were vital to being asked and a few were difficult to answer. I attempted to incorporate some answers for a few of the queries  
 [deepweb-scappering](https://github.com/kurogai/deepweb-scappering): Discover hidden deepweb pages  
 [phpsecurityscanner](https://github.com/lpkapil/phpsecurityscanner): A PHP Class to recursively scan vulnerable php functions inside a directory  
-[OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS): OSINT 
+[OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS): OSINT   
+[POC-exploits](https://github.com/merrychap/POC-exploits):  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me
