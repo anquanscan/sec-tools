@@ -1466,4 +1466,5 @@
 [handbook](https://github.com/0xffsec/handbook): A living document for penetration testing and offensive security.  
 [0d1n](https://github.com/CoolerVoid/0d1n): Tool for automating customized attacks against web applications. Fully made in C language with pthreads, it has fast performance.   
 [ThreatIngestor](https://github.com/InQuest/ThreatIngestor): Extract and aggregate threat intelligence.  
-[integrated-security-testing-environment](https://github.com/okuken/integrated-security-testing-environment): Integrated Security Testing Environment for Web Applications as Burp Extension. 質問等用Slackへの参加はこちら：https://join.slack.com/t/burp-iste/shared_invite/zt-13xm9liet-BPI1ByEEklmTKZcSbQepAA
+[integrated-security-testing-environment](https://github.com/okuken/integrated-security-testing-environment): Integrated Security Testing Environment for Web Applications as Burp Extension. 質問等用Slackへの参加はこちら：https://join.slack.com/t/burp-iste/shared_invite/zt-13xm9liet-BPI1ByEEklmTKZcSbQepAA  
+[awesome-game-security](https://github.com/gmh5225/awesome-game-security): awesome game security [Welcome to PR]
