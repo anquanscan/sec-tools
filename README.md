@@ -1598,4 +1598,5 @@
 [dc540-0x00005b](https://github.com/mytechnotalent/dc540-0x00005b): DC540 hacking challenge 0x00005b.  
 [IPASN-History](https://github.com/D4-project/IPASN-History): IP ASN History to find ASN announcing an IP and the closest prefix announcing it at a specific date  
 [derailed](https://github.com/SakuraSamuraii/derailed): CVE-2021-40875: Tools to Inspect Gurock Testrail Servers for Vulnerabilities related to CVE-2021-40875.  
-[CheckPasswordHash](https://github.com/MikeS159/CheckPasswordHash): Lets you check your password hash against a list in a textfile (for the have i been pwned database)
+[CheckPasswordHash](https://github.com/MikeS159/CheckPasswordHash): Lets you check your password hash against a list in a textfile (for the have i been pwned database)  
+[clusterfuzzlite](https://github.com/google/clusterfuzzlite): ClusterFuzzLite - Simple continuous fuzzing that runs in CI.
