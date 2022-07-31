@@ -1484,4 +1484,5 @@
 [Umbrella_content](https://github.com/securityfirst/Umbrella_content): Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in over 40 topics in multiple languages. Used daily by people working in high risk countries - journalists, activists, diplomats, business travelers etc.   
 [PrefSecure](https://github.com/Mohamed-Fadel/PrefSecure): Android Library For Saving any sensitive Data  (e.g user credentials, access token, credit cards ,... etc) in cryptographic format  
 [taser](https://github.com/m8sec/taser): Python3 resource library for creating security related tooling  
-[CyberSecurity-Bootcamp](https://github.com/dsteves28/CyberSecurity-Bootcamp): Assignments and projects that show my knowledge and experience of Cyber Security.
+[CyberSecurity-Bootcamp](https://github.com/dsteves28/CyberSecurity-Bootcamp): Assignments and projects that show my knowledge and experience of Cyber Security.  
+[securefs](https://github.com/netheril96/securefs): Filesystem in userspace (FUSE) with transparent authenticated encryption
