@@ -1539,4 +1539,5 @@
 [SpicyPass](https://github.com/JFreegman/SpicyPass): A light-weight password manager with a focus on simplicity and security  
 [exploit-CVE-2016-6515](https://github.com/opsxcq/exploit-CVE-2016-6515): OpenSSH remote DOS exploit and vulnerable container  
 [VISE](https://github.com/antonioforte1995/VISE): A search engine on information delivered by OSINT sources to support Vulnerability Assessment  
-[sel4-armv8-vmm-manifest](https://github.com/dornerworks/sel4-armv8-vmm-manifest): A manifest that allows one to build virtualized seL4 for zcu102 and i.MX8
+[sel4-armv8-vmm-manifest](https://github.com/dornerworks/sel4-armv8-vmm-manifest): A manifest that allows one to build virtualized seL4 for zcu102 and i.MX8  
+[os-newify](https://github.com/justincpresley/os-newify): os-newify: A set of steps to update, clean, reset, and maintain different types of operating systems to boost security and make the device(s) more efficient.
