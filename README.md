@@ -1590,4 +1590,5 @@
 [simple-haveibeenpwned](https://github.com/kisscool-fr/simple-haveibeenpwned): A very simple class to check your password safety against 'Have I Been Pwned' API.  
 [urldedupe](https://github.com/ameenmaali/urldedupe): Pass in a list of URLs with query strings, get back a unique list of URLs and query string combinations  
 [fortify-plugin](https://github.com/jenkinsci/fortify-plugin): Fortify Jenkins plugin  
-[sqlinjection-training-app](https://github.com/appsecco/sqlinjection-training-app): A simple PHP application to learn SQL Injection detection and exploitation techniques.
+[sqlinjection-training-app](https://github.com/appsecco/sqlinjection-training-app): A simple PHP application to learn SQL Injection detection and exploitation techniques.  
+[nice-framework](https://github.com/langholloman/nice-framework): This is a repo for on-going development of an xAPI Profile and JSONLD for the Cybersecurity Education Cybersecurity Workforce Framework - NICE Framework
