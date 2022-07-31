@@ -1436,4 +1436,5 @@
 [ATSCAN](https://github.com/AlisamTechnology/ATSCAN): Advanced dork Search & Mass Exploit Scanner  
 [ctfr](https://github.com/UnaPibaGeek/ctfr): Abusing Certificate Transparency logs for getting HTTPS websites subdomains.  
 [Adhrit](https://github.com/abhi-r3v0/Adhrit): Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks.  
-[mdptropfort.github.io](https://github.com/MDPTropFort/mdptropfort.github.io): Et si on essayait collectivement d'adopter une meilleure hygiène informatique ?
+[mdptropfort.github.io](https://github.com/MDPTropFort/mdptropfort.github.io): Et si on essayait collectivement d'adopter une meilleure hygiène informatique ?  
+[Discord-Nuker](https://github.com/tungdo0602/Discord-Nuker): Super fast nuker written in python with proxy and many thing!
