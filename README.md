@@ -1397,4 +1397,5 @@
 [log4j-scanner](https://github.com/cisagov/log4j-scanner): log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.   
 [ATutor-2.2.4-Language-Exploit](https://github.com/fuzzlove/ATutor-2.2.4-Language-Exploit): ATutor 2.2.4 Arbitrary File Upload / RCE (CVE-2019-12169)  
 [securitytools](https://github.com/virenukey/securitytools): Tools created under this repo are general-purpose tools for cyber-security beginners to  check the prototype and flow of any enterprise-level software and implementation, providing the same  
-[CVE-2022-24124](https://github.com/ColdFusionX/CVE-2022-24124): POC for CVE-2022-24124
+[CVE-2022-24124](https://github.com/ColdFusionX/CVE-2022-24124): POC for CVE-2022-24124  
+[bWAPP](https://github.com/chillitray/bWAPP): Most vulnerable PHP website to carry pentesting. 
