@@ -1359,4 +1359,5 @@
 [Yazilarim](https://github.com/expday/Yazilarim): Geçmiş zamanlarda yazdığım yazılar. Siber güvenlik, Rootkit, Analiz, Bot Network, DDoS, DoS , Phishing , Exploit ...v.s...  
 [cloudmarker](https://github.com/cloudmarker/cloudmarker): Cloud security monitoring tool and framework  
 [CVE-2019-8449](https://github.com/mufeedvh/CVE-2019-8449): CVE-2019-8449 Exploit for Jira v2.1 - v8.3.4  
-[IoTVulnerabilityScanner](https://github.com/yashpungaliya/IoTVulnerabilityScanner): An interactive IoT vulnerability scanner.
+[IoTVulnerabilityScanner](https://github.com/yashpungaliya/IoTVulnerabilityScanner): An interactive IoT vulnerability scanner.  
+[MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery): Malware Gallery. Yet another malware collection in the Internet.
