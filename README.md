@@ -1528,4 +1528,5 @@
 [Structured-Exception-Handling-SEH-Buffer-Overflow](https://github.com/GihanJ/Structured-Exception-Handling-SEH-Buffer-Overflow): Contains an exploit code of a SEH attack against the file sharing wizard 1.5.0 application and a report explaining the process  
 [X-Scan](https://github.com/XTeam-Wing/X-Scan): 魔改版内网扫描工具  
 [Galacticc](https://github.com/Kopamed/Galacticc): Minecraft ghost client for 1.8.9  
-[DeathStar](https://github.com/byt3bl33d3r/DeathStar): Uses Empire's (https://github.com/BC-SECURITY/Empire) RESTful API to automate gaining Domain and/or Enterprise Admin rights in Active Directory environments using some of the most common offensive TTPs.
+[DeathStar](https://github.com/byt3bl33d3r/DeathStar): Uses Empire's (https://github.com/BC-SECURITY/Empire) RESTful API to automate gaining Domain and/or Enterprise Admin rights in Active Directory environments using some of the most common offensive TTPs.  
+[wp-plugins-poc](https://github.com/deguru22/wp-plugins-poc): Collection of WordPress Plugin PoC - For Educational Purposes ONLY
