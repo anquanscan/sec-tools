@@ -1427,4 +1427,5 @@
 [TextAttack](https://github.com/QData/TextAttack): TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/  
 [midfp-win32](https://github.com/scipag/midfp-win32): Mail Message-ID Fingerprinting  
 [SyscallExtractorAnalyzer](https://github.com/Truvis/SyscallExtractorAnalyzer): This script will pull and analyze syscalls in given application(s) allowing for easier security research purposes  
-[python_sec](https://github.com/bit4woo/python_sec): python安全和代码审计相关资料收集 resource collection of python security and code review
+[python_sec](https://github.com/bit4woo/python_sec): python安全和代码审计相关资料收集 resource collection of python security and code review  
+[gagako](https://github.com/seaung/gagako): 一款Golang开发的安全工具
