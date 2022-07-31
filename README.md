@@ -1337,4 +1337,5 @@
 [ThreatMapper](https://github.com/deepfence/ThreatMapper): 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥    
 [eth_keyfun](https://github.com/Sector443/eth_keyfun): A small tool to bruteforce weak ethereum private keys and more  
 [cod-steamauth-rce](https://github.com/RektInator/cod-steamauth-rce)  
-[SELKS](https://github.com/StamusNetworks/SELKS): A Suricata based IDS/IPS/NSM distro
+[SELKS](https://github.com/StamusNetworks/SELKS): A Suricata based IDS/IPS/NSM distro  
+[OSCP-Notes-Template](https://github.com/Twigonometry/OSCP-Notes-Template): A template Obsidian Vault for storing your OSCP revision notes
