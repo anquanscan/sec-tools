@@ -1340,4 +1340,5 @@
 [SELKS](https://github.com/StamusNetworks/SELKS): A Suricata based IDS/IPS/NSM distro  
 [OSCP-Notes-Template](https://github.com/Twigonometry/OSCP-Notes-Template): A template Obsidian Vault for storing your OSCP revision notes  
 [Cam-Hackers](https://github.com/AngelSecurityTeam/Cam-Hackers): Hack Cameras  CCTV FREE  
-[emba](https://github.com/e-m-b-a/emba): EMBA - The firmware security analyzer
+[emba](https://github.com/e-m-b-a/emba): EMBA - The firmware security analyzer  
+[GitLab-11.4.7-RCE](https://github.com/ctrlsam/GitLab-11.4.7-RCE): POC for GitLabs Authenticated RCE in version 11.4.7 community edition
