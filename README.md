@@ -1346,4 +1346,5 @@
 [OSINTBookmarks](https://github.com/5nacks/OSINTBookmarks): OSINT Bookmarks for Firefox / Chrome / Edge / Safari  
 [CTI-Lexicon](https://github.com/BushidoUK/CTI-Lexicon): Dictionary of CTI-related acronyms, terms, and jargon  
 [dexcalibur](https://github.com/FrenchYeti/dexcalibur): [Official] Android reverse engineering tool focused on dynamic instrumentation automation leveraging Frida. It disassembles dex, analyzes it statically, generates hooks, discovers reflected methods, stores intercepted data and does new things from it. Its aim is to be an all-in-one Android reverse engineering platform.  
-[findbugs-security-docker](https://github.com/lokori/findbugs-security-docker): FindBugs + Find Security Bugs -plugin in Docker image
+[findbugs-security-docker](https://github.com/lokori/findbugs-security-docker): FindBugs + Find Security Bugs -plugin in Docker image  
+[sliver-gui](https://github.com/BishopFox/sliver-gui): A Sliver GUI Client
