@@ -1454,4 +1454,5 @@
 [pyvfeed](https://github.com/vfeedio/pyvfeed):  Python API for vFeed Vulnerability & Threat Intelligence Database Enterprise & Pro Editions  
 [Software-Security](https://github.com/ramizebian/Software-Security): A Github repository I created while studying the Software Security course on Coursera. I made the repository public to discuss solutions with like-minded developers.  
 [nvtengine](https://github.com/Clivebi/nvtengine): network vulnerability-test engine nasl like script engine  
-[Screenshooter](https://github.com/FortyNorthSecurity/Screenshooter): C# program to take a full size screenshot or a recording of the user's desktop. Takes in 0-3 flags
+[Screenshooter](https://github.com/FortyNorthSecurity/Screenshooter): C# program to take a full size screenshot or a recording of the user's desktop. Takes in 0-3 flags  
+[Brutal](https://github.com/screetsec/Brutal): Payload for teensy like a rubber ducky but the syntax is different. this Human interfaes device ( HID attacks ). Penetration With Teensy  . Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device ( Payload Teensy )
