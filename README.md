@@ -1492,4 +1492,5 @@
 [scilla](https://github.com/edoardottt/scilla): Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration  
 [Hax-That-Fuck](https://github.com/akalankauk/Hax-That-Fuck): Hax That F#uck Html Page  
 [leaky-paths](https://github.com/ayoubfathi/leaky-paths): A collection of special paths linked to major web CVEs, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.  
-[SAP_exploit](https://github.com/vah13/SAP_exploit): Here you can get full exploit for SAP NetWeaver AS JAVA
+[SAP_exploit](https://github.com/vah13/SAP_exploit): Here you can get full exploit for SAP NetWeaver AS JAVA  
+[kubernetes-goat](https://github.com/madhuakula/kubernetes-goat): Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
