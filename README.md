@@ -1588,4 +1588,5 @@
 [honggfuzz-rs](https://github.com/rust-fuzz/honggfuzz-rs): Fuzz your Rust code with Google-developed Honggfuzz !  
 [SirepRAT](https://github.com/SafeBreach-Labs/SirepRAT): Remote Command Execution as SYSTEM on Windows IoT Core (releases available for Python2.7 & Python3)  
 [simple-haveibeenpwned](https://github.com/kisscool-fr/simple-haveibeenpwned): A very simple class to check your password safety against 'Have I Been Pwned' API.  
-[urldedupe](https://github.com/ameenmaali/urldedupe): Pass in a list of URLs with query strings, get back a unique list of URLs and query string combinations
+[urldedupe](https://github.com/ameenmaali/urldedupe): Pass in a list of URLs with query strings, get back a unique list of URLs and query string combinations  
+[fortify-plugin](https://github.com/jenkinsci/fortify-plugin): Fortify Jenkins plugin
