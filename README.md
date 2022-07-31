@@ -1364,4 +1364,5 @@
 [mimiRust](https://github.com/ThottySploity/mimiRust): MimiRust - Hacking the Windows operating system to hand us the keys to the kingdom with Rust.  
 [nodejsscan](https://github.com/ajinabraham/nodejsscan): nodejsscan is a static security code scanner for Node.js applications.  
 [MS17-010](https://github.com/a6avind/MS17-010): MS17-010  
-[Chaya](https://github.com/xerohackcom/Chaya): Advance Image Steganography
+[Chaya](https://github.com/xerohackcom/Chaya): Advance Image Steganography  
+[php-casbin](https://github.com/php-casbin/php-casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in PHP .
