@@ -1354,4 +1354,5 @@
 [security_review](https://github.com/banviktor/security_review): Drupal 8 port of the Security Review module for GSoC 2015  
 [certera](https://github.com/certera-io/certera): A central validation server for Let's Encrypt certificates  
 [AutoGadgetFS](https://github.com/ehabhussein/AutoGadgetFS): USB testing made easy  
-[CVE-2021-21123-PoC-Google-Chrome](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome): 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski | Total Bug Bounty Reward: $5.000 | CVE-2021-21123 and 5 more...
+[CVE-2021-21123-PoC-Google-Chrome](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome): 🐱‍💻 👍 Google Chrome - File System Access API - vulnerabilities reported by Maciej Pulikowski | Total Bug Bounty Reward: $5.000 | CVE-2021-21123 and 5 more...  
+[the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide): This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
