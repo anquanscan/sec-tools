@@ -1450,4 +1450,5 @@
 [bughunting-ar](https://github.com/hackarwiki/bughunting-ar): هذا المستودع هي محاولة منا لاثراء المحتوي العربي بخصوص البج بونتي ومايحتويه من انواع ثغرات الي تقنيات مختلفة الي مصادر متعددة  
 [search-for-vulnerabilities](https://github.com/AdrielFreud/search-for-vulnerabilities)  
 [CVE-2019-0604](https://github.com/k8gege/CVE-2019-0604): cve-2019-0604 SharePoint RCE exploit  
-[Go-MISPFeedGenerator](https://github.com/KaanSK/Go-MISPFeedGenerator): Golang implementation of PyMISP-feedgenerator
+[Go-MISPFeedGenerator](https://github.com/KaanSK/Go-MISPFeedGenerator): Golang implementation of PyMISP-feedgenerator  
+[pyvfeed](https://github.com/vfeedio/pyvfeed):  Python API for vFeed Vulnerability & Threat Intelligence Database Enterprise & Pro Editions
