@@ -1514,4 +1514,5 @@
 [Secure-Pref-Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager): Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.  
 [brutto](https://github.com/jofpin/brutto): Easy brute forcing to whatever you want - Jose Pino  
 [DARK-FB_v1.6](https://github.com/Samuelpasaribu/DARK-FB_v1.6): script hack fb  
-[advisory-db](https://github.com/rustsec/advisory-db): Security advisory database for Rust crates published through crates.io
+[advisory-db](https://github.com/rustsec/advisory-db): Security advisory database for Rust crates published through crates.io  
+[UserFinder](https://github.com/mishakorzik/UserFinder): OSINT tool for finding profiles by username
