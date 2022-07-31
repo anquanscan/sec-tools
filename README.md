@@ -1387,4 +1387,5 @@
 [ManageEngineFileUploadExploit](https://github.com/Trek333/ManageEngineFileUploadExploit): POC script for the ManageEngine Multiple Products Authenticated File Upload Exploit  
 [unipacker](https://github.com/unipacker/unipacker): Automatic and platform-independent unpacker for Windows binaries based on emulation  
 [certonid](https://github.com/certonid/certonid): Certonid is a Serverless SSH Certificate Authority  
-[Mass-exploit-CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464): Mass Exploit for CVE 2022-29464 on Carbon
+[Mass-exploit-CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464): Mass Exploit for CVE 2022-29464 on Carbon  
+[CVE-2022-23808](https://github.com/dipakpanchal456/CVE-2022-23808): phpMyAdmin XSS 
