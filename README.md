@@ -1376,4 +1376,5 @@
 [git-dumper](https://github.com/arthaud/git-dumper): A tool to dump a git repository from a website  
 [privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆  
 [Explib](https://github.com/b4zinga/Explib): Explib: Collections of poc and exp.  
-[incident_alarm](https://github.com/christiecc8/incident_alarm): An alarm written in Python to sniff a pcap file or live interface for NULL, XMAS, FIN, SMB, and Nikto scans. Detects plaintext credentials sent over IMAP, FTP, and HTML protocols.
+[incident_alarm](https://github.com/christiecc8/incident_alarm): An alarm written in Python to sniff a pcap file or live interface for NULL, XMAS, FIN, SMB, and Nikto scans. Detects plaintext credentials sent over IMAP, FTP, and HTML protocols.  
+[Addon](https://github.com/ClearURLs/Addon): ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
