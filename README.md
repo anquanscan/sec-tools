@@ -1593,4 +1593,5 @@
 [sqlinjection-training-app](https://github.com/appsecco/sqlinjection-training-app): A simple PHP application to learn SQL Injection detection and exploitation techniques.  
 [nice-framework](https://github.com/langholloman/nice-framework): This is a repo for on-going development of an xAPI Profile and JSONLD for the Cybersecurity Education Cybersecurity Workforce Framework - NICE Framework  
 [PyPowerShellXray](https://github.com/JohnLaTwC/PyPowerShellXray): Python script to decode common encoded PowerShell scripts  
-[wadbpwn](https://github.com/wuseman/wadbpwn): Hack a random android device with 100% guarantee to succeed within 1 second, all you really need is to copy and paste 3 lines, yay! It's for real!!
+[wadbpwn](https://github.com/wuseman/wadbpwn): Hack a random android device with 100% guarantee to succeed within 1 second, all you really need is to copy and paste 3 lines, yay! It's for real!!  
+[CVE-2018-16763-Exploit-Python3](https://github.com/n3m1dotsys/CVE-2018-16763-Exploit-Python3)
