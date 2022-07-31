@@ -1417,4 +1417,5 @@
 [WarioLand4MultiEditor](https://github.com/shinespeciall/WarioLand4MultiEditor): MultiEditor for Wario Land 4  
 [TokenUniverse](https://github.com/diversenok/TokenUniverse): An advanced tool for working with access tokens and Windows security policy.  
 [DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:  
-[fosstars-rating-core](https://github.com/SAP/fosstars-rating-core): A framework for defining ratings for open source projects. In particular, the framework offers a security rating for open source projects that may be used to assess the security risk that comes with open source components.
+[fosstars-rating-core](https://github.com/SAP/fosstars-rating-core): A framework for defining ratings for open source projects. In particular, the framework offers a security rating for open source projects that may be used to assess the security risk that comes with open source components.  
+[graphw00f](https://github.com/dolevf/graphw00f): graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
