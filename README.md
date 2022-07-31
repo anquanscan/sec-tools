@@ -1377,4 +1377,5 @@
 [privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆  
 [Explib](https://github.com/b4zinga/Explib): Explib: Collections of poc and exp.  
 [incident_alarm](https://github.com/christiecc8/incident_alarm): An alarm written in Python to sniff a pcap file or live interface for NULL, XMAS, FIN, SMB, and Nikto scans. Detects plaintext credentials sent over IMAP, FTP, and HTML protocols.  
-[Addon](https://github.com/ClearURLs/Addon): ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
+[Addon](https://github.com/ClearURLs/Addon): ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  
+[ArchStrike](https://github.com/ArchStrike/ArchStrike): An Arch Linux repository for security professionals and enthusiasts. Done the Arch Way and optimized for i686, x86_64, ARMv6, ARMv7 and ARMv8.
