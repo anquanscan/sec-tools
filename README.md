@@ -1569,4 +1569,5 @@
 [hackage-security](https://github.com/R3K1NG/hackage-security): Hackage security framework based on TUF (The Update Framework)  
 [WebToken](https://github.com/Mntry/WebToken): Monetary's WebToken JS Client  
 [packit](https://github.com/resurrecting-open-source-projects/packit): network packet generator and capture tool  
-[ctf-exploit-farm](https://github.com/andgein/ctf-exploit-farm): Asynchronous exploit farm for attack-defence CTF 
+[ctf-exploit-farm](https://github.com/andgein/ctf-exploit-farm): Asynchronous exploit farm for attack-defence CTF   
+[vgs-rails-bikerental](https://github.com/verygoodsecurity/vgs-rails-bikerental): An example demonstrating how Very Good Security can secure a Rails application without any code changes and instantly make it PCI DSS Level 2 compliant.
