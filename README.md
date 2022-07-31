@@ -1600,4 +1600,5 @@
 [derailed](https://github.com/SakuraSamuraii/derailed): CVE-2021-40875: Tools to Inspect Gurock Testrail Servers for Vulnerabilities related to CVE-2021-40875.  
 [CheckPasswordHash](https://github.com/MikeS159/CheckPasswordHash): Lets you check your password hash against a list in a textfile (for the have i been pwned database)  
 [clusterfuzzlite](https://github.com/google/clusterfuzzlite): ClusterFuzzLite - Simple continuous fuzzing that runs in CI.  
-[simple-port-scanner](https://github.com/EdinsonRequena/simple-port-scanner): This is a simple port scanner built in python 3.8
+[simple-port-scanner](https://github.com/EdinsonRequena/simple-port-scanner): This is a simple port scanner built in python 3.8  
+[pentbox](https://github.com/technicaldada/pentbox): PentBox is a tool that allows us to create honeypot in our system this is written in ruby language.
