@@ -1398,4 +1398,5 @@
 [ATutor-2.2.4-Language-Exploit](https://github.com/fuzzlove/ATutor-2.2.4-Language-Exploit): ATutor 2.2.4 Arbitrary File Upload / RCE (CVE-2019-12169)  
 [securitytools](https://github.com/virenukey/securitytools): Tools created under this repo are general-purpose tools for cyber-security beginners to  check the prototype and flow of any enterprise-level software and implementation, providing the same  
 [CVE-2022-24124](https://github.com/ColdFusionX/CVE-2022-24124): POC for CVE-2022-24124  
-[bWAPP](https://github.com/chillitray/bWAPP): Most vulnerable PHP website to carry pentesting. 
+[bWAPP](https://github.com/chillitray/bWAPP): Most vulnerable PHP website to carry pentesting.   
+[SSI_Extra_Materials](https://github.com/jose-r-lopez/SSI_Extra_Materials): In my computer security course we make extensive usage of cheatsheets for various tools and extra materials to complement the student learning if they are willing to do so. I have decided to share them to enable others to take advantage of these materials
