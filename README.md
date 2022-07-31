@@ -1490,4 +1490,5 @@
 [psytester.github.io](https://github.com/psytester/psytester.github.io): Blog  
 [security-bundle](https://github.com/symfony/security-bundle): The security system is one of the most powerful parts of Symfony and can largely be controlled via its configuration.  
 [scilla](https://github.com/edoardottt/scilla): Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration  
-[Hax-That-Fuck](https://github.com/akalankauk/Hax-That-Fuck): Hax That F#uck Html Page
+[Hax-That-Fuck](https://github.com/akalankauk/Hax-That-Fuck): Hax That F#uck Html Page  
+[leaky-paths](https://github.com/ayoubfathi/leaky-paths): A collection of special paths linked to major web CVEs, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
