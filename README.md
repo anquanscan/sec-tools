@@ -1402,4 +1402,5 @@
 [SSI_Extra_Materials](https://github.com/jose-r-lopez/SSI_Extra_Materials): In my computer security course we make extensive usage of cheatsheets for various tools and extra materials to complement the student learning if they are willing to do so. I have decided to share them to enable others to take advantage of these materials  
 [Apache-OFBiz-XXE](https://github.com/jamieparfet/Apache-OFBiz-XXE): XXE injection (file disclosure) exploit for Apache OFBiz < 16.11.04  
 [free-security-resources](https://github.com/ad775/free-security-resources): 安全总是无处不在...  
-[sodium_compat](https://github.com/paragonie/sodium_compat): Pure PHP polyfill for ext/sodium
+[sodium_compat](https://github.com/paragonie/sodium_compat): Pure PHP polyfill for ext/sodium  
+[Snort_Log_Server](https://github.com/mruv/Snort_Log_Server): A tool for simplifying network administration. Gets log messages from Snort IDS, processes them, classifies them as either THREAT / NOT_THREAT then creates a pop up window incase of a threat.
