@@ -1544,4 +1544,5 @@
 [awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables): 🦄🔒 Awesome list of secrets in environment variables 🖥️  
 [TIL](https://github.com/waeandway/TIL): 📚 Today I Learned : Security  
 [Watcher](https://github.com/thalesgroup-cert/Watcher): Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.  
-[zong-wifi](https://github.com/abdullah2993/zong-wifi)
+[zong-wifi](https://github.com/abdullah2993/zong-wifi)  
+[IntRec-Pack](https://github.com/NullArray/IntRec-Pack): Intelligence and Reconnaissance Package/Bundle installer.
