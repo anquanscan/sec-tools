@@ -1371,4 +1371,5 @@
 [getroot](https://github.com/sdushantha/getroot): 🛠️  Tool to bypass my school's security system to get sudo privileges on MacOS  
 [OSCP-Human-Guide](https://github.com/six2dez/OSCP-Human-Guide): My own OSCP guide  
 [swifty](https://github.com/swiftyapp/swifty): 🔑   Free Offline Password Manager   
-[CVE-repository](https://github.com/Orange-Cyberdefense/CVE-repository):  :beetle: Repository of CVE found by OCD people
+[CVE-repository](https://github.com/Orange-Cyberdefense/CVE-repository):  :beetle: Repository of CVE found by OCD people  
+[fim](https://github.com/Achiefs/fim): FIM is an Open Source Host-based file detection tool that performs file system analysis, file integrity checking and real time alerting.
