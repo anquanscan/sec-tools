@@ -1394,4 +1394,5 @@
 [SwissArmyPi](https://github.com/vs4vijay/SwissArmyPi): A set of utility/tools to make Raspberry Pi [Zero W] into Swiss Army Knife  
 [terrascan](https://github.com/tenable/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.  
 [openvas-scanner](https://github.com/greenbone/openvas-scanner): This repository contains the scanner component for Greenbone Community Edition.  
-[log4j-scanner](https://github.com/cisagov/log4j-scanner): log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. 
+[log4j-scanner](https://github.com/cisagov/log4j-scanner): log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.   
+[ATutor-2.2.4-Language-Exploit](https://github.com/fuzzlove/ATutor-2.2.4-Language-Exploit): ATutor 2.2.4 Arbitrary File Upload / RCE (CVE-2019-12169)
