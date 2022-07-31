@@ -1532,4 +1532,5 @@
 [wp-plugins-poc](https://github.com/deguru22/wp-plugins-poc): Collection of WordPress Plugin PoC - For Educational Purposes ONLY  
 [ARP-Spoofer](https://github.com/Sedatyf/ARP-Spoofer): This script sends forged ARP packages on a local network in order to impersonate a host and receive victim's internet traffic  
 [pytools](https://github.com/CharlesPikachu/pytools): Pytools: Some useful tools written by pure python.  
-[apk-medit](https://github.com/aktsk/apk-medit): memory search and patch tool on debuggable apk without root & ndk
+[apk-medit](https://github.com/aktsk/apk-medit): memory search and patch tool on debuggable apk without root & ndk  
+[TypeHUB](https://github.com/AdliXSec/TypeHUB): TypeHUB Exploiter
