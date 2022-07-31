@@ -1423,4 +1423,5 @@
 [cisofy-security-policy](https://github.com/CISOfy/cisofy-security-policy): This is the public security policy of CISOfy, with extra resources like security tools.  
 [tenable-securitycenter](https://github.com/AlainODea-haskell/tenable-securitycenter): Tenable SecurityCenter REST API client  
 [dnsFookup](https://github.com/makuga01/dnsFookup): DNS rebinding toolkit  
-[ProxyExe](https://github.com/scipag/ProxyExe): Launch a Windows EXE file with this EXE file (application filter evasion)
+[ProxyExe](https://github.com/scipag/ProxyExe): Launch a Windows EXE file with this EXE file (application filter evasion)  
+[TextAttack](https://github.com/QData/TextAttack): TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
