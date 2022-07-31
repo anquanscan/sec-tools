@@ -1505,4 +1505,5 @@
 [Vanquish](https://github.com/frizb/Vanquish): Vanquish is Kali Linux based Enumeration Orchestrator. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases.  
 [attckr](https://github.com/hrbrmstr/attckr): ⚔️MITRE ATT&CK Machinations in R  
 [ursadb](https://github.com/CERT-Polska/ursadb): Trigram database written in C++, suited for malware indexing  
-[reconftw](https://github.com/six2dez/reconftw): reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+[reconftw](https://github.com/six2dez/reconftw): reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities  
+[ApplicationSecurity_Interview_Questions_Answers](https://github.com/mafiaguy/ApplicationSecurity_Interview_Questions_Answers): Some of the queries that were asked in interviews for Application/Security Engineering roles and were submitted to Glassdoor.com. I felt these queries were vital to being asked and a few were difficult to answer. I attempted to incorporate some answers for a few of the queries
