@@ -1533,4 +1533,5 @@
 [ARP-Spoofer](https://github.com/Sedatyf/ARP-Spoofer): This script sends forged ARP packages on a local network in order to impersonate a host and receive victim's internet traffic  
 [pytools](https://github.com/CharlesPikachu/pytools): Pytools: Some useful tools written by pure python.  
 [apk-medit](https://github.com/aktsk/apk-medit): memory search and patch tool on debuggable apk without root & ndk  
-[TypeHUB](https://github.com/AdliXSec/TypeHUB): TypeHUB Exploiter
+[TypeHUB](https://github.com/AdliXSec/TypeHUB): TypeHUB Exploiter  
+[MalGAN](https://github.com/PowerLZY/MalGAN): 主题为”基于GAN的恶意软件对抗样本生成“。首先介绍了恶意软件发展现状，引出基于模式匹配、特征空间和问题空间三种方式去检测恶意软件。然后介绍了如何生成对抗样本攻击恶意软件检测器，详细介绍了基于GAN的恶意软件对抗样本的MalGAN框架，并对实验结果进行了对比。最后总结了结构性对抗样本的约束：可用转换 、保留语义、似然性、副作用特征。
