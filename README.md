@@ -1406,4 +1406,5 @@
 [Snort_Log_Server](https://github.com/mruv/Snort_Log_Server): A tool for simplifying network administration. Gets log messages from Snort IDS, processes them, classifies them as either THREAT / NOT_THREAT then creates a pop up window incase of a threat.  
 [hacker-scripts](https://github.com/restran/hacker-scripts): ⛷ A collection of hacker scripts.  
 [codecat](https://github.com/CoolerVoid/codecat): CodeCat is an open-source tool to help you find/track user input sinks and security bugs using static code analysis. These points follow regex rules. Beta version.  
-[aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs): Hands on labs and code to help you learn, measure, and build using architectural best practices.
+[aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs): Hands on labs and code to help you learn, measure, and build using architectural best practices.  
+[exploit-CVE-2014-6271](https://github.com/opsxcq/exploit-CVE-2014-6271): Shellshock exploit + vulnerable environment
