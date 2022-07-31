@@ -1498,4 +1498,5 @@
 [AWS-Loot](https://github.com/sebastian-mora/AWS-Loot): Pull secrets from an AWS environment   
 [hookso](https://github.com/esrrhs/hookso): linux动态链接库的注入修改查找工具 A tool for injection, modification and search of linux dynamic link library  
 [jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot): Jasypt integration for Spring boot  
-[facebook-exploit-toolkit](https://github.com/jagreetdg/facebook-exploit-toolkit): Toolkit for Penetration Testing Facebook
+[facebook-exploit-toolkit](https://github.com/jagreetdg/facebook-exploit-toolkit): Toolkit for Penetration Testing Facebook  
+[violent_python](https://github.com/AllGloryToTheHypnotoad/violent_python): Example programs from Violent Python book
