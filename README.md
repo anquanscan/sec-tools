@@ -1381,4 +1381,5 @@
 [ArchStrike](https://github.com/ArchStrike/ArchStrike): An Arch Linux repository for security professionals and enthusiasts. Done the Arch Way and optimized for i686, x86_64, ARMv6, ARMv7 and ARMv8.  
 [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector): BinAbsInspector: Vulnerability Scanner for Binaries  
 [plexiglass](https://github.com/enochkan/plexiglass): A PyTorch toolbox for adversarial attack and deepfake detection research.   
-[ForceReset](https://github.com/Fweak/ForceReset): Simple Tool to Temp Disable Discord Accounts | Force them to Reset their password
+[ForceReset](https://github.com/Fweak/ForceReset): Simple Tool to Temp Disable Discord Accounts | Force them to Reset their password  
+[cti-stix-diamond-activity-attack-graph](https://github.com/yukh1402/cti-stix-diamond-activity-attack-graph): STIX 2.1 Visualizer, Attack and Activity Thread Graph for Threat Modeling
