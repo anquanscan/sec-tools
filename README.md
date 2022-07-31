@@ -1520,4 +1520,5 @@
 [scan-cli-plugin](https://github.com/docker/scan-cli-plugin): Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images  
 [collection-document](https://github.com/tom0li/collection-document): Collection of quality safety articles. Awesome articles.    
 [habu](https://github.com/fportantier/habu): Hacking Toolkit  
-[keeweb](https://github.com/keeweb/keeweb): Free cross-platform password manager compatible with KeePass
+[keeweb](https://github.com/keeweb/keeweb): Free cross-platform password manager compatible with KeePass  
+[capsulecorp-pentest](https://github.com/R3dy/capsulecorp-pentest): Vagrant VirtualBox environment for conducting an internal network penetration test
