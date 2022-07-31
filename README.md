@@ -1433,4 +1433,5 @@
 [dirhunt](https://github.com/Nekmo/dirhunt): Find web directories without bruteforce  
 [bluetooth-keyboard-emulator](https://github.com/SySS-Research/bluetooth-keyboard-emulator): Simple proof-of-concept software tool for emulating Bluetooth BR/EDR (a.k.a. Bluetooth Classic) keyboards  
 [ByePg](https://github.com/can1357/ByePg): Defeating Patchguard universally for Windows 8, Windows 8.1 and all versions of Windows 10 regardless of HVCI  
-[ATSCAN](https://github.com/AlisamTechnology/ATSCAN): Advanced dork Search & Mass Exploit Scanner
+[ATSCAN](https://github.com/AlisamTechnology/ATSCAN): Advanced dork Search & Mass Exploit Scanner  
+[ctfr](https://github.com/UnaPibaGeek/ctfr): Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
