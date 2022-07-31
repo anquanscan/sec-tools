@@ -1511,4 +1511,5 @@
 [phpsecurityscanner](https://github.com/lpkapil/phpsecurityscanner): A PHP Class to recursively scan vulnerable php functions inside a directory  
 [OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS): OSINT   
 [POC-exploits](https://github.com/merrychap/POC-exploits):  :unlock: Vulnerability Research and Proof of Concept exploits for various targets found by me  
-[Secure-Pref-Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager): Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
+[Secure-Pref-Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager): Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.  
+[brutto](https://github.com/jofpin/brutto): Easy brute forcing to whatever you want - Jose Pino
