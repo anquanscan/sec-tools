@@ -1589,4 +1589,5 @@
 [SirepRAT](https://github.com/SafeBreach-Labs/SirepRAT): Remote Command Execution as SYSTEM on Windows IoT Core (releases available for Python2.7 & Python3)  
 [simple-haveibeenpwned](https://github.com/kisscool-fr/simple-haveibeenpwned): A very simple class to check your password safety against 'Have I Been Pwned' API.  
 [urldedupe](https://github.com/ameenmaali/urldedupe): Pass in a list of URLs with query strings, get back a unique list of URLs and query string combinations  
-[fortify-plugin](https://github.com/jenkinsci/fortify-plugin): Fortify Jenkins plugin
+[fortify-plugin](https://github.com/jenkinsci/fortify-plugin): Fortify Jenkins plugin  
+[sqlinjection-training-app](https://github.com/appsecco/sqlinjection-training-app): A simple PHP application to learn SQL Injection detection and exploitation techniques.
