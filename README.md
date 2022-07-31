@@ -1374,4 +1374,5 @@
 [CVE-repository](https://github.com/Orange-Cyberdefense/CVE-repository):  :beetle: Repository of CVE found by OCD people  
 [fim](https://github.com/Achiefs/fim): FIM is an Open Source Host-based file detection tool that performs file system analysis, file integrity checking and real time alerting.  
 [git-dumper](https://github.com/arthaud/git-dumper): A tool to dump a git repository from a website  
-[privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+[privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆  
+[Explib](https://github.com/b4zinga/Explib): Explib: Collections of poc and exp.
