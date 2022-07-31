@@ -1393,4 +1393,5 @@
 [go-cpe](https://github.com/knqyf263/go-cpe): A Go library for CPE (A Common Platform Enumeration 2.3)  
 [SwissArmyPi](https://github.com/vs4vijay/SwissArmyPi): A set of utility/tools to make Raspberry Pi [Zero W] into Swiss Army Knife  
 [terrascan](https://github.com/tenable/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.  
-[openvas-scanner](https://github.com/greenbone/openvas-scanner): This repository contains the scanner component for Greenbone Community Edition.
+[openvas-scanner](https://github.com/greenbone/openvas-scanner): This repository contains the scanner component for Greenbone Community Edition.  
+[log4j-scanner](https://github.com/cisagov/log4j-scanner): log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. 
