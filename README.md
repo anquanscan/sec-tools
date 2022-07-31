@@ -1546,4 +1546,5 @@
 [Watcher](https://github.com/thalesgroup-cert/Watcher): Watcher - Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.  
 [zong-wifi](https://github.com/abdullah2993/zong-wifi)  
 [IntRec-Pack](https://github.com/NullArray/IntRec-Pack): Intelligence and Reconnaissance Package/Bundle installer.  
-[iBadApple](https://github.com/WilliamHottzz/iBadApple): First ever: Windows, free iCloud & activation lock bypass... that isn't a malware!
+[iBadApple](https://github.com/WilliamHottzz/iBadApple): First ever: Windows, free iCloud & activation lock bypass... that isn't a malware!  
+[gitleaks](https://github.com/zricethezav/gitleaks): Protect and discover secrets using Gitleaks 🔑
