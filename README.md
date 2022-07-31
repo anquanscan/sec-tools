@@ -1415,4 +1415,5 @@
 [cipher4j](https://github.com/cszxyang/cipher4j): Pure Implementations for encryption algorithms including DES, RSA, AES, RC4  
 [hubcommander](https://github.com/Netflix/hubcommander): A Slack bot for GitHub organization management -- and other things too  
 [WarioLand4MultiEditor](https://github.com/shinespeciall/WarioLand4MultiEditor): MultiEditor for Wario Land 4  
-[TokenUniverse](https://github.com/diversenok/TokenUniverse): An advanced tool for working with access tokens and Windows security policy.
+[TokenUniverse](https://github.com/diversenok/TokenUniverse): An advanced tool for working with access tokens and Windows security policy.  
+[DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
