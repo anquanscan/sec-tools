@@ -1421,4 +1421,5 @@
 [graphw00f](https://github.com/dolevf/graphw00f): graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.  
 [Kill-Router-](https://github.com/msfidelis/Kill-Router-): Ferramenta para quebrar senhas administrativas de roteadores Wireless, routers, switches e outras plataformas de gestão de serviços de rede autenticados.   
 [cisofy-security-policy](https://github.com/CISOfy/cisofy-security-policy): This is the public security policy of CISOfy, with extra resources like security tools.  
-[tenable-securitycenter](https://github.com/AlainODea-haskell/tenable-securitycenter): Tenable SecurityCenter REST API client
+[tenable-securitycenter](https://github.com/AlainODea-haskell/tenable-securitycenter): Tenable SecurityCenter REST API client  
+[dnsFookup](https://github.com/makuga01/dnsFookup): DNS rebinding toolkit
