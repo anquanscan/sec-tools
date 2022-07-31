@@ -1404,4 +1404,5 @@
 [free-security-resources](https://github.com/ad775/free-security-resources): 安全总是无处不在...  
 [sodium_compat](https://github.com/paragonie/sodium_compat): Pure PHP polyfill for ext/sodium  
 [Snort_Log_Server](https://github.com/mruv/Snort_Log_Server): A tool for simplifying network administration. Gets log messages from Snort IDS, processes them, classifies them as either THREAT / NOT_THREAT then creates a pop up window incase of a threat.  
-[hacker-scripts](https://github.com/restran/hacker-scripts): ⛷ A collection of hacker scripts.
+[hacker-scripts](https://github.com/restran/hacker-scripts): ⛷ A collection of hacker scripts.  
+[codecat](https://github.com/CoolerVoid/codecat): CodeCat is an open-source tool to help you find/track user input sinks and security bugs using static code analysis. These points follow regex rules. Beta version.
