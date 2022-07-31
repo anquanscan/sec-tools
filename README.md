@@ -1331,4 +1331,5 @@
 [RainbowAttack](https://github.com/alahyaoui/RainbowAttack):  C++ application that cracks password using a Rainbow Table  
 [RedTeam_toolkit](https://github.com/signorrayan/RedTeam_toolkit): Red Team Toolkit is an Open-Source Django Offensive Web-App which is keeping the useful offensive tools used in the red-teaming together.  
 [dronesploit](https://github.com/dhondta/dronesploit): Drone pentesting framework console  
-[OpenEMR-RCE](https://github.com/noraj/OpenEMR-RCE): OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution
+[OpenEMR-RCE](https://github.com/noraj/OpenEMR-RCE): OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution  
+[manifest](https://github.com/wookey-project/manifest): The WooKey project manifest repository, use repo init -u https://github.com/wookey-project/manifest.git
