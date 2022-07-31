@@ -1451,4 +1451,5 @@
 [search-for-vulnerabilities](https://github.com/AdrielFreud/search-for-vulnerabilities)  
 [CVE-2019-0604](https://github.com/k8gege/CVE-2019-0604): cve-2019-0604 SharePoint RCE exploit  
 [Go-MISPFeedGenerator](https://github.com/KaanSK/Go-MISPFeedGenerator): Golang implementation of PyMISP-feedgenerator  
-[pyvfeed](https://github.com/vfeedio/pyvfeed):  Python API for vFeed Vulnerability & Threat Intelligence Database Enterprise & Pro Editions
+[pyvfeed](https://github.com/vfeedio/pyvfeed):  Python API for vFeed Vulnerability & Threat Intelligence Database Enterprise & Pro Editions  
+[Software-Security](https://github.com/ramizebian/Software-Security): A Github repository I created while studying the Software Security course on Coursera. I made the repository public to discuss solutions with like-minded developers.
