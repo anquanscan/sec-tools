@@ -1430,4 +1430,5 @@
 [python_sec](https://github.com/bit4woo/python_sec): python安全和代码审计相关资料收集 resource collection of python security and code review  
 [gagako](https://github.com/seaung/gagako): 一款Golang开发的安全工具  
 [eos-bp-nodes-security-checklist](https://github.com/slowmist/eos-bp-nodes-security-checklist): EOS bp nodes security checklist（EOS超级节点安全执行指南）  
-[dirhunt](https://github.com/Nekmo/dirhunt): Find web directories without bruteforce
+[dirhunt](https://github.com/Nekmo/dirhunt): Find web directories without bruteforce  
+[bluetooth-keyboard-emulator](https://github.com/SySS-Research/bluetooth-keyboard-emulator): Simple proof-of-concept software tool for emulating Bluetooth BR/EDR (a.k.a. Bluetooth Classic) keyboards
