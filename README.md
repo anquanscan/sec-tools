@@ -1362,4 +1362,5 @@
 [IoTVulnerabilityScanner](https://github.com/yashpungaliya/IoTVulnerabilityScanner): An interactive IoT vulnerability scanner.  
 [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery): Malware Gallery. Yet another malware collection in the Internet.  
 [mimiRust](https://github.com/ThottySploity/mimiRust): MimiRust - Hacking the Windows operating system to hand us the keys to the kingdom with Rust.  
-[nodejsscan](https://github.com/ajinabraham/nodejsscan): nodejsscan is a static security code scanner for Node.js applications.
+[nodejsscan](https://github.com/ajinabraham/nodejsscan): nodejsscan is a static security code scanner for Node.js applications.  
+[MS17-010](https://github.com/a6avind/MS17-010): MS17-010
