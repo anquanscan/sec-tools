@@ -1366,4 +1366,5 @@
 [MS17-010](https://github.com/a6avind/MS17-010): MS17-010  
 [Chaya](https://github.com/xerohackcom/Chaya): Advance Image Steganography  
 [php-casbin](https://github.com/php-casbin/php-casbin): An authorization library that supports access control models like ACL, RBAC, ABAC in PHP .  
-[pwn2exploit](https://github.com/jmpews/pwn2exploit): all mine papers, pwn & exploit
+[pwn2exploit](https://github.com/jmpews/pwn2exploit): all mine papers, pwn & exploit  
+[webstor](https://github.com/RossGeerlings/webstor): A script to quickly enumerate all websites across all of your organization's networks, store their responses, and query for known web technologies, such as those with zero-day vulnerabilities.
