@@ -1334,4 +1334,5 @@
 [OpenEMR-RCE](https://github.com/noraj/OpenEMR-RCE): OpenEMR <= 5.0.1 - (Authenticated) Remote Code Execution  
 [manifest](https://github.com/wookey-project/manifest): The WooKey project manifest repository, use repo init -u https://github.com/wookey-project/manifest.git  
 [Vaile](https://github.com/VainlyStrain/Vaile): Metasploit-like pentest framework derived from TIDoS (https://github.com/0xInfection/TIDoS-Framework)  
-[ThreatMapper](https://github.com/deepfence/ThreatMapper): 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥  
+[ThreatMapper](https://github.com/deepfence/ThreatMapper): 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥    
+[eth_keyfun](https://github.com/Sector443/eth_keyfun): A small tool to bruteforce weak ethereum private keys and more
