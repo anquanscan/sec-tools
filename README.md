@@ -1471,4 +1471,5 @@
 [Knowledge-Base](https://github.com/slowmist/Knowledge-Base): Knowledge Base 慢雾安全团队知识库  
 [RomBuster](https://github.com/EntySec/RomBuster): RomBuster is a router exploitation tool that allows to disclosure network router admin password.  
 [databreach](https://github.com/vlooten/databreach): Description of Data Breaches Notifications in France and Lessons Learned for the Healthcare Stakeholders. Simon M. Looten V. Stud Health Technol Inform. 2020 Nov 23;275:192-196. doi: 10.3233/SHTI200721. https://pubmed.ncbi.nlm.nih.gov/33227767/  
-[AutoBlue-MS17-010](https://github.com/3ndG4me/AutoBlue-MS17-010): This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010
+[AutoBlue-MS17-010](https://github.com/3ndG4me/AutoBlue-MS17-010): This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010  
+[wP-BrutE](https://github.com/zerobyte-id-bak/wP-BrutE)
