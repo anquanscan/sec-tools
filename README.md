@@ -1351,4 +1351,5 @@
 [ggshield-action](https://github.com/GitGuardian/ggshield-action): GitGuardian Shield GitHub Action - Find exposed credentials in your commits  
 [the-hacking-trove](https://github.com/noraj/the-hacking-trove): The hacker technical cheat sheet  
 [nim-firejail](https://github.com/juancarlospaco/nim-firejail): Firejail wrapper for Nim, Isolate your Production App before its too late!  
-[security_review](https://github.com/banviktor/security_review): Drupal 8 port of the Security Review module for GSoC 2015
+[security_review](https://github.com/banviktor/security_review): Drupal 8 port of the Security Review module for GSoC 2015  
+[certera](https://github.com/certera-io/certera): A central validation server for Let's Encrypt certificates
