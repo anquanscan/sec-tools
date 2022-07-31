@@ -1515,4 +1515,5 @@
 [brutto](https://github.com/jofpin/brutto): Easy brute forcing to whatever you want - Jose Pino  
 [DARK-FB_v1.6](https://github.com/Samuelpasaribu/DARK-FB_v1.6): script hack fb  
 [advisory-db](https://github.com/rustsec/advisory-db): Security advisory database for Rust crates published through crates.io  
-[UserFinder](https://github.com/mishakorzik/UserFinder): OSINT tool for finding profiles by username
+[UserFinder](https://github.com/mishakorzik/UserFinder): OSINT tool for finding profiles by username  
+[Exploits-in-c](https://github.com/online6731/Exploits-in-c): Exploits in c
