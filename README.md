@@ -1562,4 +1562,5 @@
 [PWF](https://github.com/bluecapesecurity/PWF): Practical Windows Forensics Training  
 [HERCULES](https://github.com/EgeBalci/HERCULES): HERCULES is a special payload generator that can bypass antivirus softwares.   
 [How-2-Get-Bootcamp-Content](https://github.com/JaniceW777/How-2-Get-Bootcamp-Content): Samples of how I write how-to's  
-[teensy3.2-projects](https://github.com/teensy-hacking/teensy3.2-projects): Teensy 3.2 Projects - Teensy with CMD Command Execution Attack Example 💣
+[teensy3.2-projects](https://github.com/teensy-hacking/teensy3.2-projects): Teensy 3.2 Projects - Teensy with CMD Command Execution Attack Example 💣  
+[Blog-Pessoal](https://github.com/leosouzv/Blog-Pessoal): Projeto blog pessoal para praticar CRUD, realizado durando o bootcamp da Generation Brasil 
