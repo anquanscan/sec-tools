@@ -1781,4 +1781,5 @@
 [terraform-aws-secure-vpc](https://github.com/nozaq/terraform-aws-secure-vpc): A terraform module to create a VPC with secure default configurations.  
 [dependency-check-plugin](https://github.com/jenkinsci/dependency-check-plugin): Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs).  
 [PickleRick](https://github.com/CCrashZer0/PickleRick): A write up guide for the Pickle Rick room from Try Hack Me.  
-[Atividades_Spring-Generation](https://github.com/LucasLM1/Atividades_Spring-Generation): Aulas de Java Avançado e inicio da Programação com Spring dentro do bootcamp Generation Brasil
+[Atividades_Spring-Generation](https://github.com/LucasLM1/Atividades_Spring-Generation): Aulas de Java Avançado e inicio da Programação com Spring dentro do bootcamp Generation Brasil  
+[hack-help](https://github.com/SilentFrogNet/hack-help): A support web page for my eJPT / eCPPT Certification Process
