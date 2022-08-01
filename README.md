@@ -1860,4 +1860,5 @@
 [cybersecurity-blue-team](https://github.com/paulveillard/cybersecurity-blue-team): A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Blue Team in Cybersecurity.  
 [C-Browser-Password-Cracker](https://github.com/akalankauk/C-Browser-Password-Cracker): C++ Firefox & Google Chrome Cracker Source Code  
 [Crumble](https://github.com/sudo-su-FDEL/Crumble): Menu driven wordlist generator in C++  
-[vulnerability-tool](https://github.com/drosser92/vulnerability-tool): Vulnerability-tool chains middleware (inspired by Alice) tools to analyse Github repositories for vulnerabilities (secrets, keys, etc)
+[vulnerability-tool](https://github.com/drosser92/vulnerability-tool): Vulnerability-tool chains middleware (inspired by Alice) tools to analyse Github repositories for vulnerabilities (secrets, keys, etc)  
+[offensive-azure](https://github.com/blacklanternsecurity/offensive-azure): Collection of offensive tools targeting Microsoft Azure
