@@ -1779,4 +1779,5 @@
 [uPyPortal](https://github.com/lemariva/uPyPortal): A captive portal for MicroPython using ESP32 (WeMos)  
 [itsdangerous](https://github.com/pallets/itsdangerous): Safely pass trusted data to untrusted environments and back.  
 [terraform-aws-secure-vpc](https://github.com/nozaq/terraform-aws-secure-vpc): A terraform module to create a VPC with secure default configurations.  
-[dependency-check-plugin](https://github.com/jenkinsci/dependency-check-plugin): Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs).
+[dependency-check-plugin](https://github.com/jenkinsci/dependency-check-plugin): Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs).  
+[PickleRick](https://github.com/CCrashZer0/PickleRick): A write up guide for the Pickle Rick room from Try Hack Me.
