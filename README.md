@@ -1829,4 +1829,5 @@
 [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn): Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2  
 [CVE-2021-43008-AdminerRead](https://github.com/p0dalirius/CVE-2021-43008-AdminerRead): Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability   
 [klustair-frontend](https://github.com/klustair/klustair-frontend): Frontend to Klustair scanner and Anchore  
-[InstaBrowser](https://github.com/ariashirazi/InstaBrowser): Android Phishing Application.This Project is for Educational purposes only.The Developer of this application is not responsible of any bad usage
+[InstaBrowser](https://github.com/ariashirazi/InstaBrowser): Android Phishing Application.This Project is for Educational purposes only.The Developer of this application is not responsible of any bad usage  
+[gotator](https://github.com/Josue87/gotator): Gotator is a tool to generate DNS wordlists through permutations.
