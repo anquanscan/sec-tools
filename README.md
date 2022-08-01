@@ -1813,4 +1813,5 @@
 [simplex-chat](https://github.com/simplex-chat/simplex-chat): SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!  
 [HiveNightmare](https://github.com/GossiTheDog/HiveNightmare): Exploit allowing you to read registry hives as non-admin on Windows 10 and 11  
 [AIRAVAT](https://github.com/Th30neAnd0nly/AIRAVAT): A multifunctional Android RAT with GUI based Web Panel without port forwarding.  
-[has_tokenable](https://github.com/ZephiroRB/has_tokenable): Identify your active records with random tokens when you don't want your users to see a sequential ID https://rubygems.org/gems/has_tokenable
+[has_tokenable](https://github.com/ZephiroRB/has_tokenable): Identify your active records with random tokens when you don't want your users to see a sequential ID https://rubygems.org/gems/has_tokenable  
+[Discord-email-spammer-exploit](https://github.com/Rdimo/Discord-email-spammer-exploit): A discord email spammer exploit that works by unferifying a tokens email and then requesting discord verify it again multiple times which leads to discord spamming that email with email verification messages
