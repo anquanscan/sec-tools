@@ -1737,4 +1737,5 @@
 [PhishMailer](https://github.com/BiZken/PhishMailer): Generate Professional Phishing Emails Fast And Easy  
 [Tech-Scrolls](https://github.com/FFFF-0000h/Tech-Scrolls): Concepts. Books. People. Definitions. Tech.   
 [iot-security-vulnerability](https://github.com/davikawasaki/iot-security-vulnerability): Raspberry PI Vulnerability Study using Flask, PWA VueJS 2, Requests, Vue-Socket.io and Flask SocketIO  
-[weekly-dmarc-grabber](https://github.com/hrbrmstr/weekly-dmarc-grabber): Weekly DMARC Grabs of the Rapid7 1500
+[weekly-dmarc-grabber](https://github.com/hrbrmstr/weekly-dmarc-grabber): Weekly DMARC Grabs of the Rapid7 1500  
+[zeek-plugin-enip](https://github.com/amzn/zeek-plugin-enip): Zeek network security monitor plugin that enables parsing of the Ethernet/IP and Common Industrial Protocol standards
