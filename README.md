@@ -1632,4 +1632,5 @@
 [DarkDork](https://github.com/TheSadError/DarkDork): Fast dorking with DarkDork. Written with python. Please run it with python3 versions. You can find vulnerability url s.  
 [sandfly-setup](https://github.com/sandflysecurity/sandfly-setup): Sandfly Security Agentless Compromise and Intrusion Detection System For Linux  
 [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening): A collection of awesome security hardening guides, tools and other resources  
-[BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence): ✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.
+[BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence): ✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.  
+[reverseshell-powercat-v2](https://github.com/rexpository/reverseshell-powercat-v2): Bypass antivirus and gain a reverse shell on Windows with Powercat v2
