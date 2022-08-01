@@ -1898,4 +1898,5 @@
 [Exploit-Discord-Cache-System-PoC](https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC): 🗄️ Exploit Discord's cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims)  
 [RustScan](https://github.com/RustScan/RustScan): 🤖 The Modern Port Scanner 🤖  
 [crowdsec](https://github.com/crowdsecurity/crowdsec): CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.  
-[b11](https://github.com/BotolMehedi/b11): 11 DIGIT FACEBOOK ACCOUNTS PASSWORD CRACKER <br> FOR BANGLADESHI TERMUX USERS
+[b11](https://github.com/BotolMehedi/b11): 11 DIGIT FACEBOOK ACCOUNTS PASSWORD CRACKER <br> FOR BANGLADESHI TERMUX USERS  
+[UEFI_boot_script_expl](https://github.com/Cr4sh/UEFI_boot_script_expl): CHIPSEC module that exploits UEFI boot script table vulnerability
