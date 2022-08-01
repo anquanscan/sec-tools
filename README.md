@@ -1749,4 +1749,5 @@
 [AutoSploit](https://github.com/NullArray/AutoSploit): Automated Mass Exploiter  
 [oro-bypass](https://github.com/neetjn/oro-bypass): RumbleFighter GameGuard bypass written with C++ 11 using win32  
 [OverwatchINT](https://github.com/jagdishpatil2111/OverwatchINT): OverWatchINT is an Open Source Intelligence and All-in-One Hacking Tool. It's purpose is to reduce the time and efforts of security researchers and cyber experts.   
-[0day-security-software-vulnerability-analysis-technology](https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology): 0day安全_软件漏洞分析技术
+[0day-security-software-vulnerability-analysis-technology](https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology): 0day安全_软件漏洞分析技术  
+[pickleassem](https://github.com/gousaiyang/pickleassem): A simple pickle assembler to make handcrafting pickle bytecode easier.
