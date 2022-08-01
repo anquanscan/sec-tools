@@ -1930,4 +1930,5 @@
 [pwnphone](https://github.com/thehackingsage/pwnphone): DREAM DEVICE FOR HACKERS  
 [JbossExploit](https://github.com/k8gege/JbossExploit): MSF moudle jboss invoke deploy getshell Exploit  & Jboss jmx-console getshell exploit  
 [loopback4-vault](https://github.com/sourcefuse/loopback4-vault): A loopback-next extension for HashiCorp's Vault integration in loopback-next applications  
-[Apache-HTTP-Server-Module-Backdoor](https://github.com/WangYihang/Apache-HTTP-Server-Module-Backdoor): :japanese_goblin: A Backdoor For Apache HTTP Server Written in C 
+[Apache-HTTP-Server-Module-Backdoor](https://github.com/WangYihang/Apache-HTTP-Server-Module-Backdoor): :japanese_goblin: A Backdoor For Apache HTTP Server Written in C   
+[sqlscan](https://github.com/Cvar1984/sqlscan): Quick SQL Scanner, Dorker, Webshell injector PHP
