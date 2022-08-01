@@ -1671,4 +1671,5 @@
 [chronicle](https://github.com/paragonie/chronicle): Public append-only ledger microservice built with Slim Framework  
 [Follina_Exploiter_CLI](https://github.com/Hrishikesh7665/Follina_Exploiter_CLI): Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190)  
 [kickthemout](https://github.com/k4m4/kickthemout): 💤 Kick devices off your network by performing an ARP Spoof attack.  
-[Ktos.AspNetCore.Authentication.ApiKeyHeader](https://github.com/ktos/Ktos.AspNetCore.Authentication.ApiKeyHeader): Authentication using X-APIKEY HTTP header for ASP.NET Core
+[Ktos.AspNetCore.Authentication.ApiKeyHeader](https://github.com/ktos/Ktos.AspNetCore.Authentication.ApiKeyHeader): Authentication using X-APIKEY HTTP header for ASP.NET Core  
+[Hide-FS](https://github.com/proxytype/Hide-FS): Inject dll to explorer.exe and hide file from process.
