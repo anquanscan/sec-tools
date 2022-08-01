@@ -1794,4 +1794,5 @@
 [EOS-Proxy-Token](https://github.com/EOSEssentials/EOS-Proxy-Token): Proxy token to allow mitigating EOSIO Ram exploit  
 [google-dorks](https://github.com/Proviesec/google-dorks): Useful Google Dorks for WebSecurity and Bug Bounty  
 [NIVOS](https://github.com/TheSadError/NIVOS): NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]  
-[GoodHound](https://github.com/idnahacks/GoodHound): Uses Sharphound, Bloodhound and Neo4j to produce an actionable list of attack paths for targeted remediation.
+[GoodHound](https://github.com/idnahacks/GoodHound): Uses Sharphound, Bloodhound and Neo4j to produce an actionable list of attack paths for targeted remediation.  
+[SplunkPWNScripts](https://github.com/0x0FB0/SplunkPWNScripts): Scripts aiding penetration testing of Splunk Enterprise systems
