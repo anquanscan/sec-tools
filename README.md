@@ -1766,4 +1766,5 @@
 [free_materials](https://github.com/StefanAustin/free_materials): Small collection about free cybersecurity materials  
 [wraith](https://github.com/wraith-labs/wraith): [WIP] A free and open-source, modular Remote Administration Tool (RAT) / Payload Dropper written in Go(lang) with a flexible command and control (C2) system.  
 [WAMpage](https://github.com/DavidBuchanan314/WAMpage): WAMpage - A WebOS root LPE exploit chain (CVE-2022-23731)  
-[opencve](https://github.com/opencve/opencve): CVE Alerting Platform
+[opencve](https://github.com/opencve/opencve): CVE Alerting Platform  
+[embark](https://github.com/e-m-b-a/embark): EMBArk - The firmware security scanning environment
