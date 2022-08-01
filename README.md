@@ -1761,4 +1761,5 @@
 [slack-watchman](https://github.com/PaperMtn/slack-watchman): Monitoring your Slack workspaces for sensitive information  
 [FlowerPassword](https://github.com/kenmick/FlowerPassword): 🌸花密，不一样的密码管理器  
 [forta-attack-simulation](https://github.com/kovart/forta-attack-simulation): 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function  
-[rootend](https://github.com/twelvesec/rootend): A *nix Enumerator & Auto Privilege Escalation tool.
+[rootend](https://github.com/twelvesec/rootend): A *nix Enumerator & Auto Privilege Escalation tool.  
+[h1-702-2018-ctf-wu](https://github.com/luc10/h1-702-2018-ctf-wu)
