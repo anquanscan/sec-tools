@@ -1870,4 +1870,5 @@
 [spectre-attack](https://github.com/Eugnis/spectre-attack): Example of using revealed "Spectre" exploit (CVE-2017-5753 and CVE-2017-5715)  
 [exfilkit](https://github.com/tasooshi/exfilkit): Data exfiltration utility for testing detection capabilities  
 [u2f-zero](https://github.com/conorpp/u2f-zero): U2F USB token optimized for physical security, affordability, and style  
-[grype-contribs](https://github.com/opt-nc/grype-contribs): A set of resources around Anchore's grype tool
+[grype-contribs](https://github.com/opt-nc/grype-contribs): A set of resources around Anchore's grype tool  
+[CVE-2021-44228-Mass-RCE](https://github.com/razz0r/CVE-2021-44228-Mass-RCE): CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.
