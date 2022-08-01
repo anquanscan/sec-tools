@@ -1715,4 +1715,5 @@
 [SH4R1NG4N](https://github.com/NicolasMuras/SH4R1NG4N): Plataforma de hacking ético, recolección de información y manejo de bases de datos. Es un proyecto antiguo, mi aprendizaje empezó con MySQL y Python, mi idea fue combinar ambas tecnologías.  
 [Mpchadwick_MwscanUtils2](https://github.com/mpchadwick/Mpchadwick_MwscanUtils2): Run better Magento malware scans  
 [swaggerHole](https://github.com/Liodeus/swaggerHole): A python3 script searching for secret on swaggerhub  
-[sippts](https://github.com/Pepelux/sippts): Set of tools to audit SIP based VoIP Systems
+[sippts](https://github.com/Pepelux/sippts): Set of tools to audit SIP based VoIP Systems  
+[CVE-2021-37740](https://github.com/robertguetzkow/CVE-2021-37740): PoC for DoS vulnerability CVE-2021-37740 in firmware v3.0.3 of SCN-IP100.03 and SCN-IP000.03 by MDT. The bug has been fixed in firmware v3.0.4.
