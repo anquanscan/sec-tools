@@ -1710,4 +1710,5 @@
 [spyse-python](https://github.com/spyse-com/spyse-python): The official wrapper for spyse.com API, written in Python, aimed to help developers build their integrations with Spyse.  
 [Security-Monitoring-Visualisation-System](https://github.com/Mithileysh/Security-Monitoring-Visualisation-System): This visualisation system is used to monitor the state and confirm the system's health running.  
 [ifoughtthelaw](https://github.com/MauroEldritch/ifoughtthelaw): Repository for "I Fought The Law and The Law Lost" talk. Featured on Recon Village @ DEFCON 26, Las Vegas (And many other conferences!)  
-[httprecon-win32](https://github.com/scipag/httprecon-win32): Advanced web server fingerprinting
+[httprecon-win32](https://github.com/scipag/httprecon-win32): Advanced web server fingerprinting  
+[AndroidHacking](https://github.com/wvrld/AndroidHacking): Everything here is only for educational purposes only. Add star if u want, i will be very happy. Thanks :)
