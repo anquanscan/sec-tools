@@ -1866,4 +1866,5 @@
 [agartha](https://github.com/volkandindar/agartha): a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more.  
 [ocaps](https://github.com/tersesystems/ocaps): Object capability (ocap) tools and macros for Scala.  
 [awesome-browser-containers](https://github.com/NewAlexandria/awesome-browser-containers): Curated list of awesome browser extensions that protect your privacy  
-[airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon): This is a multi-use bash script for Linux systems to audit wireless networks.
+[airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon): This is a multi-use bash script for Linux systems to audit wireless networks.  
+[spectre-attack](https://github.com/Eugnis/spectre-attack): Example of using revealed "Spectre" exploit (CVE-2017-5753 and CVE-2017-5715)
