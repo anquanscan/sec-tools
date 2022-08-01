@@ -1622,4 +1622,5 @@
 [Hackbox](https://github.com/strellic/Hackbox): Hackbox is an open-source, container-based platform that makes it easy to launch vulnerable systems to test your hacking skill!  
 [charts](https://github.com/CheckPointSW/charts): Deploy Kubernetes Helm Charts for Check Point CloudGuard  
 [PrestaShop-CVE-2018-19126](https://github.com/farisv/PrestaShop-CVE-2018-19126): PrestaShop (1.6.x <= 1.6.1.23 or 1.7.x <= 1.7.4.4) Back Office Remote Code Execution (CVE-2018-19126)  
-[cyber-crime-records-management-system](https://github.com/shubhambalyan/cyber-crime-records-management-system): The objective of this project is to maintain a record of all the cyber-crime complaints reported by the victims and provide a platform for the cyber-crime bureau/police department to provide necessary solution and help to all of these problems.
+[cyber-crime-records-management-system](https://github.com/shubhambalyan/cyber-crime-records-management-system): The objective of this project is to maintain a record of all the cyber-crime complaints reported by the victims and provide a platform for the cyber-crime bureau/police department to provide necessary solution and help to all of these problems.  
+[tuftools2](https://github.com/unkn0wnh4ckr/tuftools2): a installer that u can install some of my hacking tools and other hacking tools on written in python 2.7.14 (DEAD SCRIPT)
