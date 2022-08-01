@@ -1772,4 +1772,5 @@
 [usb-keystroke-injector](https://github.com/AmirrezaNasiri/usb-keystroke-injector): ☠️ An Arduino-based USB keyboard simulator which injects keystrokes via Bluetooth protocol or predefined payloads in a SD card.  
 [d3fend](https://github.com/d3fend/d3fend): Public static website for the D3FEND project. For the D3FEND ontology repo see: https://github.com/d3fend/d3fend-ontology  
 [critical-ops-0day](https://github.com/culturally/critical-ops-0day): source to ban any account in mobile game critical ops  
-[100-redteam-projects](https://github.com/kurogai/100-redteam-projects): Projects for security students
+[100-redteam-projects](https://github.com/kurogai/100-redteam-projects): Projects for security students  
+[sns](https://github.com/rosescript/sns): Scan'n'Search is a program that runs an Nmap scan and returns vunerabilities.
