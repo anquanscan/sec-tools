@@ -1817,4 +1817,5 @@
 [Discord-email-spammer-exploit](https://github.com/Rdimo/Discord-email-spammer-exploit): A discord email spammer exploit that works by unferifying a tokens email and then requesting discord verify it again multiple times which leads to discord spamming that email with email verification messages  
 [dymerge](https://github.com/k4m4/dymerge): 🔓 A dynamic dictionary merger for successful dictionary based attacks.  
 [ProjectBrightSun](https://github.com/CalvinKrist/ProjectBrightSun): A suite of cybersecurity tools designed to allow for rapid deployment of virtualized environments. Intended for use in education: contains built-in lessons.  
-[TRADFRI-Hacking](https://github.com/basilfx/TRADFRI-Hacking): Hacking IKEA TRÅDFRI products, such as light bulbs, window blinds and other accessories.
+[TRADFRI-Hacking](https://github.com/basilfx/TRADFRI-Hacking): Hacking IKEA TRÅDFRI products, such as light bulbs, window blinds and other accessories.  
+[vichiti](https://github.com/umair9747/vichiti): An OSINT focused tool made with Nodejs!
