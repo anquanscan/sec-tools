@@ -1808,4 +1808,5 @@
 [ColdFusionX.github.io](https://github.com/ColdFusionX/ColdFusionX.github.io)  
 [hades](https://github.com/devtoolboxuk/hades): Firewall System for A.E.G.I.S.  
 [RBust](https://github.com/iinc0gnit0/RBust): [ Blazing Fast Web Fuzzer in Rust ]  
-[ransomwvre](https://github.com/AOrps/ransomwvre): Ransomware in v
+[ransomwvre](https://github.com/AOrps/ransomwvre): Ransomware in v  
+[Hack4Squad](https://github.com/elfalehed/Hack4Squad): :skull: A bash hacking and scanning framework.
