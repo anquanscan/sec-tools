@@ -1875,4 +1875,5 @@
 [themis](https://github.com/cossacklabs/themis): Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.  
 [wesng](https://github.com/bitsadmin/wesng): Windows Exploit Suggester - Next Generation  
 [audit_scripts](https://github.com/vanhauser-thc/audit_scripts): Scripts to gather system configuration information for offline/remote auditing  
-[plaguesec-os](https://github.com/plaguesec/plaguesec-os): Plague Security Customed Operating System for Penetration Testers Based on Kali Linux
+[plaguesec-os](https://github.com/plaguesec/plaguesec-os): Plague Security Customed Operating System for Penetration Testers Based on Kali Linux  
+[Commodity-Injection-Signatures](https://github.com/xsscx/Commodity-Injection-Signatures): Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT
