@@ -1891,4 +1891,5 @@
 [tpotce](https://github.com/telekom-security/tpotce): 🍯 T-Pot - The All In One Honeypot Platform 🐝  
 [Brutus](https://github.com/Bialomazur/Brutus): Botnet targeting Windows machines written entirely in Python & open source security project.  
 [aws-securitygroup-grapher](https://github.com/jeanlouisferey/aws-securitygroup-grapher): This ansible role gets information from an AWS VPC and generate a graphical representation of security groups  
-[Scumblr](https://github.com/Netflix-Skunkworks/Scumblr): Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
+[Scumblr](https://github.com/Netflix-Skunkworks/Scumblr): Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results  
+[evil-ssdp](https://github.com/initstring/evil-ssdp): Spoof SSDP replies and create fake UPnP devices to phish for credentials and NetNTLM challenge/response.
