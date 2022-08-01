@@ -1776,4 +1776,5 @@
 [sns](https://github.com/rosescript/sns): Scan'n'Search is a program that runs an Nmap scan and returns vunerabilities.  
 [rawsec_cli](https://github.com/tyki6/rawsec_cli): Rawsec's Cybersecurity Inventory cli. Search pentesting tools, resources, ctf, os.  
 [pentesting-multitool](https://github.com/ffmancera/pentesting-multitool): Different utility scripts for pentesting and hacking.  
-[uPyPortal](https://github.com/lemariva/uPyPortal): A captive portal for MicroPython using ESP32 (WeMos)
+[uPyPortal](https://github.com/lemariva/uPyPortal): A captive portal for MicroPython using ESP32 (WeMos)  
+[itsdangerous](https://github.com/pallets/itsdangerous): Safely pass trusted data to untrusted environments and back.
