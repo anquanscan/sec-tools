@@ -1741,4 +1741,5 @@
 [zeek-plugin-enip](https://github.com/amzn/zeek-plugin-enip): Zeek network security monitor plugin that enables parsing of the Ethernet/IP and Common Industrial Protocol standards  
 [fotogo-bakcend](https://github.com/Roky360/fotogo-bakcend): Fotogo's backend server.  
 [wireguard-docs](https://github.com/pirate/wireguard-docs): 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.  
-[DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2): A Deep Graph-based Toolbox for Fraud Detection in TensorFlow 2.X
+[DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2): A Deep Graph-based Toolbox for Fraud Detection in TensorFlow 2.X  
+[waf](https://github.com/chengdedeng/waf): :vertical_traffic_light:Web Application Firewall or API Gateway(应用防火墙/API网关)
