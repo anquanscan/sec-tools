@@ -1837,4 +1837,5 @@
 [HCPaper](https://github.com/Hacker-Combat-Organization/HCPaper): The published paper proposing Hacker Combat.   
 [isoalloc](https://github.com/struct/isoalloc): A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance  
 [asqlmap](https://github.com/Gualty/asqlmap): Automated sqlmap  
-[Bootmiester](https://github.com/Yashvendra/Bootmiester): Advanced deauthentication script.
+[Bootmiester](https://github.com/Yashvendra/Bootmiester): Advanced deauthentication script.  
+[bakerman](https://github.com/Cumachelas/bakerman): Doughskript interpreter for converting simple command sequences into executable Arduino C++ code.
