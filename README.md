@@ -1699,4 +1699,5 @@
 [security_content](https://github.com/splunk/security_content): Splunk Security Content  
 [domato](https://github.com/googleprojectzero/domato): DOM fuzzer  
 [dockerized-security-tools](https://github.com/raesene/dockerized-security-tools): Dockerfiles for security tools  
-[FalconGate](https://github.com/A3sal0n/FalconGate): A smart gateway to stop cyber criminals - Sponsored by Falcon Guard
+[FalconGate](https://github.com/A3sal0n/FalconGate): A smart gateway to stop cyber criminals - Sponsored by Falcon Guard  
+[zip-slip-vulnerability](https://github.com/snyk/zip-slip-vulnerability): Zip Slip Vulnerability (Arbitrary file write through archive extraction)
