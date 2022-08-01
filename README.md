@@ -1730,4 +1730,5 @@
 [thc-tesla-powerwall2-hack](https://github.com/hackerschoice/thc-tesla-powerwall2-hack): TESLA PowerWall 2 Security Shenanigans   
 [ThreadBoat](https://github.com/MandConsultingGroup/ThreadBoat): Program Uses Thread Execution Hijacking To Inject Native Shell-code Into a Standard Win32 Application  
 [visualize_logs](https://github.com/keithjjones/visualize_logs): A Python library and command line tools to provide interactive log visualization.   
-[rescope](https://github.com/root4loot/rescope): A scope-generator-tool for Burp Suite and ZAP
+[rescope](https://github.com/root4loot/rescope): A scope-generator-tool for Burp Suite and ZAP  
+[google-ctf](https://github.com/google/google-ctf): Google CTF
