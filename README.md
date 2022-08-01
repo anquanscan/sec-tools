@@ -1617,4 +1617,5 @@
 [Bachelorarbeit_SichereWebsite](https://github.com/Zenty96/Bachelorarbeit_SichereWebsite)  
 [secDevLabs](https://github.com/globocom/secDevLabs): A laboratory for learning secure web and mobile development in a practical manner.  
 [gohack](https://github.com/jamesmoriarty/gohack): Experimental Go language CSGO exploit.  
-[Computer-forensics](https://github.com/HSNHK/Computer-forensics): The best tools and resources for forensic analysis.
+[Computer-forensics](https://github.com/HSNHK/Computer-forensics): The best tools and resources for forensic analysis.  
+[Quantum-Phase-Estimation](https://github.com/AgentANAKIN/Quantum-Phase-Estimation): Quantum Phase Estimation is a key component of Shor's Factoring Algorithm.
