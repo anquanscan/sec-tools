@@ -1802,4 +1802,5 @@
 [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r): Know the dangers of credential reuse attacks.  
 [scriptsafe](https://github.com/andryou/scriptsafe): a browser extension to bring security and privacy to chrome, firefox, and opera  
 [C-Experiments](https://github.com/mcdulltii/C-Experiments): Experiments on C/C++ Exploits  
-[sozu](https://github.com/sozu-proxy/sozu): Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
+[sozu](https://github.com/sozu-proxy/sozu): Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more  
+[DFF](https://github.com/Ivan-Markovic/DFF): One of  Best Path traversal and PRL attack tools  by TS/SCI Security (year 2008). Also tool is included on BackTrack 4 and OWASP Phoenix/Tools Project.
