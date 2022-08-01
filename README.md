@@ -1656,4 +1656,5 @@
 [blueborne-scanner](https://github.com/hook-s3c/blueborne-scanner): Bluetooth scanner for local devices that may be vulnerable to Blueborne exploit  
 [openvas-sandbox](https://github.com/githubfoam/openvas-sandbox): openvas  network security monitoring NIDS HIDS  
 [cyber-defence-presentation](https://github.com/Lissy93/cyber-defence-presentation): 🖥️ A reveal.js website for presenting the cyber security basics to humans   
-[Bruteforcefb](https://github.com/NeloF4/Bruteforcefb): Tools Brute Force Facebook v.0.1 
+[Bruteforcefb](https://github.com/NeloF4/Bruteforcefb): Tools Brute Force Facebook v.0.1   
+[Python-Rootkit](https://github.com/0xIslamTaha/Python-Rootkit): Python Remote Administration Tool (RAT) to gain meterpreter session
