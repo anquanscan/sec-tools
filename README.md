@@ -1872,4 +1872,5 @@
 [u2f-zero](https://github.com/conorpp/u2f-zero): U2F USB token optimized for physical security, affordability, and style  
 [grype-contribs](https://github.com/opt-nc/grype-contribs): A set of resources around Anchore's grype tool  
 [CVE-2021-44228-Mass-RCE](https://github.com/razz0r/CVE-2021-44228-Mass-RCE): CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  
-[themis](https://github.com/cossacklabs/themis): Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
+[themis](https://github.com/cossacklabs/themis): Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.  
+[wesng](https://github.com/bitsadmin/wesng): Windows Exploit Suggester - Next Generation
