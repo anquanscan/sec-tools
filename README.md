@@ -1722,4 +1722,5 @@
 [tensorflow-insiderthreat](https://github.com/dc401/tensorflow-insiderthreat): Experimental ONLY: This consolidated data of scenario-2 of the US-CERT dataset for insider threats to be used with TF 2.0 and Keras  
 [AIOCLF](https://github.com/slowy07/AIOCLF): just bored app for create all in one tools for hacker :p  
 [GitMonitor](https://github.com/Talkaboutcybersecurity/GitMonitor): One way to continuously monitor sensitive information that could be exposed on Github  
-[expdev](https://github.com/simonuvarov/expdev): Vulnerable software and exploits used for OSCP/OSCE preparation
+[expdev](https://github.com/simonuvarov/expdev): Vulnerable software and exploits used for OSCP/OSCE preparation  
+[O-MEGA_VIRUSES](https://github.com/ABC123USA/O-MEGA_VIRUSES): SAMPLE O-MEGA VIRUS FOR RESEARCH PURPOSES ONLY. PLEASE DELETE AFTER USAGE UNLESS A LICENSE IS PURCHASED.
