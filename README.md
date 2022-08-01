@@ -1922,4 +1922,5 @@
 [ktmm](https://github.com/ao/ktmm): Keep That Mouse Moving!  
 [exynos8890-bootrom-dump](https://github.com/frederic/exynos8890-bootrom-dump): dump Exynos 8890 bootROM from Samsung Galaxy S7  
 [pyhtools](https://github.com/dmdhrumilmistry/pyhtools): A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor.  
-[wgcf](https://github.com/ViRb3/wgcf): 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+[wgcf](https://github.com/ViRb3/wgcf): 🚤 Cross-platform, unofficial CLI for Cloudflare Warp  
+[burpa](https://github.com/tristanlatr/burpa): Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST). 
