@@ -1679,4 +1679,5 @@
 [Sooty](https://github.com/TheresAFewConors/Sooty): The SOC Analysts all-in-one CLI tool to automate and speed up workflow.  
 [pwn.hs](https://github.com/Tosainu/pwn.hs): [WIP] Exploit development library for Haskeller  
 [zap-scripts](https://github.com/sepehrdaddev/zap-scripts): Zed Attack Proxy Scripts for finding CVEs and Secrets.  
-[protostar-iot](https://github.com/Sector443/protostar-iot): Statically compiled binaries of Protostar (exploit-exercises.com) in ARM and MIPS along with original source code
+[protostar-iot](https://github.com/Sector443/protostar-iot): Statically compiled binaries of Protostar (exploit-exercises.com) in ARM and MIPS along with original source code  
+[ksubdomain](https://github.com/knownsec/ksubdomain): 无状态子域名爆破工具
