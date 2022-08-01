@@ -1821,4 +1821,5 @@
 [vichiti](https://github.com/umair9747/vichiti): An OSINT focused tool made with Nodejs!  
 [ban2fail](https://github.com/jrbrtsn/ban2fail): Simple & efficient log file scanning and iptable filtering  
 [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable): finds publicly known security vulnerabilities in a website's frontend JavaScript libraries  
-[Wyrmsun_Macrobot](https://github.com/GameHackingAcademy/Wyrmsun_Macrobot): A hack for Wyrmsun version 5.0.1 that will automatically create worker units out of the currently selected structure when a player's gold is over 3000.
+[Wyrmsun_Macrobot](https://github.com/GameHackingAcademy/Wyrmsun_Macrobot): A hack for Wyrmsun version 5.0.1 that will automatically create worker units out of the currently selected structure when a player's gold is over 3000.  
+[Reverse-Shell-Manager](https://github.com/WangYihang/Reverse-Shell-Manager): :hammer: A multiple reverse shell session/client manager via terminal
