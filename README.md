@@ -1753,4 +1753,5 @@
 [pickleassem](https://github.com/gousaiyang/pickleassem): A simple pickle assembler to make handcrafting pickle bytecode easier.  
 [Cybersecurity-University.of.Maryland](https://github.com/extwiii/Cybersecurity-University.of.Maryland): Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secure Systems - Coursera  
 [Polaris](https://github.com/doimet/Polaris): 渗透测试框架  
-[DetExploit](https://github.com/detexploit/DetExploit): OSS Vulnerability Scanner for Windows Platform
+[DetExploit](https://github.com/detexploit/DetExploit): OSS Vulnerability Scanner for Windows Platform  
+[h-encore](https://github.com/TheOfficialFloW/h-encore): Fully chained kernel exploit for the PS Vita on firmwares 3.65-3.68
