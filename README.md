@@ -1693,4 +1693,5 @@
 [CustomizableAlertController](https://github.com/illescasDaniel/CustomizableAlertController): Hacking the UIAlertController to fully customize it  
 [khefin](https://github.com/mjec/khefin): A simple way to generate password-proteceted secrets from a FIDO2 authenticator with the hmac-secret extension  
 [Unreliable-Web](https://github.com/HaxonicOfficial/Unreliable-Web): Vulnerable Pen-testing Lab for Web+Forensics+Crypto  
-[CEHv10StudyGuidePlusPlus](https://github.com/KevCui/CEHv10StudyGuidePlusPlus): :notebook: CEHv10 Study Guide++
+[CEHv10StudyGuidePlusPlus](https://github.com/KevCui/CEHv10StudyGuidePlusPlus): :notebook: CEHv10 Study Guide++  
+[rogue_ap](https://github.com/jerryryle/rogue_ap): Rogue AP using a Raspberry Pi Zero W
