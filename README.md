@@ -1909,4 +1909,5 @@
 [wifi-passview](https://github.com/warengonzaga/wifi-passview): An open source batch script based WiFi Passview for Windows!  
 [CyberSecurity-and-Pentesting-Resources](https://github.com/cybergeekgyan/CyberSecurity-and-Pentesting-Resources): Top 5 ethical hacking books to get started? Top 5 practical hacking books? Top 5 cybersecurity books to get started? Did I miss any great books?  
 [aws-enumerator](https://github.com/shabarkin/aws-enumerator): The AWS Enumerator was created for service enumeration and info dumping for investigations of penetration testers during Black-Box testing. The tool is intended to speed up the process of Cloud review in case the security researcher compromised AWS Account Credentials.  
-[wd-rce](https://github.com/bnbdr/wd-rce): WD My Cloud PoC exploit
+[wd-rce](https://github.com/bnbdr/wd-rce): WD My Cloud PoC exploit  
+[MurMurHash](https://github.com/Viralmaniar/MurMurHash): This little tool is to calculate a MurmurHash value of a favicon to hunt phishing websites on the Shodan platform.
