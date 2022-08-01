@@ -1811,4 +1811,5 @@
 [ransomwvre](https://github.com/AOrps/ransomwvre): Ransomware in v  
 [Hack4Squad](https://github.com/elfalehed/Hack4Squad): :skull: A bash hacking and scanning framework.  
 [simplex-chat](https://github.com/simplex-chat/simplex-chat): SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!  
-[HiveNightmare](https://github.com/GossiTheDog/HiveNightmare): Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
+[HiveNightmare](https://github.com/GossiTheDog/HiveNightmare): Exploit allowing you to read registry hives as non-admin on Windows 10 and 11  
+[AIRAVAT](https://github.com/Th30neAnd0nly/AIRAVAT): A multifunctional Android RAT with GUI based Web Panel without port forwarding.
