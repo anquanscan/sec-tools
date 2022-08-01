@@ -1807,4 +1807,5 @@
 [RdpCacheStitcher](https://github.com/BSI-Bund/RdpCacheStitcher): RdpCacheStitcher is a tool that supports forensic analysts in reconstructing useful images out of RDP cache bitmaps.  
 [ColdFusionX.github.io](https://github.com/ColdFusionX/ColdFusionX.github.io)  
 [hades](https://github.com/devtoolboxuk/hades): Firewall System for A.E.G.I.S.  
-[RBust](https://github.com/iinc0gnit0/RBust): [ Blazing Fast Web Fuzzer in Rust ]
+[RBust](https://github.com/iinc0gnit0/RBust): [ Blazing Fast Web Fuzzer in Rust ]  
+[ransomwvre](https://github.com/AOrps/ransomwvre): Ransomware in v
