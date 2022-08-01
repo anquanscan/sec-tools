@@ -1720,4 +1720,5 @@
 [CTFGuideReact](https://github.com/ctfguide-tech/CTFGuideReact): The React Client for CTFGuide  
 [cross-account-ecr-access-control](https://github.com/miztiik/cross-account-ecr-access-control): Allow AWS Account B to be able to connect to Account A ECR image repository to push or pull images  
 [tensorflow-insiderthreat](https://github.com/dc401/tensorflow-insiderthreat): Experimental ONLY: This consolidated data of scenario-2 of the US-CERT dataset for insider threats to be used with TF 2.0 and Keras  
-[AIOCLF](https://github.com/slowy07/AIOCLF): just bored app for create all in one tools for hacker :p
+[AIOCLF](https://github.com/slowy07/AIOCLF): just bored app for create all in one tools for hacker :p  
+[GitMonitor](https://github.com/Talkaboutcybersecurity/GitMonitor): One way to continuously monitor sensitive information that could be exposed on Github
