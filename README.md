@@ -1906,4 +1906,5 @@
 [bludit-cms-bypass-brute-force-protection-mechanism](https://github.com/MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism): Permite realizar bypass (eludir) el mecanismo de protección de fuerza bruta de Bludit CMS versión 3.9.2 o inferior, mediante el uso de diferentes encabezados HTTP X-Forwarded-For falsificados.  
 [GraphKer](https://github.com/amberzovitis/GraphKer): Open Source Tool - Cybersecurity Graph Database in Neo4j  
 [dependency-check-sonar-plugin](https://github.com/dependency-check/dependency-check-sonar-plugin): Integrates Dependency-Check reports into SonarQube  
-[wifi-passview](https://github.com/warengonzaga/wifi-passview): An open source batch script based WiFi Passview for Windows!
+[wifi-passview](https://github.com/warengonzaga/wifi-passview): An open source batch script based WiFi Passview for Windows!  
+[CyberSecurity-and-Pentesting-Resources](https://github.com/cybergeekgyan/CyberSecurity-and-Pentesting-Resources): Top 5 ethical hacking books to get started? Top 5 practical hacking books? Top 5 cybersecurity books to get started? Did I miss any great books?
