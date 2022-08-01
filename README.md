@@ -1799,4 +1799,5 @@
 [depthcharge](https://github.com/nccgroup/depthcharge): A U-Boot hacking toolkit for security researchers and tinkerers  
 [wp-mini-exploiter](https://github.com/0xtn/wp-mini-exploiter): Mini Wordress Exploiter using CVE2020  
 [LuaCollection](https://github.com/jareer12/LuaCollection): 🐱‍💻Roblox hack/cheat scripts I made.  
-[Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r): Know the dangers of credential reuse attacks.
+[Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r): Know the dangers of credential reuse attacks.  
+[scriptsafe](https://github.com/andryou/scriptsafe): a browser extension to bring security and privacy to chrome, firefox, and opera
