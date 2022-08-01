@@ -1824,4 +1824,5 @@
 [Wyrmsun_Macrobot](https://github.com/GameHackingAcademy/Wyrmsun_Macrobot): A hack for Wyrmsun version 5.0.1 that will automatically create worker units out of the currently selected structure when a player's gold is over 3000.  
 [Reverse-Shell-Manager](https://github.com/WangYihang/Reverse-Shell-Manager): :hammer: A multiple reverse shell session/client manager via terminal  
 [Security-Scanner](https://github.com/shantanusoni72/Security-Scanner): It is a scanner used for security related tasks during penetration testing.   
-[pdfparser](https://github.com/KarmaPenny/pdfparser): PDF Parser is a command line tool and go library for analyzing PDF files.
+[pdfparser](https://github.com/KarmaPenny/pdfparser): PDF Parser is a command line tool and go library for analyzing PDF files.  
+[Caesar](https://github.com/0blio/Caesar): An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
