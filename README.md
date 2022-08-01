@@ -1725,4 +1725,5 @@
 [expdev](https://github.com/simonuvarov/expdev): Vulnerable software and exploits used for OSCP/OSCE preparation  
 [O-MEGA_VIRUSES](https://github.com/ABC123USA/O-MEGA_VIRUSES): SAMPLE O-MEGA VIRUS FOR RESEARCH PURPOSES ONLY. PLEASE DELETE AFTER USAGE UNLESS A LICENSE IS PURCHASED.  
 [splunk-integration](https://github.com/databrickslabs/splunk-integration): Databricks Add-on for Splunk  
-[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence): A curated list of Awesome Threat Intelligence resources
+[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence): A curated list of Awesome Threat Intelligence resources  
+[jwt-hack](https://github.com/hahwul/jwt-hack): 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
