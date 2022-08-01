@@ -1678,4 +1678,5 @@
 [maskphish](https://github.com/jaykali/maskphish): Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.  
 [Sooty](https://github.com/TheresAFewConors/Sooty): The SOC Analysts all-in-one CLI tool to automate and speed up workflow.  
 [pwn.hs](https://github.com/Tosainu/pwn.hs): [WIP] Exploit development library for Haskeller  
-[zap-scripts](https://github.com/sepehrdaddev/zap-scripts): Zed Attack Proxy Scripts for finding CVEs and Secrets.
+[zap-scripts](https://github.com/sepehrdaddev/zap-scripts): Zed Attack Proxy Scripts for finding CVEs and Secrets.  
+[protostar-iot](https://github.com/Sector443/protostar-iot): Statically compiled binaries of Protostar (exploit-exercises.com) in ARM and MIPS along with original source code
