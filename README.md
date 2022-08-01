@@ -1666,4 +1666,5 @@
 [slate-tools](https://github.com/five23/slate-tools): Shopify's defunct Slate tools occasionally updated w/ some security patches  
 [guardium-analyzer-workshop](https://github.com/IBM/guardium-analyzer-workshop): IBM Security Guardium Analyzer Workshops  
 [Image-Security-by-Triple-DES-Final-Year-Project](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project): B.tech Cryptogaphy Final Year Project on ENCRYPTION & DECRYPTION of IMAGE through Triple DES.  
-[stealthware-backdoor](https://github.com/raunvk/stealthware-backdoor): Persistent & Undetectable Malware Backdoor
+[stealthware-backdoor](https://github.com/raunvk/stealthware-backdoor): Persistent & Undetectable Malware Backdoor  
+[sriracha-iq](https://github.com/tiburon-security/sriracha-iq): Rapid cybersecurity toolkit based on Elastic in Docker. Designed to quickly build elastic-based environments to analyze and execute threat hunting, blue team assessments, audits, and security control assessments. 
