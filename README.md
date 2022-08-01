@@ -1713,4 +1713,5 @@
 [httprecon-win32](https://github.com/scipag/httprecon-win32): Advanced web server fingerprinting  
 [AndroidHacking](https://github.com/wvrld/AndroidHacking): Everything here is only for educational purposes only. Add star if u want, i will be very happy. Thanks :)  
 [SH4R1NG4N](https://github.com/NicolasMuras/SH4R1NG4N): Plataforma de hacking ético, recolección de información y manejo de bases de datos. Es un proyecto antiguo, mi aprendizaje empezó con MySQL y Python, mi idea fue combinar ambas tecnologías.  
-[Mpchadwick_MwscanUtils2](https://github.com/mpchadwick/Mpchadwick_MwscanUtils2): Run better Magento malware scans
+[Mpchadwick_MwscanUtils2](https://github.com/mpchadwick/Mpchadwick_MwscanUtils2): Run better Magento malware scans  
+[swaggerHole](https://github.com/Liodeus/swaggerHole): A python3 script searching for secret on swaggerhub
