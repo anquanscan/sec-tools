@@ -1928,4 +1928,5 @@
 [Phlexish](https://github.com/KnightSec-Official/Phlexish): Advanced Spear Phishing tool for Facebook with 2 factor authentication bypass! May contain minor bugs due to...idk  
 [Eternalblue](https://github.com/0xFenrik/Eternalblue): Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010  
 [pwnphone](https://github.com/thehackingsage/pwnphone): DREAM DEVICE FOR HACKERS  
-[JbossExploit](https://github.com/k8gege/JbossExploit): MSF moudle jboss invoke deploy getshell Exploit  & Jboss jmx-console getshell exploit
+[JbossExploit](https://github.com/k8gege/JbossExploit): MSF moudle jboss invoke deploy getshell Exploit  & Jboss jmx-console getshell exploit  
+[loopback4-vault](https://github.com/sourcefuse/loopback4-vault): A loopback-next extension for HashiCorp's Vault integration in loopback-next applications
