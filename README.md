@@ -1768,4 +1768,5 @@
 [WAMpage](https://github.com/DavidBuchanan314/WAMpage): WAMpage - A WebOS root LPE exploit chain (CVE-2022-23731)  
 [opencve](https://github.com/opencve/opencve): CVE Alerting Platform  
 [embark](https://github.com/e-m-b-a/embark): EMBArk - The firmware security scanning environment  
-[prober](https://github.com/binarytrails/prober): Pentester's toolbox
+[prober](https://github.com/binarytrails/prober): Pentester's toolbox  
+[usb-keystroke-injector](https://github.com/AmirrezaNasiri/usb-keystroke-injector): ☠️ An Arduino-based USB keyboard simulator which injects keystrokes via Bluetooth protocol or predefined payloads in a SD card.
