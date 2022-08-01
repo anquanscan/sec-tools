@@ -1932,4 +1932,5 @@
 [loopback4-vault](https://github.com/sourcefuse/loopback4-vault): A loopback-next extension for HashiCorp's Vault integration in loopback-next applications  
 [Apache-HTTP-Server-Module-Backdoor](https://github.com/WangYihang/Apache-HTTP-Server-Module-Backdoor): :japanese_goblin: A Backdoor For Apache HTTP Server Written in C   
 [sqlscan](https://github.com/Cvar1984/sqlscan): Quick SQL Scanner, Dorker, Webshell injector PHP  
-[SpyLocator](https://github.com/mugiluri/SpyLocator): A desktop application for detecting key logging activities based on active processes. Created in C# with visual studio 2019 for windows OS.
+[SpyLocator](https://github.com/mugiluri/SpyLocator): A desktop application for detecting key logging activities based on active processes. Created in C# with visual studio 2019 for windows OS.  
+[awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks): A Collection of Hacks in IoT Space so that we can address them (hopefully).
