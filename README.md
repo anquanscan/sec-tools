@@ -1661,4 +1661,5 @@
 [OpenRemoteStart](https://github.com/jmaxxz/OpenRemoteStart): An open source remote implementation for the Fortin EVO-One remote starter  
 [cve-2021-3449](https://github.com/terorie/cve-2021-3449): CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻  
 [Audit-Learning](https://github.com/jiangsir404/Audit-Learning): 记录自己对《代码审计》的理解和总结，对危险函数的深入分析以及在p牛的博客和代码审计圈的收获  
-[security-checklist-transformer](https://github.com/JLLeitschuh/security-checklist-transformer): Sqreen Security Checklist Transformer & Uploader
+[security-checklist-transformer](https://github.com/JLLeitschuh/security-checklist-transformer): Sqreen Security Checklist Transformer & Uploader  
+[kindle-factory-jailbreak](https://github.com/sgayou/kindle-factory-jailbreak): Kindle factory image jailbreak.
