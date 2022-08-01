@@ -1755,4 +1755,5 @@
 [Polaris](https://github.com/doimet/Polaris): 渗透测试框架  
 [DetExploit](https://github.com/detexploit/DetExploit): OSS Vulnerability Scanner for Windows Platform  
 [h-encore](https://github.com/TheOfficialFloW/h-encore): Fully chained kernel exploit for the PS Vita on firmwares 3.65-3.68  
-[TallGrass](https://github.com/chdav/TallGrass): An AV exclusion enumeration tool written in Python.
+[TallGrass](https://github.com/chdav/TallGrass): An AV exclusion enumeration tool written in Python.  
+[mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool
