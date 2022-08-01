@@ -1887,4 +1887,5 @@
 [dockerscan](https://github.com/cr0hn/dockerscan): Docker security analysis & hacking tools  
 [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux): IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.   
 [linkedin2username](https://github.com/initstring/linkedin2username): OSINT Tool: Generate username lists for companies on LinkedIn  
-[Spectre-PoC](https://github.com/chaitanyarahalkar/Spectre-PoC): Proof of Concept - Spectre
+[Spectre-PoC](https://github.com/chaitanyarahalkar/Spectre-PoC): Proof of Concept - Spectre  
+[tpotce](https://github.com/telekom-security/tpotce): 🍯 T-Pot - The All In One Honeypot Platform 🐝
