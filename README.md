@@ -1614,4 +1614,5 @@
 [mptcp](https://github.com/msonstei/mptcp): Application and work associated with Ph.D. research. The purpose of the research is to provide a mechanism to transfer data safely without encryption using MP-TCP.  
 [dumb-password-rules](https://github.com/duffn/dumb-password-rules): Shaming sites with dumb password rules.  
 [password-leak](https://github.com/mathiscode/password-leak): A library to check for compromised passwords  
-[Bachelorarbeit_SichereWebsite](https://github.com/Zenty96/Bachelorarbeit_SichereWebsite)
+[Bachelorarbeit_SichereWebsite](https://github.com/Zenty96/Bachelorarbeit_SichereWebsite)  
+[secDevLabs](https://github.com/globocom/secDevLabs): A laboratory for learning secure web and mobile development in a practical manner.
