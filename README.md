@@ -1688,4 +1688,5 @@
 [CybersecurityEssentials](https://github.com/PaulinoBermudez/CybersecurityEssentials): Abarca los fundamentos y las habilidades básicas en todos los dominios de la ciberseguridad, incluida la seguridad de la información, seguridad de sistemas, seguridad de la red, ética y leyes, y técnicas de defensa y mitigación utilizadas en la protección de los negocios.   
 [pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap): Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:   
 [SecretScanner](https://github.com/deepfence/SecretScanner): :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:  
-[wifi-sdcf](https://github.com/DavidBuchanan314/wifi-sdcf): Reverse Engineering notes on the Dxingtek/Keytech(?) WiFi@SDCF card
+[wifi-sdcf](https://github.com/DavidBuchanan314/wifi-sdcf): Reverse Engineering notes on the Dxingtek/Keytech(?) WiFi@SDCF card  
+[Th3_Monster](https://github.com/Moat3zKadd3chy/Th3_Monster): Th3_Monster Tool 2.5 ☣ Website Vulnerability Scanner & Auto Exploiter Bot ☣ .
