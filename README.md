@@ -1919,4 +1919,5 @@
 [wowned](https://github.com/namreeb/wowned): Authentication bypass for outdated WoW emulation authentication servers  
 [Shodan-Dorks](https://github.com/humblelad/Shodan-Dorks): Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.  
 [Tic-Tac](https://github.com/Sanix-Darker/Tic-Tac): Client not paid ? Set a timer to kill css/js or decrease opacity over time with a js script, available remotely !  
-[ktmm](https://github.com/ao/ktmm): Keep That Mouse Moving!
+[ktmm](https://github.com/ao/ktmm): Keep That Mouse Moving!  
+[exynos8890-bootrom-dump](https://github.com/frederic/exynos8890-bootrom-dump): dump Exynos 8890 bootROM from Samsung Galaxy S7
