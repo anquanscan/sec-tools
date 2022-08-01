@@ -1752,4 +1752,5 @@
 [0day-security-software-vulnerability-analysis-technology](https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology): 0day安全_软件漏洞分析技术  
 [pickleassem](https://github.com/gousaiyang/pickleassem): A simple pickle assembler to make handcrafting pickle bytecode easier.  
 [Cybersecurity-University.of.Maryland](https://github.com/extwiii/Cybersecurity-University.of.Maryland): Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secure Systems - Coursera  
-[Polaris](https://github.com/doimet/Polaris): 渗透测试框架
+[Polaris](https://github.com/doimet/Polaris): 渗透测试框架  
+[DetExploit](https://github.com/detexploit/DetExploit): OSS Vulnerability Scanner for Windows Platform
