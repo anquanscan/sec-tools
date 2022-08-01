@@ -1770,4 +1770,5 @@
 [embark](https://github.com/e-m-b-a/embark): EMBArk - The firmware security scanning environment  
 [prober](https://github.com/binarytrails/prober): Pentester's toolbox  
 [usb-keystroke-injector](https://github.com/AmirrezaNasiri/usb-keystroke-injector): ☠️ An Arduino-based USB keyboard simulator which injects keystrokes via Bluetooth protocol or predefined payloads in a SD card.  
-[d3fend](https://github.com/d3fend/d3fend): Public static website for the D3FEND project. For the D3FEND ontology repo see: https://github.com/d3fend/d3fend-ontology
+[d3fend](https://github.com/d3fend/d3fend): Public static website for the D3FEND project. For the D3FEND ontology repo see: https://github.com/d3fend/d3fend-ontology  
+[critical-ops-0day](https://github.com/culturally/critical-ops-0day): source to ban any account in mobile game critical ops
