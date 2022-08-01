@@ -1620,4 +1620,5 @@
 [Computer-forensics](https://github.com/HSNHK/Computer-forensics): The best tools and resources for forensic analysis.  
 [Quantum-Phase-Estimation](https://github.com/AgentANAKIN/Quantum-Phase-Estimation): Quantum Phase Estimation is a key component of Shor's Factoring Algorithm.  
 [Hackbox](https://github.com/strellic/Hackbox): Hackbox is an open-source, container-based platform that makes it easy to launch vulnerable systems to test your hacking skill!  
-[charts](https://github.com/CheckPointSW/charts): Deploy Kubernetes Helm Charts for Check Point CloudGuard
+[charts](https://github.com/CheckPointSW/charts): Deploy Kubernetes Helm Charts for Check Point CloudGuard  
+[PrestaShop-CVE-2018-19126](https://github.com/farisv/PrestaShop-CVE-2018-19126): PrestaShop (1.6.x <= 1.6.1.23 or 1.7.x <= 1.7.4.4) Back Office Remote Code Execution (CVE-2018-19126)
