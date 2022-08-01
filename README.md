@@ -1889,4 +1889,5 @@
 [linkedin2username](https://github.com/initstring/linkedin2username): OSINT Tool: Generate username lists for companies on LinkedIn  
 [Spectre-PoC](https://github.com/chaitanyarahalkar/Spectre-PoC): Proof of Concept - Spectre  
 [tpotce](https://github.com/telekom-security/tpotce): 🍯 T-Pot - The All In One Honeypot Platform 🐝  
-[Brutus](https://github.com/Bialomazur/Brutus): Botnet targeting Windows machines written entirely in Python & open source security project.
+[Brutus](https://github.com/Bialomazur/Brutus): Botnet targeting Windows machines written entirely in Python & open source security project.  
+[aws-securitygroup-grapher](https://github.com/jeanlouisferey/aws-securitygroup-grapher): This ansible role gets information from an AWS VPC and generate a graphical representation of security groups
