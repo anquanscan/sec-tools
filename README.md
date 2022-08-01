@@ -1835,4 +1835,5 @@
 [DI.WE.H](https://github.com/TGPrado/DI.WE.H): Repositório com conteúdo sobre web hacking em português  
 [mvt](https://github.com/mvt-project/mvt): MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.  
 [HCPaper](https://github.com/Hacker-Combat-Organization/HCPaper): The published paper proposing Hacker Combat.   
-[isoalloc](https://github.com/struct/isoalloc): A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance
+[isoalloc](https://github.com/struct/isoalloc): A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance  
+[asqlmap](https://github.com/Gualty/asqlmap): Automated sqlmap
