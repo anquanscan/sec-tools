@@ -1796,4 +1796,5 @@
 [NIVOS](https://github.com/TheSadError/NIVOS): NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]  
 [GoodHound](https://github.com/idnahacks/GoodHound): Uses Sharphound, Bloodhound and Neo4j to produce an actionable list of attack paths for targeted remediation.  
 [SplunkPWNScripts](https://github.com/0x0FB0/SplunkPWNScripts): Scripts aiding penetration testing of Splunk Enterprise systems  
-[depthcharge](https://github.com/nccgroup/depthcharge): A U-Boot hacking toolkit for security researchers and tinkerers
+[depthcharge](https://github.com/nccgroup/depthcharge): A U-Boot hacking toolkit for security researchers and tinkerers  
+[wp-mini-exploiter](https://github.com/0xtn/wp-mini-exploiter): Mini Wordress Exploiter using CVE2020
