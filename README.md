@@ -1677,4 +1677,5 @@
 [Espionage](https://github.com/MandConsultingGroup/Espionage): A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network.  
 [maskphish](https://github.com/jaykali/maskphish): Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.  
 [Sooty](https://github.com/TheresAFewConors/Sooty): The SOC Analysts all-in-one CLI tool to automate and speed up workflow.  
-[pwn.hs](https://github.com/Tosainu/pwn.hs): [WIP] Exploit development library for Haskeller
+[pwn.hs](https://github.com/Tosainu/pwn.hs): [WIP] Exploit development library for Haskeller  
+[zap-scripts](https://github.com/sepehrdaddev/zap-scripts): Zed Attack Proxy Scripts for finding CVEs and Secrets.
