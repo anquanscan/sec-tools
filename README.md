@@ -1711,4 +1711,5 @@
 [Security-Monitoring-Visualisation-System](https://github.com/Mithileysh/Security-Monitoring-Visualisation-System): This visualisation system is used to monitor the state and confirm the system's health running.  
 [ifoughtthelaw](https://github.com/MauroEldritch/ifoughtthelaw): Repository for "I Fought The Law and The Law Lost" talk. Featured on Recon Village @ DEFCON 26, Las Vegas (And many other conferences!)  
 [httprecon-win32](https://github.com/scipag/httprecon-win32): Advanced web server fingerprinting  
-[AndroidHacking](https://github.com/wvrld/AndroidHacking): Everything here is only for educational purposes only. Add star if u want, i will be very happy. Thanks :)
+[AndroidHacking](https://github.com/wvrld/AndroidHacking): Everything here is only for educational purposes only. Add star if u want, i will be very happy. Thanks :)  
+[SH4R1NG4N](https://github.com/NicolasMuras/SH4R1NG4N): Plataforma de hacking ético, recolección de información y manejo de bases de datos. Es un proyecto antiguo, mi aprendizaje empezó con MySQL y Python, mi idea fue combinar ambas tecnologías.
