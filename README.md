@@ -1856,4 +1856,5 @@
 [zBang](https://github.com/cyberark/zBang): zBang is a risk assessment tool that detects potential privileged account threats   
 [etw-dns](https://github.com/asgarciap/etw-dns): A simple example application to collect DNS queries logs using etw-api  
 [Ohm](https://github.com/Th30neAnd0nly/Ohm): Android RAT with web panel and undetectable App  
-[PwnBack](https://github.com/P3GLEG/PwnBack): Burp Extender plugin that generates a sitemap of a website using Wayback Machine
+[PwnBack](https://github.com/P3GLEG/PwnBack): Burp Extender plugin that generates a sitemap of a website using Wayback Machine  
+[cybersecurity-blue-team](https://github.com/paulveillard/cybersecurity-blue-team): A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Blue Team in Cybersecurity.
