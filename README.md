@@ -1838,4 +1838,5 @@
 [isoalloc](https://github.com/struct/isoalloc): A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance  
 [asqlmap](https://github.com/Gualty/asqlmap): Automated sqlmap  
 [Bootmiester](https://github.com/Yashvendra/Bootmiester): Advanced deauthentication script.  
-[bakerman](https://github.com/Cumachelas/bakerman): Doughskript interpreter for converting simple command sequences into executable Arduino C++ code.
+[bakerman](https://github.com/Cumachelas/bakerman): Doughskript interpreter for converting simple command sequences into executable Arduino C++ code.  
+[beaconleak](https://github.com/cjcase/beaconleak): Covert data exfiltration and detection using 802.11 beacon stuffing
