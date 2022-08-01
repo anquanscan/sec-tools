@@ -1775,4 +1775,5 @@
 [100-redteam-projects](https://github.com/kurogai/100-redteam-projects): Projects for security students  
 [sns](https://github.com/rosescript/sns): Scan'n'Search is a program that runs an Nmap scan and returns vunerabilities.  
 [rawsec_cli](https://github.com/tyki6/rawsec_cli): Rawsec's Cybersecurity Inventory cli. Search pentesting tools, resources, ctf, os.  
-[pentesting-multitool](https://github.com/ffmancera/pentesting-multitool): Different utility scripts for pentesting and hacking.
+[pentesting-multitool](https://github.com/ffmancera/pentesting-multitool): Different utility scripts for pentesting and hacking.  
+[uPyPortal](https://github.com/lemariva/uPyPortal): A captive portal for MicroPython using ESP32 (WeMos)
