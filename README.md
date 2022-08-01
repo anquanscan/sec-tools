@@ -1758,4 +1758,5 @@
 [TallGrass](https://github.com/chdav/TallGrass): An AV exclusion enumeration tool written in Python.  
 [mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool  
 [RCE-VB5.x](https://github.com/Alaa-abdulridha/RCE-VB5.x): Vulnerable (RCE) vBulletin 5.0.0 - 5.5.4 BurpSuite Request  
-[slack-watchman](https://github.com/PaperMtn/slack-watchman): Monitoring your Slack workspaces for sensitive information
+[slack-watchman](https://github.com/PaperMtn/slack-watchman): Monitoring your Slack workspaces for sensitive information  
+[FlowerPassword](https://github.com/kenmick/FlowerPassword): 🌸花密，不一样的密码管理器
