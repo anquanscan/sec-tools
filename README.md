@@ -1899,4 +1899,5 @@
 [RustScan](https://github.com/RustScan/RustScan): 🤖 The Modern Port Scanner 🤖  
 [crowdsec](https://github.com/crowdsecurity/crowdsec): CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.  
 [b11](https://github.com/BotolMehedi/b11): 11 DIGIT FACEBOOK ACCOUNTS PASSWORD CRACKER <br> FOR BANGLADESHI TERMUX USERS  
-[UEFI_boot_script_expl](https://github.com/Cr4sh/UEFI_boot_script_expl): CHIPSEC module that exploits UEFI boot script table vulnerability
+[UEFI_boot_script_expl](https://github.com/Cr4sh/UEFI_boot_script_expl): CHIPSEC module that exploits UEFI boot script table vulnerability  
+[www-project-csrfguard](https://github.com/OWASP/www-project-csrfguard): The aim of this project is to protect Java applications against CSRF attacks with the use of Synchronizer Tokens
