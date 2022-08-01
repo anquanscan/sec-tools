@@ -1689,4 +1689,5 @@
 [pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap): Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:   
 [SecretScanner](https://github.com/deepfence/SecretScanner): :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:  
 [wifi-sdcf](https://github.com/DavidBuchanan314/wifi-sdcf): Reverse Engineering notes on the Dxingtek/Keytech(?) WiFi@SDCF card  
-[Th3_Monster](https://github.com/Moat3zKadd3chy/Th3_Monster): Th3_Monster Tool 2.5 ☣ Website Vulnerability Scanner & Auto Exploiter Bot ☣ .
+[Th3_Monster](https://github.com/Moat3zKadd3chy/Th3_Monster): Th3_Monster Tool 2.5 ☣ Website Vulnerability Scanner & Auto Exploiter Bot ☣ .  
+[CustomizableAlertController](https://github.com/illescasDaniel/CustomizableAlertController): Hacking the UIAlertController to fully customize it
