@@ -1724,4 +1724,5 @@
 [GitMonitor](https://github.com/Talkaboutcybersecurity/GitMonitor): One way to continuously monitor sensitive information that could be exposed on Github  
 [expdev](https://github.com/simonuvarov/expdev): Vulnerable software and exploits used for OSCP/OSCE preparation  
 [O-MEGA_VIRUSES](https://github.com/ABC123USA/O-MEGA_VIRUSES): SAMPLE O-MEGA VIRUS FOR RESEARCH PURPOSES ONLY. PLEASE DELETE AFTER USAGE UNLESS A LICENSE IS PURCHASED.  
-[splunk-integration](https://github.com/databrickslabs/splunk-integration): Databricks Add-on for Splunk
+[splunk-integration](https://github.com/databrickslabs/splunk-integration): Databricks Add-on for Splunk  
+[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence): A curated list of Awesome Threat Intelligence resources
