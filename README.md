@@ -1788,4 +1788,5 @@
 [x11-stack-corruption](https://github.com/epsylon/x11-stack-corruption): X11/libX11.so.6 (XQueryKeymap) Stack corruption/Access violation [PoC+ Fuzzer]  
 [dojos](https://github.com/novoda/dojos): This is where the Novoda team do all their hacking  
 [your-private-life](https://github.com/MilesCodeIt/your-private-life): Your "Private" Life est un jeu web permettant de faire de la prévention sur les dangers du web et de l'Internet.  
-[Rainbow-Wifi-Hack-Utility-Android](https://github.com/LinkClink/Rainbow-Wifi-Hack-Utility-Android):  The program implements brute Wi-Fi network method on platform Android
+[Rainbow-Wifi-Hack-Utility-Android](https://github.com/LinkClink/Rainbow-Wifi-Hack-Utility-Android):  The program implements brute Wi-Fi network method on platform Android  
+[sec-admin-web](https://github.com/smallcham/sec-admin-web): 分布式资产安全扫描核心管理系统Web页面(弱口令扫描，漏洞扫描)
