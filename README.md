@@ -1861,4 +1861,5 @@
 [C-Browser-Password-Cracker](https://github.com/akalankauk/C-Browser-Password-Cracker): C++ Firefox & Google Chrome Cracker Source Code  
 [Crumble](https://github.com/sudo-su-FDEL/Crumble): Menu driven wordlist generator in C++  
 [vulnerability-tool](https://github.com/drosser92/vulnerability-tool): Vulnerability-tool chains middleware (inspired by Alice) tools to analyse Github repositories for vulnerabilities (secrets, keys, etc)  
-[offensive-azure](https://github.com/blacklanternsecurity/offensive-azure): Collection of offensive tools targeting Microsoft Azure
+[offensive-azure](https://github.com/blacklanternsecurity/offensive-azure): Collection of offensive tools targeting Microsoft Azure  
+[otseca](https://github.com/trimstray/otseca): Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
