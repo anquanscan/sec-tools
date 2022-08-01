@@ -1869,4 +1869,5 @@
 [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon): This is a multi-use bash script for Linux systems to audit wireless networks.  
 [spectre-attack](https://github.com/Eugnis/spectre-attack): Example of using revealed "Spectre" exploit (CVE-2017-5753 and CVE-2017-5715)  
 [exfilkit](https://github.com/tasooshi/exfilkit): Data exfiltration utility for testing detection capabilities  
-[u2f-zero](https://github.com/conorpp/u2f-zero): U2F USB token optimized for physical security, affordability, and style
+[u2f-zero](https://github.com/conorpp/u2f-zero): U2F USB token optimized for physical security, affordability, and style  
+[grype-contribs](https://github.com/opt-nc/grype-contribs): A set of resources around Anchore's grype tool
