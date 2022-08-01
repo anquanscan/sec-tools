@@ -1696,4 +1696,5 @@
 [CEHv10StudyGuidePlusPlus](https://github.com/KevCui/CEHv10StudyGuidePlusPlus): :notebook: CEHv10 Study Guide++  
 [rogue_ap](https://github.com/jerryryle/rogue_ap): Rogue AP using a Raspberry Pi Zero W  
 [whose-trying-to-hack-me](https://github.com/nsardo/whose-trying-to-hack-me): Crystal-lang tool to identify potential hackers  
-[security_content](https://github.com/splunk/security_content): Splunk Security Content
+[security_content](https://github.com/splunk/security_content): Splunk Security Content  
+[domato](https://github.com/googleprojectzero/domato): DOM fuzzer
