@@ -1731,4 +1731,5 @@
 [ThreadBoat](https://github.com/MandConsultingGroup/ThreadBoat): Program Uses Thread Execution Hijacking To Inject Native Shell-code Into a Standard Win32 Application  
 [visualize_logs](https://github.com/keithjjones/visualize_logs): A Python library and command line tools to provide interactive log visualization.   
 [rescope](https://github.com/root4loot/rescope): A scope-generator-tool for Burp Suite and ZAP  
-[google-ctf](https://github.com/google/google-ctf): Google CTF
+[google-ctf](https://github.com/google/google-ctf): Google CTF  
+[wordle-answer-hack](https://github.com/rxzyx/wordle-answer-hack): Get the answer in both wordle and wordleunlimited.org
