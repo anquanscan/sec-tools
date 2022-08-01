@@ -1652,4 +1652,5 @@
 [terracreds](https://github.com/tonedefdev/terracreds): A Terraform Automation and Collaboration Software credentials helper  
 [wstg](https://github.com/OWASP/wstg): The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.  
 [Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God): Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet  
-[steal-all-files](https://github.com/pablocorbalann/steal-all-files): Python script to automatically steal all the files and information from a computer using an USB device. Created just for educational purposes.
+[steal-all-files](https://github.com/pablocorbalann/steal-all-files): Python script to automatically steal all the files and information from a computer using an USB device. Created just for educational purposes.  
+[blueborne-scanner](https://github.com/hook-s3c/blueborne-scanner): Bluetooth scanner for local devices that may be vulnerable to Blueborne exploit
