@@ -1901,4 +1901,5 @@
 [b11](https://github.com/BotolMehedi/b11): 11 DIGIT FACEBOOK ACCOUNTS PASSWORD CRACKER <br> FOR BANGLADESHI TERMUX USERS  
 [UEFI_boot_script_expl](https://github.com/Cr4sh/UEFI_boot_script_expl): CHIPSEC module that exploits UEFI boot script table vulnerability  
 [www-project-csrfguard](https://github.com/OWASP/www-project-csrfguard): The aim of this project is to protect Java applications against CSRF attacks with the use of Synchronizer Tokens  
-[WS-VulnS](https://github.com/4mina/WS-VulnS): WS-VulnS (Web Services Vulnerability Scanner) is a blackbox tool that detects injections (SQLi & XMLi) and DoS (XML Bomb, Oversized XML & Oversized Payload) vulnerabilities in SOAP and REST Web Services. It was developped during graduation project at Ecole Nationale Supérieure d'Informatique (ESI, Algiers) by AIT HABOUCHE Manele and BALI Amina. 
+[WS-VulnS](https://github.com/4mina/WS-VulnS): WS-VulnS (Web Services Vulnerability Scanner) is a blackbox tool that detects injections (SQLi & XMLi) and DoS (XML Bomb, Oversized XML & Oversized Payload) vulnerabilities in SOAP and REST Web Services. It was developped during graduation project at Ecole Nationale Supérieure d'Informatique (ESI, Algiers) by AIT HABOUCHE Manele and BALI Amina.   
+[hkcert-ctf-2020-challenges](https://github.com/samueltangz/hkcert-ctf-2020-challenges): The challenges for HKCERT CTF 2020
