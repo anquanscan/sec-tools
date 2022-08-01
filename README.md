@@ -1728,4 +1728,5 @@
 [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence): A curated list of Awesome Threat Intelligence resources  
 [jwt-hack](https://github.com/hahwul/jwt-hack): 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)  
 [thc-tesla-powerwall2-hack](https://github.com/hackerschoice/thc-tesla-powerwall2-hack): TESLA PowerWall 2 Security Shenanigans   
-[ThreadBoat](https://github.com/MandConsultingGroup/ThreadBoat): Program Uses Thread Execution Hijacking To Inject Native Shell-code Into a Standard Win32 Application
+[ThreadBoat](https://github.com/MandConsultingGroup/ThreadBoat): Program Uses Thread Execution Hijacking To Inject Native Shell-code Into a Standard Win32 Application  
+[visualize_logs](https://github.com/keithjjones/visualize_logs): A Python library and command line tools to provide interactive log visualization. 
