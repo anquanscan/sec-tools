@@ -1924,4 +1924,5 @@
 [pyhtools](https://github.com/dmdhrumilmistry/pyhtools): A collection of python written hacking tools consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware and reverse_backdoor.  
 [wgcf](https://github.com/ViRb3/wgcf): 🚤 Cross-platform, unofficial CLI for Cloudflare Warp  
 [burpa](https://github.com/tristanlatr/burpa): Burp Automator - A Burp Suite Automation Tool. It provides a high level CLI and Python interfaces to Burp Suite scanner and can be used to setup Dynamic Application Security Testing (DAST).   
-[CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j): CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists. 
+[CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j): CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.   
+[Phlexish](https://github.com/KnightSec-Official/Phlexish): Advanced Spear Phishing tool for Facebook with 2 factor authentication bypass! May contain minor bugs due to...idk
