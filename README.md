@@ -1846,4 +1846,5 @@
 [OSCP2020](https://github.com/Mrnmap/OSCP2020)  
 [EasyProtector](https://github.com/lamster2018/EasyProtector): 一行代码检测XP/调试/多开/模拟器/root  
 [Sploits-Protostar](https://github.com/r4gnax/Sploits-Protostar): Protostar exploit python scripts  
-[IPAPatch](https://github.com/Naituw/IPAPatch): Patch iOS Apps, The Easy Way, Without Jailbreak.
+[IPAPatch](https://github.com/Naituw/IPAPatch): Patch iOS Apps, The Easy Way, Without Jailbreak.  
+[rebuilderd](https://github.com/kpcyrd/rebuilderd): Independent verification of binary packages - reproducible builds
