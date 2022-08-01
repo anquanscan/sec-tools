@@ -1663,4 +1663,5 @@
 [Audit-Learning](https://github.com/jiangsir404/Audit-Learning): 记录自己对《代码审计》的理解和总结，对危险函数的深入分析以及在p牛的博客和代码审计圈的收获  
 [security-checklist-transformer](https://github.com/JLLeitschuh/security-checklist-transformer): Sqreen Security Checklist Transformer & Uploader  
 [kindle-factory-jailbreak](https://github.com/sgayou/kindle-factory-jailbreak): Kindle factory image jailbreak.  
-[slate-tools](https://github.com/five23/slate-tools): Shopify's defunct Slate tools occasionally updated w/ some security patches
+[slate-tools](https://github.com/five23/slate-tools): Shopify's defunct Slate tools occasionally updated w/ some security patches  
+[guardium-analyzer-workshop](https://github.com/IBM/guardium-analyzer-workshop): IBM Security Guardium Analyzer Workshops
