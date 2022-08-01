@@ -1844,4 +1844,5 @@
 [CuckooNet](https://github.com/Jon2G/CuckooNet): A full implementation of the Cuckoo Sandbox Rest 2.0.7 API  
 [attifyos](https://github.com/adi0x90/attifyos): Attify OS - Distro for pentesting IoT devices   
 [OSCP2020](https://github.com/Mrnmap/OSCP2020)  
-[EasyProtector](https://github.com/lamster2018/EasyProtector): 一行代码检测XP/调试/多开/模拟器/root
+[EasyProtector](https://github.com/lamster2018/EasyProtector): 一行代码检测XP/调试/多开/模拟器/root  
+[Sploits-Protostar](https://github.com/r4gnax/Sploits-Protostar): Protostar exploit python scripts
