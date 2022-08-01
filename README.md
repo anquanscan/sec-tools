@@ -1874,4 +1874,5 @@
 [CVE-2021-44228-Mass-RCE](https://github.com/razz0r/CVE-2021-44228-Mass-RCE): CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.  
 [themis](https://github.com/cossacklabs/themis): Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.  
 [wesng](https://github.com/bitsadmin/wesng): Windows Exploit Suggester - Next Generation  
-[audit_scripts](https://github.com/vanhauser-thc/audit_scripts): Scripts to gather system configuration information for offline/remote auditing
+[audit_scripts](https://github.com/vanhauser-thc/audit_scripts): Scripts to gather system configuration information for offline/remote auditing  
+[plaguesec-os](https://github.com/plaguesec/plaguesec-os): Plague Security Customed Operating System for Penetration Testers Based on Kali Linux
