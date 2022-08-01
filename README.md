@@ -1818,4 +1818,5 @@
 [dymerge](https://github.com/k4m4/dymerge): 🔓 A dynamic dictionary merger for successful dictionary based attacks.  
 [ProjectBrightSun](https://github.com/CalvinKrist/ProjectBrightSun): A suite of cybersecurity tools designed to allow for rapid deployment of virtualized environments. Intended for use in education: contains built-in lessons.  
 [TRADFRI-Hacking](https://github.com/basilfx/TRADFRI-Hacking): Hacking IKEA TRÅDFRI products, such as light bulbs, window blinds and other accessories.  
-[vichiti](https://github.com/umair9747/vichiti): An OSINT focused tool made with Nodejs!
+[vichiti](https://github.com/umair9747/vichiti): An OSINT focused tool made with Nodejs!  
+[ban2fail](https://github.com/jrbrtsn/ban2fail): Simple & efficient log file scanning and iptable filtering
