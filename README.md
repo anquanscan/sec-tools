@@ -1756,4 +1756,5 @@
 [DetExploit](https://github.com/detexploit/DetExploit): OSS Vulnerability Scanner for Windows Platform  
 [h-encore](https://github.com/TheOfficialFloW/h-encore): Fully chained kernel exploit for the PS Vita on firmwares 3.65-3.68  
 [TallGrass](https://github.com/chdav/TallGrass): An AV exclusion enumeration tool written in Python.  
-[mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool
+[mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool  
+[RCE-VB5.x](https://github.com/Alaa-abdulridha/RCE-VB5.x): Vulnerable (RCE) vBulletin 5.0.0 - 5.5.4 BurpSuite Request
