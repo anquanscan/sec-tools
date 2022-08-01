@@ -1908,4 +1908,5 @@
 [dependency-check-sonar-plugin](https://github.com/dependency-check/dependency-check-sonar-plugin): Integrates Dependency-Check reports into SonarQube  
 [wifi-passview](https://github.com/warengonzaga/wifi-passview): An open source batch script based WiFi Passview for Windows!  
 [CyberSecurity-and-Pentesting-Resources](https://github.com/cybergeekgyan/CyberSecurity-and-Pentesting-Resources): Top 5 ethical hacking books to get started? Top 5 practical hacking books? Top 5 cybersecurity books to get started? Did I miss any great books?  
-[aws-enumerator](https://github.com/shabarkin/aws-enumerator): The AWS Enumerator was created for service enumeration and info dumping for investigations of penetration testers during Black-Box testing. The tool is intended to speed up the process of Cloud review in case the security researcher compromised AWS Account Credentials.
+[aws-enumerator](https://github.com/shabarkin/aws-enumerator): The AWS Enumerator was created for service enumeration and info dumping for investigations of penetration testers during Black-Box testing. The tool is intended to speed up the process of Cloud review in case the security researcher compromised AWS Account Credentials.  
+[wd-rce](https://github.com/bnbdr/wd-rce): WD My Cloud PoC exploit
