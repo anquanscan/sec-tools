@@ -1635,4 +1635,5 @@
 [BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence): ✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.  
 [reverseshell-powercat-v2](https://github.com/rexpository/reverseshell-powercat-v2): Bypass antivirus and gain a reverse shell on Windows with Powercat v2  
 [bylibrary](https://github.com/BaizeSec/bylibrary): 白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目  
-[asleep_scanner](https://github.com/d34db33f-1007/asleep_scanner): Dahua DVRs bruteforcer at port 37777
+[asleep_scanner](https://github.com/d34db33f-1007/asleep_scanner): Dahua DVRs bruteforcer at port 37777  
+[Nihon-Lua-Bytecode-Interpreter](https://github.com/Nihon-Development/Nihon-Lua-Bytecode-Interpreter): C/C++ Roblox Lua Script Executor, Uses Probably The Next To Worst Method Lua Bytecode Interpreter Where Our Lua Interpreter Does Most Of The Work This Method Is Unstable And Slow
