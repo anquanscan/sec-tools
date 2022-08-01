@@ -1904,4 +1904,5 @@
 [WS-VulnS](https://github.com/4mina/WS-VulnS): WS-VulnS (Web Services Vulnerability Scanner) is a blackbox tool that detects injections (SQLi & XMLi) and DoS (XML Bomb, Oversized XML & Oversized Payload) vulnerabilities in SOAP and REST Web Services. It was developped during graduation project at Ecole Nationale Supérieure d'Informatique (ESI, Algiers) by AIT HABOUCHE Manele and BALI Amina.   
 [hkcert-ctf-2020-challenges](https://github.com/samueltangz/hkcert-ctf-2020-challenges): The challenges for HKCERT CTF 2020  
 [bludit-cms-bypass-brute-force-protection-mechanism](https://github.com/MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism): Permite realizar bypass (eludir) el mecanismo de protección de fuerza bruta de Bludit CMS versión 3.9.2 o inferior, mediante el uso de diferentes encabezados HTTP X-Forwarded-For falsificados.  
-[GraphKer](https://github.com/amberzovitis/GraphKer): Open Source Tool - Cybersecurity Graph Database in Neo4j
+[GraphKer](https://github.com/amberzovitis/GraphKer): Open Source Tool - Cybersecurity Graph Database in Neo4j  
+[dependency-check-sonar-plugin](https://github.com/dependency-check/dependency-check-sonar-plugin): Integrates Dependency-Check reports into SonarQube
