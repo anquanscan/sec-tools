@@ -1855,4 +1855,5 @@
 [RATel](https://github.com/FrenchCisco/RATel): RAT-el is an open source penetration test tool that allows you to take control of a windows machine. It works on the client-server model, the server sends commands and the client executes the commands and sends the result back to the server. The client is completely undetectable by anti-virus software.  
 [zBang](https://github.com/cyberark/zBang): zBang is a risk assessment tool that detects potential privileged account threats   
 [etw-dns](https://github.com/asgarciap/etw-dns): A simple example application to collect DNS queries logs using etw-api  
-[Ohm](https://github.com/Th30neAnd0nly/Ohm): Android RAT with web panel and undetectable App
+[Ohm](https://github.com/Th30neAnd0nly/Ohm): Android RAT with web panel and undetectable App  
+[PwnBack](https://github.com/P3GLEG/PwnBack): Burp Extender plugin that generates a sitemap of a website using Wayback Machine
