@@ -1809,4 +1809,5 @@
 [hades](https://github.com/devtoolboxuk/hades): Firewall System for A.E.G.I.S.  
 [RBust](https://github.com/iinc0gnit0/RBust): [ Blazing Fast Web Fuzzer in Rust ]  
 [ransomwvre](https://github.com/AOrps/ransomwvre): Ransomware in v  
-[Hack4Squad](https://github.com/elfalehed/Hack4Squad): :skull: A bash hacking and scanning framework.
+[Hack4Squad](https://github.com/elfalehed/Hack4Squad): :skull: A bash hacking and scanning framework.  
+[simplex-chat](https://github.com/simplex-chat/simplex-chat): SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
