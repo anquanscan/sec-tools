@@ -1864,4 +1864,5 @@
 [offensive-azure](https://github.com/blacklanternsecurity/offensive-azure): Collection of offensive tools targeting Microsoft Azure  
 [otseca](https://github.com/trimstray/otseca): Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.  
 [agartha](https://github.com/volkandindar/agartha): a burp extension for dynamic payload generation to detect injection flaws (RCE, LFI, SQLi), creates access matrix based user sessions to spot authentication/authorization issues, and converts Http requests to Javascript for further XSS exploitation and more.  
-[ocaps](https://github.com/tersesystems/ocaps): Object capability (ocap) tools and macros for Scala.
+[ocaps](https://github.com/tersesystems/ocaps): Object capability (ocap) tools and macros for Scala.  
+[awesome-browser-containers](https://github.com/NewAlexandria/awesome-browser-containers): Curated list of awesome browser extensions that protect your privacy
