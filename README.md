@@ -1659,4 +1659,5 @@
 [Bruteforcefb](https://github.com/NeloF4/Bruteforcefb): Tools Brute Force Facebook v.0.1   
 [Python-Rootkit](https://github.com/0xIslamTaha/Python-Rootkit): Python Remote Administration Tool (RAT) to gain meterpreter session  
 [OpenRemoteStart](https://github.com/jmaxxz/OpenRemoteStart): An open source remote implementation for the Fortin EVO-One remote starter  
-[cve-2021-3449](https://github.com/terorie/cve-2021-3449): CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻
+[cve-2021-3449](https://github.com/terorie/cve-2021-3449): CVE-2021-3449 OpenSSL denial-of-service exploit 👨🏻‍💻  
+[Audit-Learning](https://github.com/jiangsir404/Audit-Learning): 记录自己对《代码审计》的理解和总结，对危险函数的深入分析以及在p牛的博客和代码审计圈的收获
