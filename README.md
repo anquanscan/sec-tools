@@ -1894,4 +1894,5 @@
 [Scumblr](https://github.com/Netflix-Skunkworks/Scumblr): Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results  
 [evil-ssdp](https://github.com/initstring/evil-ssdp): Spoof SSDP replies and create fake UPnP devices to phish for credentials and NetNTLM challenge/response.  
 [Lauschgeraet](https://github.com/SySS-Research/Lauschgeraet): Gets in the way of your victim's traffic and out of yours  
-[unikraft](https://github.com/unikraft/unikraft): Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+[unikraft](https://github.com/unikraft/unikraft): Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)  
+[Exploit-Discord-Cache-System-PoC](https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC): 🗄️ Exploit Discord's cache system to remote upload payloads to Discord users machines (possible malware dropper for e.g. targeting specific victims)
