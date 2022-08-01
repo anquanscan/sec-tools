@@ -1631,4 +1631,5 @@
 [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security): A curated list of awesome embedded and IoT security resources.  
 [DarkDork](https://github.com/TheSadError/DarkDork): Fast dorking with DarkDork. Written with python. Please run it with python3 versions. You can find vulnerability url s.  
 [sandfly-setup](https://github.com/sandflysecurity/sandfly-setup): Sandfly Security Agentless Compromise and Intrusion Detection System For Linux  
-[awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening): A collection of awesome security hardening guides, tools and other resources
+[awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening): A collection of awesome security hardening guides, tools and other resources  
+[BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence): ✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.
