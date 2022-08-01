@@ -1790,4 +1790,5 @@
 [your-private-life](https://github.com/MilesCodeIt/your-private-life): Your "Private" Life est un jeu web permettant de faire de la prévention sur les dangers du web et de l'Internet.  
 [Rainbow-Wifi-Hack-Utility-Android](https://github.com/LinkClink/Rainbow-Wifi-Hack-Utility-Android):  The program implements brute Wi-Fi network method on platform Android  
 [sec-admin-web](https://github.com/smallcham/sec-admin-web): 分布式资产安全扫描核心管理系统Web页面(弱口令扫描，漏洞扫描)  
-[bot18](https://github.com/carlos8f/bot18): Bot18 is a high-frequency cryptocurrency trading bot developed by Zenbot creator @carlos8f
+[bot18](https://github.com/carlos8f/bot18): Bot18 is a high-frequency cryptocurrency trading bot developed by Zenbot creator @carlos8f  
+[EOS-Proxy-Token](https://github.com/EOSEssentials/EOS-Proxy-Token): Proxy token to allow mitigating EOSIO Ram exploit
