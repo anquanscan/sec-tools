@@ -1759,4 +1759,5 @@
 [mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool  
 [RCE-VB5.x](https://github.com/Alaa-abdulridha/RCE-VB5.x): Vulnerable (RCE) vBulletin 5.0.0 - 5.5.4 BurpSuite Request  
 [slack-watchman](https://github.com/PaperMtn/slack-watchman): Monitoring your Slack workspaces for sensitive information  
-[FlowerPassword](https://github.com/kenmick/FlowerPassword): 🌸花密，不一样的密码管理器
+[FlowerPassword](https://github.com/kenmick/FlowerPassword): 🌸花密，不一样的密码管理器  
+[forta-attack-simulation](https://github.com/kovart/forta-attack-simulation): 🦠🔬 Forta agent that detect deployment of smart contracts containing an exploit function
