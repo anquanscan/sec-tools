@@ -1848,4 +1848,5 @@
 [Sploits-Protostar](https://github.com/r4gnax/Sploits-Protostar): Protostar exploit python scripts  
 [IPAPatch](https://github.com/Naituw/IPAPatch): Patch iOS Apps, The Easy Way, Without Jailbreak.  
 [rebuilderd](https://github.com/kpcyrd/rebuilderd): Independent verification of binary packages - reproducible builds  
-[SpringBootExploit](https://github.com/0x727/SpringBootExploit): 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。
+[SpringBootExploit](https://github.com/0x727/SpringBootExploit): 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。  
+[swag-client](https://github.com/Netflix-Skunkworks/swag-client): Cloud multi-account metadata management tool.
