@@ -1927,4 +1927,5 @@
 [CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j): CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.   
 [Phlexish](https://github.com/KnightSec-Official/Phlexish): Advanced Spear Phishing tool for Facebook with 2 factor authentication bypass! May contain minor bugs due to...idk  
 [Eternalblue](https://github.com/0xFenrik/Eternalblue): Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010  
-[pwnphone](https://github.com/thehackingsage/pwnphone): DREAM DEVICE FOR HACKERS
+[pwnphone](https://github.com/thehackingsage/pwnphone): DREAM DEVICE FOR HACKERS  
+[JbossExploit](https://github.com/k8gege/JbossExploit): MSF moudle jboss invoke deploy getshell Exploit  & Jboss jmx-console getshell exploit
