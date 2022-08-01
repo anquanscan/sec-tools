@@ -1917,4 +1917,5 @@
 [CVE-2021-41773](https://github.com/thehackersbrain/CVE-2021-41773): Apache2 2.4.49 - LFI & RCE Exploit - CVE-2021-41773  
 [nishang](https://github.com/samratashok/nishang): Nishang - Offensive PowerShell for red team, penetration testing and offensive security.   
 [wowned](https://github.com/namreeb/wowned): Authentication bypass for outdated WoW emulation authentication servers  
-[Shodan-Dorks](https://github.com/humblelad/Shodan-Dorks): Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.
+[Shodan-Dorks](https://github.com/humblelad/Shodan-Dorks): Dorks for shodan.io. Some basic shodan dorks collected from publicly available data.  
+[Tic-Tac](https://github.com/Sanix-Darker/Tic-Tac): Client not paid ? Set a timer to kill css/js or decrease opacity over time with a js script, available remotely !
