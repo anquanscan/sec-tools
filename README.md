@@ -1654,4 +1654,5 @@
 [Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God): Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet  
 [steal-all-files](https://github.com/pablocorbalann/steal-all-files): Python script to automatically steal all the files and information from a computer using an USB device. Created just for educational purposes.  
 [blueborne-scanner](https://github.com/hook-s3c/blueborne-scanner): Bluetooth scanner for local devices that may be vulnerable to Blueborne exploit  
-[openvas-sandbox](https://github.com/githubfoam/openvas-sandbox): openvas  network security monitoring NIDS HIDS
+[openvas-sandbox](https://github.com/githubfoam/openvas-sandbox): openvas  network security monitoring NIDS HIDS  
+[cyber-defence-presentation](https://github.com/Lissy93/cyber-defence-presentation): 🖥️ A reveal.js website for presenting the cyber security basics to humans 
