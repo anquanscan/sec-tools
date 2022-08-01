@@ -1820,4 +1820,5 @@
 [TRADFRI-Hacking](https://github.com/basilfx/TRADFRI-Hacking): Hacking IKEA TRÅDFRI products, such as light bulbs, window blinds and other accessories.  
 [vichiti](https://github.com/umair9747/vichiti): An OSINT focused tool made with Nodejs!  
 [ban2fail](https://github.com/jrbrtsn/ban2fail): Simple & efficient log file scanning and iptable filtering  
-[is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable): finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
+[is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable): finds publicly known security vulnerabilities in a website's frontend JavaScript libraries  
+[Wyrmsun_Macrobot](https://github.com/GameHackingAcademy/Wyrmsun_Macrobot): A hack for Wyrmsun version 5.0.1 that will automatically create worker units out of the currently selected structure when a player's gold is over 3000.
