@@ -1911,4 +1911,5 @@
 [aws-enumerator](https://github.com/shabarkin/aws-enumerator): The AWS Enumerator was created for service enumeration and info dumping for investigations of penetration testers during Black-Box testing. The tool is intended to speed up the process of Cloud review in case the security researcher compromised AWS Account Credentials.  
 [wd-rce](https://github.com/bnbdr/wd-rce): WD My Cloud PoC exploit  
 [MurMurHash](https://github.com/Viralmaniar/MurMurHash): This little tool is to calculate a MurmurHash value of a favicon to hunt phishing websites on the Shodan platform.  
-[proxmox_toolbox](https://github.com/Tontonjo/proxmox_toolbox): A toolbox to get the firsts configurations of Proxmox VE / BS done in no time
+[proxmox_toolbox](https://github.com/Tontonjo/proxmox_toolbox): A toolbox to get the firsts configurations of Proxmox VE / BS done in no time  
+[redteam-hardware-toolkit](https://github.com/sectool/redteam-hardware-toolkit): 🔺 Red Team Hardware Toolkit 🔺
