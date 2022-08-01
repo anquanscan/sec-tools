@@ -1892,4 +1892,5 @@
 [Brutus](https://github.com/Bialomazur/Brutus): Botnet targeting Windows machines written entirely in Python & open source security project.  
 [aws-securitygroup-grapher](https://github.com/jeanlouisferey/aws-securitygroup-grapher): This ansible role gets information from an AWS VPC and generate a graphical representation of security groups  
 [Scumblr](https://github.com/Netflix-Skunkworks/Scumblr): Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results  
-[evil-ssdp](https://github.com/initstring/evil-ssdp): Spoof SSDP replies and create fake UPnP devices to phish for credentials and NetNTLM challenge/response.
+[evil-ssdp](https://github.com/initstring/evil-ssdp): Spoof SSDP replies and create fake UPnP devices to phish for credentials and NetNTLM challenge/response.  
+[Lauschgeraet](https://github.com/SySS-Research/Lauschgeraet): Gets in the way of your victim's traffic and out of yours
