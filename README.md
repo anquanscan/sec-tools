@@ -1879,4 +1879,5 @@
 [Commodity-Injection-Signatures](https://github.com/xsscx/Commodity-Injection-Signatures): Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT  
 [pwn2own2020](https://github.com/sslab-gatech/pwn2own2020): Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities  
 [offsec](https://github.com/t0thkr1s/offsec): Docker environment for exploit development.  
-[pksgnpa](https://github.com/lennylxx/pksgnpa): This tool creates NPA archives used by visual novel game Steins;Gate, for Chinese translation.
+[pksgnpa](https://github.com/lennylxx/pksgnpa): This tool creates NPA archives used by visual novel game Steins;Gate, for Chinese translation.  
+[Gotanda](https://github.com/HASH1da1/Gotanda): Gotanda is browser Web Extension for OSINT.
