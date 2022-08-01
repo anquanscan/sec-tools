@@ -1615,4 +1615,5 @@
 [dumb-password-rules](https://github.com/duffn/dumb-password-rules): Shaming sites with dumb password rules.  
 [password-leak](https://github.com/mathiscode/password-leak): A library to check for compromised passwords  
 [Bachelorarbeit_SichereWebsite](https://github.com/Zenty96/Bachelorarbeit_SichereWebsite)  
-[secDevLabs](https://github.com/globocom/secDevLabs): A laboratory for learning secure web and mobile development in a practical manner.
+[secDevLabs](https://github.com/globocom/secDevLabs): A laboratory for learning secure web and mobile development in a practical manner.  
+[gohack](https://github.com/jamesmoriarty/gohack): Experimental Go language CSGO exploit.
