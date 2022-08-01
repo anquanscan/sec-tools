@@ -1815,4 +1815,5 @@
 [AIRAVAT](https://github.com/Th30neAnd0nly/AIRAVAT): A multifunctional Android RAT with GUI based Web Panel without port forwarding.  
 [has_tokenable](https://github.com/ZephiroRB/has_tokenable): Identify your active records with random tokens when you don't want your users to see a sequential ID https://rubygems.org/gems/has_tokenable  
 [Discord-email-spammer-exploit](https://github.com/Rdimo/Discord-email-spammer-exploit): A discord email spammer exploit that works by unferifying a tokens email and then requesting discord verify it again multiple times which leads to discord spamming that email with email verification messages  
-[dymerge](https://github.com/k4m4/dymerge): 🔓 A dynamic dictionary merger for successful dictionary based attacks.
+[dymerge](https://github.com/k4m4/dymerge): 🔓 A dynamic dictionary merger for successful dictionary based attacks.  
+[ProjectBrightSun](https://github.com/CalvinKrist/ProjectBrightSun): A suite of cybersecurity tools designed to allow for rapid deployment of virtualized environments. Intended for use in education: contains built-in lessons.
