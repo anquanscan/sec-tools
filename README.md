@@ -1877,4 +1877,5 @@
 [audit_scripts](https://github.com/vanhauser-thc/audit_scripts): Scripts to gather system configuration information for offline/remote auditing  
 [plaguesec-os](https://github.com/plaguesec/plaguesec-os): Plague Security Customed Operating System for Penetration Testers Based on Kali Linux  
 [Commodity-Injection-Signatures](https://github.com/xsscx/Commodity-Injection-Signatures): Commodity Injection Signatures, Malicious Inputs, XSS, HTTP Header Injection, XXE, RCE, Javascript, XSLT  
-[pwn2own2020](https://github.com/sslab-gatech/pwn2own2020): Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities
+[pwn2own2020](https://github.com/sslab-gatech/pwn2own2020): Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities  
+[offsec](https://github.com/t0thkr1s/offsec): Docker environment for exploit development.
