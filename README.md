@@ -1700,4 +1700,5 @@
 [domato](https://github.com/googleprojectzero/domato): DOM fuzzer  
 [dockerized-security-tools](https://github.com/raesene/dockerized-security-tools): Dockerfiles for security tools  
 [FalconGate](https://github.com/A3sal0n/FalconGate): A smart gateway to stop cyber criminals - Sponsored by Falcon Guard  
-[zip-slip-vulnerability](https://github.com/snyk/zip-slip-vulnerability): Zip Slip Vulnerability (Arbitrary file write through archive extraction)
+[zip-slip-vulnerability](https://github.com/snyk/zip-slip-vulnerability): Zip Slip Vulnerability (Arbitrary file write through archive extraction)  
+[universal-otherapp](https://github.com/TuxSH/universal-otherapp): Userland -> Kernel11 -> Arm9 otherapp for 3DS system versions 1.0 to <= 11.15
