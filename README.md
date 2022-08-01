@@ -1792,4 +1792,5 @@
 [sec-admin-web](https://github.com/smallcham/sec-admin-web): 分布式资产安全扫描核心管理系统Web页面(弱口令扫描，漏洞扫描)  
 [bot18](https://github.com/carlos8f/bot18): Bot18 is a high-frequency cryptocurrency trading bot developed by Zenbot creator @carlos8f  
 [EOS-Proxy-Token](https://github.com/EOSEssentials/EOS-Proxy-Token): Proxy token to allow mitigating EOSIO Ram exploit  
-[google-dorks](https://github.com/Proviesec/google-dorks): Useful Google Dorks for WebSecurity and Bug Bounty
+[google-dorks](https://github.com/Proviesec/google-dorks): Useful Google Dorks for WebSecurity and Bug Bounty  
+[NIVOS](https://github.com/TheSadError/NIVOS): NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
