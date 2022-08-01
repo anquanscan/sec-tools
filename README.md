@@ -1647,4 +1647,5 @@
 [DevSecOps_tools](https://github.com/ramirezversion/DevSecOps_tools): Recopilación de herramientas complementarias para auditoría de Docker, K8, AWS, etc.  Estas herramientas me han sido útiles en pentesting (tanto caja negra como blanca) y en la revisión de la seguridad de diferentes entornos y diferentes tecnologías.  
 [MBomb](https://github.com/palahsu/MBomb): MBomb(Gmail To Gmail) Mail Bombing! Send Unlimited Bombing!   
 [macof.py](https://github.com/WhiteWinterWolf/macof.py): macof.py, a MAC address table overflow utility.  
-[linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation): A collection of links related to Linux kernel security and exploitation
+[linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation): A collection of links related to Linux kernel security and exploitation  
+[heartsk_community](https://github.com/yqcs/heartsk_community): Hearts K-企业资产发现与脆弱性检查工具，自动化资产信息收集与漏洞扫描
