@@ -1851,4 +1851,5 @@
 [SpringBootExploit](https://github.com/0x727/SpringBootExploit): 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。  
 [swag-client](https://github.com/Netflix-Skunkworks/swag-client): Cloud multi-account metadata management tool.  
 [50-Days-Of-SQLi](https://github.com/arpeetrathii/50-Days-Of-SQLi): Learning and hunting SQL injection bugs for 50 continuous days   
-[aws-auto-remediate](https://github.com/servian/aws-auto-remediate): Open source application to instantly remediate common security issues through the use of AWS Config
+[aws-auto-remediate](https://github.com/servian/aws-auto-remediate): Open source application to instantly remediate common security issues through the use of AWS Config  
+[RATel](https://github.com/FrenchCisco/RATel): RAT-el is an open source penetration test tool that allows you to take control of a windows machine. It works on the client-server model, the server sends commands and the client executes the commands and sends the result back to the server. The client is completely undetectable by anti-virus software.
