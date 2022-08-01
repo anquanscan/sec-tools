@@ -1929,4 +1929,5 @@
 [Eternalblue](https://github.com/0xFenrik/Eternalblue): Eternalblue written in CSharp. Contains version detection, vulnerability scanner and exploit of MS17-010  
 [pwnphone](https://github.com/thehackingsage/pwnphone): DREAM DEVICE FOR HACKERS  
 [JbossExploit](https://github.com/k8gege/JbossExploit): MSF moudle jboss invoke deploy getshell Exploit  & Jboss jmx-console getshell exploit  
-[loopback4-vault](https://github.com/sourcefuse/loopback4-vault): A loopback-next extension for HashiCorp's Vault integration in loopback-next applications
+[loopback4-vault](https://github.com/sourcefuse/loopback4-vault): A loopback-next extension for HashiCorp's Vault integration in loopback-next applications  
+[Apache-HTTP-Server-Module-Backdoor](https://github.com/WangYihang/Apache-HTTP-Server-Module-Backdoor): :japanese_goblin: A Backdoor For Apache HTTP Server Written in C 
