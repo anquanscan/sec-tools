@@ -1634,4 +1634,5 @@
 [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening): A collection of awesome security hardening guides, tools and other resources  
 [BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence): ✨ Purpose only! The dangers of Bluetooth Low Energy（BLE）implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth LE stacks.  
 [reverseshell-powercat-v2](https://github.com/rexpository/reverseshell-powercat-v2): Bypass antivirus and gain a reverse shell on Windows with Powercat v2  
-[bylibrary](https://github.com/BaizeSec/bylibrary): 白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目
+[bylibrary](https://github.com/BaizeSec/bylibrary): 白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目  
+[asleep_scanner](https://github.com/d34db33f-1007/asleep_scanner): Dahua DVRs bruteforcer at port 37777
