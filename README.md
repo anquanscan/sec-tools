@@ -1669,4 +1669,5 @@
 [stealthware-backdoor](https://github.com/raunvk/stealthware-backdoor): Persistent & Undetectable Malware Backdoor  
 [sriracha-iq](https://github.com/tiburon-security/sriracha-iq): Rapid cybersecurity toolkit based on Elastic in Docker. Designed to quickly build elastic-based environments to analyze and execute threat hunting, blue team assessments, audits, and security control assessments.   
 [chronicle](https://github.com/paragonie/chronicle): Public append-only ledger microservice built with Slim Framework  
-[Follina_Exploiter_CLI](https://github.com/Hrishikesh7665/Follina_Exploiter_CLI): Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190)
+[Follina_Exploiter_CLI](https://github.com/Hrishikesh7665/Follina_Exploiter_CLI): Exploit Microsoft Zero-Day Vulnerability Follina (CVE-2022-30190)  
+[kickthemout](https://github.com/k4m4/kickthemout): 💤 Kick devices off your network by performing an ARP Spoof attack.
