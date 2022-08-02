@@ -1952,4 +1952,5 @@
 [posta](https://github.com/benso-io/posta): 🐙 Cross-document messaging security research tool powered by https://enso.security  
 [biostamp](https://github.com/biostamp/biostamp): A self-hosted, open-source biometric identity solution that provides ready-made, customizable components for quickly implementing advanced biometric identity. Join us towards a #passwordless future.  
 [dawgmon](https://github.com/anvilsecure/dawgmon): dawg the hallway monitor - monitor operating system changes and analyze introduced attack surface when installing software  
-[WEB1Tutorial.github.io](https://github.com/jemin777/WEB1Tutorial.github.io): WEB1.0 is the Most Standard Programming Language for WEB invented by  wilmix jemin j in NJDOLLAR at  OCT 2015 to develop a   WebService  with  namespace,  used for  security, used for  userfriendly  interface design, and  it  is  easy to use....  
+[WEB1Tutorial.github.io](https://github.com/jemin777/WEB1Tutorial.github.io): WEB1.0 is the Most Standard Programming Language for WEB invented by  wilmix jemin j in NJDOLLAR at  OCT 2015 to develop a   WebService  with  namespace,  used for  security, used for  userfriendly  interface design, and  it  is  easy to use....    
+[APSoft-Web-Scanner-v2](https://github.com/ph09nix/APSoft-Web-Scanner-v2): Powerful dork searcher and vulnerability scanner for windows platform
