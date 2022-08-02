@@ -2086,4 +2086,5 @@
 [clair-scanner](https://github.com/arminc/clair-scanner): Docker containers vulnerability scan  
 [pitch](https://github.com/OpenSourcePentest/pitch): The initial conversation slides and menu of scenarios  
 [DotUrl](https://github.com/Fergs32/DotUrl): .url | Open source URL vulnerability scanner with integrated Proxyscraper  
-[detectron2-dormalarm](https://github.com/DeepsMoseli/detectron2-dormalarm): I use detectron2  to demonstrate a  computer vision powered dorm room security system that leverages transfer learning.
+[detectron2-dormalarm](https://github.com/DeepsMoseli/detectron2-dormalarm): I use detectron2  to demonstrate a  computer vision powered dorm room security system that leverages transfer learning.  
+[Osintgram](https://github.com/Datalux/Osintgram): Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
