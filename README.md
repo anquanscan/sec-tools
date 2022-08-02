@@ -2096,4 +2096,5 @@
 [ratchet](https://github.com/sethvargo/ratchet): A tool for securing CI/CD workflows with version pinning.  
 [ds3-nrssr-rce](https://github.com/tremwil/ds3-nrssr-rce): Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.  
 [AboutSecurity](https://github.com/ffffffff0x/AboutSecurity): Everything for pentest. | 用于渗透测试的 payload 和 bypass 字典.  
-[api-firewall](https://github.com/wallarm/api-firewall): Fast and light-weight API proxy firewall for request and response validation by OpenAPI specs. 
+[api-firewall](https://github.com/wallarm/api-firewall): Fast and light-weight API proxy firewall for request and response validation by OpenAPI specs.   
+[pyshing](https://github.com/igor-m-martins/pyshing): [Phishing Tool]
