@@ -1976,4 +1976,5 @@
 [hacking-resources](https://github.com/Lifka/hacking-resources): Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.  
 [manticore](https://github.com/trailofbits/manticore): Symbolic execution tool  
 [SVE-2016-7930](https://github.com/frederic/SVE-2016-7930): Proof-of-Concept for SVE-2016-7930 : multiple buffer overflows in Samsung Galaxy bootloader  
-[wildpwn](https://github.com/localh0t/wildpwn): unix wildcard attacks
+[wildpwn](https://github.com/localh0t/wildpwn): unix wildcard attacks  
+[SmsReader](https://github.com/HackDagger/SmsReader): Android Sms Reader
