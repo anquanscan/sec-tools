@@ -2130,4 +2130,5 @@
 [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security): Awesome Node.js Security resources  
 [Otomasyon_Video_2_Selenium](https://github.com/acnrayd/Otomasyon_Video_2_Selenium): Selenium - Python ile Web Arayüz Otomasyonu (API ve SOAR olmayan bir ortamda), Örnek Senaryo, Firewall'dan Endpoint'e Otomatik Kural Yazma  
 [Phishing-Websites-Detection](https://github.com/sayakpaul/Phishing-Websites-Detection): Experiments to detect phishing websites using neural networks  
-[awesome-ics-writeups](https://github.com/neutrinoguy/awesome-ics-writeups): Collection of writeups on ICS/SCADA security. 
+[awesome-ics-writeups](https://github.com/neutrinoguy/awesome-ics-writeups): Collection of writeups on ICS/SCADA security.   
+[Shiro_exploit](https://github.com/insightglacier/Shiro_exploit): Apache Shiro 反序列化漏洞检测与利用工具
