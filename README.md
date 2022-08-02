@@ -1941,4 +1941,5 @@
 [vul-detect](https://github.com/nexus-lab/vul-detect): GitHub repository vulnerability detection and metrics.    
 [Pentest-Bookmarkz](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz): A collection of useful links for Pentesters  
 [MyExploits](https://github.com/hansmach1ne/MyExploits): Repo for discovered vulnerabilities/exploits  
-[magesecuritypatcher](https://github.com/magemojo/magesecuritypatcher): Magento 1 Security Patcher from MageMojo
+[magesecuritypatcher](https://github.com/magemojo/magesecuritypatcher): Magento 1 Security Patcher from MageMojo  
+[Linux-kernel-forensics-scripts](https://github.com/tin-z/Linux-kernel-forensics-scripts):  Gdb, r2, python scripts i made to perform binary analysis and forensic tasks.
