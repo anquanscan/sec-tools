@@ -2017,4 +2017,5 @@
 [cybersec-writeups](https://github.com/0xShad3/cybersec-writeups): That's a repo where I'll upload writeups for different topics related to cybersecurity.  
 [CVE-2018-19131](https://github.com/JonathanWilbur/CVE-2018-19131): Proof-of-Concept exploit of CVE-2018-19131: Squid Proxy XSS via X.509 Certificate  
 [HackInBo](https://github.com/drego85/HackInBo): Official Collection of Slides and Programs of HackInBo  
-[Dorkscan-Project](https://github.com/SivertPL/Dorkscan-Project): A new, better approach at dork scanning
+[Dorkscan-Project](https://github.com/SivertPL/Dorkscan-Project): A new, better approach at dork scanning  
+[linkedin-employee-scraper](https://github.com/ChrisAD/linkedin-employee-scraper): Extract all employees from LinkedIn. Especially useful for companies with thousands of employees.
