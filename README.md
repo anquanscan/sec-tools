@@ -1968,4 +1968,5 @@
 [Security-Event-Analysis-Automation-Tool](https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool): A SOC Analyst's tool to automate the investigation & validation of possible Indicators of Compromise (IOCs) and perform various tasks including Phishing Email Analysis & Brand Monitoring to fasten the incident response.  
 [Cronos-Crypter](https://github.com/TalosSec/Cronos-Crypter): Cronos Crypter is an simple example of crypter created for educational purposes.   
 [CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314):  Unauthenticated Sensitive Information Disclosure (CVE-2021–38314).  
-[pentestlab](https://github.com/itboxltda/pentestlab): Script to manage and create local pentesting training virtual lab
+[pentestlab](https://github.com/itboxltda/pentestlab): Script to manage and create local pentesting training virtual lab  
+[Lost-NDS-TV](https://github.com/LostNintendoHistory/Lost-NDS-TV): The Lost Nintendo DS Television Output, brought back to life
