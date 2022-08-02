@@ -2085,4 +2085,5 @@
 [Self-XSS-Finder](https://github.com/q-analysis/Self-XSS-Finder): Finding XSS with the X-FORWARDED-FOR header  
 [clair-scanner](https://github.com/arminc/clair-scanner): Docker containers vulnerability scan  
 [pitch](https://github.com/OpenSourcePentest/pitch): The initial conversation slides and menu of scenarios  
-[DotUrl](https://github.com/Fergs32/DotUrl): .url | Open source URL vulnerability scanner with integrated Proxyscraper
+[DotUrl](https://github.com/Fergs32/DotUrl): .url | Open source URL vulnerability scanner with integrated Proxyscraper  
+[detectron2-dormalarm](https://github.com/DeepsMoseli/detectron2-dormalarm): I use detectron2  to demonstrate a  computer vision powered dorm room security system that leverages transfer learning.
