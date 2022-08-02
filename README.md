@@ -1977,4 +1977,5 @@
 [manticore](https://github.com/trailofbits/manticore): Symbolic execution tool  
 [SVE-2016-7930](https://github.com/frederic/SVE-2016-7930): Proof-of-Concept for SVE-2016-7930 : multiple buffer overflows in Samsung Galaxy bootloader  
 [wildpwn](https://github.com/localh0t/wildpwn): unix wildcard attacks  
-[SmsReader](https://github.com/HackDagger/SmsReader): Android Sms Reader
+[SmsReader](https://github.com/HackDagger/SmsReader): Android Sms Reader  
+[Raccoon](https://github.com/evyatarmeged/Raccoon): A high performance offensive security tool for reconnaissance and vulnerability scanning
