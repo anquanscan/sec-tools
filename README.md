@@ -2140,4 +2140,5 @@
 [pyiocutils](https://github.com/cmatthewbrooks/pyiocutils): A collection of Python utilities for use in scripts related to working with "indicators of compromise" (IOCs).  
 [extractTVpasswords](https://github.com/vah13/extractTVpasswords): tool to extract passwords from TeamViewer memory using Frida  
 [attack-stix-data](https://github.com/mitre-attack/attack-stix-data): STIX data representing MITRE ATT&CK  
-[meltdown-c](https://github.com/Rambou/meltdown-c): Fork of saneki repository which is a port of Kao's delphi tool in C.
+[meltdown-c](https://github.com/Rambou/meltdown-c): Fork of saneki repository which is a port of Kao's delphi tool in C.  
+[onelinepy](https://github.com/spicesouls/onelinepy): Python Obfuscator to generate One-Liners and FUD Payloads.
