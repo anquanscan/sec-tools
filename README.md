@@ -2056,4 +2056,5 @@
 [iot-cves](https://github.com/InesMartins31/iot-cves): IoT CVEs as abnormal events to evaluate a real-time host-based IDS. https://doi.org/10.1016/j.future.2022.03.001  
 [exploit-CVE-2016-9920](https://github.com/t0kx/exploit-CVE-2016-9920): Roundcube 1.0.0 <= 1.2.2 Remote Code Execution exploit and vulnerable container  
 [i-wish-i-were-at-defcon-25-hack-a-thon](https://github.com/john-science/i-wish-i-were-at-defcon-25-hack-a-thon): My own "I wish I were at DefCon 25" Hack-a-Thon  
-[nTimetools](https://github.com/limbenjamin/nTimetools): Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes
+[nTimetools](https://github.com/limbenjamin/nTimetools): Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes  
+[log4shell4shell](https://github.com/suuhm/log4shell4shell): Log4shell - Multi-Toolkit. Find, Fix & Test possible CVE-2021-44228 vulneraries - provides a complete LOG4SHELL test/attack environment on shell
