@@ -2121,4 +2121,5 @@
 [XSScope](https://github.com/kleiton0x00/XSScope): XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS.  
 [hbhc](https://github.com/ASHWIN990/hbhc): HBHC is a tool writeen in Python3 for Cracking the hashes in speed, it's small and handy tools required only 2 arguments. 🏡 🍪 🔑 🔨  
 [Ridogram](https://github.com/iniridwanul/Ridogram): Ridogram is an advanced multi-featured Telegram UserBot.  
-[CVE-2018-15499](https://github.com/DownWithUp/CVE-2018-15499): PoC code for CVE-2018-15499 (exploit race condition for BSoD)
+[CVE-2018-15499](https://github.com/DownWithUp/CVE-2018-15499): PoC code for CVE-2018-15499 (exploit race condition for BSoD)  
+[XXE_Payload_List](https://github.com/omurugur/XXE_Payload_List): XML External Entity Vulnerability Payload List
