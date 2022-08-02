@@ -2110,4 +2110,5 @@
 [Owlyshield](https://github.com/SitinCloud/Owlyshield): Owlyshield is an open-source AI-driven behaviour based anti-malware engine written in Rust.   
 [Degate](https://github.com/DegateCommunity/Degate): A modern and open-source cross-platform software for chips reverse engineering.   
 [The-Hackers-Meetup-Application-Security-edition](https://github.com/nomadicmehul/The-Hackers-Meetup-Application-Security-edition): The Hacker's MeetUp is doing a Monthly Meet-Ups to provide a proper platform for the cyber security researchers as well as security enthusiast people who really inserted to learn something and take exposure of latest trends and issues in cyber security, deep dive into security domain and build a community.  
-[PyStat](https://github.com/roothaxor/PyStat): Advanced Netstat Using Python For Windows
+[PyStat](https://github.com/roothaxor/PyStat): Advanced Netstat Using Python For Windows  
+[naive-hashcat](https://github.com/brannondorsey/naive-hashcat): Crack password hashes without the fuss :cat2:
