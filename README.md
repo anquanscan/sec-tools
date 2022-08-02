@@ -2044,4 +2044,5 @@
 [cloud-lusat](https://github.com/cloud-sniper/cloud-lusat): Cloud Internal Threat Intelligence Feeds, Inventory and Compliance Data Collection  
 [onifw](https://github.com/w0bos/onifw): onifw is a console framework for pentesting  
 [warsend](https://github.com/thewhiteh4t/warsend): Apache Tomcat Manager API WAR Shell Upload   
-[DAws](https://github.com/dotcppfile/DAws): Advanced Web Shell
+[DAws](https://github.com/dotcppfile/DAws): Advanced Web Shell  
+[edb-49263-fixed](https://github.com/xenophil90/edb-49263-fixed): Fixed version of the Python script to exploit CVE-2018-19571 and CVE-2018-19585 (GitLab 11.4.7 - Authenticated Remote Code Execution) that is available at https://www.exploit-db.com/exploits/49263 (Python 3.9).
