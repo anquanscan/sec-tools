@@ -2099,4 +2099,5 @@
 [api-firewall](https://github.com/wallarm/api-firewall): Fast and light-weight API proxy firewall for request and response validation by OpenAPI specs.   
 [pyshing](https://github.com/igor-m-martins/pyshing): [Phishing Tool]  
 [MDPin](https://github.com/bastien8060/MDPin): MDPin is a server and a website. It contains an UI to fake a Android login screen to steal their pin code. It works via a web browser, by going into fullscreen.  
-[repo-supervisor](https://github.com/auth0/repo-supervisor): Scan your code for security misconfiguration, search for passwords and secrets. :mag:
+[repo-supervisor](https://github.com/auth0/repo-supervisor): Scan your code for security misconfiguration, search for passwords and secrets. :mag:  
+[SPN-Honeypot](https://github.com/whoamins/SPN-Honeypot): Detect Kerberoasting
