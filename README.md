@@ -2151,4 +2151,5 @@
 [TMOHS1-Root-Utility](https://github.com/natthawk/TMOHS1-Root-Utility): An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device.  
 [process_injector](https://github.com/kushvaibhav/process_injector)  
 [CloudPeler](https://github.com/zidansec/CloudPeler): CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.  
-[Instagram-h4cknew](https://github.com/ahmadchen/Instagram-h4cknew): How To Hacking Instagram ? Tutorial In Down 😷😎 Follow Me 
+[Instagram-h4cknew](https://github.com/ahmadchen/Instagram-h4cknew): How To Hacking Instagram ? Tutorial In Down 😷😎 Follow Me   
+[CVE-2022-30781](https://github.com/wuhan005/CVE-2022-30781): 🍵 Gitea repository migration remote command execution exploit.
