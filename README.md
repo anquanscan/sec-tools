@@ -2135,4 +2135,5 @@
 [Python-Shellcode-Buffer-Overflow](https://github.com/sectool/Python-Shellcode-Buffer-Overflow): Shellcode / Buffer Overflow 💣  
 [NERD](https://github.com/CESNET/NERD): Network Entity Reputation Database  
 [nessus-file-reader](https://github.com/LimberDuck/nessus-file-reader): CLI tool and python module which enables you to parse nessus scan files from Nessus and Tenable.SC by (C) Tenable, Inc.  
-[malware-ioc](https://github.com/prodaft/malware-ioc): This repository contains indicators of compromise (IOCs) of our various investigations.
+[malware-ioc](https://github.com/prodaft/malware-ioc): This repository contains indicators of compromise (IOCs) of our various investigations.  
+[PayloadSiteForPenTesters](https://github.com/tobor88/PayloadSiteForPenTesters): This is a site I made for easily hosting tools and payload over apache2 on Kali Linux so they are always ready to go. These are a collection of tools that can be downloaded with a site that is browsable for GUI situations.
