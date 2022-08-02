@@ -2156,4 +2156,5 @@
 [netpwn](https://github.com/3XPL017/netpwn): Tool made to automate tasks of pentesting.  
 [UAC_Exploit](https://github.com/0xyg3n/UAC_Exploit): Escalate as Administrator bypassing the UAC affecting administrator accounts only.  
 [xpid](https://github.com/kris-nova/xpid): Linux Process Discovery. C Library, Go bindings, Runtime.  
-[Blockchain_for_user_auth](https://github.com/rahul2227/Blockchain_for_user_auth): It is a project with an idea o using block chain for user authentication in various scenarios 
+[Blockchain_for_user_auth](https://github.com/rahul2227/Blockchain_for_user_auth): It is a project with an idea o using block chain for user authentication in various scenarios   
+[webanalyze](https://github.com/rverton/webanalyze): Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
