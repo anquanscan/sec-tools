@@ -2082,4 +2082,5 @@
 [BlooketUI](https://github.com/Blooketware/BlooketUI): The best Blooket Multitool out there.  
 [OS-CFI](https://github.com/mustakimur/OS-CFI): Origin-sensitive Control Flow Integrity (OS-CFI) - USENIX Security 2019  
 [Go_Learning_Repo](https://github.com/rwx-777/Go_Learning_Repo): This is my Go Learnig Repository for all fellow Go noobs. Focused on InfoSec.  
-[Self-XSS-Finder](https://github.com/q-analysis/Self-XSS-Finder): Finding XSS with the X-FORWARDED-FOR header
+[Self-XSS-Finder](https://github.com/q-analysis/Self-XSS-Finder): Finding XSS with the X-FORWARDED-FOR header  
+[clair-scanner](https://github.com/arminc/clair-scanner): Docker containers vulnerability scan
