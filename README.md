@@ -2102,4 +2102,5 @@
 [repo-supervisor](https://github.com/auth0/repo-supervisor): Scan your code for security misconfiguration, search for passwords and secrets. :mag:  
 [SPN-Honeypot](https://github.com/whoamins/SPN-Honeypot): Detect Kerberoasting  
 [BEST-HACKING-TOOLS](https://github.com/technicaldada/BEST-HACKING-TOOLS): BEST HACKING TOOLS..For more tools visit our blog for Hackers  
-[gex112](https://github.com/ruanpato/gex112): Segurança e auditoria de sistemas
+[gex112](https://github.com/ruanpato/gex112): Segurança e auditoria de sistemas  
+[Sepia](https://github.com/S4kur4/Sepia): 一款集PoC批量验证和漏洞攻击的渗透测试工具
