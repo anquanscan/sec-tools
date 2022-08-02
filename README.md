@@ -1990,4 +1990,5 @@
 [blooket-hack](https://github.com/shenkeYT/blooket-hack): The original Blooket hack!  
 [sdwan-infiltrator](https://github.com/sdnewhop/sdwan-infiltrator): :crystal_ball: NSE script to automatically discover SD-WAN nodes  
 [horusec](https://github.com/ZupIT/horusec): Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.  
-[padre](https://github.com/glebarez/padre): Blazing fast, advanced Padding Oracle exploit
+[padre](https://github.com/glebarez/padre): Blazing fast, advanced Padding Oracle exploit  
+[Yalu-Jailbreak-iOS-10.2](https://github.com/GeoSn0w/Yalu-Jailbreak-iOS-10.2): My own fork of (Beta) Yalu Jailbreak for iOS 10.0 to 10.2 by @kpwn and @marcograss with custom UI and other features.
