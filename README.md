@@ -2023,4 +2023,5 @@
 [Kh0p3sh](https://github.com/Akshay-Rohatgi/Kh0p3sh): :lock: Python tool for vulnerability assessment and persistence.  
 [diffy](https://github.com/Netflix-Skunkworks/diffy): Diffy is a triage tool used during cloud-centric security incidents, to help digital forensics and incident response (DFIR) teams quickly identify suspicious hosts on which to focus their response.  
 [csn09112](https://github.com/billbuchanan/csn09112): CSN09112 Module  
-[CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-9810): Exploit for CVE-2019-9810 Firefox on Windows 64-bit.
+[CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-9810): Exploit for CVE-2019-9810 Firefox on Windows 64-bit.  
+[awesome-reference](https://github.com/agussetyar/awesome-reference):  Reference list of useful links to learn about programming, networking, hacking, cybersecurity, ctf, bounty bug write-up, and more
