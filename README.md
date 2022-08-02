@@ -2031,4 +2031,5 @@
 [PandwaRF](https://github.com/ComThings/PandwaRF): PandwaRF: RF analysis tool with a sub-1 GHz wireless transceiver controlled by a smartphone or   
 [csp-builder](https://github.com/paragonie/csp-builder): Build Content-Security-Policy headers from a JSON file (or build them programmatically)  
 [CryptDown](https://github.com/ikkez/CryptDown): client-side AES-encrypted Markdown pastebin clone  
-[nothing-private](https://github.com/gautamkrishnar/nothing-private): Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   
+[nothing-private](https://github.com/gautamkrishnar/nothing-private): Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.     
+[2fa.day](https://github.com/intosec-nl/2fa.day): It's World 2FA Day on 2 FebuAry!
