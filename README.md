@@ -2037,4 +2037,5 @@
 [win10pro](https://github.com/Divinemonk/win10pro): Active  " Windows 10 Professional "  with our Activation Script for Free  
 [PHP-Auth](https://github.com/delight-im/PHP-Auth): Authentication for PHP. Simple, lightweight and secure.  
 [kalimux](https://github.com/noob-hackers/kalimux): Install And Use Kali Linux With Gui In Termux  
-[PasswordPusher](https://github.com/pglombardo/PasswordPusher): 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
+[PasswordPusher](https://github.com/pglombardo/PasswordPusher): 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  
+[Shellcode-Minidumpwritedump](https://github.com/0xFenrik/Shellcode-Minidumpwritedump): Shellcode for creating a minidump file of the lsass.exe process.
