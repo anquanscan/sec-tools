@@ -2154,4 +2154,5 @@
 [Instagram-h4cknew](https://github.com/ahmadchen/Instagram-h4cknew): How To Hacking Instagram ? Tutorial In Down 😷😎 Follow Me   
 [CVE-2022-30781](https://github.com/wuhan005/CVE-2022-30781): 🍵 Gitea repository migration remote command execution exploit.  
 [netpwn](https://github.com/3XPL017/netpwn): Tool made to automate tasks of pentesting.  
-[UAC_Exploit](https://github.com/0xyg3n/UAC_Exploit): Escalate as Administrator bypassing the UAC affecting administrator accounts only.
+[UAC_Exploit](https://github.com/0xyg3n/UAC_Exploit): Escalate as Administrator bypassing the UAC affecting administrator accounts only.  
+[xpid](https://github.com/kris-nova/xpid): Linux Process Discovery. C Library, Go bindings, Runtime.
