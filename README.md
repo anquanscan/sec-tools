@@ -2134,4 +2134,5 @@
 [Shiro_exploit](https://github.com/insightglacier/Shiro_exploit): Apache Shiro 反序列化漏洞检测与利用工具  
 [Python-Shellcode-Buffer-Overflow](https://github.com/sectool/Python-Shellcode-Buffer-Overflow): Shellcode / Buffer Overflow 💣  
 [NERD](https://github.com/CESNET/NERD): Network Entity Reputation Database  
-[nessus-file-reader](https://github.com/LimberDuck/nessus-file-reader): CLI tool and python module which enables you to parse nessus scan files from Nessus and Tenable.SC by (C) Tenable, Inc.
+[nessus-file-reader](https://github.com/LimberDuck/nessus-file-reader): CLI tool and python module which enables you to parse nessus scan files from Nessus and Tenable.SC by (C) Tenable, Inc.  
+[malware-ioc](https://github.com/prodaft/malware-ioc): This repository contains indicators of compromise (IOCs) of our various investigations.
