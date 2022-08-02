@@ -1946,4 +1946,5 @@
 [x64dbgpylib](https://github.com/x64dbg/x64dbgpylib): Port of windbglib to x64dbgpy, in an effort to support mona.py in x64dbg.  
 [Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner): Remote command execution vulnerability scanner for Log4j.  
 [AndroDucky](https://github.com/proxyanon/AndroDucky): Ferramenta para criação de payload HID para android sem nethunter e sem rubber ducky  
-[Checklist-Tools-Website](https://github.com/AlexisDanizan/Checklist-Tools-Website): 🍿 The perfect Checklist Website for meticulous developers.
+[Checklist-Tools-Website](https://github.com/AlexisDanizan/Checklist-Tools-Website): 🍿 The perfect Checklist Website for meticulous developers.  
+[shellen](https://github.com/merrychap/shellen): :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
