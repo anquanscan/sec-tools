@@ -2011,4 +2011,5 @@
 [kubescape](https://github.com/armosec/kubescape): Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.   
 [dref](https://github.com/FSecureLABS/dref):  DNS Rebinding Exploitation Framework   
 [Encrypted_Traffic_Classification](https://github.com/qa276390/Encrypted_Traffic_Classification): using deep learning to classify the encrypted network traffic  
-[zap2docker-auth-weekly](https://github.com/ICTU/zap2docker-auth-weekly): Zap baseline scanner in Docker with authentication
+[zap2docker-auth-weekly](https://github.com/ICTU/zap2docker-auth-weekly): Zap baseline scanner in Docker with authentication  
+[certspotter](https://github.com/SSLMate/certspotter): Certificate Transparency Log Monitor
