@@ -1962,4 +1962,5 @@
 [pySSH](https://github.com/krishpranav/pySSH): A simple python tool to get ssh password of a target machine when they connect to the pySSH server  
 [GlobalHookSample](https://github.com/katahiromz/GlobalHookSample): Win32 global hook sample  
 [openrasp-iast](https://github.com/baidu-security/openrasp-iast): IAST 灰盒扫描工具  
-[BugId](https://github.com/SkyLined/BugId): Detect, analyze and uniquely identify crashes in Windows applications
+[BugId](https://github.com/SkyLined/BugId): Detect, analyze and uniquely identify crashes in Windows applications  
+[pythonizing_nmap](https://github.com/gh0x0st/pythonizing_nmap): A detailed guide showing you different ways you can incorporate Python into your workflows around Nmap.
