@@ -2005,4 +2005,5 @@
 [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning): Web-Security-Learning  
 [Life-Hacks](https://github.com/haxonic-com/Life-Hacks): Few tools and cheat sheets, maybe useful for penetration testers and hackers while solving CTFs.  
 [Cov-ComSec.github.io](https://github.com/Cov-ComSec/Cov-ComSec.github.io): The official site for Coventry's Ethical Hacking Computer Security Society (ComSec), find our latest presentations, videos & announcements!  
-[websy](https://github.com/0xrishabh/websy): Keep track of changes in website with WEBSY
+[websy](https://github.com/0xrishabh/websy): Keep track of changes in website with WEBSY  
+[is_my_password_pwned](https://github.com/kevin-hanselman/is_my_password_pwned): How often does your password appear in the Pwned Passwords database? Uses the k-anonymity API.
