@@ -2003,4 +2003,5 @@
 [file-identifier](https://github.com/Ricky-001/file-identifier): A simple CLI Tool scripted in Python to check for File types based on MIME types and then comparing them with the extensions.  
 [SoulTaker-Multitool](https://github.com/Xooppp/SoulTaker-Multitool): SoulTaker is a Open-Source MultiTool written by myself, contains a lot of things such as a phone spoofer, ip lookup, dox tool etc.   
 [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning): Web-Security-Learning  
-[Life-Hacks](https://github.com/haxonic-com/Life-Hacks): Few tools and cheat sheets, maybe useful for penetration testers and hackers while solving CTFs.
+[Life-Hacks](https://github.com/haxonic-com/Life-Hacks): Few tools and cheat sheets, maybe useful for penetration testers and hackers while solving CTFs.  
+[Cov-ComSec.github.io](https://github.com/Cov-ComSec/Cov-ComSec.github.io): The official site for Coventry's Ethical Hacking Computer Security Society (ComSec), find our latest presentations, videos & announcements!
