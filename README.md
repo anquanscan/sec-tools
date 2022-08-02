@@ -2126,4 +2126,5 @@
 [misp-compliance](https://github.com/MISP/misp-compliance): Legal, procedural and policies document templates for operating MISP and information sharing communities  
 [Website_Vulnerbility_Checker](https://github.com/harishsg99/Website_Vulnerbility_Checker): This tools helps developers to check for xss and SQL injection vulnerability in websites  
 [MSF-Webkit-10.3](https://github.com/MTJailed/MSF-Webkit-10.3): A metasploit module for webkit exploits and PoC's targeting devices running iOS 10+  
-[syswall](https://github.com/polaris64/syswall): Work in progress firewall for Linux syscalls, written in Rust
+[syswall](https://github.com/polaris64/syswall): Work in progress firewall for Linux syscalls, written in Rust  
+[awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security): Awesome Node.js Security resources
