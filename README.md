@@ -2066,4 +2066,5 @@
 [nginx-tuning](https://github.com/denji/nginx-tuning): NGINX tuning for best performance  
 [ShowSheets](https://github.com/DBHeise/ShowSheets): A Simple CLI App to mark all EXCEL sheets visible (i.e. sets "Very Hidden" and "Hidden" to "Visible")  
 [iniscan](https://github.com/psecio/iniscan): A php.ini scanner for best security practices  
-[exploit-CVE-2019-14530](https://github.com/sec-it/exploit-CVE-2019-14530): OpenEMR < 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure
+[exploit-CVE-2019-14530](https://github.com/sec-it/exploit-CVE-2019-14530): OpenEMR < 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure  
+[Cyder](https://github.com/palwolus/Cyder): Cyder is a Honeypot that can imitate any machines Operating System (OS) that is available in the NMAP database
