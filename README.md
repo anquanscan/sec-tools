@@ -2012,4 +2012,5 @@
 [dref](https://github.com/FSecureLABS/dref):  DNS Rebinding Exploitation Framework   
 [Encrypted_Traffic_Classification](https://github.com/qa276390/Encrypted_Traffic_Classification): using deep learning to classify the encrypted network traffic  
 [zap2docker-auth-weekly](https://github.com/ICTU/zap2docker-auth-weekly): Zap baseline scanner in Docker with authentication  
-[certspotter](https://github.com/SSLMate/certspotter): Certificate Transparency Log Monitor
+[certspotter](https://github.com/SSLMate/certspotter): Certificate Transparency Log Monitor  
+[dnsmon-go](https://github.com/jonpulsifer/dnsmon-go): A golang DNS monitor inspired by https://github.com/gamelinux/passivedns
