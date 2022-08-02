@@ -2114,4 +2114,5 @@
 [naive-hashcat](https://github.com/brannondorsey/naive-hashcat): Crack password hashes without the fuss :cat2:  
 [nfstream](https://github.com/nfstream/nfstream): NFStream: a Flexible Network Data Analysis Framework.  
 [Bludit-auth-BF-bypass](https://github.com/noraj/Bludit-auth-BF-bypass): Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass  
-[anti-quack](https://github.com/afonso-pereira/anti-quack): Anti Bad USB Shell Script
+[anti-quack](https://github.com/afonso-pereira/anti-quack): Anti Bad USB Shell Script  
+[ras-fuzzer](https://github.com/hahwul/ras-fuzzer): RAS(RAndom Subdomain) Fuzzer
