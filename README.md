@@ -2014,4 +2014,5 @@
 [zap2docker-auth-weekly](https://github.com/ICTU/zap2docker-auth-weekly): Zap baseline scanner in Docker with authentication  
 [certspotter](https://github.com/SSLMate/certspotter): Certificate Transparency Log Monitor  
 [dnsmon-go](https://github.com/jonpulsifer/dnsmon-go): A golang DNS monitor inspired by https://github.com/gamelinux/passivedns  
-[cybersec-writeups](https://github.com/0xShad3/cybersec-writeups): That's a repo where I'll upload writeups for different topics related to cybersecurity.
+[cybersec-writeups](https://github.com/0xShad3/cybersec-writeups): That's a repo where I'll upload writeups for different topics related to cybersecurity.  
+[CVE-2018-19131](https://github.com/JonathanWilbur/CVE-2018-19131): Proof-of-Concept exploit of CVE-2018-19131: Squid Proxy XSS via X.509 Certificate
