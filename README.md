@@ -2128,4 +2128,5 @@
 [MSF-Webkit-10.3](https://github.com/MTJailed/MSF-Webkit-10.3): A metasploit module for webkit exploits and PoC's targeting devices running iOS 10+  
 [syswall](https://github.com/polaris64/syswall): Work in progress firewall for Linux syscalls, written in Rust  
 [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security): Awesome Node.js Security resources  
-[Otomasyon_Video_2_Selenium](https://github.com/acnrayd/Otomasyon_Video_2_Selenium): Selenium - Python ile Web Arayüz Otomasyonu (API ve SOAR olmayan bir ortamda), Örnek Senaryo, Firewall'dan Endpoint'e Otomatik Kural Yazma
+[Otomasyon_Video_2_Selenium](https://github.com/acnrayd/Otomasyon_Video_2_Selenium): Selenium - Python ile Web Arayüz Otomasyonu (API ve SOAR olmayan bir ortamda), Örnek Senaryo, Firewall'dan Endpoint'e Otomatik Kural Yazma  
+[Phishing-Websites-Detection](https://github.com/sayakpaul/Phishing-Websites-Detection): Experiments to detect phishing websites using neural networks
