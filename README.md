@@ -1987,4 +1987,5 @@
 [packj](https://github.com/ossillate-inc/packj): The vetting tool 🚀 behind our large-scale security analysis platform to detect malicious/risky open-source packages  
 [smbd-cpuminer-infection-fix](https://github.com/Menziess/smbd-cpuminer-infection-fix): A Samba exploit turned Linux into a goldmine. Those infected by the malware would have their systems mining cryptocurrency 24/7, causing their cpu to maintain a 100% usage. My droplet was infected, these were the steps to remove the infection.  
 [nm_objdump](https://github.com/nasrat-v/nm_objdump): A personal implementation of GNU shell commands: nm and objdump  
-[blooket-hack](https://github.com/shenkeYT/blooket-hack): The original Blooket hack!
+[blooket-hack](https://github.com/shenkeYT/blooket-hack): The original Blooket hack!  
+[sdwan-infiltrator](https://github.com/sdnewhop/sdwan-infiltrator): :crystal_ball: NSE script to automatically discover SD-WAN nodes
