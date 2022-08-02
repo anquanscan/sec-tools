@@ -1970,4 +1970,5 @@
 [CVE-2021-38314](https://github.com/orangmuda/CVE-2021-38314):  Unauthenticated Sensitive Information Disclosure (CVE-2021–38314).  
 [pentestlab](https://github.com/itboxltda/pentestlab): Script to manage and create local pentesting training virtual lab  
 [Lost-NDS-TV](https://github.com/LostNintendoHistory/Lost-NDS-TV): The Lost Nintendo DS Television Output, brought back to life  
-[shania](https://github.com/abdilahrf/shania): Scan secrets from Continuous Integration Build Logs
+[shania](https://github.com/abdilahrf/shania): Scan secrets from Continuous Integration Build Logs  
+[exploit-cve-2017-5715](https://github.com/opsxcq/exploit-cve-2017-5715): Spectre exploit
