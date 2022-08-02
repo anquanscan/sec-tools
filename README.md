@@ -1982,4 +1982,5 @@
 [anyelevate](https://github.com/kkent030315/anyelevate): x64 Windows privilege elevation using anycall  
 [zinc](https://github.com/zinclabs/zinc): ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.  
 [svg2raster-cheatsheet](https://github.com/yuriisanin/svg2raster-cheatsheet): A cheatsheet for exploiting server-side SVG rasterization.   
-[teensy-slcan](https://github.com/mintynet/teensy-slcan): Teensy slcan sketch for arduino IDE can be used on teensy 3.2, 3.5, 3.6, 4.0 & 4.1 for can2.0b
+[teensy-slcan](https://github.com/mintynet/teensy-slcan): Teensy slcan sketch for arduino IDE can be used on teensy 3.2, 3.5, 3.6, 4.0 & 4.1 for can2.0b  
+[SemanticCrashBucketing](https://github.com/squaresLab/SemanticCrashBucketing): Semantic Crash Bucketing
