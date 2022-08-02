@@ -2001,4 +2001,5 @@
 [azweb_decrypt](https://github.com/ol3k/azweb_decrypt): Paywall Issue: The provider leaks sensitive data like password, IV and salt which are used for encryption and can be used to decrypt the articles.  
 [RedTeam_Bypass-Detections](https://github.com/Truvis/RedTeam_Bypass-Detections): Collections of way to evade normal detection events.  
 [file-identifier](https://github.com/Ricky-001/file-identifier): A simple CLI Tool scripted in Python to check for File types based on MIME types and then comparing them with the extensions.  
-[SoulTaker-Multitool](https://github.com/Xooppp/SoulTaker-Multitool): SoulTaker is a Open-Source MultiTool written by myself, contains a lot of things such as a phone spoofer, ip lookup, dox tool etc. 
+[SoulTaker-Multitool](https://github.com/Xooppp/SoulTaker-Multitool): SoulTaker is a Open-Source MultiTool written by myself, contains a lot of things such as a phone spoofer, ip lookup, dox tool etc.   
+[Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning): Web-Security-Learning
