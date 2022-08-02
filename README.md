@@ -2089,4 +2089,5 @@
 [detectron2-dormalarm](https://github.com/DeepsMoseli/detectron2-dormalarm): I use detectron2  to demonstrate a  computer vision powered dorm room security system that leverages transfer learning.  
 [Osintgram](https://github.com/Datalux/Osintgram): Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname  
 [inspector-gadget](https://github.com/Alexandre-Bartel/inspector-gadget): Inspector-gadget (a.k.a. PSHAPE - Practical Support for Half-Automated Program Exploitation) is an open source tool which assists analysts in exploit development. It discovers gadgets, chains gadgets together, and ensures that side effects such as register dereferences do not crash the program.  
-[XsSCan](https://github.com/The404Hacking/XsSCan): XsSCan | Web Application XSS Scanner | Coded By Sir.4m1R [Mr.Hidden]
+[XsSCan](https://github.com/The404Hacking/XsSCan): XsSCan | Web Application XSS Scanner | Coded By Sir.4m1R [Mr.Hidden]  
+[security-scripts](https://github.com/PeterMosmans/security-scripts): A collection of security related Python and Bash shell scripts. Analyze hosts on generic security vulnerabilities. Wrapper around popular tools like nmap (portscanner), nikto (webscanner) and testssl.sh (SSL/TLS scanner)
