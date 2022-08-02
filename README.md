@@ -2053,4 +2053,5 @@
 [tag2domain](https://github.com/certtools/tag2domain): A mapping project between tags (annotations, labels) and domain names  
 [exposed-password](https://github.com/laravel-validation-rules/exposed-password): Validate that a password hasn't been exposed in a data breach.  
 [polichombr](https://github.com/ANSSI-FR/polichombr): Collaborative malware analysis framework  
-[iot-cves](https://github.com/InesMartins31/iot-cves): IoT CVEs as abnormal events to evaluate a real-time host-based IDS. https://doi.org/10.1016/j.future.2022.03.001
+[iot-cves](https://github.com/InesMartins31/iot-cves): IoT CVEs as abnormal events to evaluate a real-time host-based IDS. https://doi.org/10.1016/j.future.2022.03.001  
+[exploit-CVE-2016-9920](https://github.com/t0kx/exploit-CVE-2016-9920): Roundcube 1.0.0 <= 1.2.2 Remote Code Execution exploit and vulnerable container
