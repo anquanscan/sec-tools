@@ -2042,4 +2042,5 @@
 [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills): A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.  
 [Metaforge](https://github.com/chriswmorris/Metaforge): An OSINT Metadata analyzing tool that filters through tags and creates reports  
 [cloud-lusat](https://github.com/cloud-sniper/cloud-lusat): Cloud Internal Threat Intelligence Feeds, Inventory and Compliance Data Collection  
-[onifw](https://github.com/w0bos/onifw): onifw is a console framework for pentesting
+[onifw](https://github.com/w0bos/onifw): onifw is a console framework for pentesting  
+[warsend](https://github.com/thewhiteh4t/warsend): Apache Tomcat Manager API WAR Shell Upload 
