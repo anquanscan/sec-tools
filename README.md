@@ -1961,4 +1961,5 @@
 [revshellgen](https://github.com/t0thkr1s/revshellgen): Reverse shell generator written in Python 3.  
 [pySSH](https://github.com/krishpranav/pySSH): A simple python tool to get ssh password of a target machine when they connect to the pySSH server  
 [GlobalHookSample](https://github.com/katahiromz/GlobalHookSample): Win32 global hook sample  
-[openrasp-iast](https://github.com/baidu-security/openrasp-iast): IAST 灰盒扫描工具
+[openrasp-iast](https://github.com/baidu-security/openrasp-iast): IAST 灰盒扫描工具  
+[BugId](https://github.com/SkyLined/BugId): Detect, analyze and uniquely identify crashes in Windows applications
