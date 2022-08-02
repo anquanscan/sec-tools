@@ -1938,4 +1938,5 @@
 [Unban](https://github.com/werp420/Unban): Den unbanner det id du specificere hvis din ven fx får ban ;) (skift user_id = 1)   
 [Exegol](https://github.com/ShutdownRepo/Exegol): Fully featured and community-driven hacking environment  
 [WindowsExp](https://github.com/safesword/WindowsExp): Windows全版本提权脚本  
-[vul-detect](https://github.com/nexus-lab/vul-detect): GitHub repository vulnerability detection and metrics.  
+[vul-detect](https://github.com/nexus-lab/vul-detect): GitHub repository vulnerability detection and metrics.    
+[Pentest-Bookmarkz](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz): A collection of useful links for Pentesters
