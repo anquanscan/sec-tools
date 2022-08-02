@@ -2028,4 +2028,5 @@
 [sunlogin-exp-gui](https://github.com/theLSA/sunlogin-exp-gui): GUI版向日葵RCE漏洞利用工具 / GUI version of sunlogin exploit tool  
 [cargo-crev](https://github.com/crev-dev/cargo-crev): A cryptographically verifiable code review system for the cargo (Rust) package manager.  
 [API-SecurityEmpire](https://github.com/Cyber-Guy1/API-SecurityEmpire): API Security Project aims to present unique attack & defense methods in API Security field  
-[PandwaRF](https://github.com/ComThings/PandwaRF): PandwaRF: RF analysis tool with a sub-1 GHz wireless transceiver controlled by a smartphone or 
+[PandwaRF](https://github.com/ComThings/PandwaRF): PandwaRF: RF analysis tool with a sub-1 GHz wireless transceiver controlled by a smartphone or   
+[csp-builder](https://github.com/paragonie/csp-builder): Build Content-Security-Policy headers from a JSON file (or build them programmatically)
