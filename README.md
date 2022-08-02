@@ -1980,4 +1980,5 @@
 [SmsReader](https://github.com/HackDagger/SmsReader): Android Sms Reader  
 [Raccoon](https://github.com/evyatarmeged/Raccoon): A high performance offensive security tool for reconnaissance and vulnerability scanning  
 [anyelevate](https://github.com/kkent030315/anyelevate): x64 Windows privilege elevation using anycall  
-[zinc](https://github.com/zinclabs/zinc): ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+[zinc](https://github.com/zinclabs/zinc): ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.  
+[svg2raster-cheatsheet](https://github.com/yuriisanin/svg2raster-cheatsheet): A cheatsheet for exploiting server-side SVG rasterization. 
