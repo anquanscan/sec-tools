@@ -2019,4 +2019,5 @@
 [HackInBo](https://github.com/drego85/HackInBo): Official Collection of Slides and Programs of HackInBo  
 [Dorkscan-Project](https://github.com/SivertPL/Dorkscan-Project): A new, better approach at dork scanning  
 [linkedin-employee-scraper](https://github.com/ChrisAD/linkedin-employee-scraper): Extract all employees from LinkedIn. Especially useful for companies with thousands of employees.  
-[MikrotikSploit](https://github.com/0x802/MikrotikSploit): MikrotikSploit is a script that searches for and exploits Mikrotik network vulnerabilities
+[MikrotikSploit](https://github.com/0x802/MikrotikSploit): MikrotikSploit is a script that searches for and exploits Mikrotik network vulnerabilities  
+[Kh0p3sh](https://github.com/Akshay-Rohatgi/Kh0p3sh): :lock: Python tool for vulnerability assessment and persistence.
