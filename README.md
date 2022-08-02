@@ -2118,4 +2118,5 @@
 [ras-fuzzer](https://github.com/hahwul/ras-fuzzer): RAS(RAndom Subdomain) Fuzzer  
 [Python-random-module-cracker](https://github.com/tna0y/Python-random-module-cracker): Predict python's random module generated values.  
 [SeshWebsite](https://github.com/ShefESH/SeshWebsite): The website for Sheffield Ethical Student Hackers society  
-[XSScope](https://github.com/kleiton0x00/XSScope): XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS.
+[XSScope](https://github.com/kleiton0x00/XSScope): XSScope is one of the most powerful and advanced GUI Framework for Modern Browser exploitation via XSS.  
+[hbhc](https://github.com/ASHWIN990/hbhc): HBHC is a tool writeen in Python3 for Cracking the hashes in speed, it's small and handy tools required only 2 arguments. 🏡 🍪 🔑 🔨
