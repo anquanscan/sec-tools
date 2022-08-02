@@ -2034,4 +2034,5 @@
 [nothing-private](https://github.com/gautamkrishnar/nothing-private): Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.     
 [2fa.day](https://github.com/intosec-nl/2fa.day): It's World 2FA Day on 2 FebuAry!  
 [31-days-of-API-Security-Tips](https://github.com/inonshk/31-days-of-API-Security-Tips): This challenge is Inon Shkedy's 31 days API Security Tips.  
-[win10pro](https://github.com/Divinemonk/win10pro): Active  " Windows 10 Professional "  with our Activation Script for Free
+[win10pro](https://github.com/Divinemonk/win10pro): Active  " Windows 10 Professional "  with our Activation Script for Free  
+[PHP-Auth](https://github.com/delight-im/PHP-Auth): Authentication for PHP. Simple, lightweight and secure.
