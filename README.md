@@ -1997,4 +1997,5 @@
 [InfGather](https://github.com/donutsThatsHowWeGetAnts/InfGather): Information Gathering Scripts for Vulnerability Assessment  
 [endpointdiff](https://github.com/ameenmaali/endpointdiff): Wrapper around LinkFinder to quickly determine whether endpoints have been added/removed to JavaScript files.  
 [moonwalk](https://github.com/mufeedvh/moonwalk): Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.  
-[oss-backend](https://github.com/HiCooper/oss-backend): 仿写阿里云OSS，分布式对象存储OSS后端，支持 java sdk 授权访问，存储空间授权其他账户访问；技术栈：spring sercurity,mybatis， RS纠错冗余，Redis分布式锁；适用于一些严格要求内网部署的存储服务，如政府部门一些内部资料存储，同样可用于内部项目的文件存储相关的服务分离，支持sdk签发token直接与oss交互；
+[oss-backend](https://github.com/HiCooper/oss-backend): 仿写阿里云OSS，分布式对象存储OSS后端，支持 java sdk 授权访问，存储空间授权其他账户访问；技术栈：spring sercurity,mybatis， RS纠错冗余，Redis分布式锁；适用于一些严格要求内网部署的存储服务，如政府部门一些内部资料存储，同样可用于内部项目的文件存储相关的服务分离，支持sdk签发token直接与oss交互；  
+[azweb_decrypt](https://github.com/ol3k/azweb_decrypt): Paywall Issue: The provider leaks sensitive data like password, IV and salt which are used for encryption and can be used to decrypt the articles.
