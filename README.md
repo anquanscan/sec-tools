@@ -2092,4 +2092,5 @@
 [XsSCan](https://github.com/The404Hacking/XsSCan): XsSCan | Web Application XSS Scanner | Coded By Sir.4m1R [Mr.Hidden]  
 [security-scripts](https://github.com/PeterMosmans/security-scripts): A collection of security related Python and Bash shell scripts. Analyze hosts on generic security vulnerabilities. Wrapper around popular tools like nmap (portscanner), nikto (webscanner) and testssl.sh (SSL/TLS scanner)  
 [NMapGUI](https://github.com/daniel-cues/NMapGUI): Advanced Graphical User Interface for NMap  
-[HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings): My documentation and tools for learn ethical hacking.
+[HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings): My documentation and tools for learn ethical hacking.  
+[ratchet](https://github.com/sethvargo/ratchet): A tool for securing CI/CD workflows with version pinning.
