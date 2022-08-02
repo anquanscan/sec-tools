@@ -1936,4 +1936,5 @@
 [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks): A Collection of Hacks in IoT Space so that we can address them (hopefully).  
 [mana-security-app](https://github.com/manasecurity/mana-security-app): macOS vulnerability management for individuals  
 [Unban](https://github.com/werp420/Unban): Den unbanner det id du specificere hvis din ven fx får ban ;) (skift user_id = 1)   
-[Exegol](https://github.com/ShutdownRepo/Exegol): Fully featured and community-driven hacking environment
+[Exegol](https://github.com/ShutdownRepo/Exegol): Fully featured and community-driven hacking environment  
+[WindowsExp](https://github.com/safesword/WindowsExp): Windows全版本提权脚本
