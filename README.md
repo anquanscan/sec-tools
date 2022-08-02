@@ -2145,4 +2145,5 @@
 [zauth](https://github.com/RijulGulati/zauth): 2FA (Two-Factor Authentication) application for CLI terminal with support to import/export andOTP files.  
 [Ecommerce-Website-Security-CheckList](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList): List of considerations for commerce site auditing and security teams. This is summary of action points and areas that need to be built into the Techinical Specific Document, or will be checked in the Security testing phases.  
 [h-encore-2](https://github.com/TheOfficialFloW/h-encore-2): Fully chained kernel exploit for the PS Vita on firmwares 3.65-3.74  
-[openvas-docker](https://github.com/mikesplain/openvas-docker): A Docker container for Openvas
+[openvas-docker](https://github.com/mikesplain/openvas-docker): A Docker container for Openvas  
+[Safiler](https://github.com/Bo0oM/Safiler): Safari local file reader
