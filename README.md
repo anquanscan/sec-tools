@@ -2080,4 +2080,5 @@
 [wsvd-bench](https://github.com/nmsa/wsvd-bench): Benchmarking Vulnerability Detection Tools for Web Services  
 [ATutor-Instructor-Backup-Arbitrary-File](https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File): ATutor 2.2.4 'Backup' Remote Command Execution (CVE-2019-12170)  
 [BlooketUI](https://github.com/Blooketware/BlooketUI): The best Blooket Multitool out there.  
-[OS-CFI](https://github.com/mustakimur/OS-CFI): Origin-sensitive Control Flow Integrity (OS-CFI) - USENIX Security 2019
+[OS-CFI](https://github.com/mustakimur/OS-CFI): Origin-sensitive Control Flow Integrity (OS-CFI) - USENIX Security 2019  
+[Go_Learning_Repo](https://github.com/rwx-777/Go_Learning_Repo): This is my Go Learnig Repository for all fellow Go noobs. Focused on InfoSec.
