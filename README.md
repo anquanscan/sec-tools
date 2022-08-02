@@ -1950,4 +1950,5 @@
 [shellen](https://github.com/merrychap/shellen): :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes  
 [cybersecurity-appsec](https://github.com/paulveillard/cybersecurity-appsec): A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Application Security.  
 [posta](https://github.com/benso-io/posta): 🐙 Cross-document messaging security research tool powered by https://enso.security  
-[biostamp](https://github.com/biostamp/biostamp): A self-hosted, open-source biometric identity solution that provides ready-made, customizable components for quickly implementing advanced biometric identity. Join us towards a #passwordless future.
+[biostamp](https://github.com/biostamp/biostamp): A self-hosted, open-source biometric identity solution that provides ready-made, customizable components for quickly implementing advanced biometric identity. Join us towards a #passwordless future.  
+[dawgmon](https://github.com/anvilsecure/dawgmon): dawg the hallway monitor - monitor operating system changes and analyze introduced attack surface when installing software
