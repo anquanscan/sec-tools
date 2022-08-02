@@ -2046,4 +2046,5 @@
 [warsend](https://github.com/thewhiteh4t/warsend): Apache Tomcat Manager API WAR Shell Upload   
 [DAws](https://github.com/dotcppfile/DAws): Advanced Web Shell  
 [edb-49263-fixed](https://github.com/xenophil90/edb-49263-fixed): Fixed version of the Python script to exploit CVE-2018-19571 and CVE-2018-19585 (GitLab 11.4.7 - Authenticated Remote Code Execution) that is available at https://www.exploit-db.com/exploits/49263 (Python 3.9).  
-[K8CScan](https://github.com/k8gege/K8CScan): K8Cscan大型内网渗透自定义插件化扫描神器，包含信息收集、网络资产、漏洞扫描、密码爆破、漏洞利用，程序采用多线程批量扫描大型内网多个IP段C段主机，目前插件包含: C段旁注扫描、子域名扫描、Ftp密码爆破、Mysql密码爆破、Oracle密码爆破、MSSQL密码爆破、Windows/Linux系统密码爆破、存活主机扫描、端口扫描、Web信息探测、操作系统版本探测、Cisco思科设备扫描等,支持调用任意外部程序或脚本，支持Cobalt Strike联动
+[K8CScan](https://github.com/k8gege/K8CScan): K8Cscan大型内网渗透自定义插件化扫描神器，包含信息收集、网络资产、漏洞扫描、密码爆破、漏洞利用，程序采用多线程批量扫描大型内网多个IP段C段主机，目前插件包含: C段旁注扫描、子域名扫描、Ftp密码爆破、Mysql密码爆破、Oracle密码爆破、MSSQL密码爆破、Windows/Linux系统密码爆破、存活主机扫描、端口扫描、Web信息探测、操作系统版本探测、Cisco思科设备扫描等,支持调用任意外部程序或脚本，支持Cobalt Strike联动  
+[Resources-for-learning](https://github.com/APT-0/Resources-for-learning): l
