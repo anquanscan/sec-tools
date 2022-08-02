@@ -2100,4 +2100,5 @@
 [pyshing](https://github.com/igor-m-martins/pyshing): [Phishing Tool]  
 [MDPin](https://github.com/bastien8060/MDPin): MDPin is a server and a website. It contains an UI to fake a Android login screen to steal their pin code. It works via a web browser, by going into fullscreen.  
 [repo-supervisor](https://github.com/auth0/repo-supervisor): Scan your code for security misconfiguration, search for passwords and secrets. :mag:  
-[SPN-Honeypot](https://github.com/whoamins/SPN-Honeypot): Detect Kerberoasting
+[SPN-Honeypot](https://github.com/whoamins/SPN-Honeypot): Detect Kerberoasting  
+[BEST-HACKING-TOOLS](https://github.com/technicaldada/BEST-HACKING-TOOLS): BEST HACKING TOOLS..For more tools visit our blog for Hackers
