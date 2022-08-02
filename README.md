@@ -2147,4 +2147,5 @@
 [h-encore-2](https://github.com/TheOfficialFloW/h-encore-2): Fully chained kernel exploit for the PS Vita on firmwares 3.65-3.74  
 [openvas-docker](https://github.com/mikesplain/openvas-docker): A Docker container for Openvas  
 [Safiler](https://github.com/Bo0oM/Safiler): Safari local file reader  
-[Malicious-URL-Detection](https://github.com/vinayakumarr/Malicious-URL-Detection): Malicious URL Detection using classical machine learning and deep learning
+[Malicious-URL-Detection](https://github.com/vinayakumarr/Malicious-URL-Detection): Malicious URL Detection using classical machine learning and deep learning  
+[TMOHS1-Root-Utility](https://github.com/natthawk/TMOHS1-Root-Utility): An interactive python script that enables root access on the T-Mobile (Wingtech) TMOHS1, as well as providing several useful utilites to change the configuration of the device.
