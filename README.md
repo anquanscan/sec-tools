@@ -2024,4 +2024,5 @@
 [diffy](https://github.com/Netflix-Skunkworks/diffy): Diffy is a triage tool used during cloud-centric security incidents, to help digital forensics and incident response (DFIR) teams quickly identify suspicious hosts on which to focus their response.  
 [csn09112](https://github.com/billbuchanan/csn09112): CSN09112 Module  
 [CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-9810): Exploit for CVE-2019-9810 Firefox on Windows 64-bit.  
-[awesome-reference](https://github.com/agussetyar/awesome-reference):  Reference list of useful links to learn about programming, networking, hacking, cybersecurity, ctf, bounty bug write-up, and more
+[awesome-reference](https://github.com/agussetyar/awesome-reference):  Reference list of useful links to learn about programming, networking, hacking, cybersecurity, ctf, bounty bug write-up, and more  
+[sunlogin-exp-gui](https://github.com/theLSA/sunlogin-exp-gui): GUI版向日葵RCE漏洞利用工具 / GUI version of sunlogin exploit tool
