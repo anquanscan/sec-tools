@@ -2155,4 +2155,5 @@
 [CVE-2022-30781](https://github.com/wuhan005/CVE-2022-30781): 🍵 Gitea repository migration remote command execution exploit.  
 [netpwn](https://github.com/3XPL017/netpwn): Tool made to automate tasks of pentesting.  
 [UAC_Exploit](https://github.com/0xyg3n/UAC_Exploit): Escalate as Administrator bypassing the UAC affecting administrator accounts only.  
-[xpid](https://github.com/kris-nova/xpid): Linux Process Discovery. C Library, Go bindings, Runtime.
+[xpid](https://github.com/kris-nova/xpid): Linux Process Discovery. C Library, Go bindings, Runtime.  
+[Blockchain_for_user_auth](https://github.com/rahul2227/Blockchain_for_user_auth): It is a project with an idea o using block chain for user authentication in various scenarios 
