@@ -2075,4 +2075,5 @@
 [shellver](https://github.com/0xR0/shellver): Reverse Shell Cheat Sheet TooL  
 [javascript-rat-antivirus-bypass](https://github.com/qorncat/javascript-rat-antivirus-bypass): don't use for bad matters so i blocked already, don't try :D  
 [Penetration_PoC](https://github.com/CnHack3r/Penetration_PoC): FROM:@Mr-xn 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms  
-[coreruleset](https://github.com/coreruleset/coreruleset): OWASP ModSecurity Core Rule Set (Official Repository)
+[coreruleset](https://github.com/coreruleset/coreruleset): OWASP ModSecurity Core Rule Set (Official Repository)  
+[LightCosmosRat](https://github.com/robitec97/LightCosmosRat): A remote administration tool for Windows, written in C#
