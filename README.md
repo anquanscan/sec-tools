@@ -2050,4 +2050,5 @@
 [Resources-for-learning](https://github.com/APT-0/Resources-for-learning): l  
 [awesome-appsec](https://github.com/paragonie/awesome-appsec): A curated list of resources for learning about application security  
 [smart-url-fuzzer](https://github.com/avilum/smart-url-fuzzer): Explore URLs of domains fast and efficiently using fuzzing techniques  
-[tag2domain](https://github.com/certtools/tag2domain): A mapping project between tags (annotations, labels) and domain names
+[tag2domain](https://github.com/certtools/tag2domain): A mapping project between tags (annotations, labels) and domain names  
+[exposed-password](https://github.com/laravel-validation-rules/exposed-password): Validate that a password hasn't been exposed in a data breach.
