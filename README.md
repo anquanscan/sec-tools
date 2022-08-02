@@ -2116,4 +2116,5 @@
 [Bludit-auth-BF-bypass](https://github.com/noraj/Bludit-auth-BF-bypass): Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass  
 [anti-quack](https://github.com/afonso-pereira/anti-quack): Anti Bad USB Shell Script  
 [ras-fuzzer](https://github.com/hahwul/ras-fuzzer): RAS(RAndom Subdomain) Fuzzer  
-[Python-random-module-cracker](https://github.com/tna0y/Python-random-module-cracker): Predict python's random module generated values.
+[Python-random-module-cracker](https://github.com/tna0y/Python-random-module-cracker): Predict python's random module generated values.  
+[SeshWebsite](https://github.com/ShefESH/SeshWebsite): The website for Sheffield Ethical Student Hackers society
