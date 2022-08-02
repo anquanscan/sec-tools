@@ -2004,4 +2004,5 @@
 [SoulTaker-Multitool](https://github.com/Xooppp/SoulTaker-Multitool): SoulTaker is a Open-Source MultiTool written by myself, contains a lot of things such as a phone spoofer, ip lookup, dox tool etc.   
 [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning): Web-Security-Learning  
 [Life-Hacks](https://github.com/haxonic-com/Life-Hacks): Few tools and cheat sheets, maybe useful for penetration testers and hackers while solving CTFs.  
-[Cov-ComSec.github.io](https://github.com/Cov-ComSec/Cov-ComSec.github.io): The official site for Coventry's Ethical Hacking Computer Security Society (ComSec), find our latest presentations, videos & announcements!
+[Cov-ComSec.github.io](https://github.com/Cov-ComSec/Cov-ComSec.github.io): The official site for Coventry's Ethical Hacking Computer Security Society (ComSec), find our latest presentations, videos & announcements!  
+[websy](https://github.com/0xrishabh/websy): Keep track of changes in website with WEBSY
