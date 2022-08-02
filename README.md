@@ -2026,4 +2026,5 @@
 [CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-9810): Exploit for CVE-2019-9810 Firefox on Windows 64-bit.  
 [awesome-reference](https://github.com/agussetyar/awesome-reference):  Reference list of useful links to learn about programming, networking, hacking, cybersecurity, ctf, bounty bug write-up, and more  
 [sunlogin-exp-gui](https://github.com/theLSA/sunlogin-exp-gui): GUI版向日葵RCE漏洞利用工具 / GUI version of sunlogin exploit tool  
-[cargo-crev](https://github.com/crev-dev/cargo-crev): A cryptographically verifiable code review system for the cargo (Rust) package manager.
+[cargo-crev](https://github.com/crev-dev/cargo-crev): A cryptographically verifiable code review system for the cargo (Rust) package manager.  
+[API-SecurityEmpire](https://github.com/Cyber-Guy1/API-SecurityEmpire): API Security Project aims to present unique attack & defense methods in API Security field
