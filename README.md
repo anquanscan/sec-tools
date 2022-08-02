@@ -1964,4 +1964,5 @@
 [openrasp-iast](https://github.com/baidu-security/openrasp-iast): IAST 灰盒扫描工具  
 [BugId](https://github.com/SkyLined/BugId): Detect, analyze and uniquely identify crashes in Windows applications  
 [pythonizing_nmap](https://github.com/gh0x0st/pythonizing_nmap): A detailed guide showing you different ways you can incorporate Python into your workflows around Nmap.  
-[PythonHackingBook1](https://github.com/xuanhun/PythonHackingBook1): Python黑客编程之极速入门
+[PythonHackingBook1](https://github.com/xuanhun/PythonHackingBook1): Python黑客编程之极速入门  
+[Security-Event-Analysis-Automation-Tool](https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool): A SOC Analyst's tool to automate the investigation & validation of possible Indicators of Compromise (IOCs) and perform various tasks including Phishing Email Analysis & Brand Monitoring to fasten the incident response.
