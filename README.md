@@ -2078,4 +2078,5 @@
 [coreruleset](https://github.com/coreruleset/coreruleset): OWASP ModSecurity Core Rule Set (Official Repository)  
 [LightCosmosRat](https://github.com/robitec97/LightCosmosRat): A remote administration tool for Windows, written in C#  
 [wsvd-bench](https://github.com/nmsa/wsvd-bench): Benchmarking Vulnerability Detection Tools for Web Services  
-[ATutor-Instructor-Backup-Arbitrary-File](https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File): ATutor 2.2.4 'Backup' Remote Command Execution (CVE-2019-12170)
+[ATutor-Instructor-Backup-Arbitrary-File](https://github.com/fuzzlove/ATutor-Instructor-Backup-Arbitrary-File): ATutor 2.2.4 'Backup' Remote Command Execution (CVE-2019-12170)  
+[BlooketUI](https://github.com/Blooketware/BlooketUI): The best Blooket Multitool out there.
