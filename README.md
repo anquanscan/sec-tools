@@ -1989,4 +1989,5 @@
 [nm_objdump](https://github.com/nasrat-v/nm_objdump): A personal implementation of GNU shell commands: nm and objdump  
 [blooket-hack](https://github.com/shenkeYT/blooket-hack): The original Blooket hack!  
 [sdwan-infiltrator](https://github.com/sdnewhop/sdwan-infiltrator): :crystal_ball: NSE script to automatically discover SD-WAN nodes  
-[horusec](https://github.com/ZupIT/horusec): Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
+[horusec](https://github.com/ZupIT/horusec): Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.  
+[padre](https://github.com/glebarez/padre): Blazing fast, advanced Padding Oracle exploit
