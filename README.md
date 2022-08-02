@@ -1935,4 +1935,5 @@
 [SpyLocator](https://github.com/mugiluri/SpyLocator): A desktop application for detecting key logging activities based on active processes. Created in C# with visual studio 2019 for windows OS.  
 [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks): A Collection of Hacks in IoT Space so that we can address them (hopefully).  
 [mana-security-app](https://github.com/manasecurity/mana-security-app): macOS vulnerability management for individuals  
-[Unban](https://github.com/werp420/Unban): Den unbanner det id du specificere hvis din ven fx får ban ;) (skift user_id = 1) 
+[Unban](https://github.com/werp420/Unban): Den unbanner det id du specificere hvis din ven fx får ban ;) (skift user_id = 1)   
+[Exegol](https://github.com/ShutdownRepo/Exegol): Fully featured and community-driven hacking environment
