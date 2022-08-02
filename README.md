@@ -2133,4 +2133,5 @@
 [awesome-ics-writeups](https://github.com/neutrinoguy/awesome-ics-writeups): Collection of writeups on ICS/SCADA security.   
 [Shiro_exploit](https://github.com/insightglacier/Shiro_exploit): Apache Shiro 反序列化漏洞检测与利用工具  
 [Python-Shellcode-Buffer-Overflow](https://github.com/sectool/Python-Shellcode-Buffer-Overflow): Shellcode / Buffer Overflow 💣  
-[NERD](https://github.com/CESNET/NERD): Network Entity Reputation Database
+[NERD](https://github.com/CESNET/NERD): Network Entity Reputation Database  
+[nessus-file-reader](https://github.com/LimberDuck/nessus-file-reader): CLI tool and python module which enables you to parse nessus scan files from Nessus and Tenable.SC by (C) Tenable, Inc.
