@@ -2124,4 +2124,5 @@
 [CVE-2018-15499](https://github.com/DownWithUp/CVE-2018-15499): PoC code for CVE-2018-15499 (exploit race condition for BSoD)  
 [XXE_Payload_List](https://github.com/omurugur/XXE_Payload_List): XML External Entity Vulnerability Payload List  
 [misp-compliance](https://github.com/MISP/misp-compliance): Legal, procedural and policies document templates for operating MISP and information sharing communities  
-[Website_Vulnerbility_Checker](https://github.com/harishsg99/Website_Vulnerbility_Checker): This tools helps developers to check for xss and SQL injection vulnerability in websites
+[Website_Vulnerbility_Checker](https://github.com/harishsg99/Website_Vulnerbility_Checker): This tools helps developers to check for xss and SQL injection vulnerability in websites  
+[MSF-Webkit-10.3](https://github.com/MTJailed/MSF-Webkit-10.3): A metasploit module for webkit exploits and PoC's targeting devices running iOS 10+
