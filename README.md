@@ -2093,4 +2093,5 @@
 [security-scripts](https://github.com/PeterMosmans/security-scripts): A collection of security related Python and Bash shell scripts. Analyze hosts on generic security vulnerabilities. Wrapper around popular tools like nmap (portscanner), nikto (webscanner) and testssl.sh (SSL/TLS scanner)  
 [NMapGUI](https://github.com/daniel-cues/NMapGUI): Advanced Graphical User Interface for NMap  
 [HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings): My documentation and tools for learn ethical hacking.  
-[ratchet](https://github.com/sethvargo/ratchet): A tool for securing CI/CD workflows with version pinning.
+[ratchet](https://github.com/sethvargo/ratchet): A tool for securing CI/CD workflows with version pinning.  
+[ds3-nrssr-rce](https://github.com/tremwil/ds3-nrssr-rce): Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.
