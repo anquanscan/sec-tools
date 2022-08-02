@@ -1993,4 +1993,5 @@
 [padre](https://github.com/glebarez/padre): Blazing fast, advanced Padding Oracle exploit  
 [Yalu-Jailbreak-iOS-10.2](https://github.com/GeoSn0w/Yalu-Jailbreak-iOS-10.2): My own fork of (Beta) Yalu Jailbreak for iOS 10.0 to 10.2 by @kpwn and @marcograss with custom UI and other features.  
 [py_webauthn](https://github.com/duo-labs/py_webauthn): Pythonic WebAuthn  
-[Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam): 一个红队知识仓库
+[Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam): 一个红队知识仓库  
+[InfGather](https://github.com/donutsThatsHowWeGetAnts/InfGather): Information Gathering Scripts for Vulnerability Assessment
