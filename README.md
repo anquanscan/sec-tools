@@ -2084,4 +2084,5 @@
 [Go_Learning_Repo](https://github.com/rwx-777/Go_Learning_Repo): This is my Go Learnig Repository for all fellow Go noobs. Focused on InfoSec.  
 [Self-XSS-Finder](https://github.com/q-analysis/Self-XSS-Finder): Finding XSS with the X-FORWARDED-FOR header  
 [clair-scanner](https://github.com/arminc/clair-scanner): Docker containers vulnerability scan  
-[pitch](https://github.com/OpenSourcePentest/pitch): The initial conversation slides and menu of scenarios
+[pitch](https://github.com/OpenSourcePentest/pitch): The initial conversation slides and menu of scenarios  
+[DotUrl](https://github.com/Fergs32/DotUrl): .url | Open source URL vulnerability scanner with integrated Proxyscraper
