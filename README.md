@@ -2141,4 +2141,5 @@
 [extractTVpasswords](https://github.com/vah13/extractTVpasswords): tool to extract passwords from TeamViewer memory using Frida  
 [attack-stix-data](https://github.com/mitre-attack/attack-stix-data): STIX data representing MITRE ATT&CK  
 [meltdown-c](https://github.com/Rambou/meltdown-c): Fork of saneki repository which is a port of Kao's delphi tool in C.  
-[onelinepy](https://github.com/spicesouls/onelinepy): Python Obfuscator to generate One-Liners and FUD Payloads.
+[onelinepy](https://github.com/spicesouls/onelinepy): Python Obfuscator to generate One-Liners and FUD Payloads.  
+[zauth](https://github.com/RijulGulati/zauth): 2FA (Two-Factor Authentication) application for CLI terminal with support to import/export andOTP files.
