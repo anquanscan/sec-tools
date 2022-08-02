@@ -2094,4 +2094,5 @@
 [NMapGUI](https://github.com/daniel-cues/NMapGUI): Advanced Graphical User Interface for NMap  
 [HackingAllTheThings](https://github.com/mikaelkall/HackingAllTheThings): My documentation and tools for learn ethical hacking.  
 [ratchet](https://github.com/sethvargo/ratchet): A tool for securing CI/CD workflows with version pinning.  
-[ds3-nrssr-rce](https://github.com/tremwil/ds3-nrssr-rce): Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.
+[ds3-nrssr-rce](https://github.com/tremwil/ds3-nrssr-rce): Documentation and proof of concept code for CVE-2022-24125 and CVE-2022-24126.  
+[AboutSecurity](https://github.com/ffffffff0x/AboutSecurity): Everything for pentest. | 用于渗透测试的 payload 和 bypass 字典.
