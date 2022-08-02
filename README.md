@@ -2143,4 +2143,5 @@
 [meltdown-c](https://github.com/Rambou/meltdown-c): Fork of saneki repository which is a port of Kao's delphi tool in C.  
 [onelinepy](https://github.com/spicesouls/onelinepy): Python Obfuscator to generate One-Liners and FUD Payloads.  
 [zauth](https://github.com/RijulGulati/zauth): 2FA (Two-Factor Authentication) application for CLI terminal with support to import/export andOTP files.  
-[Ecommerce-Website-Security-CheckList](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList): List of considerations for commerce site auditing and security teams. This is summary of action points and areas that need to be built into the Techinical Specific Document, or will be checked in the Security testing phases.
+[Ecommerce-Website-Security-CheckList](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList): List of considerations for commerce site auditing and security teams. This is summary of action points and areas that need to be built into the Techinical Specific Document, or will be checked in the Security testing phases.  
+[h-encore-2](https://github.com/TheOfficialFloW/h-encore-2): Fully chained kernel exploit for the PS Vita on firmwares 3.65-3.74
