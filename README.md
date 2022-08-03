@@ -2190,4 +2190,5 @@
 [cve-2019-11447](https://github.com/thewhiteh4t/cve-2019-11447): CutePHP Cute News 2.1.2 RCE PoC  
 [BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor): A backdoor with a multitude of features.  
 [awesome-ddos-tools](https://github.com/theodorecooper/awesome-ddos-tools): Collection of several DDos tools.  
-[squatm3](https://github.com/david3107/squatm3): Squatm3 is a python tool designed to enumerate available domains generated modifying the original domain name through different techniques
+[squatm3](https://github.com/david3107/squatm3): Squatm3 is a python tool designed to enumerate available domains generated modifying the original domain name through different techniques  
+[clair-openshift](https://github.com/arocki7/clair-openshift): Openshift template for Clair (Docker vulnerability Scanner)
