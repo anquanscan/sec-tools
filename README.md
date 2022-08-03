@@ -2208,4 +2208,5 @@
 [notruler](https://github.com/sensepost/notruler): The opposite of Ruler, provides blue teams with the ability to detect Ruler usage against Exchange.  
 [remediar](https://github.com/fabaff/remediar): Remediar is an issue and vulnerability tracker framework  
 [CVE-2020-27976](https://github.com/k0rnh0li0/CVE-2020-27976): osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE  
-[eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets): An eslint plugin to find strings that might be secrets/credentials
+[eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets): An eslint plugin to find strings that might be secrets/credentials  
+[OSCP-Cheat-Sheet](https://github.com/akenofu/OSCP-Cheat-Sheet): This is my OSCP cheat sheet made by combining a lot of different resources online with a little bit of tweaking. I used this cheat sheet during my exam (Fri, 13 Sep 2019) and during the labs. I can proudly say it helped me pass so I hope it can help you as well ! Good Luck and Try Harder
