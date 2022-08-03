@@ -2228,4 +2228,5 @@
 [goMS17-010](https://github.com/jflyup/goMS17-010): Simple program for detecting if host(s) are vulnerable to SMB exploit(MS17-010)  
 [security-txt](https://github.com/securitytxt/security-txt): A proposed standard that allows websites to define security policies.  
 [loopback4-ratelimiter](https://github.com/sourcefuse/loopback4-ratelimiter): A rate limiting extension for loopback4 applications  
-[Quasar](https://github.com/quasar/Quasar): Remote Administration Tool for Windows
+[Quasar](https://github.com/quasar/Quasar): Remote Administration Tool for Windows  
+[CVE-2019-1476](https://github.com/sgabe/CVE-2019-1476): AppXSvc Arbitrary File Overwrite DoS
