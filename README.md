@@ -2342,4 +2342,5 @@
 [instahack](https://github.com/evildevill/instahack): instahack is a bash & python based script which is officially made to test password strength of Instagram account from termux and kali  with bruteforce attack and. it based on tor This tool works on both rooted Android device and Non-rooted Android device. Best Tool For Instagram Bruteforce hacking Tool By Waseem Akram. Made in Bash & python. This is an official repository of instahack  
 [gzip](https://github.com/tbela99/gzip): Optimize any Joomla website and/or turn it into a Progressive Web Application  
 [BTCPriceFeed](https://github.com/tls-n/BTCPriceFeed): Secure Bitcoin price feed based on TLS-N proofs.  
-[My-Reports](https://github.com/h0nus/My-Reports): Here I'll share my pentest's reports. Html or Pdf or just txt files;
+[My-Reports](https://github.com/h0nus/My-Reports): Here I'll share my pentest's reports. Html or Pdf or just txt files;  
+[x41-smartcard-fuzzing](https://github.com/x41sec/x41-smartcard-fuzzing): X41 Smartcard Fuzzer
