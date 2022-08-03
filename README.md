@@ -2230,4 +2230,5 @@
 [loopback4-ratelimiter](https://github.com/sourcefuse/loopback4-ratelimiter): A rate limiting extension for loopback4 applications  
 [Quasar](https://github.com/quasar/Quasar): Remote Administration Tool for Windows  
 [CVE-2019-1476](https://github.com/sgabe/CVE-2019-1476): AppXSvc Arbitrary File Overwrite DoS  
-[My_Secured_Memo](https://github.com/Khushik514/My_Secured_Memo): An android application that allows you to secure your notes with the highest level of security ,i.e., Fingerprint. Only the people with their fingerprints in the system can access, edit, delete or share the notes. It has dark theme as well!
+[My_Secured_Memo](https://github.com/Khushik514/My_Secured_Memo): An android application that allows you to secure your notes with the highest level of security ,i.e., Fingerprint. Only the people with their fingerprints in the system can access, edit, delete or share the notes. It has dark theme as well!  
+[linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits): linux-kernel-exploits Linux平台提权漏洞集合
