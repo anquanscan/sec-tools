@@ -2273,4 +2273,5 @@
 [cybersecurity-exploit-development](https://github.com/paulveillard/cybersecurity-exploit-development): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development.  
 [scirius](https://github.com/StamusNetworks/scirius): Scirius is a web application for Suricata ruleset management and threat hunting.  
 [kicks3](https://github.com/abuvanth/kicks3): S3 bucket finder from html,js and bucket misconfiguration testing tool  
-[SecCrawler](https://github.com/Le0nsec/SecCrawler): 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
+[SecCrawler](https://github.com/Le0nsec/SecCrawler): 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。  
+[goaltdns](https://github.com/subfinder/goaltdns): A permutation generation tool written in golang
