@@ -2271,4 +2271,5 @@
 [RDDoS_Tool](https://github.com/Red-company/RDDoS_Tool): 🔫 Red DDoS Tool is  -THE BEST- tool for DDoS attacks.  
 [Vulnerous](https://github.com/ScorchingShade/Vulnerous): A vulnerability and network analysis tool with many additional features!  
 [cybersecurity-exploit-development](https://github.com/paulveillard/cybersecurity-exploit-development): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development.  
-[scirius](https://github.com/StamusNetworks/scirius): Scirius is a web application for Suricata ruleset management and threat hunting.
+[scirius](https://github.com/StamusNetworks/scirius): Scirius is a web application for Suricata ruleset management and threat hunting.  
+[kicks3](https://github.com/abuvanth/kicks3): S3 bucket finder from html,js and bucket misconfiguration testing tool
