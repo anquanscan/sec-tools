@@ -2260,4 +2260,5 @@
 [DoubleStar](https://github.com/forrest-orr/DoubleStar): A personalized/enhanced re-creation of the Darkhotel "Double Star" APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques  
 [recaptcha](https://github.com/c181/recaptcha): CakePHP 3 reCaptcha Plugin  
 [hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers  
-[OPCDE](https://github.com/msuiche/OPCDE): OPCDE Cybersecurity Conference Materials
+[OPCDE](https://github.com/msuiche/OPCDE): OPCDE Cybersecurity Conference Materials  
+[SolarPuttyDecrypt](https://github.com/VoidSec/SolarPuttyDecrypt): A post-exploitation tool to decrypt SolarPutty's sessions files
