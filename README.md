@@ -2247,4 +2247,5 @@
 [RedTeamTools](https://github.com/lengjibo/RedTeamTools): 记录自己编写、修改的部分工具  
 [subzy](https://github.com/LukaSikic/subzy): Subdomain takeover vulnerability checker  
 [torDDoS](https://github.com/r3nt0n/torDDoS): Automate tool DDoS Attack over Tor Network  
-[otax](https://github.com/0x44F/otax): "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec.
+[otax](https://github.com/0x44F/otax): "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec.  
+[tempesta](https://github.com/tempesta-tech/tempesta): All-in-one solution for high performance web content delivery and advanced protection against DDoS and web attacks
