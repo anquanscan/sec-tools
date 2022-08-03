@@ -2352,4 +2352,5 @@
 [go-cves](https://github.com/cokeBeer/go-cves): 收录go语言编写的项目、框架和组件出现的cve，或者一些相关的利用方式的文章  
 [vulniq-security-scanner](https://github.com/vulniq/vulniq-security-scanner): VulnIQ Security Scanner, Terzi  
 [log4scan](https://github.com/fuji97/log4scan): A simple automatic tool for finding vulnerable log4j hosts  
-[OpenNetAdmin18.1.1RCE](https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE): OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE)
+[OpenNetAdmin18.1.1RCE](https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE): OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE)  
+[phishytics-machine-learning-for-phishing](https://github.com/faizann24/phishytics-machine-learning-for-phishing): Machine Learning for Phishing Website Detection
