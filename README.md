@@ -2188,4 +2188,5 @@
 [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet): One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️  
 [rajappan](https://github.com/kaiiyer/rajappan): An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE  
 [cve-2019-11447](https://github.com/thewhiteh4t/cve-2019-11447): CutePHP Cute News 2.1.2 RCE PoC  
-[BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor): A backdoor with a multitude of features.
+[BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor): A backdoor with a multitude of features.  
+[awesome-ddos-tools](https://github.com/theodorecooper/awesome-ddos-tools): Collection of several DDos tools.
