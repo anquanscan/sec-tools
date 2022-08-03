@@ -2177,4 +2177,5 @@
 [domfind](https://github.com/diogo-fernan/domfind): A Python DNS crawler to find identical domain names under different TLDs.  
 [OllyDbg-Scripts](https://github.com/ThomasThelen/OllyDbg-Scripts): Unpacking scripts for Ollydbg.  
 [swap_digger](https://github.com/sevagas/swap_digger):  swap_digger is a tool used to automate Linux swap analysis during post-exploitation or forensics. It automates swap extraction and searches for Linux user credentials, web forms credentials, web forms emails, http basic authentication, Wifi SSID and keys, etc.  
-[OSweep](https://github.com/ecstatic-nobel/OSweep): Don't Just Search OSINT. Sweep It.
+[OSweep](https://github.com/ecstatic-nobel/OSweep): Don't Just Search OSINT. Sweep It.  
+[maalik](https://github.com/quantumcore/maalik): Feature-rich Post Exploitation Framework with Network Pivoting capabilities.
