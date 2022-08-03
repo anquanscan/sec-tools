@@ -2323,4 +2323,5 @@
 [poro](https://github.com/9rnt/poro): Scan publicly accessible assets on your AWS cloud environment  
 [articulos](https://github.com/R3LI4NT/articulos): Artículos relacionados a la Ciberseguridad y Hacking.  
 [PacketMagician](https://github.com/DpoofikD/PacketMagician): Linux tool written in C++ for creating and sending fully customizable TCP, UDP or ICMP packets with payloads.  
-[exitmap](https://github.com/NullHypothesis/exitmap): A fast and modular scanner for Tor exit relays. The canonical repository (including issue tracker) is at https://gitlab.torproject.org/tpo/network-health/exitmap
+[exitmap](https://github.com/NullHypothesis/exitmap): A fast and modular scanner for Tor exit relays. The canonical repository (including issue tracker) is at https://gitlab.torproject.org/tpo/network-health/exitmap  
+[empty-argv-segfault-check](https://github.com/eriksjolund/empty-argv-segfault-check): Test if an executable segfaults when started with an empty argv. The script may be used as a vulnerability-scanner to find setuid executables having buggy code (but it will probably not find any direct security vulnerabilities).
