@@ -2237,4 +2237,5 @@
 [android-zoo](https://github.com/murksombra/android-zoo): A collection of proof of concepts of android malwares. For educational purposes only.  
 [CVE-2021-31166-Exploit](https://github.com/y0g3sh-99/CVE-2021-31166-Exploit): Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166)  
 [InfosecHouse](https://github.com/InfosecHouse/InfosecHouse): Infosec resource center for offensive and defensive security operations.  
-[gsvsoc_mission-model](https://github.com/guardsight/gsvsoc_mission-model): Incident Response Report Using GitHub-Sphinx
+[gsvsoc_mission-model](https://github.com/guardsight/gsvsoc_mission-model): Incident Response Report Using GitHub-Sphinx  
+[CVE-2018-16711](https://github.com/DownWithUp/CVE-2018-16711): PoC code for CVE-2018-16711 (exploit by wrmsr)
