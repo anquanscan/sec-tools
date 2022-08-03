@@ -2302,4 +2302,5 @@
 [xforwardy](https://github.com/roottusk/xforwardy): Host Header Injection Scanner  
 [Privilege-Escalation-For-Linux](https://github.com/Somchandra17/Privilege-Escalation-For-Linux): Bypass security restrictions in misconfigured systems.  
 [PowerExfil](https://github.com/1N3/PowerExfil): A collection of data exfiltration scripts for Red Team assessments.  
-[vsftpd-2.3.4-vulnerable](https://github.com/vitalyford/vsftpd-2.3.4-vulnerable): This repo spins up vulnerable vsftpd-2.3.4 containers that can be used in security courses
+[vsftpd-2.3.4-vulnerable](https://github.com/vitalyford/vsftpd-2.3.4-vulnerable): This repo spins up vulnerable vsftpd-2.3.4 containers that can be used in security courses  
+[Autoban](https://github.com/werp420/Autoban): Det i har ventet på ;) | autobanner via mysql.
