@@ -2219,4 +2219,5 @@
 [libdiffuzz](https://github.com/Shnatsel/libdiffuzz): Custom memory allocator that helps discover reads from uninitialized memory  
 [killshot](https://github.com/bahaabdelwahed/killshot): A Penetration Testing Framework, Information gathering tool & Website Vulnerability Scanner  
 [AVMP](https://github.com/RackReaver/AVMP): A collection of tools for managing and automating vulnerability management.  
-[execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer): Tool for viewing and analyzing execution traces
+[execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer): Tool for viewing and analyzing execution traces  
+[Cyber-Playbook](https://github.com/rowland007/Cyber-Playbook): Playbooks are used by cybersecurity professionals to store or encapsulate knowledge on cybersecurity topics and tactics. I will use these again and again in the field to deal with situations as they arise. The idea is that I don’t want to wait until a challenging situation arises to have a plan; I want to already have potential mitigation strategies in my playbook that can help kickstart my process toward finding solutions.
