@@ -2316,4 +2316,5 @@
 [vUte](https://github.com/okno/vUte): VeraCrypt Bruteforcer  
 [jenkins-shell](https://github.com/joesmithjaffa/jenkins-shell): Automating Jenkins Hacking using Shodan API  
 [Steal-Not-Safe](https://github.com/aleff-github/Steal-Not-Safe): Stealing a computer won't be as easy as it used to be, as long as you have Python and an internet connection.  
-[nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker): Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
+[nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker): Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders  
+[ApplicationInspector](https://github.com/microsoft/ApplicationInspector): A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
