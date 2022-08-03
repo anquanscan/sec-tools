@@ -2246,4 +2246,5 @@
 [cloudrasp-log4j2](https://github.com/boundaryx/cloudrasp-log4j2): 一个针对防御 log4j2 CVE-2021-44228 漏洞的 RASP 工具。 A Runtime Application Self-Protection module specifically designed for log4j2 RCE (CVE-2021-44228) defense.  
 [RedTeamTools](https://github.com/lengjibo/RedTeamTools): 记录自己编写、修改的部分工具  
 [subzy](https://github.com/LukaSikic/subzy): Subdomain takeover vulnerability checker  
-[torDDoS](https://github.com/r3nt0n/torDDoS): Automate tool DDoS Attack over Tor Network
+[torDDoS](https://github.com/r3nt0n/torDDoS): Automate tool DDoS Attack over Tor Network  
+[otax](https://github.com/0x44F/otax): "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec.
