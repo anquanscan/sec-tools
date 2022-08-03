@@ -2181,4 +2181,5 @@
 [maalik](https://github.com/quantumcore/maalik): Feature-rich Post Exploitation Framework with Network Pivoting capabilities.  
 [CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera): 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337  
 [CVE-2018-19788](https://github.com/d4gh0s7/CVE-2018-19788): Ansible role to check the vulnerability tracked as CVE-2018-19788, impacts PolicyKit version 0.115 which comes pre-installed on a wide range of Linux distributions  
-[OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag): A rust based cross-platform ECU diagnostics and car hacking application, utilizing the passthru protocol
+[OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag): A rust based cross-platform ECU diagnostics and car hacking application, utilizing the passthru protocol  
+[Recon-X](https://github.com/Yashvendra/Recon-X): Advanced Reconnaissance tool to enumerate attacking surface of the target. 
