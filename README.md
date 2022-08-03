@@ -2241,4 +2241,5 @@
 [CVE-2018-16711](https://github.com/DownWithUp/CVE-2018-16711): PoC code for CVE-2018-16711 (exploit by wrmsr)  
 [m3n0sd0n4ld.github.io](https://github.com/m3n0sd0n4ld/m3n0sd0n4ld.github.io): Resource where I will be posting #HTB, #THM, #VulnHub and others, scripts, exploits, personal articles or talks I have participated in security conferences.  
 [client-python](https://github.com/OpenCTI-Platform/client-python): OpenCTI Python Client  
-[aqua-helm](https://github.com/aquasecurity/aqua-helm): Helm Charts For Installing Aqua Security Components 
+[aqua-helm](https://github.com/aquasecurity/aqua-helm): Helm Charts For Installing Aqua Security Components   
+[PivotSuite](https://github.com/RedTeamOperations/PivotSuite): Network Pivoting Toolkit
