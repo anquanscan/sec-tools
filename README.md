@@ -2284,4 +2284,5 @@
 [data_obfuscation](https://github.com/biniamf/data_obfuscation): Data Obfuscation for C/C++ Code Based on Residue Number Coding (RNC)  
 [CVE-2018-16713](https://github.com/DownWithUp/CVE-2018-16713): PoC code for CVE-2018-16713 (exploit by rdmsr)  
 [Librefox](https://github.com/intika/Librefox): Librefox: Firefox with privacy enhancements  
-[mqtts](https://github.com/SPuerBRead/mqtts): MQTT安全测试工具 (MQTT Security Tools)
+[mqtts](https://github.com/SPuerBRead/mqtts): MQTT安全测试工具 (MQTT Security Tools)  
+[VolumEraser](https://github.com/schefa/VolumEraser): Securely erases all data from a disk (USB Drive, SD Card etc.) based on the U.S. Department of Defense's standard 'National Industrial Security Program Operating Manual' (US DoD 5220.22-M ECE)
