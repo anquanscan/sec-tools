@@ -2203,4 +2203,5 @@
 [leaky_diode](https://github.com/secnot/leaky_diode): Leaky diode is a data exfiltration test tool for data diodes.  
 [phishalytics](https://github.com/sjbell/phishalytics): Measurement system I built during my PhD to collect and analyse large-scale datasets; including phishing and malware attacks on Twitter, blacklist characterisation, and phishing detection capabilities of web browsers.  
 [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins): The plugin repository for Honeycomb, the honeypot framework by Cymmetria  
-[FlipKart-Grid-Information-Security](https://github.com/Sanchit611/FlipKart-Grid-Information-Security): Flipkart Grid 4.0 Submission for Information Security Challenge
+[FlipKart-Grid-Information-Security](https://github.com/Sanchit611/FlipKart-Grid-Information-Security): Flipkart Grid 4.0 Submission for Information Security Challenge  
+[CiscoRV320Dump](https://github.com/0x27/CiscoRV320Dump): CVE-2019-1652 /CVE-2019-1653 Exploits For Dumping Cisco RV320 Configurations & Debugging Data AND Remote Root Exploit!
