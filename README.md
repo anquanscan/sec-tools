@@ -2183,4 +2183,5 @@
 [CVE-2018-19788](https://github.com/d4gh0s7/CVE-2018-19788): Ansible role to check the vulnerability tracked as CVE-2018-19788, impacts PolicyKit version 0.115 which comes pre-installed on a wide range of Linux distributions  
 [OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag): A rust based cross-platform ECU diagnostics and car hacking application, utilizing the passthru protocol  
 [Recon-X](https://github.com/Yashvendra/Recon-X): Advanced Reconnaissance tool to enumerate attacking surface of the target.   
-[fingerlib](https://github.com/Xisabla/fingerlib): HTTP Fingerprint generation library in C++
+[fingerlib](https://github.com/Xisabla/fingerlib): HTTP Fingerprint generation library in C++  
+[CVE-2018-20343](https://github.com/Alexandre-Bartel/CVE-2018-20343): PoC for CVE-2018-20343
