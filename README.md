@@ -2276,4 +2276,5 @@
 [SecCrawler](https://github.com/Le0nsec/SecCrawler): 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。  
 [goaltdns](https://github.com/subfinder/goaltdns): A permutation generation tool written in golang  
 [awesome-checker-services](https://github.com/Brunty/awesome-checker-services): ✅ List of links to the various checkers out there on the web for sites, domains, security etc.  
-[macos-scripts](https://github.com/0xmachos/macos-scripts): Various scripts for macOS tasks
+[macos-scripts](https://github.com/0xmachos/macos-scripts): Various scripts for macOS tasks  
+[Awesome-hacking-tools](https://github.com/awake1t/Awesome-hacking-tools):  收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助
