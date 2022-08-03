@@ -2251,4 +2251,5 @@
 [tempesta](https://github.com/tempesta-tech/tempesta): All-in-one solution for high performance web content delivery and advanced protection against DDoS and web attacks  
 [Threat-Hunting-and-Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection): Repository for threat hunting and detection queries, tools, etc.  
 [cameradar](https://github.com/Ullaakut/cameradar): Cameradar hacks its way into RTSP videosurveillance cameras  
-[cfltools](https://github.com/bradley-evans/cfltools): A logfile analysis tool for cyberforensics investigators.
+[cfltools](https://github.com/bradley-evans/cfltools): A logfile analysis tool for cyberforensics investigators.  
+[ruby-ann-webattack-filtering](https://github.com/bararchy/ruby-ann-webattack-filtering): A project to filter SQL Injection and XSS attacks using ANN -- in Ruby
