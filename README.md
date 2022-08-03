@@ -2207,4 +2207,5 @@
 [CiscoRV320Dump](https://github.com/0x27/CiscoRV320Dump): CVE-2019-1652 /CVE-2019-1653 Exploits For Dumping Cisco RV320 Configurations & Debugging Data AND Remote Root Exploit!  
 [notruler](https://github.com/sensepost/notruler): The opposite of Ruler, provides blue teams with the ability to detect Ruler usage against Exchange.  
 [remediar](https://github.com/fabaff/remediar): Remediar is an issue and vulnerability tracker framework  
-[CVE-2020-27976](https://github.com/k0rnh0li0/CVE-2020-27976): osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE
+[CVE-2020-27976](https://github.com/k0rnh0li0/CVE-2020-27976): osCommerce Phoenix CE <=1.0.5.4 Authenticated RCE  
+[eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets): An eslint plugin to find strings that might be secrets/credentials
