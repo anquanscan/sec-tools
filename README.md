@@ -2350,4 +2350,5 @@
 [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference): An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.  
 [Gr3eNoX](https://github.com/Black-Hell-Team/Gr3eNoX): Advanced Vulnerability Scanner Tool  
 [go-cves](https://github.com/cokeBeer/go-cves): 收录go语言编写的项目、框架和组件出现的cve，或者一些相关的利用方式的文章  
-[vulniq-security-scanner](https://github.com/vulniq/vulniq-security-scanner): VulnIQ Security Scanner, Terzi
+[vulniq-security-scanner](https://github.com/vulniq/vulniq-security-scanner): VulnIQ Security Scanner, Terzi  
+[log4scan](https://github.com/fuji97/log4scan): A simple automatic tool for finding vulnerable log4j hosts
