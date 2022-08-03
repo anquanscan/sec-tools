@@ -2199,4 +2199,5 @@
 [CVE-2018-15961](https://github.com/vah13/CVE-2018-15961): Unrestricted file upload in Adobe ColdFusion  
 [insiders](https://github.com/trickest/insiders): Archive of Potential Insider Threats  
 [CTFd](https://github.com/CTFd/CTFd): CTFs as you need them  
-[iamzero](https://github.com/common-fate/iamzero): Identity & Access Management simplified and secure.
+[iamzero](https://github.com/common-fate/iamzero): Identity & Access Management simplified and secure.  
+[leaky_diode](https://github.com/secnot/leaky_diode): Leaky diode is a data exfiltration test tool for data diodes.
