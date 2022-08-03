@@ -2340,4 +2340,5 @@
 [external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding): Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing  
 [gitGraber](https://github.com/hisxo/gitGraber): gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...  
 [instahack](https://github.com/evildevill/instahack): instahack is a bash & python based script which is officially made to test password strength of Instagram account from termux and kali  with bruteforce attack and. it based on tor This tool works on both rooted Android device and Non-rooted Android device. Best Tool For Instagram Bruteforce hacking Tool By Waseem Akram. Made in Bash & python. This is an official repository of instahack  
-[gzip](https://github.com/tbela99/gzip): Optimize any Joomla website and/or turn it into a Progressive Web Application
+[gzip](https://github.com/tbela99/gzip): Optimize any Joomla website and/or turn it into a Progressive Web Application  
+[BTCPriceFeed](https://github.com/tls-n/BTCPriceFeed): Secure Bitcoin price feed based on TLS-N proofs.
