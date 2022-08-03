@@ -2294,4 +2294,5 @@
 [pyyso](https://github.com/cokeBeer/pyyso): pyyso is a Python package that generate java serialized poc. Including CommonsCollections1-7, JDK7u21, JDK8u20, ldap for jndi, shiro-550, CommonsBeanutils1 no cc, JRMPClient, high version JDK Bypass, Fake MySQL for JDBC attack  
 [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security): A curated list of awesome Ethereum security references  
 [cmd32](https://github.com/szybnev/cmd32): Fork of https://github.com/klinix5/InstallerFileTakeOver  
-[antisamy](https://github.com/nahsra/antisamy): a library for performing fast, configurable cleansing of HTML coming from untrusted sources
+[antisamy](https://github.com/nahsra/antisamy): a library for performing fast, configurable cleansing of HTML coming from untrusted sources  
+[Burp-Addons](https://github.com/SofianeHamlaoui/Burp-Addons): Burp-Addons : Some of Burp Addons I use ( Mindak ak fahem ) 
