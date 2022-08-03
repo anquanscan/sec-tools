@@ -2184,4 +2184,5 @@
 [OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag): A rust based cross-platform ECU diagnostics and car hacking application, utilizing the passthru protocol  
 [Recon-X](https://github.com/Yashvendra/Recon-X): Advanced Reconnaissance tool to enumerate attacking surface of the target.   
 [fingerlib](https://github.com/Xisabla/fingerlib): HTTP Fingerprint generation library in C++  
-[CVE-2018-20343](https://github.com/Alexandre-Bartel/CVE-2018-20343): PoC for CVE-2018-20343
+[CVE-2018-20343](https://github.com/Alexandre-Bartel/CVE-2018-20343): PoC for CVE-2018-20343  
+[DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet): One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
