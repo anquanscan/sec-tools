@@ -2291,4 +2291,5 @@
 [Hacking-Tools-Pack](https://github.com/Interpreter-THOR/Hacking-Tools-Pack): Trojan Rat Builder(310), Ransomware Builder(17), Crypter(72), Miner(9), Worm(8), Botnet(25), Virus Builder(9), Binder(25), Exploit(7), Keylogger & Stealer(40), Proxy Tool(9), Spoofer(11),Fake program & Sample Virus(64),Other & Tools(16). Around 𝟔𝟑𝟎 tools, that you can use for Hacking.  
 [BrokenSMTP](https://github.com/mrlew1s/BrokenSMTP): Small python script to look for common vulnerabilities on SMTP server.  
 [vimana-framework](https://github.com/s4dhulabs/vimana-framework): Vimana is an experimental security framework that aims to provide resources for auditing Python web applications.  
-[pyyso](https://github.com/cokeBeer/pyyso): pyyso is a Python package that generate java serialized poc. Including CommonsCollections1-7, JDK7u21, JDK8u20, ldap for jndi, shiro-550, CommonsBeanutils1 no cc, JRMPClient, high version JDK Bypass, Fake MySQL for JDBC attack
+[pyyso](https://github.com/cokeBeer/pyyso): pyyso is a Python package that generate java serialized poc. Including CommonsCollections1-7, JDK7u21, JDK8u20, ldap for jndi, shiro-550, CommonsBeanutils1 no cc, JRMPClient, high version JDK Bypass, Fake MySQL for JDBC attack  
+[awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security): A curated list of awesome Ethereum security references
