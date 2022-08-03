@@ -2334,4 +2334,5 @@
 [kalitorify](https://github.com/brainfucksec/kalitorify): Transparent proxy through Tor for Kali Linux OS  
 [lobster-pot](https://github.com/salesforce/lobster-pot): Scans every git push to your Github organisations to find unwanted secrets.  
 [CITM](https://github.com/jamestiotio/CITM): Battle Cats MITM Mailbox Hack [PATCHED]  
-[AdvBox](https://github.com/advboxes/AdvBox): Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
+[AdvBox](https://github.com/advboxes/AdvBox): Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.  
+[arbimz](https://github.com/oppsec/arbimz): 🔥  Arbimz is a python tool created to exploit the vulnerability on Zimbra assigned as CVE-2019-9670.
