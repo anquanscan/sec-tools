@@ -2345,4 +2345,5 @@
 [My-Reports](https://github.com/h0nus/My-Reports): Here I'll share my pentest's reports. Html or Pdf or just txt files;  
 [x41-smartcard-fuzzing](https://github.com/x41sec/x41-smartcard-fuzzing): X41 Smartcard Fuzzer  
 [Moodle-webshell-plugin](https://github.com/p0dalirius/Moodle-webshell-plugin): A webshell plugin and interactive shell for pentesting a Moodle instance.   
-[SADA](https://github.com/MTK911/SADA): SADA Webapplication Scanner
+[SADA](https://github.com/MTK911/SADA): SADA Webapplication Scanner  
+[log4py](https://github.com/dotPY-hax/log4py): pythonic pure python RCE exploit for CVE-2021-44228 log4shell
