@@ -2267,4 +2267,5 @@
 [nowsecure-action](https://github.com/nowsecure/nowsecure-action): The NowSecure Action delivers fast, accurate, automated security analysis of iOS and Android apps coded in any language  
 [LanguageBackdoors](https://github.com/K2/LanguageBackdoors): Compiler exploits and exploitable non-obvious source code back doors.    
 [httprecon-nse](https://github.com/scipag/httprecon-nse): Advanced web server fingerprinting for Nmap  
-[wordlist-generator](https://github.com/J4NN0/wordlist-generator): Generate customised wordlist for penetration testing practice (e.g. brute force attack, dictionary attack, etc.).
+[wordlist-generator](https://github.com/J4NN0/wordlist-generator): Generate customised wordlist for penetration testing practice (e.g. brute force attack, dictionary attack, etc.).  
+[RDDoS_Tool](https://github.com/Red-company/RDDoS_Tool): 🔫 Red DDoS Tool is  -THE BEST- tool for DDoS attacks.
