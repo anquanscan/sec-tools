@@ -2336,4 +2336,5 @@
 [CITM](https://github.com/jamestiotio/CITM): Battle Cats MITM Mailbox Hack [PATCHED]  
 [AdvBox](https://github.com/advboxes/AdvBox): Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.  
 [arbimz](https://github.com/oppsec/arbimz): 🔥  Arbimz is a python tool created to exploit the vulnerability on Zimbra assigned as CVE-2019-9670.  
-[Vulnerability-Wiki](https://github.com/Ranwu0/Vulnerability-Wiki): 本项目用于搜集常见漏洞EXP/POC等，注意：本项目并不刻意搜集 POC 或 EXP，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用
+[Vulnerability-Wiki](https://github.com/Ranwu0/Vulnerability-Wiki): 本项目用于搜集常见漏洞EXP/POC等，注意：本项目并不刻意搜集 POC 或 EXP，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用  
+[external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding): Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing
