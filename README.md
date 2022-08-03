@@ -2286,4 +2286,5 @@
 [Librefox](https://github.com/intika/Librefox): Librefox: Firefox with privacy enhancements  
 [mqtts](https://github.com/SPuerBRead/mqtts): MQTT安全测试工具 (MQTT Security Tools)  
 [VolumEraser](https://github.com/schefa/VolumEraser): Securely erases all data from a disk (USB Drive, SD Card etc.) based on the U.S. Department of Defense's standard 'National Industrial Security Program Operating Manual' (US DoD 5220.22-M ECE)  
-[windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits): windows-kernel-exploits   Windows平台提权漏洞集合
+[windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits): windows-kernel-exploits   Windows平台提权漏洞集合  
+[netsec-ps-scripts](https://github.com/thom-s/netsec-ps-scripts): Collection of PowerShell network security scripts for system administrators. 
