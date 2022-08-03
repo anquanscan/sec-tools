@@ -2186,4 +2186,5 @@
 [fingerlib](https://github.com/Xisabla/fingerlib): HTTP Fingerprint generation library in C++  
 [CVE-2018-20343](https://github.com/Alexandre-Bartel/CVE-2018-20343): PoC for CVE-2018-20343  
 [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet): One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️  
-[rajappan](https://github.com/kaiiyer/rajappan): An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE
+[rajappan](https://github.com/kaiiyer/rajappan): An All in one Project for Digital Privacy. A step towards a PRIVATE FUTURE  
+[cve-2019-11447](https://github.com/thewhiteh4t/cve-2019-11447): CutePHP Cute News 2.1.2 RCE PoC
