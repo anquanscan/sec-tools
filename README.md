@@ -2192,4 +2192,5 @@
 [awesome-ddos-tools](https://github.com/theodorecooper/awesome-ddos-tools): Collection of several DDos tools.  
 [squatm3](https://github.com/david3107/squatm3): Squatm3 is a python tool designed to enumerate available domains generated modifying the original domain name through different techniques  
 [clair-openshift](https://github.com/arocki7/clair-openshift): Openshift template for Clair (Docker vulnerability Scanner)  
-[IoT-PT](https://github.com/IoT-PTv/IoT-PT): A Virtual environment for Pentesting IoT Devices
+[IoT-PT](https://github.com/IoT-PTv/IoT-PT): A Virtual environment for Pentesting IoT Devices  
+[gh-dork](https://github.com/molly/gh-dork): Github dorking tool
