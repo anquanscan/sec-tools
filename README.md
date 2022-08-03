@@ -2322,4 +2322,5 @@
 [CVE-2020-1034](https://github.com/yardenshafir/CVE-2020-1034): PoC demonstrating the use of cve-2020-1034 for privilege escalation  
 [poro](https://github.com/9rnt/poro): Scan publicly accessible assets on your AWS cloud environment  
 [articulos](https://github.com/R3LI4NT/articulos): Artículos relacionados a la Ciberseguridad y Hacking.  
-[PacketMagician](https://github.com/DpoofikD/PacketMagician): Linux tool written in C++ for creating and sending fully customizable TCP, UDP or ICMP packets with payloads.
+[PacketMagician](https://github.com/DpoofikD/PacketMagician): Linux tool written in C++ for creating and sending fully customizable TCP, UDP or ICMP packets with payloads.  
+[exitmap](https://github.com/NullHypothesis/exitmap): A fast and modular scanner for Tor exit relays. The canonical repository (including issue tracker) is at https://gitlab.torproject.org/tpo/network-health/exitmap
