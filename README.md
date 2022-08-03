@@ -2330,4 +2330,5 @@
 [MalwareDatabase](https://github.com/Vichingo455/MalwareDatabase): One of the few malware collection  
 [tarian](https://github.com/kube-tarian/tarian): Protect your Cloud Native Applications running on Kubernetes from malicious attacks with pre-registered source code, pre-registered runtime processes monitoring, automated actions based on configure-actions, analytics, alerting and also sharing detections with community. Maybe save from Ransomware. Shift-Left your threat detection. Shift Right threat elimination.  
 [TCPOptionsDataExfil](https://github.com/dc401/TCPOptionsDataExfil): Experimental scripts using Python 3.x and Scapy to transmit data to closed (or open) ports between hosts using only TCP Options  
-[CVE-2018-18714](https://github.com/DownWithUp/CVE-2018-18714): PoC Code for CVE-2018-18714 (exploit by stack overflow)
+[CVE-2018-18714](https://github.com/DownWithUp/CVE-2018-18714): PoC Code for CVE-2018-18714 (exploit by stack overflow)  
+[kalitorify](https://github.com/brainfucksec/kalitorify): Transparent proxy through Tor for Kali Linux OS
