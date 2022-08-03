@@ -2215,4 +2215,5 @@
 [zombie-system-demo](https://github.com/rc4ne/zombie-system-demo): A simple setup that demonstrates concept of zombie computer and using it for dos.  
 [SocialPwned](https://github.com/MrTuxx/SocialPwned): SocialPwned is an OSINT tool that allows to get the emails, from a target, published in social networks such as Instagram, Linkedin and Twitter to find possible credentials leaks in PwnDB or Dehashed  and obtain Google account information via GHunt.  
 [gnuradio](https://github.com/gnuradio/gnuradio): GNU Radio – the Free and Open Software Radio Ecosystem  
-[awesome-rails-security](https://github.com/0xedward/awesome-rails-security): A curated list of security resources for a Ruby on Rails application
+[awesome-rails-security](https://github.com/0xedward/awesome-rails-security): A curated list of security resources for a Ruby on Rails application  
+[libdiffuzz](https://github.com/Shnatsel/libdiffuzz): Custom memory allocator that helps discover reads from uninitialized memory
