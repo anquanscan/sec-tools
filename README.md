@@ -2292,4 +2292,5 @@
 [BrokenSMTP](https://github.com/mrlew1s/BrokenSMTP): Small python script to look for common vulnerabilities on SMTP server.  
 [vimana-framework](https://github.com/s4dhulabs/vimana-framework): Vimana is an experimental security framework that aims to provide resources for auditing Python web applications.  
 [pyyso](https://github.com/cokeBeer/pyyso): pyyso is a Python package that generate java serialized poc. Including CommonsCollections1-7, JDK7u21, JDK8u20, ldap for jndi, shiro-550, CommonsBeanutils1 no cc, JRMPClient, high version JDK Bypass, Fake MySQL for JDBC attack  
-[awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security): A curated list of awesome Ethereum security references
+[awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security): A curated list of awesome Ethereum security references  
+[cmd32](https://github.com/szybnev/cmd32): Fork of https://github.com/klinix5/InstallerFileTakeOver
