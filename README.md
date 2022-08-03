@@ -2194,4 +2194,5 @@
 [clair-openshift](https://github.com/arocki7/clair-openshift): Openshift template for Clair (Docker vulnerability Scanner)  
 [IoT-PT](https://github.com/IoT-PTv/IoT-PT): A Virtual environment for Pentesting IoT Devices  
 [gh-dork](https://github.com/molly/gh-dork): Github dorking tool  
-[CVE-2018-18852](https://github.com/hook-s3c/CVE-2018-18852): CERIO RCE CVE-2018-18852, authenticated (vendor defaults) web-based RCE as root user.
+[CVE-2018-18852](https://github.com/hook-s3c/CVE-2018-18852): CERIO RCE CVE-2018-18852, authenticated (vendor defaults) web-based RCE as root user.  
+[log4j_mass_scanner](https://github.com/srhercules/log4j_mass_scanner): Automated scan thousands hosts in your Active Directory domain in minutes, for Log4j vulnerabilities with multithreading mass scanner and detailed report.
