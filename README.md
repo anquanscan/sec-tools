@@ -2211,4 +2211,5 @@
 [eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets): An eslint plugin to find strings that might be secrets/credentials  
 [OSCP-Cheat-Sheet](https://github.com/akenofu/OSCP-Cheat-Sheet): This is my OSCP cheat sheet made by combining a lot of different resources online with a little bit of tweaking. I used this cheat sheet during my exam (Fri, 13 Sep 2019) and during the labs. I can proudly say it helped me pass so I hope it can help you as well ! Good Luck and Try Harder  
 [security-bugtracker](https://github.com/designsecurity/security-bugtracker): Run security test tools and track bugs easily  
-[dnsmap](https://github.com/resurrecting-open-source-projects/dnsmap): Scan for subdomains using bruteforcing techniques
+[dnsmap](https://github.com/resurrecting-open-source-projects/dnsmap): Scan for subdomains using bruteforcing techniques  
+[zombie-system-demo](https://github.com/rc4ne/zombie-system-demo): A simple setup that demonstrates concept of zombie computer and using it for dos.
