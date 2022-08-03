@@ -2218,4 +2218,5 @@
 [awesome-rails-security](https://github.com/0xedward/awesome-rails-security): A curated list of security resources for a Ruby on Rails application  
 [libdiffuzz](https://github.com/Shnatsel/libdiffuzz): Custom memory allocator that helps discover reads from uninitialized memory  
 [killshot](https://github.com/bahaabdelwahed/killshot): A Penetration Testing Framework, Information gathering tool & Website Vulnerability Scanner  
-[AVMP](https://github.com/RackReaver/AVMP): A collection of tools for managing and automating vulnerability management.
+[AVMP](https://github.com/RackReaver/AVMP): A collection of tools for managing and automating vulnerability management.  
+[execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer): Tool for viewing and analyzing execution traces
