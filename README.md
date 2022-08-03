@@ -2295,4 +2295,5 @@
 [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security): A curated list of awesome Ethereum security references  
 [cmd32](https://github.com/szybnev/cmd32): Fork of https://github.com/klinix5/InstallerFileTakeOver  
 [antisamy](https://github.com/nahsra/antisamy): a library for performing fast, configurable cleansing of HTML coming from untrusted sources  
-[Burp-Addons](https://github.com/SofianeHamlaoui/Burp-Addons): Burp-Addons : Some of Burp Addons I use ( Mindak ak fahem ) 
+[Burp-Addons](https://github.com/SofianeHamlaoui/Burp-Addons): Burp-Addons : Some of Burp Addons I use ( Mindak ak fahem )   
+[articles-translator](https://github.com/madneal/articles-translator): :books:Translate the distinct technical blogs. Please star or watch. Welcome to join me.
