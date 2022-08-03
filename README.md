@@ -2162,4 +2162,5 @@
 [graph-onelogin](https://github.com/JupiterOne/graph-onelogin): A graph conversion tool for https://www.onelogin.com  
 [Umbraco-RCE](https://github.com/noraj/Umbraco-RCE): Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution  
 [Awesome-Baseband](https://github.com/R3dFruitRollUp/Awesome-Baseband): Awesome list for baseband modem resources.  
-[vaf](https://github.com/d4rckh/vaf): Vaf is a cross-platform very advanced and fast web fuzzer written in nim
+[vaf](https://github.com/d4rckh/vaf): Vaf is a cross-platform very advanced and fast web fuzzer written in nim  
+[CRAXplusplus](https://github.com/SQLab/CRAXplusplus): The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more!
