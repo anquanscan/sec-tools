@@ -2198,4 +2198,5 @@
 [log4j_mass_scanner](https://github.com/srhercules/log4j_mass_scanner): Automated scan thousands hosts in your Active Directory domain in minutes, for Log4j vulnerabilities with multithreading mass scanner and detailed report.  
 [CVE-2018-15961](https://github.com/vah13/CVE-2018-15961): Unrestricted file upload in Adobe ColdFusion  
 [insiders](https://github.com/trickest/insiders): Archive of Potential Insider Threats  
-[CTFd](https://github.com/CTFd/CTFd): CTFs as you need them
+[CTFd](https://github.com/CTFd/CTFd): CTFs as you need them  
+[iamzero](https://github.com/common-fate/iamzero): Identity & Access Management simplified and secure.
