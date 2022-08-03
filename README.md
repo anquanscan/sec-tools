@@ -2164,4 +2164,5 @@
 [Awesome-Baseband](https://github.com/R3dFruitRollUp/Awesome-Baseband): Awesome list for baseband modem resources.  
 [vaf](https://github.com/d4rckh/vaf): Vaf is a cross-platform very advanced and fast web fuzzer written in nim  
 [CRAXplusplus](https://github.com/SQLab/CRAXplusplus): The exploit generator CRAX++ is CRAX with x86_64 ROP techniques, s2e 2.0 upgrade, code selection, I/O states, dynamic ROP, and more!  
-[red_team_attack_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab): Red Team Attack Lab for TTP testing & research
+[red_team_attack_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab): Red Team Attack Lab for TTP testing & research  
+[CVE-2017-8759](https://github.com/JonasUliana/CVE-2017-8759): Simple C# implementation of CVE-2017-8759
