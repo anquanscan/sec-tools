@@ -2326,4 +2326,5 @@
 [exitmap](https://github.com/NullHypothesis/exitmap): A fast and modular scanner for Tor exit relays. The canonical repository (including issue tracker) is at https://gitlab.torproject.org/tpo/network-health/exitmap  
 [empty-argv-segfault-check](https://github.com/eriksjolund/empty-argv-segfault-check): Test if an executable segfaults when started with an empty argv. The script may be used as a vulnerability-scanner to find setuid executables having buggy code (but it will probably not find any direct security vulnerabilities).  
 [ASKT-AutoScriptKiddiesTool-](https://github.com/b3-v3r/ASKT-AutoScriptKiddiesTool-)  
-[asvs-checklist](https://github.com/nicoSWD/asvs-checklist): OWASP Application Security Verification Standard 4.0 Checklist
+[asvs-checklist](https://github.com/nicoSWD/asvs-checklist): OWASP Application Security Verification Standard 4.0 Checklist  
+[MalwareDatabase](https://github.com/Vichingo455/MalwareDatabase): One of the few malware collection
