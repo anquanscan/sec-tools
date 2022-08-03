@@ -2256,4 +2256,5 @@
 [AFL_DataSets](https://github.com/cloudsriseup/AFL_DataSets): A work in progress repository for curated and created AFL-enabled fuzzing datasets for various programs, protocols, and file formats.  
 [vuldash](https://github.com/talsoft/vuldash): Vulnerability Dashboard  
 [LinuxPatchChecker](https://github.com/b3b0/LinuxPatchChecker): 🐧🎛️ Can be used for anything really though! Don't be evil! Pure python, OS-agnostic.  
-[CounterAttack](https://github.com/0x61656c/CounterAttack): Destroy account scammers with this one neat trick! This Python Script will help you shut down phishermen with ease.
+[CounterAttack](https://github.com/0x61656c/CounterAttack): Destroy account scammers with this one neat trick! This Python Script will help you shut down phishermen with ease.  
+[DoubleStar](https://github.com/forrest-orr/DoubleStar): A personalized/enhanced re-creation of the Darkhotel "Double Star" APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques
