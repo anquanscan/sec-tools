@@ -2282,4 +2282,5 @@
 [Open-Source-Lua-Wrapper](https://github.com/milkteaaa/Open-Source-Lua-Wrapper): Free open-source Lua wrapper for ROBLOX  
 [weird_proxies](https://github.com/GrrrDog/weird_proxies): Reverse proxies cheatsheet  
 [data_obfuscation](https://github.com/biniamf/data_obfuscation): Data Obfuscation for C/C++ Code Based on Residue Number Coding (RNC)  
-[CVE-2018-16713](https://github.com/DownWithUp/CVE-2018-16713): PoC code for CVE-2018-16713 (exploit by rdmsr)
+[CVE-2018-16713](https://github.com/DownWithUp/CVE-2018-16713): PoC code for CVE-2018-16713 (exploit by rdmsr)  
+[Librefox](https://github.com/intika/Librefox): Librefox: Firefox with privacy enhancements
