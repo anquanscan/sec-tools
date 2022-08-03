@@ -2310,4 +2310,5 @@
 [chepy](https://github.com/securisec/chepy): Chepy is a python lib/cli equivalent of the awesome CyberChef tool.   
 [hackercouch](https://github.com/hackercouch/hackercouch): Hospitality for Hackers  
 [Pwnagotchi-Addon-Scripts](https://github.com/rwx-777/Pwnagotchi-Addon-Scripts): These are my Scripts i use regulary for my Pwnagotchi and or other CyberSec related stuff.  
-[Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner): Advanced reconnaissance utility
+[Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner): Advanced reconnaissance utility  
+[awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing): A curated list of awesome resources related to executable packing
