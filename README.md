@@ -2279,4 +2279,5 @@
 [macos-scripts](https://github.com/0xmachos/macos-scripts): Various scripts for macOS tasks  
 [Awesome-hacking-tools](https://github.com/awake1t/Awesome-hacking-tools):  收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助  
 [tutsplus-android-o-sms-token](https://github.com/chikecodes/tutsplus-android-o-sms-token): My Tuts+ tutorial about using Android O's SMS Token   
-[Open-Source-Lua-Wrapper](https://github.com/milkteaaa/Open-Source-Lua-Wrapper): Free open-source Lua wrapper for ROBLOX
+[Open-Source-Lua-Wrapper](https://github.com/milkteaaa/Open-Source-Lua-Wrapper): Free open-source Lua wrapper for ROBLOX  
+[weird_proxies](https://github.com/GrrrDog/weird_proxies): Reverse proxies cheatsheet
