@@ -2320,4 +2320,5 @@
 [ApplicationInspector](https://github.com/microsoft/ApplicationInspector): A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.  
 [PAKURI-THON](https://github.com/01rabbit/PAKURI-THON): PAKURI-THON is a tool that supports pentesters with various pentesting tools and C4 server (command & control and chat & communication server). PAKURI-THON can perform most of the operations with intuitive web operations and commands to chatbots.  
 [CVE-2020-1034](https://github.com/yardenshafir/CVE-2020-1034): PoC demonstrating the use of cve-2020-1034 for privilege escalation  
-[poro](https://github.com/9rnt/poro): Scan publicly accessible assets on your AWS cloud environment
+[poro](https://github.com/9rnt/poro): Scan publicly accessible assets on your AWS cloud environment  
+[articulos](https://github.com/R3LI4NT/articulos): Artículos relacionados a la Ciberseguridad y Hacking.
