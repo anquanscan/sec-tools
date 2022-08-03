@@ -2313,4 +2313,5 @@
 [Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner): Advanced reconnaissance utility  
 [awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing): A curated list of awesome resources related to executable packing  
 [Cluri7](https://github.com/pobyzaarif/Cluri7): penetration testing and security assessment  
-[vUte](https://github.com/okno/vUte): VeraCrypt Bruteforcer
+[vUte](https://github.com/okno/vUte): VeraCrypt Bruteforcer  
+[jenkins-shell](https://github.com/joesmithjaffa/jenkins-shell): Automating Jenkins Hacking using Shodan API
