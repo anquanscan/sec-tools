@@ -2205,4 +2205,5 @@
 [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins): The plugin repository for Honeycomb, the honeypot framework by Cymmetria  
 [FlipKart-Grid-Information-Security](https://github.com/Sanchit611/FlipKart-Grid-Information-Security): Flipkart Grid 4.0 Submission for Information Security Challenge  
 [CiscoRV320Dump](https://github.com/0x27/CiscoRV320Dump): CVE-2019-1652 /CVE-2019-1653 Exploits For Dumping Cisco RV320 Configurations & Debugging Data AND Remote Root Exploit!  
-[notruler](https://github.com/sensepost/notruler): The opposite of Ruler, provides blue teams with the ability to detect Ruler usage against Exchange.
+[notruler](https://github.com/sensepost/notruler): The opposite of Ruler, provides blue teams with the ability to detect Ruler usage against Exchange.  
+[remediar](https://github.com/fabaff/remediar): Remediar is an issue and vulnerability tracker framework
