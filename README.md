@@ -2258,4 +2258,5 @@
 [LinuxPatchChecker](https://github.com/b3b0/LinuxPatchChecker): 🐧🎛️ Can be used for anything really though! Don't be evil! Pure python, OS-agnostic.  
 [CounterAttack](https://github.com/0x61656c/CounterAttack): Destroy account scammers with this one neat trick! This Python Script will help you shut down phishermen with ease.  
 [DoubleStar](https://github.com/forrest-orr/DoubleStar): A personalized/enhanced re-creation of the Darkhotel "Double Star" APT exploit chain with a focus on Windows 8.1 and mixed with some of my own techniques  
-[recaptcha](https://github.com/c181/recaptcha): CakePHP 3 reCaptcha Plugin
+[recaptcha](https://github.com/c181/recaptcha): CakePHP 3 reCaptcha Plugin  
+[hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers
