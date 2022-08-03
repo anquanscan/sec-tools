@@ -2249,4 +2249,5 @@
 [torDDoS](https://github.com/r3nt0n/torDDoS): Automate tool DDoS Attack over Tor Network  
 [otax](https://github.com/0x44F/otax): "Otax", a popularized shitty discord zero-day exploit. A bullshit writeup on it was released by a larper called HellSec.  
 [tempesta](https://github.com/tempesta-tech/tempesta): All-in-one solution for high performance web content delivery and advanced protection against DDoS and web attacks  
-[Threat-Hunting-and-Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection): Repository for threat hunting and detection queries, tools, etc.
+[Threat-Hunting-and-Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection): Repository for threat hunting and detection queries, tools, etc.  
+[cameradar](https://github.com/Ullaakut/cameradar): Cameradar hacks its way into RTSP videosurveillance cameras
