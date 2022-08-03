@@ -2353,4 +2353,5 @@
 [vulniq-security-scanner](https://github.com/vulniq/vulniq-security-scanner): VulnIQ Security Scanner, Terzi  
 [log4scan](https://github.com/fuji97/log4scan): A simple automatic tool for finding vulnerable log4j hosts  
 [OpenNetAdmin18.1.1RCE](https://github.com/d4t4s3c/OpenNetAdmin18.1.1RCE): OpenNetAdmin 18.1.1 - Exploit - Remote Code Execution (RCE)  
-[phishytics-machine-learning-for-phishing](https://github.com/faizann24/phishytics-machine-learning-for-phishing): Machine Learning for Phishing Website Detection
+[phishytics-machine-learning-for-phishing](https://github.com/faizann24/phishytics-machine-learning-for-phishing): Machine Learning for Phishing Website Detection  
+[kindle-5.6.5-jailbreak](https://github.com/sgayou/kindle-5.6.5-jailbreak): Kindle 5.6.5 exploitation tools.
