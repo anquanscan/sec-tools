@@ -2255,4 +2255,5 @@
 [ruby-ann-webattack-filtering](https://github.com/bararchy/ruby-ann-webattack-filtering): A project to filter SQL Injection and XSS attacks using ANN -- in Ruby  
 [AFL_DataSets](https://github.com/cloudsriseup/AFL_DataSets): A work in progress repository for curated and created AFL-enabled fuzzing datasets for various programs, protocols, and file formats.  
 [vuldash](https://github.com/talsoft/vuldash): Vulnerability Dashboard  
-[LinuxPatchChecker](https://github.com/b3b0/LinuxPatchChecker): 🐧🎛️ Can be used for anything really though! Don't be evil! Pure python, OS-agnostic.
+[LinuxPatchChecker](https://github.com/b3b0/LinuxPatchChecker): 🐧🎛️ Can be used for anything really though! Don't be evil! Pure python, OS-agnostic.  
+[CounterAttack](https://github.com/0x61656c/CounterAttack): Destroy account scammers with this one neat trick! This Python Script will help you shut down phishermen with ease.
