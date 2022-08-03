@@ -2193,4 +2193,5 @@
 [squatm3](https://github.com/david3107/squatm3): Squatm3 is a python tool designed to enumerate available domains generated modifying the original domain name through different techniques  
 [clair-openshift](https://github.com/arocki7/clair-openshift): Openshift template for Clair (Docker vulnerability Scanner)  
 [IoT-PT](https://github.com/IoT-PTv/IoT-PT): A Virtual environment for Pentesting IoT Devices  
-[gh-dork](https://github.com/molly/gh-dork): Github dorking tool
+[gh-dork](https://github.com/molly/gh-dork): Github dorking tool  
+[CVE-2018-18852](https://github.com/hook-s3c/CVE-2018-18852): CERIO RCE CVE-2018-18852, authenticated (vendor defaults) web-based RCE as root user.
