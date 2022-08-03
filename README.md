@@ -2178,4 +2178,5 @@
 [OllyDbg-Scripts](https://github.com/ThomasThelen/OllyDbg-Scripts): Unpacking scripts for Ollydbg.  
 [swap_digger](https://github.com/sevagas/swap_digger):  swap_digger is a tool used to automate Linux swap analysis during post-exploitation or forensics. It automates swap extraction and searches for Linux user credentials, web forms credentials, web forms emails, http basic authentication, Wifi SSID and keys, etc.  
 [OSweep](https://github.com/ecstatic-nobel/OSweep): Don't Just Search OSINT. Sweep It.  
-[maalik](https://github.com/quantumcore/maalik): Feature-rich Post Exploitation Framework with Network Pivoting capabilities.
+[maalik](https://github.com/quantumcore/maalik): Feature-rich Post Exploitation Framework with Network Pivoting capabilities.  
+[CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera): 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337
