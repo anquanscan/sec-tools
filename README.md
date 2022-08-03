@@ -2161,4 +2161,5 @@
 [dictionary-attack](https://github.com/mustafadalga/dictionary-attack): Bir hedef web sitesi veya ip adresine giriş için sözlük saldırısı yapan bir script.  
 [graph-onelogin](https://github.com/JupiterOne/graph-onelogin): A graph conversion tool for https://www.onelogin.com  
 [Umbraco-RCE](https://github.com/noraj/Umbraco-RCE): Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution  
-[Awesome-Baseband](https://github.com/R3dFruitRollUp/Awesome-Baseband): Awesome list for baseband modem resources.
+[Awesome-Baseband](https://github.com/R3dFruitRollUp/Awesome-Baseband): Awesome list for baseband modem resources.  
+[vaf](https://github.com/d4rckh/vaf): Vaf is a cross-platform very advanced and fast web fuzzer written in nim
