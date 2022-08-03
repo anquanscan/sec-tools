@@ -2226,4 +2226,5 @@
 [BCA-Phantom](https://github.com/EONRaider/BCA-Phantom): A multi-platform HTTP(S) Reverse Shell Server and Client in Python 3  
 [Return-into-libc](https://github.com/Vilquid/Return-into-libc): Attaque informatique par un dépassement de tampon dans lequel l'adresse de retour dans la pile est remplacée par l'adresse d'une autre fonction et une seconde partie de la pile est modifiée pour fournir les paramètres à cette fonction.  
 [goMS17-010](https://github.com/jflyup/goMS17-010): Simple program for detecting if host(s) are vulnerable to SMB exploit(MS17-010)  
-[security-txt](https://github.com/securitytxt/security-txt): A proposed standard that allows websites to define security policies.
+[security-txt](https://github.com/securitytxt/security-txt): A proposed standard that allows websites to define security policies.  
+[loopback4-ratelimiter](https://github.com/sourcefuse/loopback4-ratelimiter): A rate limiting extension for loopback4 applications
