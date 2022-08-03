@@ -2261,4 +2261,5 @@
 [recaptcha](https://github.com/c181/recaptcha): CakePHP 3 reCaptcha Plugin  
 [hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers  
 [OPCDE](https://github.com/msuiche/OPCDE): OPCDE Cybersecurity Conference Materials  
-[SolarPuttyDecrypt](https://github.com/VoidSec/SolarPuttyDecrypt): A post-exploitation tool to decrypt SolarPutty's sessions files
+[SolarPuttyDecrypt](https://github.com/VoidSec/SolarPuttyDecrypt): A post-exploitation tool to decrypt SolarPutty's sessions files  
+[hakrawler](https://github.com/hakluke/hakrawler): Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
