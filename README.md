@@ -2223,4 +2223,5 @@
 [Cyber-Playbook](https://github.com/rowland007/Cyber-Playbook): Playbooks are used by cybersecurity professionals to store or encapsulate knowledge on cybersecurity topics and tactics. I will use these again and again in the field to deal with situations as they arise. The idea is that I don’t want to wait until a challenging situation arises to have a plan; I want to already have potential mitigation strategies in my playbook that can help kickstart my process toward finding solutions.  
 [canary](https://github.com/psecio/canary): Canary: Input Detection and Response  
 [rotacsufbo](https://github.com/itemic/rotacsufbo): did u know the name of the repo is obfuscator backwards?  
-[BCA-Phantom](https://github.com/EONRaider/BCA-Phantom): A multi-platform HTTP(S) Reverse Shell Server and Client in Python 3
+[BCA-Phantom](https://github.com/EONRaider/BCA-Phantom): A multi-platform HTTP(S) Reverse Shell Server and Client in Python 3  
+[Return-into-libc](https://github.com/Vilquid/Return-into-libc): Attaque informatique par un dépassement de tampon dans lequel l'adresse de retour dans la pile est remplacée par l'adresse d'une autre fonction et une seconde partie de la pile est modifiée pour fournir les paramètres à cette fonction.
