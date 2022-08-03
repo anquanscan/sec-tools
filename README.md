@@ -2315,4 +2315,5 @@
 [Cluri7](https://github.com/pobyzaarif/Cluri7): penetration testing and security assessment  
 [vUte](https://github.com/okno/vUte): VeraCrypt Bruteforcer  
 [jenkins-shell](https://github.com/joesmithjaffa/jenkins-shell): Automating Jenkins Hacking using Shodan API  
-[Steal-Not-Safe](https://github.com/aleff-github/Steal-Not-Safe): Stealing a computer won't be as easy as it used to be, as long as you have Python and an internet connection.
+[Steal-Not-Safe](https://github.com/aleff-github/Steal-Not-Safe): Stealing a computer won't be as easy as it used to be, as long as you have Python and an internet connection.  
+[nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker): Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
