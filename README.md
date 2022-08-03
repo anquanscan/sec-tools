@@ -2234,4 +2234,5 @@
 [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits): linux-kernel-exploits Linux平台提权漏洞集合  
 [QuadCore-Web-SQLi-Injecter-DB-Dumper](https://github.com/quadcoreside/QuadCore-Web-SQLi-Injecter-DB-Dumper): WEB SQLi Injection DB Dumper DATA Hacking Tool  
 [cve-2019-1003000-jenkins-rce-poc](https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc): Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)  
-[android-zoo](https://github.com/murksombra/android-zoo): A collection of proof of concepts of android malwares. For educational purposes only.
+[android-zoo](https://github.com/murksombra/android-zoo): A collection of proof of concepts of android malwares. For educational purposes only.  
+[CVE-2021-31166-Exploit](https://github.com/y0g3sh-99/CVE-2021-31166-Exploit): Exploit for MS Http Protocol Stack RCE vulnerability (CVE-2021-31166)
