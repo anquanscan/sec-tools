@@ -2321,4 +2321,5 @@
 [PAKURI-THON](https://github.com/01rabbit/PAKURI-THON): PAKURI-THON is a tool that supports pentesters with various pentesting tools and C4 server (command & control and chat & communication server). PAKURI-THON can perform most of the operations with intuitive web operations and commands to chatbots.  
 [CVE-2020-1034](https://github.com/yardenshafir/CVE-2020-1034): PoC demonstrating the use of cve-2020-1034 for privilege escalation  
 [poro](https://github.com/9rnt/poro): Scan publicly accessible assets on your AWS cloud environment  
-[articulos](https://github.com/R3LI4NT/articulos): Artículos relacionados a la Ciberseguridad y Hacking.
+[articulos](https://github.com/R3LI4NT/articulos): Artículos relacionados a la Ciberseguridad y Hacking.  
+[PacketMagician](https://github.com/DpoofikD/PacketMagician): Linux tool written in C++ for creating and sending fully customizable TCP, UDP or ICMP packets with payloads.
