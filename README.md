@@ -2456,4 +2456,5 @@
 [bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history): Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.  
 [Rapid7-Vulnerability-Management-CloudOne](https://github.com/SecurityForCloudBuilders/Rapid7-Vulnerability-Management-CloudOne): A Collection of Scripts to Interact with Vulnerability Management Solutions  
 [badssl.com](https://github.com/chromium/badssl.com): :lock: Memorable site for testing clients against bad SSL configs.  
-[linWinPwn](https://github.com/lefayjey/linWinPwn): linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks
+[linWinPwn](https://github.com/lefayjey/linWinPwn): linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks  
+[icgautoexploiter](https://github.com/NeloF4/icgautoexploiter): Visit
