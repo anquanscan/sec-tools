@@ -2440,4 +2440,5 @@
 [EyeJo](https://github.com/ice-doom/EyeJo): EyeJo是一款自动化资产风险评估平台，可以协助甲方安全人员或乙方安全人员对授权的资产中进行排查，快速发现存在的薄弱点和攻击面。  
 [htshells](https://github.com/wireghoul/htshells): Self contained htaccess shells and attacks  
 [Zerooo-Exploitation-Framework](https://github.com/Amzza0x00/Zerooo-Exploitation-Framework): 漏洞利用框架  
-[Auto-Recon](https://github.com/Knowledge-Wisdom-Understanding/Auto-Recon): Information-Gathering Shell Script
+[Auto-Recon](https://github.com/Knowledge-Wisdom-Understanding/Auto-Recon): Information-Gathering Shell Script  
+[hevd](https://github.com/hugsy/hevd): Public repository for HEVD exploits
