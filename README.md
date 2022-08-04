@@ -2495,4 +2495,5 @@
 [CVE-2019-17240_Bludit-BF-Bypass](https://github.com/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass): Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC  
 [docker-wallarm-node](https://github.com/wallarm/docker-wallarm-node): ⚡️ Docker official image for Wallarm Node. API security platform agent.   
 [honeybits](https://github.com/0x4D31/honeybits): A PoC tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your systems to lure the attacker toward your honeypots  
-[SentinelAutomationModules](https://github.com/briandelmsft/SentinelAutomationModules): The Microsoft Sentinel Triage AssistanT (STAT) enables easy to create incident triage automation in Microsoft Sentinel
+[SentinelAutomationModules](https://github.com/briandelmsft/SentinelAutomationModules): The Microsoft Sentinel Triage AssistanT (STAT) enables easy to create incident triage automation in Microsoft Sentinel  
+[TouDoum-Framework](https://github.com/TouDoum-Framework/TouDoum-Framework)
