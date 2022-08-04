@@ -2505,4 +2505,5 @@
 [cyberdoor](https://github.com/AnonymousAt3/cyberdoor): Automated Payload Generator Tool  
 [Haimgard](https://github.com/onuratakan/Haimgard): Haimgard is an environment for writing, testing and using exploit code.  
 [Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve](https://github.com/AZMagic/Slient-Doc-Pdf-Exploit-Builder-Fud-Malware-Cve): Vulnerability Disclosure Timeline Closer inspection of the Exploit PDF content reveals the malicious link as well as the URL Download and Execute of the tool used to generate the Exploit PDF from Python encrypted code content which we also implement in couple of our builders.  
-[Kaminsky-s-DNS-Cache-Poisoning-Attack](https://github.com/andrewnicolalde/Kaminsky-s-DNS-Cache-Poisoning-Attack): My implementation of Kaminsky's DNS cache poisoning attack
+[Kaminsky-s-DNS-Cache-Poisoning-Attack](https://github.com/andrewnicolalde/Kaminsky-s-DNS-Cache-Poisoning-Attack): My implementation of Kaminsky's DNS cache poisoning attack  
+[moodle-auth_vulnerablepassword](https://github.com/joshwillcock/moodle-auth_vulnerablepassword): This Moodle plugin attempts to check HIBP's list of exposed passwords. Enabling your learners to be informed if their password has ever been involved in a data breach.
