@@ -2367,4 +2367,5 @@
 [Saker](https://github.com/LyleMi/Saker): Flexible Penetrate Testing Auxiliary Suite  
 [Zimbra-RCE](https://github.com/rek7/Zimbra-RCE): Zimbra RCE PoC - CVE-2019-9670 XXE/SSRF  
 [github-cve-monitor](https://github.com/JMousqueton/github-cve-monitor): Github action for monitoring CVE  
-[cybersecurity-application-security](https://github.com/paulveillard/cybersecurity-application-security): An ongoing & curated collection of awesome software practices and remediation, libraries and frameworks,payloads and techniques, best guidelines and technical resources about Application Security
+[cybersecurity-application-security](https://github.com/paulveillard/cybersecurity-application-security): An ongoing & curated collection of awesome software practices and remediation, libraries and frameworks,payloads and techniques, best guidelines and technical resources about Application Security  
+[SimpleVirusWriting](https://github.com/FrancescoDiSalesGithub/SimpleVirusWriting): An example of basic virus writing in C
