@@ -2462,4 +2462,5 @@
 [mac-address-changer](https://github.com/canocalir/mac-address-changer): Mac Address Changer written with Python 3.8  
 [pythem](https://github.com/m4n3dw0lf/pythem): pentest framework  
 [CORScanner](https://github.com/chenjj/CORScanner):  Fast CORS misconfiguration vulnerabilities scanner🍻  
-[MemBi](https://github.com/hahwul/MemBi): All the members of bugbounty and infosec. If you don't know who to follow, see!
+[MemBi](https://github.com/hahwul/MemBi): All the members of bugbounty and infosec. If you don't know who to follow, see!  
+[keepassxc](https://github.com/keepassxreboot/keepassxc): KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
