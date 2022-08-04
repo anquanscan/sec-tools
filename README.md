@@ -2438,4 +2438,5 @@
 [CVE-2017-5123](https://github.com/c3r34lk1ll3r/CVE-2017-5123): PoC CVE-2017-5123 - LPE - Bypassing SMEP/SMAP. No KASLR  
 [chatter](https://github.com/visualbasic6/chatter): internet monitoring osint telegram bot for windows  
 [EyeJo](https://github.com/ice-doom/EyeJo): EyeJo是一款自动化资产风险评估平台，可以协助甲方安全人员或乙方安全人员对授权的资产中进行排查，快速发现存在的薄弱点和攻击面。  
-[htshells](https://github.com/wireghoul/htshells): Self contained htaccess shells and attacks
+[htshells](https://github.com/wireghoul/htshells): Self contained htaccess shells and attacks  
+[Zerooo-Exploitation-Framework](https://github.com/Amzza0x00/Zerooo-Exploitation-Framework): 漏洞利用框架
