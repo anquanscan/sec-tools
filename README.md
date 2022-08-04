@@ -2537,4 +2537,5 @@
 [All_CTF_write-ups](https://github.com/antoinenguyen-09/All_CTF_write-ups): From Antoine Nguyen and 0ni0n CTF team with love:3  
 [1337kit](https://github.com/lukasbalazik123/1337kit): 64-bit LKM Rootkit builder based on yaml prescription. Working on 5.15.5 kernel  
 [GreedyBear](https://github.com/honeynet/GreedyBear): Threat Intel Platform for T-POTs  
-[Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks): A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff
+[Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks): A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff  
+[USBGuardian](https://github.com/USBGuardian/USBGuardian): USBGuardian is an open source and affordable USB malware cleaning station
