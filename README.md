@@ -2527,4 +2527,5 @@
 [adbsploit](https://github.com/mesquidar/adbsploit): A python based tool for exploiting and managing Android devices via ADB  
 [Google-Forms-Spam](https://github.com/1UC1F3R616/Google-Forms-Spam): MultiThreaded spammer, 100% working | Consumes Data because of too high speed | You can decrease speed but I don't think that's what we want :)  
 [Safe-Compiler](https://github.com/atiabjobayer/Safe-Compiler): Bash Script to run C, C++, Java and Python codes safely(using blackboxing) and under limited resources(time, memory, output size)  
-[Facebook-BruteForce](https://github.com/AL-AlamySploit/Facebook-BruteForce): Facebook Brute Force Version 1.0
+[Facebook-BruteForce](https://github.com/AL-AlamySploit/Facebook-BruteForce): Facebook Brute Force Version 1.0  
+[Drupal-Hunter](https://github.com/dr-iman/Drupal-Hunter): Drupal Exploiter Tool (Drupal Hunter)
