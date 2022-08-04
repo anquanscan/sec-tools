@@ -2372,4 +2372,5 @@
 [GraphQLIntrospectionScanner](https://github.com/SegYT/GraphQLIntrospectionScanner): It is obvious... A GraphQL Introspection Query Scanner. If it returns code 200 with the queries, it means the server has improper access control.  
 [rootstealer](https://github.com/CoolerVoid/rootstealer): X11 trick to inject commands on root terminal.  
 [PassLock](https://github.com/TheJakov/PassLock): Aplikacija omogućuje korisniku upis željene lozinke te njeno generiranje i spremanje u hashiranom formatu.  
-[exploit-me](https://github.com/Silva97/exploit-me): Please, exploit me!
+[exploit-me](https://github.com/Silva97/exploit-me): Please, exploit me!  
+[hydrafw](https://github.com/hydrabus/hydrafw): HydraFW official firmware for HydraBus/HydraNFC for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing
