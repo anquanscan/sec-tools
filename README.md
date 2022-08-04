@@ -2405,4 +2405,5 @@
 [local-exploits](https://github.com/bcoles/local-exploits): Various local exploits  
 [gradejs](https://github.com/gradejs/gradejs): GradeJS analyzes production Webpack bundles without having access to the source code of a website. Instantly see vulnerabilities, outdated packages, and more just by entering a web application URL.  
 [dvs](https://github.com/dinimus/dvs): Dangerous Vulnerabilities Scanner  
-[python-deserialization-attack-payload-generator](https://github.com/j0lt-github/python-deserialization-attack-payload-generator): Peas create serialized payload for deserialization RCE attack on python driven applications where pickle ,pyYAML, ruamel.yaml or jsonpickle module is used for deserialization of serialized data. I will update it with more attack vectors to targets other modules. 
+[python-deserialization-attack-payload-generator](https://github.com/j0lt-github/python-deserialization-attack-payload-generator): Peas create serialized payload for deserialization RCE attack on python driven applications where pickle ,pyYAML, ruamel.yaml or jsonpickle module is used for deserialization of serialized data. I will update it with more attack vectors to targets other modules.   
+[how2root](https://github.com/thinkycx/how2root): a collection of public root slides & WPs....
