@@ -2446,4 +2446,5 @@
 [nutek-core](https://github.com/phoenix-journey/nutek-core): My own version of Kali Linux, conveniently packaged in Dockerfile  
 [fb-phisher-python](https://github.com/arjunindia/fb-phisher-python): A python server tool based on flask , this tool can phish some Facebook credentials!  
 [Scanners-Box](https://github.com/We5ter/Scanners-Box): A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑  
-[awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries): 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+[awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries): 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻  
+[tenda-reverse](https://github.com/latonita/tenda-reverse): Reverse engineering, getting root access to Tenda MW6 wifi mesh router
