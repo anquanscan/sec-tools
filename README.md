@@ -2498,4 +2498,5 @@
 [SentinelAutomationModules](https://github.com/briandelmsft/SentinelAutomationModules): The Microsoft Sentinel Triage AssistanT (STAT) enables easy to create incident triage automation in Microsoft Sentinel  
 [TouDoum-Framework](https://github.com/TouDoum-Framework/TouDoum-Framework)  
 [shARP_2.0](https://github.com/europa502/shARP_2.0): shARP_2.0 is an updated version for shARP with more options for better performance.  
-[CodeAllTheThings](https://github.com/shabarkin/CodeAllTheThings): A list of threat sinks used in the manual security source code review for application security
+[CodeAllTheThings](https://github.com/shabarkin/CodeAllTheThings): A list of threat sinks used in the manual security source code review for application security  
+[zgrab-mini](https://github.com/RickGray/zgrab-mini): Minimal version for https://github.com/zmap/zgrab.
