@@ -2403,4 +2403,5 @@
 [trivy-restapi](https://github.com/pottava/trivy-restapi): A REST API server for https://github.com/knqyf263/trivy  
 [trollmail-detector](https://github.com/synthetic-borealis/trollmail-detector): A throwaway e-mail detection API.  
 [local-exploits](https://github.com/bcoles/local-exploits): Various local exploits  
-[gradejs](https://github.com/gradejs/gradejs): GradeJS analyzes production Webpack bundles without having access to the source code of a website. Instantly see vulnerabilities, outdated packages, and more just by entering a web application URL.
+[gradejs](https://github.com/gradejs/gradejs): GradeJS analyzes production Webpack bundles without having access to the source code of a website. Instantly see vulnerabilities, outdated packages, and more just by entering a web application URL.  
+[dvs](https://github.com/dinimus/dvs): Dangerous Vulnerabilities Scanner
