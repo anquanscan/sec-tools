@@ -2433,4 +2433,5 @@
 [fail2ban-zmq-tools](https://github.com/buanzo/fail2ban-zmq-tools): A zeromq-based fail2ban clustering solution  
 [ExFreePool-Vulnerability](https://github.com/Exploitables/ExFreePool-Vulnerability): My research into taking advantage of ExFreePool primitives.  
 [eyeRat](https://github.com/AdolfMacro/eyeRat): A tool for building remote access trojan.  
-[EvilToken](https://github.com/malpraku/EvilToken): Digunakan untuk membruteforce atau menebak - nebak token access login orang di Discord. Dibuat dengan alasan tertentu, pastinya :).
+[EvilToken](https://github.com/malpraku/EvilToken): Digunakan untuk membruteforce atau menebak - nebak token access login orang di Discord. Dibuat dengan alasan tertentu, pastinya :).  
+[data-protection-list](https://github.com/adgellida/data-protection-list): 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacid
