@@ -2382,4 +2382,5 @@
 [grepaddr](https://github.com/Zarcolio/grepaddr): Use grepaddr to extract (grep) different kinds of addresses from stdin like URLs (incl. IPv4 & IPv6), IP addresses & ranges (IPv4 & IPv6), e-mail addresses, MAC addresses.  
 [wire-ios](https://github.com/wireapp/wire-ios): 📱 Wire for iOS (iPhone and iPad)  
 [go-sarif](https://github.com/owenrumney/go-sarif): Go library for sarif - Static Analysis Results Interchange Format   
-[ghostunnel](https://github.com/ghostunnel/ghostunnel): A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
+[ghostunnel](https://github.com/ghostunnel/ghostunnel): A simple SSL/TLS proxy with mutual authentication for securing non-TLS services  
+[CTF-Script-And-Template-Thrift-Shop](https://github.com/OlivierLaflamme/CTF-Script-And-Template-Thrift-Shop): [180+ scripts]  There are a few genuine gems in there. And a lot of spaghetti code. Most of these scripts were for solving CTF's. If you googles something for a CTF and landed here look at the scripts they're all fairly malleable. Sorry  for the shitty naming conventions (not really). If you are a recruiter stop. I wont be able to rewrite half this shit in a formal interview ¯\_(ツ)_/¯
