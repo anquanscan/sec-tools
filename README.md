@@ -2408,4 +2408,5 @@
 [python-deserialization-attack-payload-generator](https://github.com/j0lt-github/python-deserialization-attack-payload-generator): Peas create serialized payload for deserialization RCE attack on python driven applications where pickle ,pyYAML, ruamel.yaml or jsonpickle module is used for deserialization of serialized data. I will update it with more attack vectors to targets other modules.   
 [how2root](https://github.com/thinkycx/how2root): a collection of public root slides & WPs....  
 [Invoke-WinSATBypass](https://github.com/b4keSn4ke/Invoke-WinSATBypass): Powershell UAC Bypass script leveraging WinSAT.exe  
-[PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker): Let's track phishing kits to give to research community raw material to study !
+[PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker): Let's track phishing kits to give to research community raw material to study !  
+[cryptocat](https://github.com/cryptocat/cryptocat): Secure chat software for your computer.
