@@ -2375,4 +2375,5 @@
 [exploit-me](https://github.com/Silva97/exploit-me): Please, exploit me!  
 [hydrafw](https://github.com/hydrabus/hydrafw): HydraFW official firmware for HydraBus/HydraNFC for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing  
 [hackerEnv](https://github.com/abdulr7mann/hackerEnv)  
-[007-TheBond](https://github.com/Deadshot0x7/007-TheBond): This Script will help you to gather information about your victim or friend.
+[007-TheBond](https://github.com/Deadshot0x7/007-TheBond): This Script will help you to gather information about your victim or friend.  
+[grapheneX](https://github.com/grapheneX/grapheneX): Automated System Hardening Framework
