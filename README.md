@@ -2488,4 +2488,5 @@
 [exploit-db-search](https://github.com/techgaun/exploit-db-search): Search exploit database  
 [mock-oauth2-server](https://github.com/navikt/mock-oauth2-server): A scriptable/customizable web server for testing HTTP clients using OAuth2/OpenID Connect or applications with a dependency to a running OAuth2 server (i.e. APIs requiring signed JWTs from a known issuer)  
 [ATT-CK-CN](https://github.com/lengjibo/ATT-CK-CN): ATT&CK实操  
-[secure-electron-template](https://github.com/reZach/secure-electron-template): The best way to build Electron apps with security in mind.
+[secure-electron-template](https://github.com/reZach/secure-electron-template): The best way to build Electron apps with security in mind.  
+[MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool): Bash script purposed for system enumeration, vulnerability identification and privilege escalation.
