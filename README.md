@@ -2412,4 +2412,5 @@
 [cryptocat](https://github.com/cryptocat/cryptocat): Secure chat software for your computer.  
 [crocodilehunter](https://github.com/EFForg/crocodilehunter): Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و  
 [FYP-Fuck-You-Phisher](https://github.com/mirkoviviano/FYP-Fuck-You-Phisher): I really hate phishing. With this tool you can send multiple fake emails and password to phishers. It executes HTTP POST requests on the web page you are supposed to enter your real credentials.   
-[smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed 🔎 ☁️
+[smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed 🔎 ☁️  
+[pentest-pivoting](https://github.com/t3l3machus/pentest-pivoting): A compact guide to network pivoting for penetration testings / CTF challenges.
