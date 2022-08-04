@@ -2468,4 +2468,5 @@
 [Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit](https://github.com/IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit): This Metasploit module exploits an unauthenticated remote code execution vulnerability which exists in Apache version 2.4.49 (CVE-2021-41773). If files outside of the document root are not protected by ‘require all denied’ and CGI has been explicitly enabled, it can be used to execute arbitrary commands. This vulnerability has been reintroduced in the Apache 2.4.50 fix (CVE-2021-42013).  
 [ja3transport](https://github.com/CUCyber/ja3transport): Impersonating JA3 signatures  
 [grab.js](https://github.com/ChiChou/grab.js): fast TCP banner grabbing with node.js  
-[spamx](https://github.com/noob-hackers/spamx): All In 1 Spam Tool For Termux Users Subscribe Us (Noob Hackers) some shit heads are trying to abuse this script so don't worry about them ...let them hallucinate ...but you are free to use this script
+[spamx](https://github.com/noob-hackers/spamx): All In 1 Spam Tool For Termux Users Subscribe Us (Noob Hackers) some shit heads are trying to abuse this script so don't worry about them ...let them hallucinate ...but you are free to use this script  
+[MemLabs](https://github.com/stuxnet999/MemLabs): Educational, CTF-styled labs for individuals interested in Memory Forensics
