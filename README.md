@@ -2385,4 +2385,5 @@
 [ghostunnel](https://github.com/ghostunnel/ghostunnel): A simple SSL/TLS proxy with mutual authentication for securing non-TLS services  
 [CTF-Script-And-Template-Thrift-Shop](https://github.com/OlivierLaflamme/CTF-Script-And-Template-Thrift-Shop): [180+ scripts]  There are a few genuine gems in there. And a lot of spaghetti code. Most of these scripts were for solving CTF's. If you googles something for a CTF and landed here look at the scripts they're all fairly malleable. Sorry  for the shitty naming conventions (not really). If you are a recruiter stop. I wont be able to rewrite half this shit in a formal interview ¯\_(ツ)_/¯  
 [repokid](https://github.com/Netflix/repokid): AWS Least Privilege for Distributed, High-Velocity Deployment  
-[RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer): An HTTP and HTTPS sniffing tool created using a Raspberry Pi
+[RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer): An HTTP and HTTPS sniffing tool created using a Raspberry Pi  
+[vote-buster](https://github.com/deepsyx/vote-buster): Capcha+Email confirmation bypass script
