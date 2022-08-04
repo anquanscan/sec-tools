@@ -2358,4 +2358,5 @@
 [Python-Keylogger](https://github.com/ncorbuk/Python-Keylogger): Python Tutorial - || Advanced Keylogger || Code Walk-through || Hacking/Info-Sec ||  
 [mutillidae-docker](https://github.com/webpwnized/mutillidae-docker): OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security enthusiasts.  
 [NewCode](https://github.com/MitchAguilar/NewCode): New code, es un grupo especial, formado con la intención de profundizar en diferentes áreas de la programación, y el ethical hacking.  
-[gitls](https://github.com/hahwul/gitls): 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline
+[gitls](https://github.com/hahwul/gitls): 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline  
+[lowendinsight](https://github.com/gtri/lowendinsight): LowEndInsight is a simple "bus-factor" risk analysis library for Open Source Software that is managed within a Git repository. Provide the git URL and the library will respond with a basic Elixir Map structure report.  Critical feedback is always appreciated. Demo at https://lowendinsight.dev
