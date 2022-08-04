@@ -2392,4 +2392,5 @@
 [Ransome-killer](https://github.com/gau820827/Ransome-killer): This is the project on ransomeware detection using machine learning.  
 [BoomER](https://github.com/Josue87/BoomER): Framework for exploiting local vulnerabilities  
 [Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe): All-in-One malware analysis tool.  
-[HINTS](https://github.com/rustrose/HINTS): Human Intelligence Narrowing Tool Set - An OSINT questionnaire and research structure meant to assist in organizing findings on high-level targets (Whales) scoped by clients.
+[HINTS](https://github.com/rustrose/HINTS): Human Intelligence Narrowing Tool Set - An OSINT questionnaire and research structure meant to assist in organizing findings on high-level targets (Whales) scoped by clients.  
+[BDeath](https://github.com/aishee/BDeath): The black death backdoor/rootkits
