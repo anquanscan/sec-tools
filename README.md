@@ -2401,4 +2401,5 @@
 [SpyGen](https://github.com/HouariZegai/SpyGen): Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:  
 [DInvoke_rs](https://github.com/Kudaes/DInvoke_rs): Dynamically invoke arbitrary unmanaged code.  
 [trivy-restapi](https://github.com/pottava/trivy-restapi): A REST API server for https://github.com/knqyf263/trivy  
-[trollmail-detector](https://github.com/synthetic-borealis/trollmail-detector): A throwaway e-mail detection API.
+[trollmail-detector](https://github.com/synthetic-borealis/trollmail-detector): A throwaway e-mail detection API.  
+[local-exploits](https://github.com/bcoles/local-exploits): Various local exploits
