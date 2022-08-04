@@ -2510,4 +2510,5 @@
 [FireFly](https://github.com/Lexxrt/FireFly): 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱  
 [MagikIndex](https://github.com/brat-volk/MagikIndex): Advanced Keylogger / Info Grabber written in C++.  
 [Pwn-exploits-CTF](https://github.com/aadityapurani/Pwn-exploits-CTF): Collection of exploits which I created for solving different pwn challenges during CTF's  
-[mytools](https://github.com/ibnusyawall/mytools)
+[mytools](https://github.com/ibnusyawall/mytools)  
+[flake8-bandit](https://github.com/tylerwince/flake8-bandit): Automated security testing using bandit and flake8.
