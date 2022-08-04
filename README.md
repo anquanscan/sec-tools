@@ -2360,4 +2360,5 @@
 [NewCode](https://github.com/MitchAguilar/NewCode): New code, es un grupo especial, formado con la intención de profundizar en diferentes áreas de la programación, y el ethical hacking.  
 [gitls](https://github.com/hahwul/gitls): 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline  
 [lowendinsight](https://github.com/gtri/lowendinsight): LowEndInsight is a simple "bus-factor" risk analysis library for Open Source Software that is managed within a Git repository. Provide the git URL and the library will respond with a basic Elixir Map structure report.  Critical feedback is always appreciated. Demo at https://lowendinsight.dev  
-[BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker): the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.
+[BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker): the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.  
+[malsub](https://github.com/diogo-fernan/malsub): A Python RESTful API framework for online malware analysis and threat intelligence services.
