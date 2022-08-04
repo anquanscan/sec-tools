@@ -2500,4 +2500,5 @@
 [shARP_2.0](https://github.com/europa502/shARP_2.0): shARP_2.0 is an updated version for shARP with more options for better performance.  
 [CodeAllTheThings](https://github.com/shabarkin/CodeAllTheThings): A list of threat sinks used in the manual security source code review for application security  
 [zgrab-mini](https://github.com/RickGray/zgrab-mini): Minimal version for https://github.com/zmap/zgrab.  
-[SKA](https://github.com/Leviathan36/SKA): Simple Karma Attack
+[SKA](https://github.com/Leviathan36/SKA): Simple Karma Attack  
+[Drainer-Crypto-ETH-NFT](https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT): ALL ETH + ERC20 TOKENS + ALL NFTS DRAINER
