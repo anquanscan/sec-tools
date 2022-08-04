@@ -2473,4 +2473,5 @@
 [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists): 平常看到好的渗透hacking工具和多领域效率工具的集合  
 [expdevBadChars](https://github.com/mgeeky/expdevBadChars): Bad Characters highlighter for exploit development purposes supporting multiple input formats while comparing.  
 [jecretz](https://github.com/sahadnk72/jecretz): Jira Secret Hunter - Helps you find credentials and sensitive contents in Jira tickets  
-[dorker](https://github.com/0xdln1/dorker): Better Google Dorking with Dorker.
+[dorker](https://github.com/0xdln1/dorker): Better Google Dorking with Dorker.  
+[RTA](https://github.com/flipkart-incubator/RTA): Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
