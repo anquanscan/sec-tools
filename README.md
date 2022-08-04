@@ -2522,4 +2522,5 @@
 [owasp-java-fileio](https://github.com/augustd/owasp-java-fileio): Automatically exported from code.google.com/p/owasp-java-fileio  
 [dockerized-android](https://github.com/cybersecsi/dockerized-android): A container-based framework to enable the integration of mobile components in security training platforms  
 [gh-actions-secure-pipeline-java-demo](https://github.com/rmkanda/gh-actions-secure-pipeline-java-demo): Sample Secure Pipeline with GithHub Actions - Ideal for Open Source Projects  
-[PSFuzz](https://github.com/Proviesec/PSFuzz): Proviesec Fuzz Scanner - dir/path web scanner
+[PSFuzz](https://github.com/Proviesec/PSFuzz): Proviesec Fuzz Scanner - dir/path web scanner  
+[TheFatRat](https://github.com/screetsec/TheFatRat): Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
