@@ -2526,4 +2526,5 @@
 [TheFatRat](https://github.com/screetsec/TheFatRat): Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .  
 [adbsploit](https://github.com/mesquidar/adbsploit): A python based tool for exploiting and managing Android devices via ADB  
 [Google-Forms-Spam](https://github.com/1UC1F3R616/Google-Forms-Spam): MultiThreaded spammer, 100% working | Consumes Data because of too high speed | You can decrease speed but I don't think that's what we want :)  
-[Safe-Compiler](https://github.com/atiabjobayer/Safe-Compiler): Bash Script to run C, C++, Java and Python codes safely(using blackboxing) and under limited resources(time, memory, output size)
+[Safe-Compiler](https://github.com/atiabjobayer/Safe-Compiler): Bash Script to run C, C++, Java and Python codes safely(using blackboxing) and under limited resources(time, memory, output size)  
+[Facebook-BruteForce](https://github.com/AL-AlamySploit/Facebook-BruteForce): Facebook Brute Force Version 1.0
