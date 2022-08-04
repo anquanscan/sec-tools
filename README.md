@@ -2430,4 +2430,5 @@
 [harvardx-cs50w-web-programming](https://github.com/FrancoTr/harvardx-cs50w-web-programming): CS50's Web Programming with Python and JavaScript  
 [mag-vulnerability-report](https://github.com/devenes/mag-vulnerability-report): MAG Vulnerability Reporter uses Yag Mail to send report  
 [DexHub](https://github.com/BinaryDex/DexHub): script = ye  
-[fail2ban-zmq-tools](https://github.com/buanzo/fail2ban-zmq-tools): A zeromq-based fail2ban clustering solution
+[fail2ban-zmq-tools](https://github.com/buanzo/fail2ban-zmq-tools): A zeromq-based fail2ban clustering solution  
+[ExFreePool-Vulnerability](https://github.com/Exploitables/ExFreePool-Vulnerability): My research into taking advantage of ExFreePool primitives.
