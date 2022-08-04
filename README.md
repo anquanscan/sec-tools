@@ -2400,4 +2400,5 @@
 [celerystalk](https://github.com/sethsec/celerystalk): An asynchronous enumeration & vulnerability scanner. Run all the tools on all the hosts.  
 [SpyGen](https://github.com/HouariZegai/SpyGen): Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:  
 [DInvoke_rs](https://github.com/Kudaes/DInvoke_rs): Dynamically invoke arbitrary unmanaged code.  
-[trivy-restapi](https://github.com/pottava/trivy-restapi): A REST API server for https://github.com/knqyf263/trivy
+[trivy-restapi](https://github.com/pottava/trivy-restapi): A REST API server for https://github.com/knqyf263/trivy  
+[trollmail-detector](https://github.com/synthetic-borealis/trollmail-detector): A throwaway e-mail detection API.
