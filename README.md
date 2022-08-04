@@ -2422,4 +2422,5 @@
 [ctf-collab](https://github.com/jstrieb/ctf-collab): Collaborative programming environment inside GitHub Actions – like Google Docs for hacking  
 [Exploit-Development-Tools](https://github.com/mgeeky/Exploit-Development-Tools): A bunch of my exploit development helper tools, collected in one place.  
 [monkeyshine](https://github.com/codebox/monkeyshine): A collection of slightly evil JavaScript  
-[symrepl](https://github.com/agustingianni/symrepl): Symbol REPL
+[symrepl](https://github.com/agustingianni/symrepl): Symbol REPL  
+[ShoScan](https://github.com/pathetiq/ShoScan): Shodan Port Scanner
