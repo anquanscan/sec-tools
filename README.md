@@ -2491,4 +2491,5 @@
 [secure-electron-template](https://github.com/reZach/secure-electron-template): The best way to build Electron apps with security in mind.  
 [MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool): Bash script purposed for system enumeration, vulnerability identification and privilege escalation.  
 [Salty-API-PHP](https://github.com/Chronolabs-Cooperative/Salty-API-PHP): Blowfish Salts Repository Services API version 3.0.99  
-[Porunga](https://github.com/SchenLong/Porunga): Aerial platform for Recon, Intelligence and Pentesting.  #R-KALI #Porunga
+[Porunga](https://github.com/SchenLong/Porunga): Aerial platform for Recon, Intelligence and Pentesting.  #R-KALI #Porunga  
+[CVE-2019-17240_Bludit-BF-Bypass](https://github.com/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass): Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC
