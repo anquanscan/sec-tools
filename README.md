@@ -2361,4 +2361,5 @@
 [gitls](https://github.com/hahwul/gitls): 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline  
 [lowendinsight](https://github.com/gtri/lowendinsight): LowEndInsight is a simple "bus-factor" risk analysis library for Open Source Software that is managed within a Git repository. Provide the git URL and the library will respond with a basic Elixir Map structure report.  Critical feedback is always appreciated. Demo at https://lowendinsight.dev  
 [BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker): the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.  
-[malsub](https://github.com/diogo-fernan/malsub): A Python RESTful API framework for online malware analysis and threat intelligence services.
+[malsub](https://github.com/diogo-fernan/malsub): A Python RESTful API framework for online malware analysis and threat intelligence services.  
+[Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer): Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack. 
