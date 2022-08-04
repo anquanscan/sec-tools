@@ -2534,4 +2534,5 @@
 [opensea-submarine](https://github.com/cawfree/opensea-submarine): Ping. Ping. Ping.  
 [Constole](https://github.com/TestingPens/Constole): Scan for and exploit Consul agents  
 [gomem](https://github.com/jamesmoriarty/gomem): A Go library for manipulating Windows processes.  
-[All_CTF_write-ups](https://github.com/antoinenguyen-09/All_CTF_write-ups): From Antoine Nguyen and 0ni0n CTF team with love:3
+[All_CTF_write-ups](https://github.com/antoinenguyen-09/All_CTF_write-ups): From Antoine Nguyen and 0ni0n CTF team with love:3  
+[1337kit](https://github.com/lukasbalazik123/1337kit): 64-bit LKM Rootkit builder based on yaml prescription. Working on 5.15.5 kernel
