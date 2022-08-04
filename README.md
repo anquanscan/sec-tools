@@ -2373,4 +2373,5 @@
 [rootstealer](https://github.com/CoolerVoid/rootstealer): X11 trick to inject commands on root terminal.  
 [PassLock](https://github.com/TheJakov/PassLock): Aplikacija omogućuje korisniku upis željene lozinke te njeno generiranje i spremanje u hashiranom formatu.  
 [exploit-me](https://github.com/Silva97/exploit-me): Please, exploit me!  
-[hydrafw](https://github.com/hydrabus/hydrafw): HydraFW official firmware for HydraBus/HydraNFC for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing
+[hydrafw](https://github.com/hydrabus/hydrafw): HydraFW official firmware for HydraBus/HydraNFC for researcher, hackers, students, embedded software developers or anyone interested in debugging/hacking/developing/penetration testing  
+[hackerEnv](https://github.com/abdulr7mann/hackerEnv)
