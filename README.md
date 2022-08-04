@@ -2469,4 +2469,5 @@
 [ja3transport](https://github.com/CUCyber/ja3transport): Impersonating JA3 signatures  
 [grab.js](https://github.com/ChiChou/grab.js): fast TCP banner grabbing with node.js  
 [spamx](https://github.com/noob-hackers/spamx): All In 1 Spam Tool For Termux Users Subscribe Us (Noob Hackers) some shit heads are trying to abuse this script so don't worry about them ...let them hallucinate ...but you are free to use this script  
-[MemLabs](https://github.com/stuxnet999/MemLabs): Educational, CTF-styled labs for individuals interested in Memory Forensics
+[MemLabs](https://github.com/stuxnet999/MemLabs): Educational, CTF-styled labs for individuals interested in Memory Forensics  
+[awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists): 平常看到好的渗透hacking工具和多领域效率工具的集合
