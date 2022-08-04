@@ -2443,4 +2443,5 @@
 [Auto-Recon](https://github.com/Knowledge-Wisdom-Understanding/Auto-Recon): Information-Gathering Shell Script  
 [hevd](https://github.com/hugsy/hevd): Public repository for HEVD exploits  
 [HelloSecurity](https://github.com/Blueberry-vignesh4303/HelloSecurity): Hello world This github i created to add about security news,articles, research papers,links ,ebooks ,torrents etc. Just use it for educational purpose only.My aim is to create worlds biggest repository of security material  
-[nutek-core](https://github.com/phoenix-journey/nutek-core): My own version of Kali Linux, conveniently packaged in Dockerfile
+[nutek-core](https://github.com/phoenix-journey/nutek-core): My own version of Kali Linux, conveniently packaged in Dockerfile  
+[fb-phisher-python](https://github.com/arjunindia/fb-phisher-python): A python server tool based on flask , this tool can phish some Facebook credentials!
