@@ -2436,4 +2436,5 @@
 [EvilToken](https://github.com/malpraku/EvilToken): Digunakan untuk membruteforce atau menebak - nebak token access login orang di Discord. Dibuat dengan alasan tertentu, pastinya :).  
 [data-protection-list](https://github.com/adgellida/data-protection-list): 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - https://codeberg.org/PrivacyFirst/PrivacyFirst/issues - Telegram group:  - https://t.me/privacid  
 [CVE-2017-5123](https://github.com/c3r34lk1ll3r/CVE-2017-5123): PoC CVE-2017-5123 - LPE - Bypassing SMEP/SMAP. No KASLR  
-[chatter](https://github.com/visualbasic6/chatter): internet monitoring osint telegram bot for windows
+[chatter](https://github.com/visualbasic6/chatter): internet monitoring osint telegram bot for windows  
+[EyeJo](https://github.com/ice-doom/EyeJo): EyeJo是一款自动化资产风险评估平台，可以协助甲方安全人员或乙方安全人员对授权的资产中进行排查，快速发现存在的薄弱点和攻击面。
