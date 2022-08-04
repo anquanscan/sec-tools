@@ -2493,4 +2493,5 @@
 [Salty-API-PHP](https://github.com/Chronolabs-Cooperative/Salty-API-PHP): Blowfish Salts Repository Services API version 3.0.99  
 [Porunga](https://github.com/SchenLong/Porunga): Aerial platform for Recon, Intelligence and Pentesting.  #R-KALI #Porunga  
 [CVE-2019-17240_Bludit-BF-Bypass](https://github.com/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass): Bludit <= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC  
-[docker-wallarm-node](https://github.com/wallarm/docker-wallarm-node): ⚡️ Docker official image for Wallarm Node. API security platform agent. 
+[docker-wallarm-node](https://github.com/wallarm/docker-wallarm-node): ⚡️ Docker official image for Wallarm Node. API security platform agent.   
+[honeybits](https://github.com/0x4D31/honeybits): A PoC tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your systems to lure the attacker toward your honeypots
