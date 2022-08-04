@@ -2423,4 +2423,5 @@
 [Exploit-Development-Tools](https://github.com/mgeeky/Exploit-Development-Tools): A bunch of my exploit development helper tools, collected in one place.  
 [monkeyshine](https://github.com/codebox/monkeyshine): A collection of slightly evil JavaScript  
 [symrepl](https://github.com/agustingianni/symrepl): Symbol REPL  
-[ShoScan](https://github.com/pathetiq/ShoScan): Shodan Port Scanner
+[ShoScan](https://github.com/pathetiq/ShoScan): Shodan Port Scanner  
+[SwiftGCM](https://github.com/luke-park/SwiftGCM): An implementation of Galois/Counter Mode for Swift 4.0.
