@@ -2411,4 +2411,5 @@
 [PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker): Let's track phishing kits to give to research community raw material to study !  
 [cryptocat](https://github.com/cryptocat/cryptocat): Secure chat software for your computer.  
 [crocodilehunter](https://github.com/EFForg/crocodilehunter): Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و  
-[FYP-Fuck-You-Phisher](https://github.com/mirkoviviano/FYP-Fuck-You-Phisher): I really hate phishing. With this tool you can send multiple fake emails and password to phishers. It executes HTTP POST requests on the web page you are supposed to enter your real credentials. 
+[FYP-Fuck-You-Phisher](https://github.com/mirkoviviano/FYP-Fuck-You-Phisher): I really hate phishing. With this tool you can send multiple fake emails and password to phishers. It executes HTTP POST requests on the web page you are supposed to enter your real credentials.   
+[smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed 🔎 ☁️
