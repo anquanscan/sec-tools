@@ -2516,4 +2516,5 @@
 [mRemoteNG-Decrypt](https://github.com/haseebT/mRemoteNG-Decrypt): Python script to decrypt passwords stored by mRemoteNG  
 [Codium-AntiMemoryScan-For-Native-Files-Improve-Runtime](https://github.com/CodiumAlgorithm/Codium-AntiMemoryScan-For-Native-Files-Improve-Runtime): Codium Algorithm Protector ^ Crypter  
 [poc_exploits](https://github.com/moehw/poc_exploits): 🕳️ Proof of Concept exploits and their descriptions for various products  
-[wesng-wrapper](https://github.com/Arax20/wesng-wrapper): A bash wrapper script for bitsadmin's wesng.
+[wesng-wrapper](https://github.com/Arax20/wesng-wrapper): A bash wrapper script for bitsadmin's wesng.  
+[BruteShark](https://github.com/odedshimon/BruteShark): Network Analysis Tool
