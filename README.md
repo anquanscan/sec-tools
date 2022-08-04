@@ -2521,4 +2521,5 @@
 [CVE-2019-12181](https://github.com/guywhataguy/CVE-2019-12181): LPE Exploit For CVE-2019-12181 (Serv-U FTP 15.1.6)  
 [owasp-java-fileio](https://github.com/augustd/owasp-java-fileio): Automatically exported from code.google.com/p/owasp-java-fileio  
 [dockerized-android](https://github.com/cybersecsi/dockerized-android): A container-based framework to enable the integration of mobile components in security training platforms  
-[gh-actions-secure-pipeline-java-demo](https://github.com/rmkanda/gh-actions-secure-pipeline-java-demo): Sample Secure Pipeline with GithHub Actions - Ideal for Open Source Projects
+[gh-actions-secure-pipeline-java-demo](https://github.com/rmkanda/gh-actions-secure-pipeline-java-demo): Sample Secure Pipeline with GithHub Actions - Ideal for Open Source Projects  
+[PSFuzz](https://github.com/Proviesec/PSFuzz): Proviesec Fuzz Scanner - dir/path web scanner
