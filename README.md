@@ -2377,4 +2377,5 @@
 [hackerEnv](https://github.com/abdulr7mann/hackerEnv)  
 [007-TheBond](https://github.com/Deadshot0x7/007-TheBond): This Script will help you to gather information about your victim or friend.  
 [grapheneX](https://github.com/grapheneX/grapheneX): Automated System Hardening Framework  
-[autoshell](https://github.com/Russkkov/autoshell): AutoSHELL es un script para generar reverse shell, bind shell o meterpreter shell de forma automática indicando solo la dirección IP a utilizar y el puerto de escucha. También genera el código codificado en base64 o urlencode, indica la forma más óptima de poner el puerto en escucha así como tratar la TTY para que funcione correctamente
+[autoshell](https://github.com/Russkkov/autoshell): AutoSHELL es un script para generar reverse shell, bind shell o meterpreter shell de forma automática indicando solo la dirección IP a utilizar y el puerto de escucha. También genera el código codificado en base64 o urlencode, indica la forma más óptima de poner el puerto en escucha así como tratar la TTY para que funcione correctamente  
+[ASM-Experiments](https://github.com/mcdulltii/ASM-Experiments): Experiments with ASM Shellcodes in C++
