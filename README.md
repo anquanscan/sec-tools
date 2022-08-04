@@ -2390,4 +2390,5 @@
 [Taipan](https://github.com/enkomio/Taipan): Web application vulnerability scanner  
 [getJS](https://github.com/003random/getJS): A tool to fastly get all javascript sources/files  
 [Ransome-killer](https://github.com/gau820827/Ransome-killer): This is the project on ransomeware detection using machine learning.  
-[BoomER](https://github.com/Josue87/BoomER): Framework for exploiting local vulnerabilities
+[BoomER](https://github.com/Josue87/BoomER): Framework for exploiting local vulnerabilities  
+[Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe): All-in-One malware analysis tool.
