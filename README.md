@@ -2429,4 +2429,5 @@
 [simple-security-toolkit](https://github.com/nascentxyz/simple-security-toolkit): A collection of practical security-focused guides and checklists for smart contract development  
 [harvardx-cs50w-web-programming](https://github.com/FrancoTr/harvardx-cs50w-web-programming): CS50's Web Programming with Python and JavaScript  
 [mag-vulnerability-report](https://github.com/devenes/mag-vulnerability-report): MAG Vulnerability Reporter uses Yag Mail to send report  
-[DexHub](https://github.com/BinaryDex/DexHub): script = ye
+[DexHub](https://github.com/BinaryDex/DexHub): script = ye  
+[fail2ban-zmq-tools](https://github.com/buanzo/fail2ban-zmq-tools): A zeromq-based fail2ban clustering solution
