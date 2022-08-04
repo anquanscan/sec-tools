@@ -2457,4 +2457,5 @@
 [Rapid7-Vulnerability-Management-CloudOne](https://github.com/SecurityForCloudBuilders/Rapid7-Vulnerability-Management-CloudOne): A Collection of Scripts to Interact with Vulnerability Management Solutions  
 [badssl.com](https://github.com/chromium/badssl.com): :lock: Memorable site for testing clients against bad SSL configs.  
 [linWinPwn](https://github.com/lefayjey/linWinPwn): linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks  
-[icgautoexploiter](https://github.com/NeloF4/icgautoexploiter): Visit
+[icgautoexploiter](https://github.com/NeloF4/icgautoexploiter): Visit  
+[TREVORspray](https://github.com/blacklanternsecurity/TREVORspray): TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
