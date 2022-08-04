@@ -2420,4 +2420,5 @@
 [blackhat-python](https://github.com/solita/blackhat-python): Black Hat Python workshop for Disobey 2019  
 [Trapdoor](https://github.com/3CORESec/Trapdoor): Serverless honeytoken 🕵🏻‍♂️  
 [ctf-collab](https://github.com/jstrieb/ctf-collab): Collaborative programming environment inside GitHub Actions – like Google Docs for hacking  
-[Exploit-Development-Tools](https://github.com/mgeeky/Exploit-Development-Tools): A bunch of my exploit development helper tools, collected in one place.
+[Exploit-Development-Tools](https://github.com/mgeeky/Exploit-Development-Tools): A bunch of my exploit development helper tools, collected in one place.  
+[monkeyshine](https://github.com/codebox/monkeyshine): A collection of slightly evil JavaScript
