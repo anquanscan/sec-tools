@@ -2427,4 +2427,5 @@
 [SwiftGCM](https://github.com/luke-park/SwiftGCM): An implementation of Galois/Counter Mode for Swift 4.0.  
 [PyTools](https://github.com/bobrossrtx/PyTools): PyScanner is a quick and easy port scanning tool used for reconnaissance. A major benefit to using PyScanner is that it significantly faster than some of the other tools out there like NMAP (BUT), if you are looking for more features, NMAP, RustScan, etc, are the tools to use. Although alot of the things that Other tools can do are good, those tools are made more for deeper topics, whereas PyScanner only scans for open & closed ports ports.  
 [simple-security-toolkit](https://github.com/nascentxyz/simple-security-toolkit): A collection of practical security-focused guides and checklists for smart contract development  
-[harvardx-cs50w-web-programming](https://github.com/FrancoTr/harvardx-cs50w-web-programming): CS50's Web Programming with Python and JavaScript
+[harvardx-cs50w-web-programming](https://github.com/FrancoTr/harvardx-cs50w-web-programming): CS50's Web Programming with Python and JavaScript  
+[mag-vulnerability-report](https://github.com/devenes/mag-vulnerability-report): MAG Vulnerability Reporter uses Yag Mail to send report
