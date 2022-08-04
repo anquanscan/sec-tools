@@ -2397,4 +2397,5 @@
 [requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator): A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.  
 [prototipo-arq-mononitoramento](https://github.com/rmmenezes/prototipo-arq-mononitoramento): Cybersecurity monitoring architecture for industrial systems  
 [SSLRelay-lib](https://github.com/PinkP4nther/SSLRelay-lib): An SSL relay library for writing applications that continuously intercept network traffic and R/W before sending it upstream or downstream.  
-[celerystalk](https://github.com/sethsec/celerystalk): An asynchronous enumeration & vulnerability scanner. Run all the tools on all the hosts.
+[celerystalk](https://github.com/sethsec/celerystalk): An asynchronous enumeration & vulnerability scanner. Run all the tools on all the hosts.  
+[SpyGen](https://github.com/HouariZegai/SpyGen): Trojan :snake: (keylogger, take screenshots, open your webcam) :unlock:
