@@ -2452,4 +2452,5 @@
 [Coloraimbot-CSharp](https://github.com/Baseult/Coloraimbot-CSharp): A simple Coloraimbot for any Game coded in C# - with additional features  
 [Auditing-Cybersecurity](https://github.com/Lucho-A/Auditing-Cybersecurity): Cybersecurity framework developed in C, Ansi-style  
 [CVE-2021-41773_CVE-2021-42013](https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013): Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE  
-[CyberPunkNetrunner](https://github.com/MiChaelinzo/CyberPunkNetrunner): Cyberpunk 2077 Netrunner Hacking Tool (Easy to use and install). Don't use it on illegal and malicious activity. Inspired by the game CyberPunk 2077 https://www.cyberpunk.net/
+[CyberPunkNetrunner](https://github.com/MiChaelinzo/CyberPunkNetrunner): Cyberpunk 2077 Netrunner Hacking Tool (Easy to use and install). Don't use it on illegal and malicious activity. Inspired by the game CyberPunk 2077 https://www.cyberpunk.net/  
+[bypass-firewalls-by-DNS-history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history): Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
