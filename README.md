@@ -2418,4 +2418,5 @@
 [h8mail](https://github.com/khast3x/h8mail): Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email  
 [clair-cicd](https://github.com/simonsdave/clair-cicd): Making CoreOS' Clair easily work in CI/CD pipelines  
 [blackhat-python](https://github.com/solita/blackhat-python): Black Hat Python workshop for Disobey 2019  
-[Trapdoor](https://github.com/3CORESec/Trapdoor): Serverless honeytoken 🕵🏻‍♂️
+[Trapdoor](https://github.com/3CORESec/Trapdoor): Serverless honeytoken 🕵🏻‍♂️  
+[ctf-collab](https://github.com/jstrieb/ctf-collab): Collaborative programming environment inside GitHub Actions – like Google Docs for hacking
