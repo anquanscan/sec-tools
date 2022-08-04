@@ -2472,4 +2472,5 @@
 [MemLabs](https://github.com/stuxnet999/MemLabs): Educational, CTF-styled labs for individuals interested in Memory Forensics  
 [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists): 平常看到好的渗透hacking工具和多领域效率工具的集合  
 [expdevBadChars](https://github.com/mgeeky/expdevBadChars): Bad Characters highlighter for exploit development purposes supporting multiple input formats while comparing.  
-[jecretz](https://github.com/sahadnk72/jecretz): Jira Secret Hunter - Helps you find credentials and sensitive contents in Jira tickets
+[jecretz](https://github.com/sahadnk72/jecretz): Jira Secret Hunter - Helps you find credentials and sensitive contents in Jira tickets  
+[dorker](https://github.com/0xdln1/dorker): Better Google Dorking with Dorker.
