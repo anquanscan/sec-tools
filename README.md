@@ -2451,4 +2451,5 @@
 [one_gadget](https://github.com/david942j/one_gadget): The best tool for finding one gadget RCE in libc.so.6  
 [Coloraimbot-CSharp](https://github.com/Baseult/Coloraimbot-CSharp): A simple Coloraimbot for any Game coded in C# - with additional features  
 [Auditing-Cybersecurity](https://github.com/Lucho-A/Auditing-Cybersecurity): Cybersecurity framework developed in C, Ansi-style  
-[CVE-2021-41773_CVE-2021-42013](https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013): Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE
+[CVE-2021-41773_CVE-2021-42013](https://github.com/Ls4ss/CVE-2021-41773_CVE-2021-42013): Apache HTTP Server 2.4.49, 2.4.50 - Path Traversal & RCE  
+[CyberPunkNetrunner](https://github.com/MiChaelinzo/CyberPunkNetrunner): Cyberpunk 2077 Netrunner Hacking Tool (Easy to use and install). Don't use it on illegal and malicious activity. Inspired by the game CyberPunk 2077 https://www.cyberpunk.net/
