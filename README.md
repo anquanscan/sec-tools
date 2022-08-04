@@ -2365,4 +2365,5 @@
 [Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer): Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.   
 [dDumper](https://github.com/yak0d3/dDumper): dDumper is a Drupal Vulnerability Scanner & an Auto Exploiter.  
 [Saker](https://github.com/LyleMi/Saker): Flexible Penetrate Testing Auxiliary Suite  
-[Zimbra-RCE](https://github.com/rek7/Zimbra-RCE): Zimbra RCE PoC - CVE-2019-9670 XXE/SSRF
+[Zimbra-RCE](https://github.com/rek7/Zimbra-RCE): Zimbra RCE PoC - CVE-2019-9670 XXE/SSRF  
+[github-cve-monitor](https://github.com/JMousqueton/github-cve-monitor): Github action for monitoring CVE
