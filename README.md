@@ -2363,4 +2363,5 @@
 [BitCoinAccountsBlanceChecker](https://github.com/MehdiTAZI/BitCoinAccountsBlanceChecker): the project generates a csv file with private and public keys with it corresponding current balance from the main bitcoin blockchain.  
 [malsub](https://github.com/diogo-fernan/malsub): A Python RESTful API framework for online malware analysis and threat intelligence services.  
 [Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer): Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.   
-[dDumper](https://github.com/yak0d3/dDumper): dDumper is a Drupal Vulnerability Scanner & an Auto Exploiter.
+[dDumper](https://github.com/yak0d3/dDumper): dDumper is a Drupal Vulnerability Scanner & an Auto Exploiter.  
+[Saker](https://github.com/LyleMi/Saker): Flexible Penetrate Testing Auxiliary Suite
