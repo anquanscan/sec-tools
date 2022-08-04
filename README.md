@@ -2485,4 +2485,5 @@
 [BMIN_GAN](https://github.com/JosephKBS/BMIN_GAN): Deep-fake medical image(X-ray) using GAN  
 [intrigue-core](https://github.com/intrigueio/intrigue-core): Discover Your Attack Surface!  
 [zap-scan](https://github.com/majidmc2/zap-scan): This script wrote with Python3 and used OWASP-ZAP APIs  
-[exploit-db-search](https://github.com/techgaun/exploit-db-search): Search exploit database
+[exploit-db-search](https://github.com/techgaun/exploit-db-search): Search exploit database  
+[mock-oauth2-server](https://github.com/navikt/mock-oauth2-server): A scriptable/customizable web server for testing HTTP clients using OAuth2/OpenID Connect or applications with a dependency to a running OAuth2 server (i.e. APIs requiring signed JWTs from a known issuer)
