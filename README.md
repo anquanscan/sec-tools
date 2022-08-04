@@ -2479,4 +2479,5 @@
 [androbugs2](https://github.com/androbugs2/androbugs2): AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or security researchers find potential security vulnerabilities in Android applications.  
 [Telegram-Trilateration](https://github.com/jkctech/Telegram-Trilateration): Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location  
 [dustcloud](https://github.com/dgiese/dustcloud): Xiaomi Smart Home Device Reverse Engineering and Hacking  
-[go-gtfo](https://github.com/mzfr/go-gtfo): gtfo, now with the speed of golang
+[go-gtfo](https://github.com/mzfr/go-gtfo): gtfo, now with the speed of golang  
+[Webspoilt](https://github.com/Deadshot0x7/Webspoilt): This script will you help to find the information about the website and to help in penetrating testing 
