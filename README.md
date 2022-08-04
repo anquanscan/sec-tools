@@ -2424,4 +2424,5 @@
 [monkeyshine](https://github.com/codebox/monkeyshine): A collection of slightly evil JavaScript  
 [symrepl](https://github.com/agustingianni/symrepl): Symbol REPL  
 [ShoScan](https://github.com/pathetiq/ShoScan): Shodan Port Scanner  
-[SwiftGCM](https://github.com/luke-park/SwiftGCM): An implementation of Galois/Counter Mode for Swift 4.0.
+[SwiftGCM](https://github.com/luke-park/SwiftGCM): An implementation of Galois/Counter Mode for Swift 4.0.  
+[PyTools](https://github.com/bobrossrtx/PyTools): PyScanner is a quick and easy port scanning tool used for reconnaissance. A major benefit to using PyScanner is that it significantly faster than some of the other tools out there like NMAP (BUT), if you are looking for more features, NMAP, RustScan, etc, are the tools to use. Although alot of the things that Other tools can do are good, those tools are made more for deeper topics, whereas PyScanner only scans for open & closed ports ports.
