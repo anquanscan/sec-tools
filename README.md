@@ -2497,4 +2497,5 @@
 [honeybits](https://github.com/0x4D31/honeybits): A PoC tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your systems to lure the attacker toward your honeypots  
 [SentinelAutomationModules](https://github.com/briandelmsft/SentinelAutomationModules): The Microsoft Sentinel Triage AssistanT (STAT) enables easy to create incident triage automation in Microsoft Sentinel  
 [TouDoum-Framework](https://github.com/TouDoum-Framework/TouDoum-Framework)  
-[shARP_2.0](https://github.com/europa502/shARP_2.0): shARP_2.0 is an updated version for shARP with more options for better performance.
+[shARP_2.0](https://github.com/europa502/shARP_2.0): shARP_2.0 is an updated version for shARP with more options for better performance.  
+[CodeAllTheThings](https://github.com/shabarkin/CodeAllTheThings): A list of threat sinks used in the manual security source code review for application security
