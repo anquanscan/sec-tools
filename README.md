@@ -2524,4 +2524,5 @@
 [gh-actions-secure-pipeline-java-demo](https://github.com/rmkanda/gh-actions-secure-pipeline-java-demo): Sample Secure Pipeline with GithHub Actions - Ideal for Open Source Projects  
 [PSFuzz](https://github.com/Proviesec/PSFuzz): Proviesec Fuzz Scanner - dir/path web scanner  
 [TheFatRat](https://github.com/screetsec/TheFatRat): Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .  
-[adbsploit](https://github.com/mesquidar/adbsploit): A python based tool for exploiting and managing Android devices via ADB
+[adbsploit](https://github.com/mesquidar/adbsploit): A python based tool for exploiting and managing Android devices via ADB  
+[Google-Forms-Spam](https://github.com/1UC1F3R616/Google-Forms-Spam): MultiThreaded spammer, 100% working | Consumes Data because of too high speed | You can decrease speed but I don't think that's what we want :)
