@@ -2476,4 +2476,5 @@
 [dorker](https://github.com/0xdln1/dorker): Better Google Dorking with Dorker.  
 [RTA](https://github.com/flipkart-incubator/RTA): Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.  
 [StormKitty](https://github.com/swagkarna/StormKitty): :key: Stealer written on C#, logs will be sent to Telegram bot.  
-[androbugs2](https://github.com/androbugs2/androbugs2): AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or security researchers find potential security vulnerabilities in Android applications.
+[androbugs2](https://github.com/androbugs2/androbugs2): AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or security researchers find potential security vulnerabilities in Android applications.  
+[Telegram-Trilateration](https://github.com/jkctech/Telegram-Trilateration): Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location
