@@ -2481,4 +2481,5 @@
 [dustcloud](https://github.com/dgiese/dustcloud): Xiaomi Smart Home Device Reverse Engineering and Hacking  
 [go-gtfo](https://github.com/mzfr/go-gtfo): gtfo, now with the speed of golang  
 [Webspoilt](https://github.com/Deadshot0x7/Webspoilt): This script will you help to find the information about the website and to help in penetrating testing   
-[zvs-script](https://github.com/nielsbakkers/zvs-script): Zeek Vulnerabilitie Scanner
+[zvs-script](https://github.com/nielsbakkers/zvs-script): Zeek Vulnerabilitie Scanner  
+[BMIN_GAN](https://github.com/JosephKBS/BMIN_GAN): Deep-fake medical image(X-ray) using GAN
