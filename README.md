@@ -2513,4 +2513,5 @@
 [mytools](https://github.com/ibnusyawall/mytools)  
 [flake8-bandit](https://github.com/tylerwince/flake8-bandit): Automated security testing using bandit and flake8.  
 [HackWifi](https://github.com/Pericena/HackWifi): El programa esta desarrollado en bat y en powershell su objetivo es extraer las contraseña he información de red que tiene un pc ya sea manualmente o automáticamente Solo las contraseñas guardadas de la pc ,puedes guardar el programa en una USB y ejecutarlo de ahí mismo. o usar diversas técnicas de ingeniería social para poder obtener las claves de tus victimas.. .  
-[mRemoteNG-Decrypt](https://github.com/haseebT/mRemoteNG-Decrypt): Python script to decrypt passwords stored by mRemoteNG
+[mRemoteNG-Decrypt](https://github.com/haseebT/mRemoteNG-Decrypt): Python script to decrypt passwords stored by mRemoteNG  
+[Codium-AntiMemoryScan-For-Native-Files-Improve-Runtime](https://github.com/CodiumAlgorithm/Codium-AntiMemoryScan-For-Native-Files-Improve-Runtime): Codium Algorithm Protector ^ Crypter
