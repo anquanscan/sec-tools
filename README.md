@@ -2458,4 +2458,5 @@
 [badssl.com](https://github.com/chromium/badssl.com): :lock: Memorable site for testing clients against bad SSL configs.  
 [linWinPwn](https://github.com/lefayjey/linWinPwn): linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks  
 [icgautoexploiter](https://github.com/NeloF4/icgautoexploiter): Visit  
-[TREVORspray](https://github.com/blacklanternsecurity/TREVORspray): TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
+[TREVORspray](https://github.com/blacklanternsecurity/TREVORspray): TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!  
+[mac-address-changer](https://github.com/canocalir/mac-address-changer): Mac Address Changer written with Python 3.8
