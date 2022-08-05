@@ -2611,4 +2611,5 @@
 [super-payload-launcher](https://github.com/kingkundo/super-payload-launcher): A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux.  
 [Winrarer-Ransomware](https://github.com/kuqadk3/Winrarer-Ransomware)  
 [FedIoT](https://github.com/FedML-AI/FedIoT): Federated Learning for Internet of Things: A Federated Learning Framework for On-device Anomaly Data Detection, backed by FedML, Inc.  
-[log4jscanwin](https://github.com/Qualys/log4jscanwin): Log4j Vulnerability Scanner for Windows
+[log4jscanwin](https://github.com/Qualys/log4jscanwin): Log4j Vulnerability Scanner for Windows  
+[boast](https://github.com/marcoagner/boast): The BOAST Outpost for AppSec Testing (v0.1.0)
