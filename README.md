@@ -2567,4 +2567,5 @@
 [ad-privileged-audit](https://github.com/ziesemer/ad-privileged-audit): Provides various Windows Server Active Directory (AD) security-focused reports.  
 [BabyMux](https://github.com/syno3/BabyMux): pentesting tool for noob hackers.Runs on linux and termux  
 [CKS-Exercises-Certified-Kubernetes-Security-Specialist](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist): A set of curated exercises to help you prepare for the CKS exam  
-[toolkit-exploit-hacking-seismologic-networks](https://github.com/jamesjara/toolkit-exploit-hacking-seismologic-networks): toolkit for exploiting your own seismological networks
+[toolkit-exploit-hacking-seismologic-networks](https://github.com/jamesjara/toolkit-exploit-hacking-seismologic-networks): toolkit for exploiting your own seismological networks  
+[Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce): Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)
