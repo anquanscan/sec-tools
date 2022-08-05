@@ -2553,4 +2553,5 @@
 [WhatWeb](https://github.com/urbanadventurer/WhatWeb): Next generation web scanner  
 [purelove](https://github.com/hucmosin/purelove): Purelove is a lightweight penetration testing framework, in order to better security testers testing holes with use.  
 [aragraph](https://github.com/ConsenSys/aragraph): Visualize your Aragon DAO Templates  
-[tools.tldr.run](https://github.com/tldrrun/tools.tldr.run): A curated list of security tools for Hackers & Builders!
+[tools.tldr.run](https://github.com/tldrrun/tools.tldr.run): A curated list of security tools for Hackers & Builders!  
+[cybersecurity-web-security](https://github.com/paulveillard/cybersecurity-web-security): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Web Security in Cybersecurity.
