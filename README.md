@@ -2591,4 +2591,5 @@
 [optiga-tpm](https://github.com/Infineon/optiga-tpm): Infineon OPTIGA™ TPM 2.0  
 [Eagle](https://github.com/BitTheByte/Eagle): Multithreaded Plugin based vulnerability scanner for mass detection of web-based applications vulnerabilities   
 [pyjarm](https://github.com/PaloAltoNetworks/pyjarm): pyJARM is a library for doing JARM fingerprinting using python  
-[knary](https://github.com/sudosammy/knary): A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support
+[knary](https://github.com/sudosammy/knary): A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support  
+[antrea](https://github.com/antrea-io/antrea): Kubernetes networking based on Open vSwitch
