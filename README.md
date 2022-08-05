@@ -2599,4 +2599,5 @@
 [bareos](https://github.com/bareos/bareos): Main repository with the code for the libraries and daemons  
 [CVE-2021-21972](https://github.com/orangmuda/CVE-2021-21972): CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ)  
 [salus](https://github.com/coinbase/salus): Security scanner coordinator  
-[trolo](https://github.com/b3rito/trolo): trolo -  an easy to use script for generating Payloads that bypasses antivirus
+[trolo](https://github.com/b3rito/trolo): trolo -  an easy to use script for generating Payloads that bypasses antivirus  
+[CheatSheets](https://github.com/Truvis/CheatSheets): Collection of scripts, files, and tips to create and maintain networks, hack, and more!
