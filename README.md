@@ -2709,4 +2709,5 @@
 [CVE2020-0796](https://github.com/Aurum2008/CVE2020-0796): Exploit for win10 SMB3.1  
 [hack-pet](https://github.com/hahwul/hack-pet): 🐰 Managing command snippets for hackers/bug bounty hunters. with pet.  
 [urlhunter](https://github.com/utkusen/urlhunter): a recon tool that allows searching on URLs that are exposed via shortener services  
-[DemonHunter](https://github.com/RevengeComing/DemonHunter): Distributed Honeypot
+[DemonHunter](https://github.com/RevengeComing/DemonHunter): Distributed Honeypot  
+[FunctionStomping](https://github.com/Idov31/FunctionStomping): A new shellcode injection technique. Given as C++ header, standalone Rust program or library.
