@@ -2674,4 +2674,5 @@
 [nullbinder](https://github.com/gfrancqu/nullbinder): Tools to exploit misconfiguration into LDAP directory  
 [ghost_eye](https://github.com/BullsEye0/ghost_eye): Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Information Gathering Tool I made in python 3. To run Ghost Eye, it only needs a domain or ip. Ghost Eye can work with any Linux distros if they support Python 3. Author: Jolanda de Koff  
 [raptor](https://github.com/dpnishant/raptor): Web-based Source Code Vulnerability Scanner  
-[substack](https://github.com/everping/substack): Sub-domains enumeration framework
+[substack](https://github.com/everping/substack): Sub-domains enumeration framework  
+[juice-shop](https://github.com/juice-shop/juice-shop): OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
