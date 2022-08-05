@@ -2652,4 +2652,5 @@
 [SecurIA](https://github.com/nicolaemolnar/SecurIA): Proyecto "Seguridad en la vivienda". Sistema IoT de videovigilancia controlada por IA para una vivienda, dispone de aplicación android y web para la interfaz de usuario.  
 [Confiscate](https://github.com/kangarko/Confiscate): Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy.  
 [cybersecurity-cross-site-scripting](https://github.com/paulveillard/cybersecurity-cross-site-scripting): An ongoing curated collection of awesome XSS software, libraries, frameworks, learning tutorials & practical resources cross-site scripting.  
-[ARM_Exploit](https://github.com/owlinux1000/ARM_Exploit): ARM Exploit 開発のためのトレーニングリポジトリ
+[ARM_Exploit](https://github.com/owlinux1000/ARM_Exploit): ARM Exploit 開発のためのトレーニングリポジトリ  
+[connectors](https://github.com/OpenCTI-Platform/connectors): OpenCTI Connectors
