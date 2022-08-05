@@ -2666,4 +2666,5 @@
 [awesome-rtc-hacking](https://github.com/EnableSecurity/awesome-rtc-hacking): a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE  
 [rapidscan](https://github.com/skavngr/rapidscan): :new: The Multi-Tool Web Vulnerability Scanner.   
 [MarkdownBlogPosts](https://github.com/sunnyMiglani/MarkdownBlogPosts): Essentially just notes I take, via a markdown app called Dillinger   
-[doublepulsar-detection-script](https://github.com/WithSecureLabs/doublepulsar-detection-script): A python2 script for sweeping a network to find windows systems compromised with the DOUBLEPULSAR implant.
+[doublepulsar-detection-script](https://github.com/WithSecureLabs/doublepulsar-detection-script): A python2 script for sweeping a network to find windows systems compromised with the DOUBLEPULSAR implant.  
+[nlp](https://github.com/duoergun0729/nlp): 兜哥出品 <一本开源的NLP入门书籍>
