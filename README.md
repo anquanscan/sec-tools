@@ -2701,4 +2701,5 @@
 [Encryption-Techniques](https://github.com/ifarshgar/Encryption-Techniques): Eventually, I mean to implement multiple famous encryption/decryption techniques here.   
 [Ultimate-Guitar-Hack](https://github.com/noahmaranesi/Ultimate-Guitar-Hack): The first tool to download any Guitar Pro file, including 'Official' from Ultimate Guitar  
 [Python-Cybrary-Code](https://github.com/c0d14k/Python-Cybrary-Code): python code correlating with my cybrary lesson blogs  
-[CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708): Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.
+[CVE-2019-11708](https://github.com/0vercl0k/CVE-2019-11708): Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.  
+[loopback4-helmet](https://github.com/sourcefuse/loopback4-helmet): A loopback4 extension for helmetjs integration
