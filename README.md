@@ -2687,4 +2687,5 @@
 [best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge): 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)  
 [RansomwareDetectionService](https://github.com/prestoncooper/RansomwareDetectionService): This program detects all present and future ransomware in Windows file shares or local drives for Windows file servers.  I created this windows service to aide system administrators not average users.  
 [IAT_API](https://github.com/EgeBalci/IAT_API): Assembly block for finding and calling the windows API functions inside import address table(IAT) of the running PE file.  
-[cybernethunter-armory](https://github.com/darkquasar/cybernethunter-armory): Tactical Cyber Tradecraft
+[cybernethunter-armory](https://github.com/darkquasar/cybernethunter-armory): Tactical Cyber Tradecraft  
+[awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic): Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
