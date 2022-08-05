@@ -2564,4 +2564,5 @@
 [GeoIPPlotter](https://github.com/op7ic/GeoIPPlotter): GeoIP plotting script written in Python to help security teams draw visualized reports from IP addresses  
 [botmap](https://github.com/Coretool/botmap): A nmap & MSF bot  
 [icp-domains](https://github.com/1in9e/icp-domains): 输入一个域名，输出ICP备案所有关联域名  
-[ad-privileged-audit](https://github.com/ziesemer/ad-privileged-audit): Provides various Windows Server Active Directory (AD) security-focused reports.
+[ad-privileged-audit](https://github.com/ziesemer/ad-privileged-audit): Provides various Windows Server Active Directory (AD) security-focused reports.  
+[BabyMux](https://github.com/syno3/BabyMux): pentesting tool for noob hackers.Runs on linux and termux
