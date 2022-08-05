@@ -2650,4 +2650,5 @@
 [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets): A curated list of amazingly awesome Cybersecurity datasets  
 [EQGRP](https://github.com/x0rz/EQGRP): Decrypted content of eqgrp-auction-file.tar.xz  
 [SecurIA](https://github.com/nicolaemolnar/SecurIA): Proyecto "Seguridad en la vivienda". Sistema IoT de videovigilancia controlada por IA para una vivienda, dispone de aplicación android y web para la interfaz de usuario.  
-[Confiscate](https://github.com/kangarko/Confiscate): Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy.
+[Confiscate](https://github.com/kangarko/Confiscate): Discover duplication glitches, abusive staff giving items, x-ray or simply poor server economy.  
+[cybersecurity-cross-site-scripting](https://github.com/paulveillard/cybersecurity-cross-site-scripting): An ongoing curated collection of awesome XSS software, libraries, frameworks, learning tutorials & practical resources cross-site scripting.
