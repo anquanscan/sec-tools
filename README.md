@@ -2603,4 +2603,5 @@
 [CheatSheets](https://github.com/Truvis/CheatSheets): Collection of scripts, files, and tips to create and maintain networks, hack, and more!  
 [PowerLadon](https://github.com/k8gege/PowerLadon): Ladon Network Penetration Scanner for PowerShell, vulnerability / exploit / detection / MS17010/SmbGhost,Brute-Force SMB/IPC/WMI/NBT/SSH/FTP/MSSQL/MYSQL/ORACLE/VNC  
 [ffuf-docker](https://github.com/marcel-last/ffuf-docker): A containerised version of ffuf (Fuzz Faster U Fool).  
-[jscpwn](https://github.com/saelo/jscpwn): PoC exploit for CVE-2016-4622
+[jscpwn](https://github.com/saelo/jscpwn): PoC exploit for CVE-2016-4622  
+[snyk-maven-plugin](https://github.com/snyk/snyk-maven-plugin): Test and monitor your projects for vulnerabilities with Maven. This plugin is officially maintained by Snyk.
