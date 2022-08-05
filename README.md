@@ -2676,4 +2676,5 @@
 [raptor](https://github.com/dpnishant/raptor): Web-based Source Code Vulnerability Scanner  
 [substack](https://github.com/everping/substack): Sub-domains enumeration framework  
 [juice-shop](https://github.com/juice-shop/juice-shop): OWASP Juice Shop: Probably the most modern and sophisticated insecure web application  
-[4depcheck](https://github.com/eliasgranderubio/4depcheck): a tool to analyze and detect vulnerable dependencies/libraries from different programming languages
+[4depcheck](https://github.com/eliasgranderubio/4depcheck): a tool to analyze and detect vulnerable dependencies/libraries from different programming languages  
+[Cyber-Christmas](https://github.com/kaiiyer/Cyber-Christmas): A curated list of resources for Cyber Professionals
