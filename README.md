@@ -2587,4 +2587,5 @@
 [minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot): Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam  
 [sightings_ecosystem](https://github.com/center-for-threat-informed-defense/sightings_ecosystem): This project aims to fundamentally advance our collective ability to see threat activity across organizational, platform, vendor and geographical boundaries.  
 [dalfox](https://github.com/hahwul/dalfox): 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility  
-[scan4all](https://github.com/hktalent/scan4all): vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+[scan4all](https://github.com/hktalent/scan4all): vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...  
+[optiga-tpm](https://github.com/Infineon/optiga-tpm): Infineon OPTIGA™ TPM 2.0
