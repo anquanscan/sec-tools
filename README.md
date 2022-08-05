@@ -2575,4 +2575,5 @@
 [CMSUno-RCE](https://github.com/sec-it/CMSUno-RCE): CMSUno 1.6.1 <= 1.6.2 - Remote Code Execution (Authenticated)  
 [ms17_010_scan](https://github.com/holmesian/ms17_010_scan): ms17_010的批量扫描工具  
 [venom](https://github.com/unkn0wnh4ckr/venom): the venom framework is a framework made in ruby filled with tools for wireless hacking, normal terminal commands, metasploit payloads and more i do plan on adding more things to it in the future if you would like to see updates on this and other tools i make follow me on instagram: @tuf_unkn0wn  
-[ehtk](https://github.com/0xCyberY/ehtk): Ethical Hacking Toolkit is a collection of tools, cheat sheets, and resources for Ethical hackers, Penetration Tester, and Security Researchers etc. It contains almost all tools mentioned in CEH, OSCP, eCPPT and PNPT
+[ehtk](https://github.com/0xCyberY/ehtk): Ethical Hacking Toolkit is a collection of tools, cheat sheets, and resources for Ethical hackers, Penetration Tester, and Security Researchers etc. It contains almost all tools mentioned in CEH, OSCP, eCPPT and PNPT  
+[SUF](https://github.com/ghostwalkr/SUF): SSH Username Finder
