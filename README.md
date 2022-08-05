@@ -2555,4 +2555,5 @@
 [aragraph](https://github.com/ConsenSys/aragraph): Visualize your Aragon DAO Templates  
 [tools.tldr.run](https://github.com/tldrrun/tools.tldr.run): A curated list of security tools for Hackers & Builders!  
 [cybersecurity-web-security](https://github.com/paulveillard/cybersecurity-web-security): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Web Security in Cybersecurity.  
-[Supply-Blockchain](https://github.com/Dheeraj1998/Supply-Blockchain): A demonstration of asset tracking blockchain, a generic use-case in IoT.
+[Supply-Blockchain](https://github.com/Dheeraj1998/Supply-Blockchain): A demonstration of asset tracking blockchain, a generic use-case in IoT.  
+[LFITester](https://github.com/kostas-pa/LFITester): LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server.
