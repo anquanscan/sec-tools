@@ -2563,4 +2563,5 @@
 [b1tifi](https://github.com/mh4x0f/b1tifi): ssh management tool to  provides commandline access to a remote system running SSH server  
 [GeoIPPlotter](https://github.com/op7ic/GeoIPPlotter): GeoIP plotting script written in Python to help security teams draw visualized reports from IP addresses  
 [botmap](https://github.com/Coretool/botmap): A nmap & MSF bot  
-[icp-domains](https://github.com/1in9e/icp-domains): 输入一个域名，输出ICP备案所有关联域名
+[icp-domains](https://github.com/1in9e/icp-domains): 输入一个域名，输出ICP备案所有关联域名  
+[ad-privileged-audit](https://github.com/ziesemer/ad-privileged-audit): Provides various Windows Server Active Directory (AD) security-focused reports.
