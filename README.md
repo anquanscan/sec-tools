@@ -2706,4 +2706,5 @@
 [cybersecurity-threat-intelligence](https://github.com/paulveillard/cybersecurity-threat-intelligence): An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Intelligence.   
 [linuxallenum](https://github.com/FabioDefilippo/linuxallenum): this bash script is for remote linux and macos hosts hacked!  
 [HelpUKR-master](https://github.com/rmellis/HelpUKR-master): This website is a collection of content that can be used to help Ukraine in the Cyber War from your browser, it also contains WebApps, News from many sources and lots of ways to donate directly to Ukraine from verified charity’s and lots more. We even have some pages on here we recovered from Google Web Cache’s after being destroyed by Russian attacks.  
-[CVE2020-0796](https://github.com/Aurum2008/CVE2020-0796): Exploit for win10 SMB3.1
+[CVE2020-0796](https://github.com/Aurum2008/CVE2020-0796): Exploit for win10 SMB3.1  
+[hack-pet](https://github.com/hahwul/hack-pet): 🐰 Managing command snippets for hackers/bug bounty hunters. with pet.
