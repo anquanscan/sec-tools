@@ -2590,4 +2590,5 @@
 [scan4all](https://github.com/hktalent/scan4all): vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...  
 [optiga-tpm](https://github.com/Infineon/optiga-tpm): Infineon OPTIGA™ TPM 2.0  
 [Eagle](https://github.com/BitTheByte/Eagle): Multithreaded Plugin based vulnerability scanner for mass detection of web-based applications vulnerabilities   
-[pyjarm](https://github.com/PaloAltoNetworks/pyjarm): pyJARM is a library for doing JARM fingerprinting using python
+[pyjarm](https://github.com/PaloAltoNetworks/pyjarm): pyJARM is a library for doing JARM fingerprinting using python  
+[knary](https://github.com/sudosammy/knary): A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support
