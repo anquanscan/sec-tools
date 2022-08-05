@@ -2570,4 +2570,5 @@
 [toolkit-exploit-hacking-seismologic-networks](https://github.com/jamesjara/toolkit-exploit-hacking-seismologic-networks): toolkit for exploiting your own seismological networks  
 [Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce): Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)  
 [cybergym](https://github.com/lucideus-repo/cybergym): Lucideus CyberGym is the internal CTF event we organise for our security professionals to grow and learn together. Now everyone can access the challenges that can be easily setup and start playing.  
-[gigahorse-toolchain](https://github.com/nevillegrech/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
+[gigahorse-toolchain](https://github.com/nevillegrech/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts  
+[studious-tribble](https://github.com/d3vFl0wlo/studious-tribble):  Repositório criado para agregar documentos, orientações e demais informações advindas de um grupo de estudos em Segurança de Dados
