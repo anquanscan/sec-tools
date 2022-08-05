@@ -2605,4 +2605,5 @@
 [ffuf-docker](https://github.com/marcel-last/ffuf-docker): A containerised version of ffuf (Fuzz Faster U Fool).  
 [jscpwn](https://github.com/saelo/jscpwn): PoC exploit for CVE-2016-4622  
 [snyk-maven-plugin](https://github.com/snyk/snyk-maven-plugin): Test and monitor your projects for vulnerabilities with Maven. This plugin is officially maintained by Snyk.  
-[SimpleExploitFixer](https://github.com/KRYMZ0N/SimpleExploitFixer): A Simple Exploit Fixer plugin that aims to fix most lag machines 
+[SimpleExploitFixer](https://github.com/KRYMZ0N/SimpleExploitFixer): A Simple Exploit Fixer plugin that aims to fix most lag machines   
+[shodansploit](https://github.com/shodansploit/shodansploit): 🔎 shodansploit > v1.3.0
