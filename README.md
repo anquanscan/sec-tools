@@ -2543,4 +2543,5 @@
 [butthax](https://github.com/smealum/butthax): lovense hush buttplug exploit chain  
 [TheDupe](https://github.com/BV5Tl0N/TheDupe): The Dupe is a free, multi-platform sensor for your decoy systems or honeypots. This sensor is easy to deploy and easy to use, you will have your own running decoy system in under 10 minutes!  
 [Mitm](https://github.com/Gregwar/Mitm): Man in the middle tool  
-[RansomDLLs](https://github.com/malvuln/RansomDLLs): Reference list for my Ransomware exploitation research. Lists current DLLs I have seen to date that some ransomware search for, which I have used successfully to hijack and intercept vulnerable strains executing arbitrary code pre-encryption.
+[RansomDLLs](https://github.com/malvuln/RansomDLLs): Reference list for my Ransomware exploitation research. Lists current DLLs I have seen to date that some ransomware search for, which I have used successfully to hijack and intercept vulnerable strains executing arbitrary code pre-encryption.  
+[cyris](https://github.com/crond-jaist/cyris): CyRIS: Cyber Range Instantiation System
