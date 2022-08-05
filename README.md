@@ -2539,4 +2539,5 @@
 [GreedyBear](https://github.com/honeynet/GreedyBear): Threat Intel Platform for T-POTs  
 [Discord-Console-hacks](https://github.com/hxr404/Discord-Console-hacks): A collection of JavaScript Codes I've made to enhance the User Experience of Discord and some other Discord related stuff  
 [USBGuardian](https://github.com/USBGuardian/USBGuardian): USBGuardian is an open source and affordable USB malware cleaning station  
-[APAC-Conferences](https://github.com/Infosec-Community/APAC-Conferences): A community contributed consolidated list of InfoSec meetups in the Asia Pacific region.
+[APAC-Conferences](https://github.com/Infosec-Community/APAC-Conferences): A community contributed consolidated list of InfoSec meetups in the Asia Pacific region.  
+[butthax](https://github.com/smealum/butthax): lovense hush buttplug exploit chain
