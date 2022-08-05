@@ -2623,4 +2623,5 @@
 [buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault  
 [LeakGenerator](https://github.com/op7ic/LeakGenerator): Generate your own personal data leak  
 [IPBan](https://github.com/danielsanleo/IPBan): Baneo de IPs para SSH y registro en MySQL  
-[chronos](https://github.com/otoriocyber/chronos): python framework to parse logs for IR
+[chronos](https://github.com/otoriocyber/chronos): python framework to parse logs for IR  
+[awesome-java-security](https://github.com/guardrailsio/awesome-java-security): Awesome Java Security Resources 🕶☕🔐
