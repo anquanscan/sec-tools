@@ -2618,4 +2618,5 @@
 [envkey-source](https://github.com/envkey/envkey-source): Set OS-level shell environment variables with EnvKey. Allows EnvKey to be used with any language. Pairs well with Docker.  
 [Threshold](https://github.com/jnm2/Threshold): Paper backup requiring a chosen K of N pieces to decrypt. Useful for storing passwords, private keys for PGP or Bitcoin, recovery codes, secret instructions, and small files. Work in progress.  
 [rpl-attacks](https://github.com/dhondta/rpl-attacks): RPL attacks framework for simulating WSN with a malicious mote based on Contiki  
-[nano-can](https://github.com/mintynet/nano-can): Arduino code for use with nano can PCB
+[nano-can](https://github.com/mintynet/nano-can): Arduino code for use with nano can PCB  
+[feuerfuchs](https://github.com/saelo/feuerfuchs): Files for the "feuerfuchs" challenge of 33C3 CTF. See the greeting message in server.py for more information about the challenge
