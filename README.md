@@ -2643,4 +2643,5 @@
 [nerdbug](https://github.com/iamthefrogy/nerdbug): Full Nuclei automation script with logic explanation.  
 [WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer): Get All Registered Wifi Passwords from Target Computer.  
 [VoiceSens](https://github.com/bedangSen/VoiceSens): A Voice Biometric Application using Watson Speech to Text  
-[ktcal2](https://github.com/cr0hn/ktcal2): SSH brute forcer tool and library, using AsyncIO of Python 3.4
+[ktcal2](https://github.com/cr0hn/ktcal2): SSH brute forcer tool and library, using AsyncIO of Python 3.4  
+[struts-pwn_CVE-2018-11776](https://github.com/mazen160/struts-pwn_CVE-2018-11776):  An exploit for Apache Struts CVE-2018-11776
