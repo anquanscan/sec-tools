@@ -2595,4 +2595,5 @@
 [antrea](https://github.com/antrea-io/antrea): Kubernetes networking based on Open vSwitch  
 [portia](https://github.com/milo2012/portia): Portia aims to automate a number of techniques commonly performed on internal network penetration tests after a low privileged account has been compromised.  Portia performs privilege escalation as well as lateral movement automatically in the network  
 [fuzzbang](https://github.com/jmcph4/fuzzbang): Python 3 package providing basic fuzzing support  
-[dustilock](https://github.com/Checkmarx/dustilock): DustiLock is a tool to find which of your dependencies is susceptible to a Dependency Confusion attack.
+[dustilock](https://github.com/Checkmarx/dustilock): DustiLock is a tool to find which of your dependencies is susceptible to a Dependency Confusion attack.  
+[bareos](https://github.com/bareos/bareos): Main repository with the code for the libraries and daemons
