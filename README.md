@@ -2592,4 +2592,5 @@
 [Eagle](https://github.com/BitTheByte/Eagle): Multithreaded Plugin based vulnerability scanner for mass detection of web-based applications vulnerabilities   
 [pyjarm](https://github.com/PaloAltoNetworks/pyjarm): pyJARM is a library for doing JARM fingerprinting using python  
 [knary](https://github.com/sudosammy/knary): A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support  
-[antrea](https://github.com/antrea-io/antrea): Kubernetes networking based on Open vSwitch
+[antrea](https://github.com/antrea-io/antrea): Kubernetes networking based on Open vSwitch  
+[portia](https://github.com/milo2012/portia): Portia aims to automate a number of techniques commonly performed on internal network penetration tests after a low privileged account has been compromised.  Portia performs privilege escalation as well as lateral movement automatically in the network
