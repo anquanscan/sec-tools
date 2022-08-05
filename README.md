@@ -2552,4 +2552,5 @@
 [sDriller](https://github.com/cxm95/sDriller): An patch for shellphish's Driller. Add support for strip static linked binaries, for which uses IDrillerA's result to hook libc functions.  
 [WhatWeb](https://github.com/urbanadventurer/WhatWeb): Next generation web scanner  
 [purelove](https://github.com/hucmosin/purelove): Purelove is a lightweight penetration testing framework, in order to better security testers testing holes with use.  
-[aragraph](https://github.com/ConsenSys/aragraph): Visualize your Aragon DAO Templates
+[aragraph](https://github.com/ConsenSys/aragraph): Visualize your Aragon DAO Templates  
+[tools.tldr.run](https://github.com/tldrrun/tools.tldr.run): A curated list of security tools for Hackers & Builders!
