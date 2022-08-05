@@ -2697,4 +2697,5 @@
 [Admin-Scanner](https://github.com/alienwhatever/Admin-Scanner): This tool is design to find admin panel of any website by using custom wordlist or default wordlist easily and allow you to find admin panel trough a proxy server  
 [dismap](https://github.com/zhzyker/dismap): Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点  
 [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list): 📝 Frontend Tech List for Developers 💡  
-[ContainerSSH](https://github.com/ContainerSSH/ContainerSSH): ContainerSSH: Launch containers on demand
+[ContainerSSH](https://github.com/ContainerSSH/ContainerSSH): ContainerSSH: Launch containers on demand  
+[Encryption-Techniques](https://github.com/ifarshgar/Encryption-Techniques): Eventually, I mean to implement multiple famous encryption/decryption techniques here. 
