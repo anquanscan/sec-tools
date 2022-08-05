@@ -2693,4 +2693,5 @@
 [BananaPhone](https://github.com/C-Sto/BananaPhone): It's a go variant of Hells gate! (directly calling windows kernel functions, but from Go!)  
 [Splunk_Remediation_Scripts](https://github.com/dc401/Splunk_Remediation_Scripts): Scripts for Splunk Alerts  
 [unlockdown](https://github.com/xairy/unlockdown): Disabling kernel lockdown on Ubuntu without physical access  
-[go-metadataproxy](https://github.com/jippi/go-metadataproxy): A proxy for AWS's metadata service that gives out scoped IAM credentials from STS
+[go-metadataproxy](https://github.com/jippi/go-metadataproxy): A proxy for AWS's metadata service that gives out scoped IAM credentials from STS  
+[Admin-Scanner](https://github.com/alienwhatever/Admin-Scanner): This tool is design to find admin panel of any website by using custom wordlist or default wordlist easily and allow you to find admin panel trough a proxy server
