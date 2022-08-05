@@ -2637,4 +2637,5 @@
 [Go-Security](https://github.com/parsiya/Go-Security): My Go security projects  
 [Lazysploit](https://github.com/50UM3N/Lazysploit): I made this tool for beginner who start ethical hacking. This tool help you to make payload with msfvenom without writing a single line of command.   
 [NetWorm](https://github.com/pylyf/NetWorm): Python network worm that spreads on the local network and gives the attacker control of these machines.  
-[udcide](https://github.com/UDcide/udcide): Android Malware Behavior Deleter
+[udcide](https://github.com/UDcide/udcide): Android Malware Behavior Deleter  
+[Attiny85](https://github.com/MTK911/Attiny85): RubberDucky like payloads for DigiSpark Attiny85
