@@ -2668,4 +2668,5 @@
 [MarkdownBlogPosts](https://github.com/sunnyMiglani/MarkdownBlogPosts): Essentially just notes I take, via a markdown app called Dillinger   
 [doublepulsar-detection-script](https://github.com/WithSecureLabs/doublepulsar-detection-script): A python2 script for sweeping a network to find windows systems compromised with the DOUBLEPULSAR implant.  
 [nlp](https://github.com/duoergun0729/nlp): 兜哥出品 <一本开源的NLP入门书籍>  
-[WP-Exploiter](https://github.com/eliranmaman/WP-Exploiter): WP-Exploiter is a tool for testing and exploiting a wide range of WordPress websites.
+[WP-Exploiter](https://github.com/eliranmaman/WP-Exploiter): WP-Exploiter is a tool for testing and exploiting a wide range of WordPress websites.  
+[laravel-csp](https://github.com/spatie/laravel-csp): Set content security policy headers in a Laravel app
