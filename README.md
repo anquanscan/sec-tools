@@ -2634,4 +2634,5 @@
 [longtongue](https://github.com/edoardottt/longtongue): Customized Password/Passphrase List inputting Target Info  
 [lazy-oauth2-service-worker-vault](https://github.com/aidant/lazy-oauth2-service-worker-vault): Keep your OAuth 2.0 tokens secure and up-to-date.  
 [subdomain_scanner](https://github.com/dogukankurnaz/subdomain_scanner): Subdomain Scanner on Shell  
-[Go-Security](https://github.com/parsiya/Go-Security): My Go security projects
+[Go-Security](https://github.com/parsiya/Go-Security): My Go security projects  
+[Lazysploit](https://github.com/50UM3N/Lazysploit): I made this tool for beginner who start ethical hacking. This tool help you to make payload with msfvenom without writing a single line of command. 
