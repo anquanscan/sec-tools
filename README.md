@@ -2566,4 +2566,5 @@
 [icp-domains](https://github.com/1in9e/icp-domains): 输入一个域名，输出ICP备案所有关联域名  
 [ad-privileged-audit](https://github.com/ziesemer/ad-privileged-audit): Provides various Windows Server Active Directory (AD) security-focused reports.  
 [BabyMux](https://github.com/syno3/BabyMux): pentesting tool for noob hackers.Runs on linux and termux  
-[CKS-Exercises-Certified-Kubernetes-Security-Specialist](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist): A set of curated exercises to help you prepare for the CKS exam
+[CKS-Exercises-Certified-Kubernetes-Security-Specialist](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist): A set of curated exercises to help you prepare for the CKS exam  
+[toolkit-exploit-hacking-seismologic-networks](https://github.com/jamesjara/toolkit-exploit-hacking-seismologic-networks): toolkit for exploiting your own seismological networks
