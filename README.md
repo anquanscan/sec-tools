@@ -2699,4 +2699,5 @@
 [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list): 📝 Frontend Tech List for Developers 💡  
 [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH): ContainerSSH: Launch containers on demand  
 [Encryption-Techniques](https://github.com/ifarshgar/Encryption-Techniques): Eventually, I mean to implement multiple famous encryption/decryption techniques here.   
-[Ultimate-Guitar-Hack](https://github.com/noahmaranesi/Ultimate-Guitar-Hack): The first tool to download any Guitar Pro file, including 'Official' from Ultimate Guitar
+[Ultimate-Guitar-Hack](https://github.com/noahmaranesi/Ultimate-Guitar-Hack): The first tool to download any Guitar Pro file, including 'Official' from Ultimate Guitar  
+[Python-Cybrary-Code](https://github.com/c0d14k/Python-Cybrary-Code): python code correlating with my cybrary lesson blogs
