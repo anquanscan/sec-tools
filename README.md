@@ -2640,4 +2640,5 @@
 [udcide](https://github.com/UDcide/udcide): Android Malware Behavior Deleter  
 [Attiny85](https://github.com/MTK911/Attiny85): RubberDucky like payloads for DigiSpark Attiny85  
 [androsec-rl](https://github.com/liadber/androsec-rl): Efficient Android Malware detection using Random - Protype of BA's final project (Efficient Android Malware Detection using RL) - Amit Moshe (@Amit223) & Inbar Roth (@inbaroth) & Liad Bercovich (@liadber)  
-[nerdbug](https://github.com/iamthefrogy/nerdbug): Full Nuclei automation script with logic explanation.
+[nerdbug](https://github.com/iamthefrogy/nerdbug): Full Nuclei automation script with logic explanation.  
+[WifiPassword-Stealer](https://github.com/aydinnyunus/WifiPassword-Stealer): Get All Registered Wifi Passwords from Target Computer.
