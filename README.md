@@ -2711,4 +2711,5 @@
 [urlhunter](https://github.com/utkusen/urlhunter): a recon tool that allows searching on URLs that are exposed via shortener services  
 [DemonHunter](https://github.com/RevengeComing/DemonHunter): Distributed Honeypot  
 [FunctionStomping](https://github.com/Idov31/FunctionStomping): A new shellcode injection technique. Given as C++ header, standalone Rust program or library.  
-[BAR-Tender](https://github.com/defparam/BAR-Tender): An FPGA I/O Device which services physical memory reads/writes via UMDF2 driver
+[BAR-Tender](https://github.com/defparam/BAR-Tender): An FPGA I/O Device which services physical memory reads/writes via UMDF2 driver  
+[Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet): Offensive Reverse Shell (Cheat Sheet)
