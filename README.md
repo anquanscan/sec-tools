@@ -2648,4 +2648,5 @@
 [phomber](https://github.com/s41r4j/phomber): Phomber is infomation grathering tool that reverse search phone numbers and get their details, written in python3.  
 [DFBreak](https://github.com/173210/DFBreak): DAYFILER Rooting Tool  
 [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets): A curated list of amazingly awesome Cybersecurity datasets  
-[EQGRP](https://github.com/x0rz/EQGRP): Decrypted content of eqgrp-auction-file.tar.xz
+[EQGRP](https://github.com/x0rz/EQGRP): Decrypted content of eqgrp-auction-file.tar.xz  
+[SecurIA](https://github.com/nicolaemolnar/SecurIA): Proyecto "Seguridad en la vivienda". Sistema IoT de videovigilancia controlada por IA para una vivienda, dispone de aplicación android y web para la interfaz de usuario.
