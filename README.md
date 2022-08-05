@@ -2583,4 +2583,5 @@
 [high-assurance-rust](https://github.com/tnballo/high-assurance-rust): A free book about developing secure and robust systems software.  
 [prl_guest_to_host](https://github.com/Cr4sh/prl_guest_to_host): Guest to host VM escape exploit for Parallels Desktop  
 [SecurityDataScience](https://github.com/jbaquerot/SecurityDataScience): Apache Spark 2.2.0 (pyspakr) exercises of Security Data Science Course.  
-[ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall): Ansible Role - iptables Firewall configuration.
+[ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall): Ansible Role - iptables Firewall configuration.  
+[minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot): Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam
