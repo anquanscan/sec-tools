@@ -2680,4 +2680,5 @@
 [Cyber-Christmas](https://github.com/kaiiyer/Cyber-Christmas): A curated list of resources for Cyber Professionals  
 [nosurf](https://github.com/justinas/nosurf): CSRF protection middleware for Go.  
 [cornerstone](https://github.com/momosecurity/cornerstone): Linux命令转发记录  
-[tbms](https://github.com/ZFPSystems/tbms): Tor-Browser Sandbox for macOS - security tool to reduce tor-browser access to macOS system
+[tbms](https://github.com/ZFPSystems/tbms): Tor-Browser Sandbox for macOS - security tool to reduce tor-browser access to macOS system  
+[SafePad](https://github.com/stephenhaunts/SafePad): SafePad : Encrypted Text Editor. This text editor uses very strong encryption to let you protect your secrets. Great for storing passwords, credit card details or any else that you want to keep safe.
