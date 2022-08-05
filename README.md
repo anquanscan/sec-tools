@@ -2633,4 +2633,5 @@
 [Magento2_SomethingDigital_InvalidateAdminPasswords](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords): Module to invalidate all admin passwords on Magento 2  
 [longtongue](https://github.com/edoardottt/longtongue): Customized Password/Passphrase List inputting Target Info  
 [lazy-oauth2-service-worker-vault](https://github.com/aidant/lazy-oauth2-service-worker-vault): Keep your OAuth 2.0 tokens secure and up-to-date.  
-[subdomain_scanner](https://github.com/dogukankurnaz/subdomain_scanner): Subdomain Scanner on Shell
+[subdomain_scanner](https://github.com/dogukankurnaz/subdomain_scanner): Subdomain Scanner on Shell  
+[Go-Security](https://github.com/parsiya/Go-Security): My Go security projects
