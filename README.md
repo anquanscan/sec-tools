@@ -2695,4 +2695,5 @@
 [unlockdown](https://github.com/xairy/unlockdown): Disabling kernel lockdown on Ubuntu without physical access  
 [go-metadataproxy](https://github.com/jippi/go-metadataproxy): A proxy for AWS's metadata service that gives out scoped IAM credentials from STS  
 [Admin-Scanner](https://github.com/alienwhatever/Admin-Scanner): This tool is design to find admin panel of any website by using custom wordlist or default wordlist easily and allow you to find admin panel trough a proxy server  
-[dismap](https://github.com/zhzyker/dismap): Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点
+[dismap](https://github.com/zhzyker/dismap): Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点  
+[frontend-tech-list](https://github.com/alienzhou/frontend-tech-list): 📝 Frontend Tech List for Developers 💡
