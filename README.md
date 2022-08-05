@@ -2578,4 +2578,5 @@
 [ehtk](https://github.com/0xCyberY/ehtk): Ethical Hacking Toolkit is a collection of tools, cheat sheets, and resources for Ethical hackers, Penetration Tester, and Security Researchers etc. It contains almost all tools mentioned in CEH, OSCP, eCPPT and PNPT  
 [SUF](https://github.com/ghostwalkr/SUF): SSH Username Finder  
 [CamOver](https://github.com/EntySec/CamOver):  CamOver is a camera exploitation tool that allows to disclosure network camera admin password.  
-[turbo-scanner](https://github.com/mytechnotalent/turbo-scanner): A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts's ip or fqdn with the sole purpose of testing your own network to ensure there are no malicious services running.
+[turbo-scanner](https://github.com/mytechnotalent/turbo-scanner): A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts's ip or fqdn with the sole purpose of testing your own network to ensure there are no malicious services running.  
+[exploit-framework](https://github.com/krishpranav/exploit-framework): A multiple reverse shell sessions/clients manager via terminal written in go
