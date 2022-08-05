@@ -2658,4 +2658,5 @@
 [digital-security-coach](https://github.com/dguo/digital-security-coach): :lock: Accessible crash course on digital security  
 [BlackMamba](https://github.com/loseys/BlackMamba): C2/post-exploitation framework  
 [googlephotos-filestorage](https://github.com/jakebacker/googlephotos-filestorage): Exploiting Google Photos' unlimited photo storage  
-[Lilith](https://github.com/werkamsus/Lilith): Lilith, The Open Source C++ Remote Administration Tool (RAT)
+[Lilith](https://github.com/werkamsus/Lilith): Lilith, The Open Source C++ Remote Administration Tool (RAT)  
+[burp-exporter](https://github.com/artssec/burp-exporter): Exporter is a Burp Suite extension to copy a request to a file or the clipboard as multiple programming languages functions.
