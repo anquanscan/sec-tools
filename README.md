@@ -2627,4 +2627,5 @@
 [awesome-java-security](https://github.com/guardrailsio/awesome-java-security): Awesome Java Security Resources 🕶☕🔐  
 [xxexploiter](https://github.com/luisfontes19/xxexploiter): Tool to help exploit XXE vulnerabilities  
 [blackholebots](https://github.com/getdatakick/blackholebots): Free module for prestashop and thirtybees platforms that will automagically ban bots that don't follow robots.txt instructions  
-[RemoteMouse-3.008-Exploit](https://github.com/p0dalirius/RemoteMouse-3.008-Exploit): This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine.
+[RemoteMouse-3.008-Exploit](https://github.com/p0dalirius/RemoteMouse-3.008-Exploit): This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine.  
+[ActiveDirectoryAttackTool](https://github.com/The-Viper-One/ActiveDirectoryAttackTool): ADAT is a small tool used to assist CTF players and Penetration testers with easy commands to run against an Active Directory Domain Controller. This tool is is best utilized using a set of known credentials against the host.
