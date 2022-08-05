@@ -2613,4 +2613,5 @@
 [FedIoT](https://github.com/FedML-AI/FedIoT): Federated Learning for Internet of Things: A Federated Learning Framework for On-device Anomaly Data Detection, backed by FedML, Inc.  
 [log4jscanwin](https://github.com/Qualys/log4jscanwin): Log4j Vulnerability Scanner for Windows  
 [boast](https://github.com/marcoagner/boast): The BOAST Outpost for AppSec Testing (v0.1.0)  
-[jwtXploiter](https://github.com/DontPanicO/jwtXploiter): A tool to test security of json web token
+[jwtXploiter](https://github.com/DontPanicO/jwtXploiter): A tool to test security of json web token  
+[MSF-Self-Defence](https://github.com/EgeBalci/MSF-Self-Defence): Self defense post module for metasploit
