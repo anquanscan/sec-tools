@@ -2624,4 +2624,5 @@
 [LeakGenerator](https://github.com/op7ic/LeakGenerator): Generate your own personal data leak  
 [IPBan](https://github.com/danielsanleo/IPBan): Baneo de IPs para SSH y registro en MySQL  
 [chronos](https://github.com/otoriocyber/chronos): python framework to parse logs for IR  
-[awesome-java-security](https://github.com/guardrailsio/awesome-java-security): Awesome Java Security Resources 🕶☕🔐
+[awesome-java-security](https://github.com/guardrailsio/awesome-java-security): Awesome Java Security Resources 🕶☕🔐  
+[xxexploiter](https://github.com/luisfontes19/xxexploiter): Tool to help exploit XXE vulnerabilities
