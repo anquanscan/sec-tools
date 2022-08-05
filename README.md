@@ -2665,4 +2665,5 @@
 [SECMON](https://github.com/Guezone/SECMON): SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface.  
 [awesome-rtc-hacking](https://github.com/EnableSecurity/awesome-rtc-hacking): a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE  
 [rapidscan](https://github.com/skavngr/rapidscan): :new: The Multi-Tool Web Vulnerability Scanner.   
-[MarkdownBlogPosts](https://github.com/sunnyMiglani/MarkdownBlogPosts): Essentially just notes I take, via a markdown app called Dillinger 
+[MarkdownBlogPosts](https://github.com/sunnyMiglani/MarkdownBlogPosts): Essentially just notes I take, via a markdown app called Dillinger   
+[doublepulsar-detection-script](https://github.com/WithSecureLabs/doublepulsar-detection-script): A python2 script for sweeping a network to find windows systems compromised with the DOUBLEPULSAR implant.
