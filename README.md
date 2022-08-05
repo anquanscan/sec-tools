@@ -2632,4 +2632,5 @@
 [gina-ldap-client](https://github.com/republique-et-canton-de-geneve/gina-ldap-client): Client Java d'accès à l'annuaire LDAP de l'État de Genève.  
 [Magento2_SomethingDigital_InvalidateAdminPasswords](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords): Module to invalidate all admin passwords on Magento 2  
 [longtongue](https://github.com/edoardottt/longtongue): Customized Password/Passphrase List inputting Target Info  
-[lazy-oauth2-service-worker-vault](https://github.com/aidant/lazy-oauth2-service-worker-vault): Keep your OAuth 2.0 tokens secure and up-to-date.
+[lazy-oauth2-service-worker-vault](https://github.com/aidant/lazy-oauth2-service-worker-vault): Keep your OAuth 2.0 tokens secure and up-to-date.  
+[subdomain_scanner](https://github.com/dogukankurnaz/subdomain_scanner): Subdomain Scanner on Shell
