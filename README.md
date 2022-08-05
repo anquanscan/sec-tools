@@ -2585,4 +2585,5 @@
 [SecurityDataScience](https://github.com/jbaquerot/SecurityDataScience): Apache Spark 2.2.0 (pyspakr) exercises of Security Data Science Course.  
 [ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall): Ansible Role - iptables Firewall configuration.  
 [minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot): Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam  
-[sightings_ecosystem](https://github.com/center-for-threat-informed-defense/sightings_ecosystem): This project aims to fundamentally advance our collective ability to see threat activity across organizational, platform, vendor and geographical boundaries.
+[sightings_ecosystem](https://github.com/center-for-threat-informed-defense/sightings_ecosystem): This project aims to fundamentally advance our collective ability to see threat activity across organizational, platform, vendor and geographical boundaries.  
+[dalfox](https://github.com/hahwul/dalfox): 🌙🦊 DalFox is an powerful open source XSS scanning tool and parameter analyzer, utility
