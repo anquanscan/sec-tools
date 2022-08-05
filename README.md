@@ -2657,4 +2657,5 @@
 [Automating-VirusTotal-APIv3-for-IPs-and-URLs](https://github.com/b-fullam/Automating-VirusTotal-APIv3-for-IPs-and-URLs): Automating VirusTotal's API v3  for IP address and URL analysis w/HTML Reporting. Python script that functions like a CLI tool to interact programmatically with VirusTotal API v3.  
 [digital-security-coach](https://github.com/dguo/digital-security-coach): :lock: Accessible crash course on digital security  
 [BlackMamba](https://github.com/loseys/BlackMamba): C2/post-exploitation framework  
-[googlephotos-filestorage](https://github.com/jakebacker/googlephotos-filestorage): Exploiting Google Photos' unlimited photo storage
+[googlephotos-filestorage](https://github.com/jakebacker/googlephotos-filestorage): Exploiting Google Photos' unlimited photo storage  
+[Lilith](https://github.com/werkamsus/Lilith): Lilith, The Open Source C++ Remote Administration Tool (RAT)
