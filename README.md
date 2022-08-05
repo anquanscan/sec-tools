@@ -2614,4 +2614,5 @@
 [log4jscanwin](https://github.com/Qualys/log4jscanwin): Log4j Vulnerability Scanner for Windows  
 [boast](https://github.com/marcoagner/boast): The BOAST Outpost for AppSec Testing (v0.1.0)  
 [jwtXploiter](https://github.com/DontPanicO/jwtXploiter): A tool to test security of json web token  
-[MSF-Self-Defence](https://github.com/EgeBalci/MSF-Self-Defence): Self defense post module for metasploit
+[MSF-Self-Defence](https://github.com/EgeBalci/MSF-Self-Defence): Self defense post module for metasploit  
+[envkey-source](https://github.com/envkey/envkey-source): Set OS-level shell environment variables with EnvKey. Allows EnvKey to be used with any language. Pairs well with Docker.
