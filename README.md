@@ -2671,4 +2671,5 @@
 [WP-Exploiter](https://github.com/eliranmaman/WP-Exploiter): WP-Exploiter is a tool for testing and exploiting a wide range of WordPress websites.  
 [laravel-csp](https://github.com/spatie/laravel-csp): Set content security policy headers in a Laravel app  
 [overwhelm](https://github.com/cloudsriseup/overwhelm):  Overwhelm's Vanquish is a Kali Linux based Enumeration Orchestrator built in Python running inside a docker container.  Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases. The results of each phase are fed into the next phase to identify vulnerabilities that could be leveraged for a remote shell  
-[nullbinder](https://github.com/gfrancqu/nullbinder): Tools to exploit misconfiguration into LDAP directory
+[nullbinder](https://github.com/gfrancqu/nullbinder): Tools to exploit misconfiguration into LDAP directory  
+[ghost_eye](https://github.com/BullsEye0/ghost_eye): Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Information Gathering Tool I made in python 3. To run Ghost Eye, it only needs a domain or ip. Ghost Eye can work with any Linux distros if they support Python 3. Author: Jolanda de Koff
