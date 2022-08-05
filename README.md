@@ -2550,4 +2550,5 @@
 [cyber_threat_intelligence](https://github.com/vuldb/cyber_threat_intelligence): Cyber Threat Intelligence Data, Indicators, and Analysis  
 [credit-card-fraud-kaggle](https://github.com/rodrigobercini/credit-card-fraud-kaggle): Classificando dados anônimos de transações por cartão de crédito como fraudulentas ou genuínas  
 [sDriller](https://github.com/cxm95/sDriller): An patch for shellphish's Driller. Add support for strip static linked binaries, for which uses IDrillerA's result to hook libc functions.  
-[WhatWeb](https://github.com/urbanadventurer/WhatWeb): Next generation web scanner
+[WhatWeb](https://github.com/urbanadventurer/WhatWeb): Next generation web scanner  
+[purelove](https://github.com/hucmosin/purelove): Purelove is a lightweight penetration testing framework, in order to better security testers testing holes with use.
