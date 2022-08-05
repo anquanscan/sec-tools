@@ -2683,4 +2683,5 @@
 [tbms](https://github.com/ZFPSystems/tbms): Tor-Browser Sandbox for macOS - security tool to reduce tor-browser access to macOS system  
 [SafePad](https://github.com/stephenhaunts/SafePad): SafePad : Encrypted Text Editor. This text editor uses very strong encryption to let you protect your secrets. Great for storing passwords, credit card details or any else that you want to keep safe.  
 [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs): The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)  
-[PyIris](https://github.com/angus-y/PyIris): PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems.
+[PyIris](https://github.com/angus-y/PyIris): PyIris is a modular remote access trojan toolkit written in python targeting Windows and Linux systems.  
+[best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge): 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
