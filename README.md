@@ -2654,4 +2654,5 @@
 [cybersecurity-cross-site-scripting](https://github.com/paulveillard/cybersecurity-cross-site-scripting): An ongoing curated collection of awesome XSS software, libraries, frameworks, learning tutorials & practical resources cross-site scripting.  
 [ARM_Exploit](https://github.com/owlinux1000/ARM_Exploit): ARM Exploit 開発のためのトレーニングリポジトリ  
 [connectors](https://github.com/OpenCTI-Platform/connectors): OpenCTI Connectors  
-[Automating-VirusTotal-APIv3-for-IPs-and-URLs](https://github.com/b-fullam/Automating-VirusTotal-APIv3-for-IPs-and-URLs): Automating VirusTotal's API v3  for IP address and URL analysis w/HTML Reporting. Python script that functions like a CLI tool to interact programmatically with VirusTotal API v3.
+[Automating-VirusTotal-APIv3-for-IPs-and-URLs](https://github.com/b-fullam/Automating-VirusTotal-APIv3-for-IPs-and-URLs): Automating VirusTotal's API v3  for IP address and URL analysis w/HTML Reporting. Python script that functions like a CLI tool to interact programmatically with VirusTotal API v3.  
+[digital-security-coach](https://github.com/dguo/digital-security-coach): :lock: Accessible crash course on digital security
