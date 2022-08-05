@@ -2663,4 +2663,5 @@
 [pentesterlabpro_notes](https://github.com/whoami-anoint/pentesterlabpro_notes): This is collection of my notes on pentesterlab which I made while solving these pentesterlab pro exercises.  
 [Authorized](https://github.com/zdnk/Authorized): 🔐 Simple way to authorize user actions on resources for Vapor 3  
 [SECMON](https://github.com/Guezone/SECMON): SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface.  
-[awesome-rtc-hacking](https://github.com/EnableSecurity/awesome-rtc-hacking): a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE
+[awesome-rtc-hacking](https://github.com/EnableSecurity/awesome-rtc-hacking): a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE  
+[rapidscan](https://github.com/skavngr/rapidscan): :new: The Multi-Tool Web Vulnerability Scanner. 
