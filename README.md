@@ -2630,4 +2630,5 @@
 [RemoteMouse-3.008-Exploit](https://github.com/p0dalirius/RemoteMouse-3.008-Exploit): This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine.  
 [ActiveDirectoryAttackTool](https://github.com/The-Viper-One/ActiveDirectoryAttackTool): ADAT is a small tool used to assist CTF players and Penetration testers with easy commands to run against an Active Directory Domain Controller. This tool is is best utilized using a set of known credentials against the host.  
 [gina-ldap-client](https://github.com/republique-et-canton-de-geneve/gina-ldap-client): Client Java d'accès à l'annuaire LDAP de l'État de Genève.  
-[Magento2_SomethingDigital_InvalidateAdminPasswords](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords): Module to invalidate all admin passwords on Magento 2
+[Magento2_SomethingDigital_InvalidateAdminPasswords](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords): Module to invalidate all admin passwords on Magento 2  
+[longtongue](https://github.com/edoardottt/longtongue): Customized Password/Passphrase List inputting Target Info
