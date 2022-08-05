@@ -2579,4 +2579,5 @@
 [SUF](https://github.com/ghostwalkr/SUF): SSH Username Finder  
 [CamOver](https://github.com/EntySec/CamOver):  CamOver is a camera exploitation tool that allows to disclosure network camera admin password.  
 [turbo-scanner](https://github.com/mytechnotalent/turbo-scanner): A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts's ip or fqdn with the sole purpose of testing your own network to ensure there are no malicious services running.  
-[exploit-framework](https://github.com/krishpranav/exploit-framework): A multiple reverse shell sessions/clients manager via terminal written in go
+[exploit-framework](https://github.com/krishpranav/exploit-framework): A multiple reverse shell sessions/clients manager via terminal written in go  
+[high-assurance-rust](https://github.com/tnballo/high-assurance-rust): A free book about developing secure and robust systems software.
