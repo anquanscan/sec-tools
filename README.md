@@ -2544,4 +2544,5 @@
 [TheDupe](https://github.com/BV5Tl0N/TheDupe): The Dupe is a free, multi-platform sensor for your decoy systems or honeypots. This sensor is easy to deploy and easy to use, you will have your own running decoy system in under 10 minutes!  
 [Mitm](https://github.com/Gregwar/Mitm): Man in the middle tool  
 [RansomDLLs](https://github.com/malvuln/RansomDLLs): Reference list for my Ransomware exploitation research. Lists current DLLs I have seen to date that some ransomware search for, which I have used successfully to hijack and intercept vulnerable strains executing arbitrary code pre-encryption.  
-[cyris](https://github.com/crond-jaist/cyris): CyRIS: Cyber Range Instantiation System
+[cyris](https://github.com/crond-jaist/cyris): CyRIS: Cyber Range Instantiation System  
+[log4j-poc](https://github.com/cyberxml/log4j-poc): A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell
