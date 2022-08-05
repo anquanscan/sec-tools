@@ -2609,4 +2609,5 @@
 [shodansploit](https://github.com/shodansploit/shodansploit): 🔎 shodansploit > v1.3.0  
 [idsa](https://github.com/International-Data-Spaces-Association/idsa): This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.  
 [super-payload-launcher](https://github.com/kingkundo/super-payload-launcher): A new, pretty, simple, cross-platform GUI-based tool for injecting payloads onto your Switch to boot into Atmosphere, Hekate, Android etc! Available for Windows, MacOS and Linux.  
-[Winrarer-Ransomware](https://github.com/kuqadk3/Winrarer-Ransomware)
+[Winrarer-Ransomware](https://github.com/kuqadk3/Winrarer-Ransomware)  
+[FedIoT](https://github.com/FedML-AI/FedIoT): Federated Learning for Internet of Things: A Federated Learning Framework for On-device Anomaly Data Detection, backed by FedML, Inc.
