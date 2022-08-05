@@ -2546,4 +2546,5 @@
 [RansomDLLs](https://github.com/malvuln/RansomDLLs): Reference list for my Ransomware exploitation research. Lists current DLLs I have seen to date that some ransomware search for, which I have used successfully to hijack and intercept vulnerable strains executing arbitrary code pre-encryption.  
 [cyris](https://github.com/crond-jaist/cyris): CyRIS: Cyber Range Instantiation System  
 [log4j-poc](https://github.com/cyberxml/log4j-poc): A Docker based LDAP RCE exploit demo for CVE-2021-44228 Log4Shell  
-[Industrial-Security-Auditing-Framework](https://github.com/d0ubl3g/Industrial-Security-Auditing-Framework): ISAF aims to be a framework that provides the necessary tools for the correct security audit of industrial environments. This repo is a mirror of https://gitlab.com/d0ubl3g/industrial-security-auditing-framework.
+[Industrial-Security-Auditing-Framework](https://github.com/d0ubl3g/Industrial-Security-Auditing-Framework): ISAF aims to be a framework that provides the necessary tools for the correct security audit of industrial environments. This repo is a mirror of https://gitlab.com/d0ubl3g/industrial-security-auditing-framework.  
+[cyber_threat_intelligence](https://github.com/vuldb/cyber_threat_intelligence): Cyber Threat Intelligence Data, Indicators, and Analysis
