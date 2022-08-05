@@ -2581,4 +2581,5 @@
 [turbo-scanner](https://github.com/mytechnotalent/turbo-scanner): A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts's ip or fqdn with the sole purpose of testing your own network to ensure there are no malicious services running.  
 [exploit-framework](https://github.com/krishpranav/exploit-framework): A multiple reverse shell sessions/clients manager via terminal written in go  
 [high-assurance-rust](https://github.com/tnballo/high-assurance-rust): A free book about developing secure and robust systems software.  
-[prl_guest_to_host](https://github.com/Cr4sh/prl_guest_to_host): Guest to host VM escape exploit for Parallels Desktop
+[prl_guest_to_host](https://github.com/Cr4sh/prl_guest_to_host): Guest to host VM escape exploit for Parallels Desktop  
+[SecurityDataScience](https://github.com/jbaquerot/SecurityDataScience): Apache Spark 2.2.0 (pyspakr) exercises of Security Data Science Course.
