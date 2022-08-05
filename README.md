@@ -2625,4 +2625,5 @@
 [IPBan](https://github.com/danielsanleo/IPBan): Baneo de IPs para SSH y registro en MySQL  
 [chronos](https://github.com/otoriocyber/chronos): python framework to parse logs for IR  
 [awesome-java-security](https://github.com/guardrailsio/awesome-java-security): Awesome Java Security Resources 🕶☕🔐  
-[xxexploiter](https://github.com/luisfontes19/xxexploiter): Tool to help exploit XXE vulnerabilities
+[xxexploiter](https://github.com/luisfontes19/xxexploiter): Tool to help exploit XXE vulnerabilities  
+[blackholebots](https://github.com/getdatakick/blackholebots): Free module for prestashop and thirtybees platforms that will automagically ban bots that don't follow robots.txt instructions
