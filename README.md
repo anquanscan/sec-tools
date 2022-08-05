@@ -2559,4 +2559,5 @@
 [LFITester](https://github.com/kostas-pa/LFITester): LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server.  
 [CTF-notes](https://github.com/Shiva108/CTF-notes): Everything needed for doing CTFs  
 [securely-transfer-messages](https://github.com/friends-of-tutorials/securely-transfer-messages):  This is a tutorial to securely transfer messages from system A to system B with various coding languages and keep the rules of information security.  
-[MailRipV3](https://github.com/DrPython3/MailRipV3): SMTP and IMAP checker / cracker for mailpass combolists with a user-friendly GUI, automated inbox test and many more features.
+[MailRipV3](https://github.com/DrPython3/MailRipV3): SMTP and IMAP checker / cracker for mailpass combolists with a user-friendly GUI, automated inbox test and many more features.  
+[b1tifi](https://github.com/mh4x0f/b1tifi): ssh management tool to  provides commandline access to a remote system running SSH server
