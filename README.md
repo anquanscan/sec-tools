@@ -2631,4 +2631,5 @@
 [ActiveDirectoryAttackTool](https://github.com/The-Viper-One/ActiveDirectoryAttackTool): ADAT is a small tool used to assist CTF players and Penetration testers with easy commands to run against an Active Directory Domain Controller. This tool is is best utilized using a set of known credentials against the host.  
 [gina-ldap-client](https://github.com/republique-et-canton-de-geneve/gina-ldap-client): Client Java d'accès à l'annuaire LDAP de l'État de Genève.  
 [Magento2_SomethingDigital_InvalidateAdminPasswords](https://github.com/sdinteractive/Magento2_SomethingDigital_InvalidateAdminPasswords): Module to invalidate all admin passwords on Magento 2  
-[longtongue](https://github.com/edoardottt/longtongue): Customized Password/Passphrase List inputting Target Info
+[longtongue](https://github.com/edoardottt/longtongue): Customized Password/Passphrase List inputting Target Info  
+[lazy-oauth2-service-worker-vault](https://github.com/aidant/lazy-oauth2-service-worker-vault): Keep your OAuth 2.0 tokens secure and up-to-date.
