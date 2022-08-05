@@ -2710,4 +2710,5 @@
 [hack-pet](https://github.com/hahwul/hack-pet): 🐰 Managing command snippets for hackers/bug bounty hunters. with pet.  
 [urlhunter](https://github.com/utkusen/urlhunter): a recon tool that allows searching on URLs that are exposed via shortener services  
 [DemonHunter](https://github.com/RevengeComing/DemonHunter): Distributed Honeypot  
-[FunctionStomping](https://github.com/Idov31/FunctionStomping): A new shellcode injection technique. Given as C++ header, standalone Rust program or library.
+[FunctionStomping](https://github.com/Idov31/FunctionStomping): A new shellcode injection technique. Given as C++ header, standalone Rust program or library.  
+[BAR-Tender](https://github.com/defparam/BAR-Tender): An FPGA I/O Device which services physical memory reads/writes via UMDF2 driver
