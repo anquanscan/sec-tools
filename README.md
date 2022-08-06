@@ -2730,4 +2730,5 @@
 [Firmware_Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap): Discovering vulnerabilities in firmware through concolic analysis and function clustering.  
 [R2R--OnePunchInstaller](https://github.com/Bl4cKc34sEr/R2R--OnePunchInstaller): R2R is the short for Ready-To-Recon, This is a shell script written to install the major Known Reconnaissance tools in your Ubuntu-Linux-Fedora etc, Operating Systems to get started with Penetration Testing and Web App security with these tools.   
 [kube-scan](https://github.com/octarinesec/kube-scan): kube-scan: Octarine k8s cluster risk assessment tool  
-[Codium-Crypter-1.8.6](https://github.com/CodiumAlgorithm/Codium-Crypter-1.8.6): Codium Algorithm, We Provide Strong Encryption, And Stable Crypter, And Weekly-Daily Updates.
+[Codium-Crypter-1.8.6](https://github.com/CodiumAlgorithm/Codium-Crypter-1.8.6): Codium Algorithm, We Provide Strong Encryption, And Stable Crypter, And Weekly-Daily Updates.  
+[BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon): BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation. 
