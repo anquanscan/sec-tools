@@ -2825,4 +2825,5 @@
 [Windows-exploits](https://github.com/lyshark/Windows-exploits): 🎯  Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具。        A large collection of rights raising vulnerabilities on the windows platform, which collects various rights raising vulnerability utilization tools for a long time.  
 [Packet-Sniffing-and-Spoofing](https://github.com/adamalston/Packet-Sniffing-and-Spoofing): Packet sniffing and spoofing 🗃️  
 [web-hacking-toolkit](https://github.com/hueristiq/web-hacking-toolkit): A web hacking toolkit (docker image).  
-[unauthd](https://github.com/A2nkF/unauthd): A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854
+[unauthd](https://github.com/A2nkF/unauthd): A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854  
+[hubble](https://github.com/hubblestack/hubble): Hubble is a modular, open-source security compliance framework. The project provides on-demand profile-based auditing, real-time security event notifications, alerting, and reporting. HubbleStack is a free and open source project made possible by Adobe. https://github.com/adobe
