@@ -2788,4 +2788,5 @@
 [Discord-Bots-Hack](https://github.com/REVENGE977/Discord-Bots-Hack): Discord Bots Hacking  
 [owtf](https://github.com/owtf/owtf): Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp  
 [httpx](https://github.com/projectdiscovery/httpx): httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.  
-[gosec](https://github.com/securego/gosec): Golang security checker
+[gosec](https://github.com/securego/gosec): Golang security checker  
+[Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository): A list of security/hacking tools that have been collected from the internet. Suggestions are welcomed.
