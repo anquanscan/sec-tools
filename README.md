@@ -2831,4 +2831,5 @@
 [WordListGen](https://github.com/frizb/WordListGen): Super Simple Python Word List Generator for Fuzzing and Brute Forcing in Python  
 [WhatCMS](https://github.com/GONZOsint/WhatCMS): CMS Detection and Exploit Kit based on Whatcms.org API  
 [awesome-python-security](https://github.com/guardrailsio/awesome-python-security): Awesome Python Security resources 🕶🐍🔐  
-[gsocket](https://github.com/hackerschoice/gsocket): Connect like there is no firewall. Securely.
+[gsocket](https://github.com/hackerschoice/gsocket): Connect like there is no firewall. Securely.  
+[ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL): A declarative static analysis tool for jvm bytecode based Datalog like CodeQL
