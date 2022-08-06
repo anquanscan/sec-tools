@@ -2714,4 +2714,5 @@
 [BAR-Tender](https://github.com/defparam/BAR-Tender): An FPGA I/O Device which services physical memory reads/writes via UMDF2 driver  
 [Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet): Offensive Reverse Shell (Cheat Sheet)  
 [Pentest-Notes](https://github.com/SofianeHamlaoui/Pentest-Notes): Collection of Pentest Notes and Cheatsheets from a lot of repos (SofianeHamlaoui,dostoevsky,mantvydasb,adon90,BriskSec)   
-[sigmavpn](https://github.com/neilalexander/sigmavpn): Light-weight, secure and modular VPN solution which makes use of NaCl encryption (also available for Android using jnacl in "sigmavpn-android")
+[sigmavpn](https://github.com/neilalexander/sigmavpn): Light-weight, secure and modular VPN solution which makes use of NaCl encryption (also available for Android using jnacl in "sigmavpn-android")  
+[phishEye](https://github.com/sky9262/phishEye): phishEye is an ultimate phishing tool in python. Includes popular websites like Facebook, Twitter, Instagram, LinkedIn, GitHub, Dropbox, and many others. Created with Flask, custom templates, and tunneled with ngrok and localhost.run.
