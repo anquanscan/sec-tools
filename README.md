@@ -2782,4 +2782,5 @@
 [decker](https://github.com/stevenaldinger/decker): Declarative penetration testing orchestration framework  
 [EFIgy](https://github.com/duo-labs/EFIgy): A small client application that uses the Duo Labs EFIgy API to inform you about the state of your Mac EFI firmware  
 [dinkleberg](https://github.com/oSumAtrIX/dinkleberg): 🕵️‍♂️ Catch users faking their offline status on Discord with an exploit written in Rust   
-[Python-Honeypot](https://github.com/OWASP/Python-Honeypot): OWASP Honeypot, Automated Deception Framework.
+[Python-Honeypot](https://github.com/OWASP/Python-Honeypot): OWASP Honeypot, Automated Deception Framework.  
+[djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key): 🔐 API key permissions for Django REST Framework
