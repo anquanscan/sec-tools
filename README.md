@@ -2767,4 +2767,5 @@
 [PyLogger](https://github.com/Lexxrt/PyLogger): ⌨ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʏᴛʜᴏɴ ᴋᴇʏʟᴏɢɢᴇʀ⌨  
 [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security): Awesome Golang Security resources 🕶🔐  
 [Memory-Overwriter](https://github.com/Basztal/Memory-Overwriter): Simple memory editing program written in C++  
-[Phishing-URL-v5-IBM](https://github.com/Hritiksum/Phishing-URL-v5-IBM): Phishing Url detector detects cyber thefts and cyber frauds using machine learning and data science technology. TECH used- Python, Django(Backend), SQLite, IBM cloud, data science, machine learning.
+[Phishing-URL-v5-IBM](https://github.com/Hritiksum/Phishing-URL-v5-IBM): Phishing Url detector detects cyber thefts and cyber frauds using machine learning and data science technology. TECH used- Python, Django(Backend), SQLite, IBM cloud, data science, machine learning.  
+[staystaystay](https://github.com/jbaines-r7/staystaystay): Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE
