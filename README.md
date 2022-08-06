@@ -2762,4 +2762,5 @@
 [PossumBot](https://github.com/WANstorm/PossumBot): A bot that will allow you to destroy discord servers.  
 [ByeLog4Shell](https://github.com/Qerim-iseni09/ByeLog4Shell): Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell  
 [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client): npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow  
-[bCTF](https://github.com/spiperac/bCTF): CTF scoreboard and framework. https://b-ctf.io
+[bCTF](https://github.com/spiperac/bCTF): CTF scoreboard and framework. https://b-ctf.io  
+[SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit): Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient
