@@ -2726,4 +2726,5 @@
 [kernel-mii](https://github.com/tijme/kernel-mii): Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.  
 [dnxfirewall](https://github.com/DOWRIGHTTV/dnxfirewall): DNXFIREWALL (dad's next-generation firewall), a C/CPython hybrid next generation firewall built on top of Linux and bound to kernel/ netfilter hooks for packet control.  
 [Cyber-Risk-Research-FULL-WORK](https://github.com/Cameron-Noakes/Cyber-Risk-Research-FULL-WORK): All of my work for the past 6 months as a cyber risk researcher for University of Greenwich. A total of 41 literature reviews and analysis as white papers to develop the final survey paper  
-[awesome-sec-challenges](https://github.com/mikeprivette/awesome-sec-challenges): A curated list of Awesome Security Challenges.
+[awesome-sec-challenges](https://github.com/mikeprivette/awesome-sec-challenges): A curated list of Awesome Security Challenges.  
+[Firmware_Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap): Discovering vulnerabilities in firmware through concolic analysis and function clustering.
