@@ -2809,4 +2809,5 @@
 [ReverseGoShell](https://github.com/TheKingOfDuck/ReverseGoShell): A Golang Reverse Shell Tool With AES Dynamic Encryption  
 [wp-cloudflare-guard](https://github.com/TypistTech/wp-cloudflare-guard): Connecting WordPress with Cloudflare firewall, protect your WordPress site at DNS level. Automatically create firewall rules to block dangerous IPs  
 [LaravelENV](https://github.com/zerobyte-id-bak/LaravelENV)  
-[IoT_Scanner](https://github.com/adamatasi/IoT_Scanner): IoT Scanner by ASA - Scan for active IoT devices and find their vulnerabilities
+[IoT_Scanner](https://github.com/adamatasi/IoT_Scanner): IoT Scanner by ASA - Scan for active IoT devices and find their vulnerabilities  
+[dotdotslash](https://github.com/jcesarstef/dotdotslash): Search for Directory Traversal Vulnerabilities
