@@ -2717,4 +2717,5 @@
 [sigmavpn](https://github.com/neilalexander/sigmavpn): Light-weight, secure and modular VPN solution which makes use of NaCl encryption (also available for Android using jnacl in "sigmavpn-android")  
 [phishEye](https://github.com/sky9262/phishEye): phishEye is an ultimate phishing tool in python. Includes popular websites like Facebook, Twitter, Instagram, LinkedIn, GitHub, Dropbox, and many others. Created with Flask, custom templates, and tunneled with ngrok and localhost.run.  
 [kernelpwn](https://github.com/smallkirby/kernelpwn): kernel-pwn and writeup collection  
-[awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps): Awesome Vulnerable Applications
+[awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps): Awesome Vulnerable Applications  
+[Burp-Selection-Size-Calculator](https://github.com/rauschecker/Burp-Selection-Size-Calculator): Burp extension to calculate the byte size of selections made in text windows
