@@ -2743,4 +2743,5 @@
 [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security Auditing Tool  
 [qvm-create-windows-qube](https://github.com/elliotkillick/qvm-create-windows-qube): Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS  
 [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting): Curated List of Privacy Respecting Services and Software  
-[FazScan](https://github.com/mfazrinizar/FazScan): | FazScan is a Perl program to do some vulnerability scanning and pentesting |
+[FazScan](https://github.com/mfazrinizar/FazScan): | FazScan is a Perl program to do some vulnerability scanning and pentesting |  
+[go-dork](https://github.com/dwisiswant0/go-dork): The fastest dork scanner written in Go.
