@@ -2712,4 +2712,5 @@
 [DemonHunter](https://github.com/RevengeComing/DemonHunter): Distributed Honeypot  
 [FunctionStomping](https://github.com/Idov31/FunctionStomping): A new shellcode injection technique. Given as C++ header, standalone Rust program or library.  
 [BAR-Tender](https://github.com/defparam/BAR-Tender): An FPGA I/O Device which services physical memory reads/writes via UMDF2 driver  
-[Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet): Offensive Reverse Shell (Cheat Sheet)
+[Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet): Offensive Reverse Shell (Cheat Sheet)  
+[Pentest-Notes](https://github.com/SofianeHamlaoui/Pentest-Notes): Collection of Pentest Notes and Cheatsheets from a lot of repos (SofianeHamlaoui,dostoevsky,mantvydasb,adon90,BriskSec) 
