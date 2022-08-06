@@ -2732,4 +2732,5 @@
 [kube-scan](https://github.com/octarinesec/kube-scan): kube-scan: Octarine k8s cluster risk assessment tool  
 [Codium-Crypter-1.8.6](https://github.com/CodiumAlgorithm/Codium-Crypter-1.8.6): Codium Algorithm, We Provide Strong Encryption, And Stable Crypter, And Weekly-Daily Updates.  
 [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon): BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.   
-[HackerOne-Lessons](https://github.com/ttiagojm/HackerOne-Lessons): Transcribed video lessons of HackerOne to pdf's
+[HackerOne-Lessons](https://github.com/ttiagojm/HackerOne-Lessons): Transcribed video lessons of HackerOne to pdf's  
+[Psonic](https://github.com/michellehwin/Psonic): Psonic is a password manager, equipped with password and mnemonic generation and encrypted storage.
