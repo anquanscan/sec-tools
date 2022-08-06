@@ -2722,4 +2722,5 @@
 [CVE-2022-26809](https://github.com/XmasSnowISBACK/CVE-2022-26809): CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime   
 [exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata  
 [antifuzzer](https://github.com/webox-dev/antifuzzer)  
-[uxss-db](https://github.com/Metnew/uxss-db): 🔪Browser logic vulnerabilities :skull_and_crossbones:
+[uxss-db](https://github.com/Metnew/uxss-db): 🔪Browser logic vulnerabilities :skull_and_crossbones:  
+[kernel-mii](https://github.com/tijme/kernel-mii): Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.
