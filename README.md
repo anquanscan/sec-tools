@@ -2770,4 +2770,5 @@
 [Phishing-URL-v5-IBM](https://github.com/Hritiksum/Phishing-URL-v5-IBM): Phishing Url detector detects cyber thefts and cyber frauds using machine learning and data science technology. TECH used- Python, Django(Backend), SQLite, IBM cloud, data science, machine learning.  
 [staystaystay](https://github.com/jbaines-r7/staystaystay): Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE  
 [D4rkXSS](https://github.com/R0X4R/D4rkXSS): A list of useful payloads and Bypass for Web Application Security and Bug Bounty/CTF  
-[WordPress-Plugins-List](https://github.com/Perfectdotexe/WordPress-Plugins-List): Wordpress Plugins List
+[WordPress-Plugins-List](https://github.com/Perfectdotexe/WordPress-Plugins-List): Wordpress Plugins List  
+[StegoCracker](https://github.com/W1LDN16H7/StegoCracker): Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file
