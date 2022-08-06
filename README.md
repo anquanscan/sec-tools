@@ -2749,4 +2749,5 @@
 [CVE-2021-40845](https://github.com/ricardojoserf/CVE-2021-40845): AlphaWeb XE, the embedded web server running on AlphaCom XE, has a vulnerability which allows to upload PHP files leading to RCE once the authentication is successful - https://ricardojoserf.github.io/CVE-2021-40845/  
 [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes): Example recipes for Kubernetes Network Policies that you can just copy paste  
 [pidrila](https://github.com/enemy-submarine/pidrila): Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer  
-[fbspider](https://github.com/r3nt0n/fbspider): Scraping Facebook information
+[fbspider](https://github.com/r3nt0n/fbspider): Scraping Facebook information  
+[security-analytics](https://github.com/GoogleCloudPlatform/security-analytics): Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud
