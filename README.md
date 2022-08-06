@@ -2750,4 +2750,5 @@
 [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes): Example recipes for Kubernetes Network Policies that you can just copy paste  
 [pidrila](https://github.com/enemy-submarine/pidrila): Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer  
 [fbspider](https://github.com/r3nt0n/fbspider): Scraping Facebook information  
-[security-analytics](https://github.com/GoogleCloudPlatform/security-analytics): Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud
+[security-analytics](https://github.com/GoogleCloudPlatform/security-analytics): Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud  
+[blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
