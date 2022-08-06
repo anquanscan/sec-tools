@@ -2785,4 +2785,5 @@
 [Python-Honeypot](https://github.com/OWASP/Python-Honeypot): OWASP Honeypot, Automated Deception Framework.  
 [djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key): 🔐 API key permissions for Django REST Framework  
 [meltdown-spectre-poc-grabber](https://github.com/willyb321/meltdown-spectre-poc-grabber): Script I wrote in about 10 minutes to grab Meltdown/Spectre PoC's and download them.  
-[Discord-Bots-Hack](https://github.com/REVENGE977/Discord-Bots-Hack): Discord Bots Hacking
+[Discord-Bots-Hack](https://github.com/REVENGE977/Discord-Bots-Hack): Discord Bots Hacking  
+[owtf](https://github.com/owtf/owtf): Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
