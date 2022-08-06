@@ -2718,4 +2718,5 @@
 [phishEye](https://github.com/sky9262/phishEye): phishEye is an ultimate phishing tool in python. Includes popular websites like Facebook, Twitter, Instagram, LinkedIn, GitHub, Dropbox, and many others. Created with Flask, custom templates, and tunneled with ngrok and localhost.run.  
 [kernelpwn](https://github.com/smallkirby/kernelpwn): kernel-pwn and writeup collection  
 [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps): Awesome Vulnerable Applications  
-[Burp-Selection-Size-Calculator](https://github.com/rauschecker/Burp-Selection-Size-Calculator): Burp extension to calculate the byte size of selections made in text windows
+[Burp-Selection-Size-Calculator](https://github.com/rauschecker/Burp-Selection-Size-Calculator): Burp extension to calculate the byte size of selections made in text windows  
+[CVE-2022-26809](https://github.com/XmasSnowISBACK/CVE-2022-26809): CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime 
