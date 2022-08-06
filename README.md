@@ -2753,4 +2753,5 @@
 [security-analytics](https://github.com/GoogleCloudPlatform/security-analytics): Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud  
 [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository  
 [PwnKit-Exploit](https://github.com/luijait/PwnKit-Exploit): Proof of Concept (PoC) CVE-2021-4034   
-[KaliLadon](https://github.com/k8gege/KaliLadon): Ladon for Linux (Kali), Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password
+[KaliLadon](https://github.com/k8gege/KaliLadon): Ladon for Linux (Kali), Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password  
+[secrets-auth](https://github.com/guptasajal411/secrets-auth): 🤫 This application is made for learning Authentication and Security in web applications. I am learning from basics of Authentication to the advanced level.
