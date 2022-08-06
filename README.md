@@ -2737,4 +2737,5 @@
 [rudy](https://github.com/darkweak/rudy): RUDY is an acronym used to describe a Denial of Service (DoS) tool used by hackers to perform slow-rate a.k.a. “Low and slow” attacks.  
 [Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI): Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers  
 [TCPHound](https://github.com/limbenjamin/TCPHound): Win32 utility for auditing TCP connections  
-[AIL-framework](https://github.com/CIRCL/AIL-framework): AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project
+[AIL-framework](https://github.com/CIRCL/AIL-framework): AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project  
+[pythonidae-challenge](https://github.com/MII-Cybersec/pythonidae-challenge): Set of Python programming challenge for cyber security (offensive / defensive)
