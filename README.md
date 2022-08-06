@@ -2723,4 +2723,5 @@
 [exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata  
 [antifuzzer](https://github.com/webox-dev/antifuzzer)  
 [uxss-db](https://github.com/Metnew/uxss-db): 🔪Browser logic vulnerabilities :skull_and_crossbones:  
-[kernel-mii](https://github.com/tijme/kernel-mii): Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.
+[kernel-mii](https://github.com/tijme/kernel-mii): Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.  
+[dnxfirewall](https://github.com/DOWRIGHTTV/dnxfirewall): DNXFIREWALL (dad's next-generation firewall), a C/CPython hybrid next generation firewall built on top of Linux and bound to kernel/ netfilter hooks for packet control.
