@@ -2790,4 +2790,5 @@
 [httpx](https://github.com/projectdiscovery/httpx): httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.  
 [gosec](https://github.com/securego/gosec): Golang security checker  
 [Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository): A list of security/hacking tools that have been collected from the internet. Suggestions are welcomed.  
-[admin-finder](https://github.com/Ramalingasamy012/admin-finder): This tool is used to find the admin login page of a website.
+[admin-finder](https://github.com/Ramalingasamy012/admin-finder): This tool is used to find the admin login page of a website.  
+[pdfcrack](https://github.com/machine1337/pdfcrack): An Advanced tool to Crack Any Password Protected PDF file. A very user friendly script especially for noob hackers.
