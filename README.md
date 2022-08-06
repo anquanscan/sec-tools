@@ -2837,4 +2837,5 @@
 [cfscan](https://github.com/cloudhound-io/cfscan): open-source security and vulnerability scanner for cloud foundry environments  
 [CompTIA-Security-](https://github.com/screeck/CompTIA-Security-)  
 [s3s_doc](https://github.com/3nock/s3s_doc): Sub3 Suite Documentation  
-[docker-dvwa](https://github.com/HightechSec/docker-dvwa): Latest Docker DVWA running on Debian 9.3
+[docker-dvwa](https://github.com/HightechSec/docker-dvwa): Latest Docker DVWA running on Debian 9.3  
+[Phishpedia](https://github.com/lindsey98/Phishpedia): Official Implementation of "Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages" USENIX'21 
