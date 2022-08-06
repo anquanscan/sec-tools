@@ -2787,4 +2787,5 @@
 [meltdown-spectre-poc-grabber](https://github.com/willyb321/meltdown-spectre-poc-grabber): Script I wrote in about 10 minutes to grab Meltdown/Spectre PoC's and download them.  
 [Discord-Bots-Hack](https://github.com/REVENGE977/Discord-Bots-Hack): Discord Bots Hacking  
 [owtf](https://github.com/owtf/owtf): Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp  
-[httpx](https://github.com/projectdiscovery/httpx): httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+[httpx](https://github.com/projectdiscovery/httpx): httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.  
+[gosec](https://github.com/securego/gosec): Golang security checker
