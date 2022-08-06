@@ -2805,4 +2805,5 @@
 [email2phonenumber](https://github.com/martinvigo/email2phonenumber): A OSINT tool to obtain a target's phone number just by having his email address  
 [TracceDigitali](https://github.com/marcogovoni/TracceDigitali): OSINT: come iniziare. Strumenti e idee per raccogliere e analizzare fonti aperte.  
 [nzyme](https://github.com/lennartkoopmann/nzyme): Nzyme is a free and open next-generation WiFi defense system. Go to www.nzyme.org for more information.  
-[PasswordStealer](https://github.com/shashankchandak/PasswordStealer)
+[PasswordStealer](https://github.com/shashankchandak/PasswordStealer)  
+[ReverseGoShell](https://github.com/TheKingOfDuck/ReverseGoShell): A Golang Reverse Shell Tool With AES Dynamic Encryption
