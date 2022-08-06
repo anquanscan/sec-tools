@@ -2828,4 +2828,5 @@
 [unauthd](https://github.com/A2nkF/unauthd): A local privilege escalation chain from user to kernel for MacOS < 10.15.5. CVE-2020–9854  
 [hubble](https://github.com/hubblestack/hubble): Hubble is a modular, open-source security compliance framework. The project provides on-demand profile-based auditing, real-time security event notifications, alerting, and reporting. HubbleStack is a free and open source project made possible by Adobe. https://github.com/adobe  
 [Win7Blue](https://github.com/d4t4s3c/Win7Blue): Scan/Exploit - EternalBlue MS17-010 - Windows 7 x86/x64  
-[WordListGen](https://github.com/frizb/WordListGen): Super Simple Python Word List Generator for Fuzzing and Brute Forcing in Python
+[WordListGen](https://github.com/frizb/WordListGen): Super Simple Python Word List Generator for Fuzzing and Brute Forcing in Python  
+[WhatCMS](https://github.com/GONZOsint/WhatCMS): CMS Detection and Exploit Kit based on Whatcms.org API
