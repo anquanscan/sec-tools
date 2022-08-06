@@ -2764,4 +2764,5 @@
 [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client): npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow  
 [bCTF](https://github.com/spiperac/bCTF): CTF scoreboard and framework. https://b-ctf.io  
 [SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit): Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient  
-[PyLogger](https://github.com/Lexxrt/PyLogger): ⌨ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʏᴛʜᴏɴ ᴋᴇʏʟᴏɢɢᴇʀ⌨
+[PyLogger](https://github.com/Lexxrt/PyLogger): ⌨ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʏᴛʜᴏɴ ᴋᴇʏʟᴏɢɢᴇʀ⌨  
+[awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security): Awesome Golang Security resources 🕶🔐
