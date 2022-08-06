@@ -2836,4 +2836,5 @@
 [logkeys](https://github.com/kernc/logkeys): :memo: :keyboard: A GNU/Linux keylogger that works!  
 [cfscan](https://github.com/cloudhound-io/cfscan): open-source security and vulnerability scanner for cloud foundry environments  
 [CompTIA-Security-](https://github.com/screeck/CompTIA-Security-)  
-[s3s_doc](https://github.com/3nock/s3s_doc): Sub3 Suite Documentation
+[s3s_doc](https://github.com/3nock/s3s_doc): Sub3 Suite Documentation  
+[docker-dvwa](https://github.com/HightechSec/docker-dvwa): Latest Docker DVWA running on Debian 9.3
