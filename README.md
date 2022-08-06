@@ -2728,4 +2728,5 @@
 [Cyber-Risk-Research-FULL-WORK](https://github.com/Cameron-Noakes/Cyber-Risk-Research-FULL-WORK): All of my work for the past 6 months as a cyber risk researcher for University of Greenwich. A total of 41 literature reviews and analysis as white papers to develop the final survey paper  
 [awesome-sec-challenges](https://github.com/mikeprivette/awesome-sec-challenges): A curated list of Awesome Security Challenges.  
 [Firmware_Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap): Discovering vulnerabilities in firmware through concolic analysis and function clustering.  
-[R2R--OnePunchInstaller](https://github.com/Bl4cKc34sEr/R2R--OnePunchInstaller): R2R is the short for Ready-To-Recon, This is a shell script written to install the major Known Reconnaissance tools in your Ubuntu-Linux-Fedora etc, Operating Systems to get started with Penetration Testing and Web App security with these tools. 
+[R2R--OnePunchInstaller](https://github.com/Bl4cKc34sEr/R2R--OnePunchInstaller): R2R is the short for Ready-To-Recon, This is a shell script written to install the major Known Reconnaissance tools in your Ubuntu-Linux-Fedora etc, Operating Systems to get started with Penetration Testing and Web App security with these tools.   
+[kube-scan](https://github.com/octarinesec/kube-scan): kube-scan: Octarine k8s cluster risk assessment tool
