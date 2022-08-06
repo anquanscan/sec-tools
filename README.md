@@ -2832,4 +2832,5 @@
 [WhatCMS](https://github.com/GONZOsint/WhatCMS): CMS Detection and Exploit Kit based on Whatcms.org API  
 [awesome-python-security](https://github.com/guardrailsio/awesome-python-security): Awesome Python Security resources 🕶🐍🔐  
 [gsocket](https://github.com/hackerschoice/gsocket): Connect like there is no firewall. Securely.  
-[ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL): A declarative static analysis tool for jvm bytecode based Datalog like CodeQL
+[ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL): A declarative static analysis tool for jvm bytecode based Datalog like CodeQL  
+[logkeys](https://github.com/kernc/logkeys): :memo: :keyboard: A GNU/Linux keylogger that works!
