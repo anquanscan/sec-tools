@@ -2852,4 +2852,5 @@
 [cowrie](https://github.com/cowrie/cowrie): Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io  
 [TryHackMe-Writeups](https://github.com/dnts3110/TryHackMe-Writeups): My TryHackMe writeups and notes   
 [vm2](https://github.com/patriksimek/vm2): Advanced vm/sandbox for Node.js  
-[mosec-node-plugin](https://github.com/momosecurity/mosec-node-plugin): 用于检测 node 项目的第三方依赖组件是否存在安全漏洞。
+[mosec-node-plugin](https://github.com/momosecurity/mosec-node-plugin): 用于检测 node 项目的第三方依赖组件是否存在安全漏洞。  
+[Dr_Quine](https://github.com/anyaschukin/Dr_Quine): A self-replicating virus in C, ASM, python.
