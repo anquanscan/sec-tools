@@ -2830,4 +2830,5 @@
 [Win7Blue](https://github.com/d4t4s3c/Win7Blue): Scan/Exploit - EternalBlue MS17-010 - Windows 7 x86/x64  
 [WordListGen](https://github.com/frizb/WordListGen): Super Simple Python Word List Generator for Fuzzing and Brute Forcing in Python  
 [WhatCMS](https://github.com/GONZOsint/WhatCMS): CMS Detection and Exploit Kit based on Whatcms.org API  
-[awesome-python-security](https://github.com/guardrailsio/awesome-python-security): Awesome Python Security resources 🕶🐍🔐
+[awesome-python-security](https://github.com/guardrailsio/awesome-python-security): Awesome Python Security resources 🕶🐍🔐  
+[gsocket](https://github.com/hackerschoice/gsocket): Connect like there is no firewall. Securely.
