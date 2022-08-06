@@ -2802,4 +2802,5 @@
 [NoSQLMap](https://github.com/codingo/NoSQLMap): Automated NoSQL database enumeration and web application exploitation tool.  
 [vigrid](https://github.com/llevier/vigrid): Vigrid is a Cyber Range redesign of the GNS3 tool able to virtualize almost any physical device on many CPU. It is also able to virtualize entire networks not visible between them. Vigrid adds industrial cloning. clientless console accesses. snapshots. unlimited scalability. standalone or infrastructure and cloud designs.  
 [0x04-ARM-32-Hacking-Double](https://github.com/mytechnotalent/0x04-ARM-32-Hacking-Double): ARM 32-bit Raspberry Pi Hacking Double example in Kali Linux.  
-[email2phonenumber](https://github.com/martinvigo/email2phonenumber): A OSINT tool to obtain a target's phone number just by having his email address
+[email2phonenumber](https://github.com/martinvigo/email2phonenumber): A OSINT tool to obtain a target's phone number just by having his email address  
+[TracceDigitali](https://github.com/marcogovoni/TracceDigitali): OSINT: come iniziare. Strumenti e idee per raccogliere e analizzare fonti aperte.
