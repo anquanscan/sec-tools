@@ -2760,4 +2760,5 @@
 [Automap](https://github.com/wobegone/Automap): An automated tool for nmap scaning. It include several options such as vulnerabilities scanner, port scanner, sub-network scan and much more!  
 [pyprotect](https://github.com/ga0/pyprotect): A lightweight python code protector, makes your python project harder to reverse engineer  
 [PossumBot](https://github.com/WANstorm/PossumBot): A bot that will allow you to destroy discord servers.  
-[ByeLog4Shell](https://github.com/Qerim-iseni09/ByeLog4Shell): Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
+[ByeLog4Shell](https://github.com/Qerim-iseni09/ByeLog4Shell): Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell  
+[angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client): npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
