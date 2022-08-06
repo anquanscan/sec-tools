@@ -2755,4 +2755,5 @@
 [PwnKit-Exploit](https://github.com/luijait/PwnKit-Exploit): Proof of Concept (PoC) CVE-2021-4034   
 [KaliLadon](https://github.com/k8gege/KaliLadon): Ladon for Linux (Kali), Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password  
 [secrets-auth](https://github.com/guptasajal411/secrets-auth): 🤫 This application is made for learning Authentication and Security in web applications. I am learning from basics of Authentication to the advanced level.  
-[Search-That-Hash](https://github.com/HashPals/Search-That-Hash): 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
+[Search-That-Hash](https://github.com/HashPals/Search-That-Hash): 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡  
+[Metasploit-termux](https://github.com/h4ck3r0/Metasploit-termux): Metasploit 6 , No Error , Maintained, Termux
