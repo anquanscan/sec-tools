@@ -2777,4 +2777,5 @@
 [cercat](https://github.com/Issif/cercat): Monitor issued certificates in real-time and send alerts to Slack when a domain matches.  
 [kernelpop](https://github.com/spencerdodd/kernelpop): kernel privilege escalation enumeration and exploitation framework  
 [Beam-On-Join](https://github.com/tizxr/Beam-On-Join): I saw some kid scamming kids and making them this tool for 10$ or something so uh like why not remake it and give it for free :D!  
-[elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin): Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing
+[elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin): Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing  
+[bds03-security](https://github.com/andreluas/bds03-security): Desafio do boocamp da devsuperior, onde coloquei em prática o módulo de spring security.
