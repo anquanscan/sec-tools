@@ -2818,4 +2818,5 @@
 [CTF-OverTheWire](https://github.com/WillGreen98/CTF-OverTheWire): Breakdown of OverTheWire CTF Game  
 [cloudquery](https://github.com/cloudquery/cloudquery): The open-source cloud asset inventory powered by SQL.  
 [shadowbroker-smb-scanner](https://github.com/op7ic/shadowbroker-smb-scanner): shadowbroker SMB exploit scanner. Scans for ETERNALSYNERGY  ETERNALBLUE  ETERNALROMANCE  ETHERNALCHAMPION  
-[favtools](https://github.com/matesz44/favtools): Tools that i use n love :D
+[favtools](https://github.com/matesz44/favtools): Tools that i use n love :D  
+[linuxallremote](https://github.com/FabioDefilippo/linuxallremote): This bash scripts will help you to hack remote hosts. You can choose and run one of them.
