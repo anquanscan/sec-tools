@@ -2834,4 +2834,5 @@
 [gsocket](https://github.com/hackerschoice/gsocket): Connect like there is no firewall. Securely.  
 [ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL): A declarative static analysis tool for jvm bytecode based Datalog like CodeQL  
 [logkeys](https://github.com/kernc/logkeys): :memo: :keyboard: A GNU/Linux keylogger that works!  
-[cfscan](https://github.com/cloudhound-io/cfscan): open-source security and vulnerability scanner for cloud foundry environments
+[cfscan](https://github.com/cloudhound-io/cfscan): open-source security and vulnerability scanner for cloud foundry environments  
+[CompTIA-Security-](https://github.com/screeck/CompTIA-Security-)
