@@ -2720,4 +2720,5 @@
 [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps): Awesome Vulnerable Applications  
 [Burp-Selection-Size-Calculator](https://github.com/rauschecker/Burp-Selection-Size-Calculator): Burp extension to calculate the byte size of selections made in text windows  
 [CVE-2022-26809](https://github.com/XmasSnowISBACK/CVE-2022-26809): CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime   
-[exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata
+[exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata  
+[antifuzzer](https://github.com/webox-dev/antifuzzer)
