@@ -2761,4 +2761,5 @@
 [pyprotect](https://github.com/ga0/pyprotect): A lightweight python code protector, makes your python project harder to reverse engineer  
 [PossumBot](https://github.com/WANstorm/PossumBot): A bot that will allow you to destroy discord servers.  
 [ByeLog4Shell](https://github.com/Qerim-iseni09/ByeLog4Shell): Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell  
-[angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client): npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
+[angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client): npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow  
+[bCTF](https://github.com/spiperac/bCTF): CTF scoreboard and framework. https://b-ctf.io
