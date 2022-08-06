@@ -2775,4 +2775,5 @@
 [bscValueDefi-Exploit](https://github.com/WP-LKL/bscValueDefi-Exploit): Abusing delayed share calculations on 4000% APR staking.  
 [SecureSignIn-v3a](https://github.com/Zander-Labuschagne/SecureSignIn-v3a): A Java CLI application I have created in an attempt to improve my online account security  
 [cercat](https://github.com/Issif/cercat): Monitor issued certificates in real-time and send alerts to Slack when a domain matches.  
-[kernelpop](https://github.com/spencerdodd/kernelpop): kernel privilege escalation enumeration and exploitation framework
+[kernelpop](https://github.com/spencerdodd/kernelpop): kernel privilege escalation enumeration and exploitation framework  
+[Beam-On-Join](https://github.com/tizxr/Beam-On-Join): I saw some kid scamming kids and making them this tool for 10$ or something so uh like why not remake it and give it for free :D!
