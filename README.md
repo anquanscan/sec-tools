@@ -2757,4 +2757,5 @@
 [secrets-auth](https://github.com/guptasajal411/secrets-auth): 🤫 This application is made for learning Authentication and Security in web applications. I am learning from basics of Authentication to the advanced level.  
 [Search-That-Hash](https://github.com/HashPals/Search-That-Hash): 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡  
 [Metasploit-termux](https://github.com/h4ck3r0/Metasploit-termux): Metasploit 6 , No Error , Maintained, Termux  
-[Automap](https://github.com/wobegone/Automap): An automated tool for nmap scaning. It include several options such as vulnerabilities scanner, port scanner, sub-network scan and much more!
+[Automap](https://github.com/wobegone/Automap): An automated tool for nmap scaning. It include several options such as vulnerabilities scanner, port scanner, sub-network scan and much more!  
+[pyprotect](https://github.com/ga0/pyprotect): A lightweight python code protector, makes your python project harder to reverse engineer
