@@ -2813,4 +2813,5 @@
 [dotdotslash](https://github.com/jcesarstef/dotdotslash): Search for Directory Traversal Vulnerabilities  
 [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges): Code-Audit-Challenges  
 [solved-hacking-problem](https://github.com/Qwaz/solved-hacking-problem): :heavy_check_mark: My solutions for CTF & wargame challenges  
-[CSCI4349_Week7_WpPentest](https://github.com/harrystaley/CSCI4349_Week7_WpPentest): Course code for TAMUSA CSCI 4349.
+[CSCI4349_Week7_WpPentest](https://github.com/harrystaley/CSCI4349_Week7_WpPentest): Course code for TAMUSA CSCI 4349.  
+[seminar](https://github.com/derOtto/seminar): Seminar – IT-Sicherheitsgesetz 2.0
