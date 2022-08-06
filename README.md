@@ -2766,4 +2766,5 @@
 [SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit): Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient  
 [PyLogger](https://github.com/Lexxrt/PyLogger): ⌨ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʏᴛʜᴏɴ ᴋᴇʏʟᴏɢɢᴇʀ⌨  
 [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security): Awesome Golang Security resources 🕶🔐  
-[Memory-Overwriter](https://github.com/Basztal/Memory-Overwriter): Simple memory editing program written in C++
+[Memory-Overwriter](https://github.com/Basztal/Memory-Overwriter): Simple memory editing program written in C++  
+[Phishing-URL-v5-IBM](https://github.com/Hritiksum/Phishing-URL-v5-IBM): Phishing Url detector detects cyber thefts and cyber frauds using machine learning and data science technology. TECH used- Python, Django(Backend), SQLite, IBM cloud, data science, machine learning.
