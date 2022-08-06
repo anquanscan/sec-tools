@@ -2842,4 +2842,5 @@
 [433MHz-Cloner](https://github.com/franc205/433MHz-Cloner): Just hack any 433MHz device!  
 [Vulcan](https://github.com/XTeam-Wing/Vulcan): VulCan资产管理系统|漏洞扫描|资产探测|定时扫描  
 [PPF](https://github.com/PinkP4nther/PPF): A modular pentesting framework implemented in C  
-[osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service.
+[osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service.  
+[RedBook](https://github.com/satan1a/RedBook): 基于Threathunting-book基础上完善的狩猎视角红队handbook
