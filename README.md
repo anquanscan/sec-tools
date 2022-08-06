@@ -2816,4 +2816,5 @@
 [CSCI4349_Week7_WpPentest](https://github.com/harrystaley/CSCI4349_Week7_WpPentest): Course code for TAMUSA CSCI 4349.  
 [seminar](https://github.com/derOtto/seminar): Seminar – IT-Sicherheitsgesetz 2.0  
 [CTF-OverTheWire](https://github.com/WillGreen98/CTF-OverTheWire): Breakdown of OverTheWire CTF Game  
-[cloudquery](https://github.com/cloudquery/cloudquery): The open-source cloud asset inventory powered by SQL.
+[cloudquery](https://github.com/cloudquery/cloudquery): The open-source cloud asset inventory powered by SQL.  
+[shadowbroker-smb-scanner](https://github.com/op7ic/shadowbroker-smb-scanner): shadowbroker SMB exploit scanner. Scans for ETERNALSYNERGY  ETERNALBLUE  ETERNALROMANCE  ETHERNALCHAMPION
