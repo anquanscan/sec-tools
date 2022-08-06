@@ -2780,4 +2780,5 @@
 [elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin): Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing  
 [bds03-security](https://github.com/andreluas/bds03-security): Desafio do boocamp da devsuperior, onde coloquei em prática o módulo de spring security.  
 [decker](https://github.com/stevenaldinger/decker): Declarative penetration testing orchestration framework  
-[EFIgy](https://github.com/duo-labs/EFIgy): A small client application that uses the Duo Labs EFIgy API to inform you about the state of your Mac EFI firmware
+[EFIgy](https://github.com/duo-labs/EFIgy): A small client application that uses the Duo Labs EFIgy API to inform you about the state of your Mac EFI firmware  
+[dinkleberg](https://github.com/oSumAtrIX/dinkleberg): 🕵️‍♂️ Catch users faking their offline status on Discord with an exploit written in Rust 
