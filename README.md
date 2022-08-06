@@ -2752,4 +2752,5 @@
 [fbspider](https://github.com/r3nt0n/fbspider): Scraping Facebook information  
 [security-analytics](https://github.com/GoogleCloudPlatform/security-analytics): Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud  
 [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository  
-[PwnKit-Exploit](https://github.com/luijait/PwnKit-Exploit): Proof of Concept (PoC) CVE-2021-4034 
+[PwnKit-Exploit](https://github.com/luijait/PwnKit-Exploit): Proof of Concept (PoC) CVE-2021-4034   
+[KaliLadon](https://github.com/k8gege/KaliLadon): Ladon for Linux (Kali), Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password
