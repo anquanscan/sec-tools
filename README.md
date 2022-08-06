@@ -2820,4 +2820,5 @@
 [shadowbroker-smb-scanner](https://github.com/op7ic/shadowbroker-smb-scanner): shadowbroker SMB exploit scanner. Scans for ETERNALSYNERGY  ETERNALBLUE  ETERNALROMANCE  ETHERNALCHAMPION  
 [favtools](https://github.com/matesz44/favtools): Tools that i use n love :D  
 [linuxallremote](https://github.com/FabioDefilippo/linuxallremote): This bash scripts will help you to hack remote hosts. You can choose and run one of them.  
-[Goblyn](https://github.com/loseys/Goblyn): Goblyn is a Python tool focused to enumeration and capture of website files metadata.
+[Goblyn](https://github.com/loseys/Goblyn): Goblyn is a Python tool focused to enumeration and capture of website files metadata.  
+[cloud-discovery](https://github.com/twistlock/cloud-discovery):  Cloud Discovery provides a point in time enumeration of all the cloud native platform services
