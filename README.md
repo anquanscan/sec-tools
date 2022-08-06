@@ -2798,4 +2798,5 @@
 [AzureKeyVault](https://github.com/cloudyr/AzureKeyVault): R interface to Azure Key Vault. Submit issues and PRs at https://github.com/Azure/AzureKeyVault  
 [Phobos-config](https://github.com/InternetNotFound/Phobos-config): This is a config for Phobos 1.7 to 1.9.0   
 [InfoSec_Practice](https://github.com/magicansk/InfoSec_Practice): https://magicansk.github.io/InfoSec_Practice/TOC  
-[pan-academy-blue-bank](https://github.com/williamjesusdev/pan-academy-blue-bank): Blue Bank é uma API de transações bancárias, desenvolvida durante o Bootcamp Pan Academy da Gama em parceria com o banco PAN.
+[pan-academy-blue-bank](https://github.com/williamjesusdev/pan-academy-blue-bank): Blue Bank é uma API de transações bancárias, desenvolvida durante o Bootcamp Pan Academy da Gama em parceria com o banco PAN.  
+[NoSQLMap](https://github.com/codingo/NoSQLMap): Automated NoSQL database enumeration and web application exploitation tool.
