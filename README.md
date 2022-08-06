@@ -2804,4 +2804,5 @@
 [0x04-ARM-32-Hacking-Double](https://github.com/mytechnotalent/0x04-ARM-32-Hacking-Double): ARM 32-bit Raspberry Pi Hacking Double example in Kali Linux.  
 [email2phonenumber](https://github.com/martinvigo/email2phonenumber): A OSINT tool to obtain a target's phone number just by having his email address  
 [TracceDigitali](https://github.com/marcogovoni/TracceDigitali): OSINT: come iniziare. Strumenti e idee per raccogliere e analizzare fonti aperte.  
-[nzyme](https://github.com/lennartkoopmann/nzyme): Nzyme is a free and open next-generation WiFi defense system. Go to www.nzyme.org for more information.
+[nzyme](https://github.com/lennartkoopmann/nzyme): Nzyme is a free and open next-generation WiFi defense system. Go to www.nzyme.org for more information.  
+[PasswordStealer](https://github.com/shashankchandak/PasswordStealer)
