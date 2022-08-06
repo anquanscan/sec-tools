@@ -2812,4 +2812,5 @@
 [IoT_Scanner](https://github.com/adamatasi/IoT_Scanner): IoT Scanner by ASA - Scan for active IoT devices and find their vulnerabilities  
 [dotdotslash](https://github.com/jcesarstef/dotdotslash): Search for Directory Traversal Vulnerabilities  
 [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges): Code-Audit-Challenges  
-[solved-hacking-problem](https://github.com/Qwaz/solved-hacking-problem): :heavy_check_mark: My solutions for CTF & wargame challenges
+[solved-hacking-problem](https://github.com/Qwaz/solved-hacking-problem): :heavy_check_mark: My solutions for CTF & wargame challenges  
+[CSCI4349_Week7_WpPentest](https://github.com/harrystaley/CSCI4349_Week7_WpPentest): Course code for TAMUSA CSCI 4349.
