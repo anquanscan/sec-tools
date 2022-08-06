@@ -2779,4 +2779,5 @@
 [Beam-On-Join](https://github.com/tizxr/Beam-On-Join): I saw some kid scamming kids and making them this tool for 10$ or something so uh like why not remake it and give it for free :D!  
 [elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin): Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing  
 [bds03-security](https://github.com/andreluas/bds03-security): Desafio do boocamp da devsuperior, onde coloquei em prática o módulo de spring security.  
-[decker](https://github.com/stevenaldinger/decker): Declarative penetration testing orchestration framework
+[decker](https://github.com/stevenaldinger/decker): Declarative penetration testing orchestration framework  
+[EFIgy](https://github.com/duo-labs/EFIgy): A small client application that uses the Duo Labs EFIgy API to inform you about the state of your Mac EFI firmware
