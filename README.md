@@ -2845,4 +2845,5 @@
 [osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service.  
 [RedBook](https://github.com/satan1a/RedBook): 基于Threathunting-book基础上完善的狩猎视角红队handbook  
 [SentryPeer](https://github.com/SentryPeer/SentryPeer): Protect your SIP Servers from bad actors.  
-[anchore-engine](https://github.com/anchore/anchore-engine): A service that analyzes docker images and scans for vulnerabilities
+[anchore-engine](https://github.com/anchore/anchore-engine): A service that analyzes docker images and scans for vulnerabilities  
+[libdft64](https://github.com/AngoraFuzzer/libdft64): libdft for Intel Pin 3.x and 64 bit platform. (Dynamic taint tracking, taint analysis)
