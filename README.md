@@ -2841,4 +2841,5 @@
 [Phishpedia](https://github.com/lindsey98/Phishpedia): Official Implementation of "Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages" USENIX'21   
 [433MHz-Cloner](https://github.com/franc205/433MHz-Cloner): Just hack any 433MHz device!  
 [Vulcan](https://github.com/XTeam-Wing/Vulcan): VulCan资产管理系统|漏洞扫描|资产探测|定时扫描  
-[PPF](https://github.com/PinkP4nther/PPF): A modular pentesting framework implemented in C
+[PPF](https://github.com/PinkP4nther/PPF): A modular pentesting framework implemented in C  
+[osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service.
