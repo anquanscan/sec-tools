@@ -2807,4 +2807,5 @@
 [nzyme](https://github.com/lennartkoopmann/nzyme): Nzyme is a free and open next-generation WiFi defense system. Go to www.nzyme.org for more information.  
 [PasswordStealer](https://github.com/shashankchandak/PasswordStealer)  
 [ReverseGoShell](https://github.com/TheKingOfDuck/ReverseGoShell): A Golang Reverse Shell Tool With AES Dynamic Encryption  
-[wp-cloudflare-guard](https://github.com/TypistTech/wp-cloudflare-guard): Connecting WordPress with Cloudflare firewall, protect your WordPress site at DNS level. Automatically create firewall rules to block dangerous IPs
+[wp-cloudflare-guard](https://github.com/TypistTech/wp-cloudflare-guard): Connecting WordPress with Cloudflare firewall, protect your WordPress site at DNS level. Automatically create firewall rules to block dangerous IPs  
+[LaravelENV](https://github.com/zerobyte-id-bak/LaravelENV)
