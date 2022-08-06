@@ -2721,4 +2721,5 @@
 [Burp-Selection-Size-Calculator](https://github.com/rauschecker/Burp-Selection-Size-Calculator): Burp extension to calculate the byte size of selections made in text windows  
 [CVE-2022-26809](https://github.com/XmasSnowISBACK/CVE-2022-26809): CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime   
 [exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata  
-[antifuzzer](https://github.com/webox-dev/antifuzzer)
+[antifuzzer](https://github.com/webox-dev/antifuzzer)  
+[uxss-db](https://github.com/Metnew/uxss-db): 🔪Browser logic vulnerabilities :skull_and_crossbones:
