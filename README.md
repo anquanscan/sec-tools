@@ -2771,4 +2771,5 @@
 [staystaystay](https://github.com/jbaines-r7/staystaystay): Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE  
 [D4rkXSS](https://github.com/R0X4R/D4rkXSS): A list of useful payloads and Bypass for Web Application Security and Bug Bounty/CTF  
 [WordPress-Plugins-List](https://github.com/Perfectdotexe/WordPress-Plugins-List): Wordpress Plugins List  
-[StegoCracker](https://github.com/W1LDN16H7/StegoCracker): Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file
+[StegoCracker](https://github.com/W1LDN16H7/StegoCracker): Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. You will not notice any change in the image or audio file. However, your secret message will be inside the original image or audio file  
+[bscValueDefi-Exploit](https://github.com/WP-LKL/bscValueDefi-Exploit): Abusing delayed share calculations on 4000% APR staking.
