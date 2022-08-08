@@ -2863,4 +2863,5 @@
 [pentest-book](https://github.com/six2dez/pentest-book)  
 [Penetration-Testing-Cheat-Sheet](https://github.com/curtishoughton/Penetration-Testing-Cheat-Sheet): A guide to help people who are new to penetration testing and are looking to gain an overview of the penetration testing process.  This guide will help anyone hoping to take the CREST CRT or Offensive Security's OSCP exam and will aim to cover each stage of compromising a host.  
 [RedisPushIptables](https://github.com/limithit/RedisPushIptables): RedisPushIptables is  used to update firewall rules to reject the IP addresses for a specified amount of time or forever reject.  
-[AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt): Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}
+[AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt): Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}  
+[chrome_enum](https://github.com/henryreed/chrome_enum): Decrypts and dumps Chrome-based browser cookies and passwords in Microsoft Windows.
