@@ -2912,4 +2912,5 @@
 [RouterTestApp](https://github.com/freitaspedro/RouterTestApp): Aplicativo Android desenvolvido para a disciplina de Projeto de Aplicação II da Universidade Federal Fluminense. O objetivo do aplicativo é promover testes em roteadores domésticos com intuito de tornar pública as vulnerabilidades contidas neles.  
 [Basic-Keylogger-python](https://github.com/manavarya999/Basic-Keylogger-python): A simple keylogger that sends the keystrokes to the provided email id.  
 [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer): Enumerate and disable common sources of telemetry used by AV/EDR.  
-[osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome): OSX and iOS related security tools
+[osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome): OSX and iOS related security tools  
+[PhishAPI](https://github.com/curtbraz/PhishAPI): Comprehensive Web Based Phishing Suite for Rapid Deployment and Real-Time Alerting!
