@@ -2979,4 +2979,5 @@
 [steganographer](https://github.com/priyansh-anand/steganographer): Steganograpy in Python | Hide files or data in Image Files  
 [SecureBPMN](https://github.com/logicalhacking/SecureBPMN): SecureBPMN is a domain-specific modeling language that allows to model security aspects (e.g., access control, separation of duty, confidentiality).  
 [BrainDamage](https://github.com/mehulj94/BrainDamage): Remote administration tool which uses Telegram as a C&C server  
-[tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer): Apache Tomcat auto WAR deployment & pwning penetration testing tool.
+[tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer): Apache Tomcat auto WAR deployment & pwning penetration testing tool.  
+[revive-cc](https://github.com/sivachokkapu/revive-cc): Static analysis tool for Hyperledger Frabric smart contracts written in Go.
