@@ -2991,4 +2991,5 @@
 [msspray](https://github.com/0xZDH/msspray): A basic username enumeration and password spraying tool aimed at spraying Microsoft's DOM based authentication using selenium.  
 [zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python): Python implementation of Dropbox's realistic password strength estimator  
 [shellfinder](https://github.com/Lekssays/shellfinder): A Simple Tool to Find Shells and Some Interesting Endpoints in Websites   
-[dms-filter](https://github.com/rdohms/dms-filter): Library that offers Input Filtering based on Annotations for use with Objects. Check out 2.dev for 2.0 pre-release.
+[dms-filter](https://github.com/rdohms/dms-filter): Library that offers Input Filtering based on Annotations for use with Objects. Check out 2.dev for 2.0 pre-release.  
+[Shield.Dotnet.Client](https://github.com/dotnetsafer/Shield.Dotnet.Client): The shield client for .NET allows you to interact with dotnetsafer shield from any environment and protect your software in an integrated way.
