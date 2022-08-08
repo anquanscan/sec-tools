@@ -2994,4 +2994,5 @@
 [dms-filter](https://github.com/rdohms/dms-filter): Library that offers Input Filtering based on Annotations for use with Objects. Check out 2.dev for 2.0 pre-release.  
 [Shield.Dotnet.Client](https://github.com/dotnetsafer/Shield.Dotnet.Client): The shield client for .NET allows you to interact with dotnetsafer shield from any environment and protect your software in an integrated way.  
 [the-dao-hack-simulation](https://github.com/ssteiger/the-dao-hack-simulation): A simulation of the infamous DAO hack from 2016  
-[gokart](https://github.com/praetorian-inc/gokart): A static analysis tool for securing Go code
+[gokart](https://github.com/praetorian-inc/gokart): A static analysis tool for securing Go code  
+[RIPv6](https://github.com/scipag/RIPv6): Random IPv6 - circumvents restrictive IP address-based filter and blocking rules
