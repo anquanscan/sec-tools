@@ -2861,4 +2861,5 @@
 [lzr](https://github.com/stanford-esrg/lzr): LZR quickly detects and fingerprints unexpected services running on unexpected ports.  
 [Shuffle](https://github.com/Shuffle/Shuffle): Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.  
 [pentest-book](https://github.com/six2dez/pentest-book)  
-[Penetration-Testing-Cheat-Sheet](https://github.com/curtishoughton/Penetration-Testing-Cheat-Sheet): A guide to help people who are new to penetration testing and are looking to gain an overview of the penetration testing process.  This guide will help anyone hoping to take the CREST CRT or Offensive Security's OSCP exam and will aim to cover each stage of compromising a host.
+[Penetration-Testing-Cheat-Sheet](https://github.com/curtishoughton/Penetration-Testing-Cheat-Sheet): A guide to help people who are new to penetration testing and are looking to gain an overview of the penetration testing process.  This guide will help anyone hoping to take the CREST CRT or Offensive Security's OSCP exam and will aim to cover each stage of compromising a host.  
+[RedisPushIptables](https://github.com/limithit/RedisPushIptables): RedisPushIptables is  used to update firewall rules to reject the IP addresses for a specified amount of time or forever reject.
