@@ -2934,4 +2934,5 @@
 [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security): 🛡️ Awesome Cloud Security Resources ⚔️  
 [rop-tool](https://github.com/t00sh/rop-tool): A tool to help you write binary exploits  
 [eccube-acl-chmod](https://github.com/havill/eccube-acl-chmod): Adds ACLs to EC-CUBE 4.x, each group of allowed access represented by a bit in an octet like Unix.  
-[linux-keylogger](https://github.com/y0g3sh-99/linux-keylogger): Linux keylogger written in C
+[linux-keylogger](https://github.com/y0g3sh-99/linux-keylogger): Linux keylogger written in C  
+[trj](https://github.com/pablocorbalann/trj): Execute any command in other's computer using a trojan horse coded and compiled in C. Just for educational purpose.
