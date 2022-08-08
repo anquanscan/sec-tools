@@ -2916,4 +2916,5 @@
 [PhishAPI](https://github.com/curtbraz/PhishAPI): Comprehensive Web Based Phishing Suite for Rapid Deployment and Real-Time Alerting!  
 [security-threats](https://github.com/prashanth-sams/security-threats): Real time analysis of information security vulnerabilities  
 [ServerTelegramBot](https://github.com/i4specete/ServerTelegramBot): Hacking from your phone   
-[covermyass](https://github.com/sundowndev/covermyass): Shell script to cover your tracks on UNIX systems. Designed for pen testing "covering tracks" phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation.
+[covermyass](https://github.com/sundowndev/covermyass): Shell script to cover your tracks on UNIX systems. Designed for pen testing "covering tracks" phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation.  
+[gray_hat_csharp_code](https://github.com/brandonprry/gray_hat_csharp_code): This repository contains full code examples from the book Gray Hat C#
