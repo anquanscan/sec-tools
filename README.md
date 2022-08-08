@@ -2913,4 +2913,5 @@
 [Basic-Keylogger-python](https://github.com/manavarya999/Basic-Keylogger-python): A simple keylogger that sends the keystrokes to the provided email id.  
 [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer): Enumerate and disable common sources of telemetry used by AV/EDR.  
 [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome): OSX and iOS related security tools  
-[PhishAPI](https://github.com/curtbraz/PhishAPI): Comprehensive Web Based Phishing Suite for Rapid Deployment and Real-Time Alerting!
+[PhishAPI](https://github.com/curtbraz/PhishAPI): Comprehensive Web Based Phishing Suite for Rapid Deployment and Real-Time Alerting!  
+[security-threats](https://github.com/prashanth-sams/security-threats): Real time analysis of information security vulnerabilities
