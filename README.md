@@ -2997,4 +2997,5 @@
 [gokart](https://github.com/praetorian-inc/gokart): A static analysis tool for securing Go code  
 [RIPv6](https://github.com/scipag/RIPv6): Random IPv6 - circumvents restrictive IP address-based filter and blocking rules  
 [Staticot](https://github.com/umair9747/Staticot): A BASH script to automate simple tasks related to static malware analysis  
-[secure-open](https://github.com/lapwat/secure-open): A Docker environment to securely open images, videos, sounds and more.
+[secure-open](https://github.com/lapwat/secure-open): A Docker environment to securely open images, videos, sounds and more.  
+[Log4Shell-IOCs](https://github.com/curated-intel/Log4Shell-IOCs): A collection of intelligence about Log4Shell and its exploitation activity. 
