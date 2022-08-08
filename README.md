@@ -2899,4 +2899,5 @@
 [AzureHunter](https://github.com/darkquasar/AzureHunter): A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365  
 [badusb_botnet](https://github.com/alexfrancow/badusb_botnet): :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.  
 [go-safeweb](https://github.com/google/go-safeweb): Secure-by-default HTTP servers in Go.  
-[ITWSV](https://github.com/penetrate2hack/ITWSV): ITWSV- Integrated Tool for Web Security Vulnerability
+[ITWSV](https://github.com/penetrate2hack/ITWSV): ITWSV- Integrated Tool for Web Security Vulnerability  
+[SLMail_PoC](https://github.com/PinkP4nther/SLMail_PoC): Simple RCE PoC for SLMail server on Windows XP SP3
