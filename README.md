@@ -2962,4 +2962,5 @@
 [How-to-get-a-Entry-Level-Cybersecurity-Job](https://github.com/AirtightSecurity/How-to-get-a-Entry-Level-Cybersecurity-Job): This repository is the store of all the main points and suggestions I have come across on LinkedIn, podcasts and YouTube related to finding an entry level cybersecurity job.  
 [inputs](https://github.com/victornavarrete/inputs): Clase para obtener entradas seguras  GET, POST, HEADERS y más utilidades utilizables para APIS  
 [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt): Ultimate Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT) and Json Web Keys (JWK) Implementation for .NET and .NET Core  
-[vector-addon](https://github.com/cally72jhb/vector-addon): A powerful open-source addon for Meteor Client.
+[vector-addon](https://github.com/cally72jhb/vector-addon): A powerful open-source addon for Meteor Client.  
+[snopf](https://github.com/snopf/snopf): snopf USB password token
