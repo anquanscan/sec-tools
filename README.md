@@ -2889,4 +2889,5 @@
 [ActiveReign](https://github.com/m8sec/ActiveReign): A Network Enumeration and Attack Toolset for Windows Active Directory Environments.  
 [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups  
 [wifi-cracking](https://github.com/brannondorsey/wifi-cracking): Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat  
-[VAC-Bypass](https://github.com/Jackbail4/VAC-Bypass): Full VAC Bypass. Inject detected cheats and not get VAC banned.
+[VAC-Bypass](https://github.com/Jackbail4/VAC-Bypass): Full VAC Bypass. Inject detected cheats and not get VAC banned.  
+[aeacus](https://github.com/elysium-suite/aeacus): 🔐 Vulnerability remediation scoring system
