@@ -2975,4 +2975,5 @@
 [trafficker](https://github.com/gvb84/trafficker): Code written for the Google Maps traffic analysis demo. See the demo video at https://www.youtube.com/watch?v=skQNwd9Jij4 or the whitepaper which can be found in doc/. Talks about this were given at 44Con and Ruxcon.  
 [reverser](https://github.com/eitanh/reverser): Reverser - tiny 12k http based reverse tunnel using c++ as client and python3 as server  
 [logiweb-microservices](https://github.com/tuanalexeu/logiweb-microservices): First-part-application for T-Systems Java School  
-[jsafer](https://github.com/avilum/jsafer): A simple JS source code obfuscator/minifier that doesn't hurt consistency or speed.
+[jsafer](https://github.com/avilum/jsafer): A simple JS source code obfuscator/minifier that doesn't hurt consistency or speed.  
+[steganographer](https://github.com/priyansh-anand/steganographer): Steganograpy in Python | Hide files or data in Image Files
