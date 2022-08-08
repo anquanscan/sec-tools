@@ -2904,4 +2904,5 @@
 [samson](https://github.com/wildcardcorp/samson): Cryptanalysis and attack library  
 [graphite](https://github.com/Graphite-Docs/graphite): Encrypted, secure, user-owned productivity suite  
 [DataProfiler](https://github.com/capitalone/DataProfiler): What's in your data? Extract schema, statistics and entities from datasets  
-[CVE-2019-12840_POC](https://github.com/bkaraceylan/CVE-2019-12840_POC): PoC for Webmin Package Update Authenticated Remote Command Execution
+[CVE-2019-12840_POC](https://github.com/bkaraceylan/CVE-2019-12840_POC): PoC for Webmin Package Update Authenticated Remote Command Execution  
+[gsvsoc_working-from-home-infoseries](https://github.com/guardsight/gsvsoc_working-from-home-infoseries): Cybersecurity Tips When Working Remote
