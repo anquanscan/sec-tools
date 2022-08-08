@@ -2943,4 +2943,5 @@
 [hack.python](https://github.com/exitmsconfig/hack.python): 白帽SEO是一种精神！  
 [occlum](https://github.com/occlum/occlum): Occlum is a memory-safe, multi-process library OS for Intel SGX  
 [shadowspace-curzor](https://github.com/not-so-cool-anymore/shadowspace-curzor): Shadowrange is a cyberragne for active cybersecurity trainings and exercises. Curzor is one of the basics parts of that range - a web app containing multuple security vulnerabilities.  
-[docker-spectre](https://github.com/feffi/docker-spectre): Spectre and Meltdown in a docker containerized test
+[docker-spectre](https://github.com/feffi/docker-spectre): Spectre and Meltdown in a docker containerized test  
+[graudit](https://github.com/wireghoul/graudit): grep rough audit - source code auditing tool
