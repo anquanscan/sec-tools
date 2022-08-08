@@ -2858,4 +2858,5 @@
 [breaking-telegram](https://github.com/matteounitn/breaking-telegram): Simple PoC script that allows you to exploit telegram's "send with timer" feature by saving any media sent with this functionality.  
 [kata-containers](https://github.com/kata-containers/kata-containers): Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/  
 [storefront_cloner](https://github.com/gh0x0st/storefront_cloner): A python approach to clone Citrix Storefront portals  
-[lzr](https://github.com/stanford-esrg/lzr): LZR quickly detects and fingerprints unexpected services running on unexpected ports.
+[lzr](https://github.com/stanford-esrg/lzr): LZR quickly detects and fingerprints unexpected services running on unexpected ports.  
+[Shuffle](https://github.com/Shuffle/Shuffle): Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
