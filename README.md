@@ -3014,4 +3014,5 @@
 [password-wordlist-generator-cpp](https://github.com/BernardoPiedade/password-wordlist-generator-cpp): Simple wordlist generator, made in c++. It's still in development. It can be a helpfull tool for pentesters trying out wordlist attacks.  
 [DiscordExploit](https://github.com/maximkha/DiscordExploit): This permission-less exploit can hijack a discord account  
 [chef-postgres-hardening](https://github.com/dev-sec/chef-postgres-hardening): This chef cookbook provides security configuration for PostgreSQL.  
-[AlanFramework](https://github.com/enkomio/AlanFramework): A C2 post-exploitation framework
+[AlanFramework](https://github.com/enkomio/AlanFramework): A C2 post-exploitation framework  
+[AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded): The best authentication plugin for the Bukkit/Spigot API!
