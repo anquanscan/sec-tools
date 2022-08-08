@@ -2928,4 +2928,5 @@
 [siemstress](https://github.com/dogoncouch/siemstress): Very basic CLI SIEM (Security Information and Event Management system).  
 [loctrack](https://github.com/cipheras/loctrack): A tool to locate people using social engineering. :rocket:  
 [Cryptolocker](https://github.com/ajayrandhawa/Cryptolocker): CryptoLocker is open source files encrypt-er. Crypto is developed in Visual C++. It has features encrypt all file, lock down the system and send keys back to the server. Multi-threaded functionality helps to this tool make encryption faster.  
-[skipmcgee.github.io](https://github.com/skipmcgee/skipmcgee.github.io): Welcome to Skip McGee's page: a personal introduction to my code and projects!
+[skipmcgee.github.io](https://github.com/skipmcgee/skipmcgee.github.io): Welcome to Skip McGee's page: a personal introduction to my code and projects!  
+[buildAPKs](https://github.com/SDRausty/buildAPKs): Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
