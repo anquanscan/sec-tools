@@ -3016,4 +3016,5 @@
 [chef-postgres-hardening](https://github.com/dev-sec/chef-postgres-hardening): This chef cookbook provides security configuration for PostgreSQL.  
 [AlanFramework](https://github.com/enkomio/AlanFramework): A C2 post-exploitation framework  
 [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded): The best authentication plugin for the Bukkit/Spigot API!  
-[BeFree](https://github.com/Mahi2/BeFree): Website Security, Antivirus & Firewall || a powerful application that can secure your website against hackers, attacks and other incidents of abuse
+[BeFree](https://github.com/Mahi2/BeFree): Website Security, Antivirus & Firewall || a powerful application that can secure your website against hackers, attacks and other incidents of abuse  
+[grapX](https://github.com/kabilan1290/grapX): grapX will iterate through the URLs and grep the endpoints with all possible extensions.
