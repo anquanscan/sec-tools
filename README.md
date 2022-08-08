@@ -2970,4 +2970,5 @@
 [RS-Generator](https://github.com/mrx04programmer/RS-Generator): Generador de Reverse Shell para distintos lenguajes de programación y sistemas operativos.  
 [h1domains](https://github.com/zricethezav/h1domains): HackerOne "in scope" domains  
 [Cryptography-Communication-System](https://github.com/Vatshayan/Cryptography-Communication-System): B.tech College Project for Secure Message Communication though Cryptography Algorithm   
-[exploitation_docker](https://github.com/Neetx/exploitation_docker): Docker container with exploitation technique examples, used in my master thesis
+[exploitation_docker](https://github.com/Neetx/exploitation_docker): Docker container with exploitation technique examples, used in my master thesis  
+[awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed): A semi-curated list of Security Feeds
