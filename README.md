@@ -3007,4 +3007,5 @@
 [pwdsafety](https://github.com/edoardottt/pwdsafety): 🔒command line tool checking password safety🔒  
 [magicpad](https://github.com/hyundotio/magicpad): MagicPad is an encryption suite for beginners. It is designed to be run standalone via the browser or executable (Electron).  
 [Python-For-Ethical-Hacking](https://github.com/saadhaxxan/Python-For-Ethical-Hacking): This is a complete project series on implementing hacking tools available in Kali Linux into python.  
-[envkeygo](https://github.com/envkey/envkeygo): EnvKey's official Go client library
+[envkeygo](https://github.com/envkey/envkeygo): EnvKey's official Go client library  
+[Debugger](https://github.com/GameHackingAcademy/Debugger): An example of a Windows debugger that will attach to a running Assault Cube 1.2.0.2 process, change a specific instruction to an int 3 instruction (0xCC), and then restore the original instruction when the breakpoint is hit.
