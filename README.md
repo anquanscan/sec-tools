@@ -3012,4 +3012,5 @@
 [stig-cli](https://github.com/MindPointGroup/stig-cli): A CLI for perusing DISA STIG content Mac, Linux, and Windows Compatible  
 [quay-workshop](https://github.com/cmcornejocrespo/quay-workshop): This repository contains the source code for the Quay workshop.  
 [password-wordlist-generator-cpp](https://github.com/BernardoPiedade/password-wordlist-generator-cpp): Simple wordlist generator, made in c++. It's still in development. It can be a helpfull tool for pentesters trying out wordlist attacks.  
-[DiscordExploit](https://github.com/maximkha/DiscordExploit): This permission-less exploit can hijack a discord account
+[DiscordExploit](https://github.com/maximkha/DiscordExploit): This permission-less exploit can hijack a discord account  
+[chef-postgres-hardening](https://github.com/dev-sec/chef-postgres-hardening): This chef cookbook provides security configuration for PostgreSQL.
