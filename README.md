@@ -2910,4 +2910,5 @@
 [Lets_Pentest](https://github.com/aniketambore/Lets_Pentest): ☠A collection of Penetration Testing scripts I'd written to use in Pentests.💉  
 [gitlab_RCE](https://github.com/dotPY-hax/gitlab_RCE): RCE for old gitlab version <= 11.4.7 & 12.4.0-12.8.1 and LFI for old gitlab versions 10.4 - 12.8.1  
 [RouterTestApp](https://github.com/freitaspedro/RouterTestApp): Aplicativo Android desenvolvido para a disciplina de Projeto de Aplicação II da Universidade Federal Fluminense. O objetivo do aplicativo é promover testes em roteadores domésticos com intuito de tornar pública as vulnerabilidades contidas neles.  
-[Basic-Keylogger-python](https://github.com/manavarya999/Basic-Keylogger-python): A simple keylogger that sends the keystrokes to the provided email id.
+[Basic-Keylogger-python](https://github.com/manavarya999/Basic-Keylogger-python): A simple keylogger that sends the keystrokes to the provided email id.  
+[TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer): Enumerate and disable common sources of telemetry used by AV/EDR.
