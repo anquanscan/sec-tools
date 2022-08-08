@@ -2902,4 +2902,5 @@
 [ITWSV](https://github.com/penetrate2hack/ITWSV): ITWSV- Integrated Tool for Web Security Vulnerability  
 [SLMail_PoC](https://github.com/PinkP4nther/SLMail_PoC): Simple RCE PoC for SLMail server on Windows XP SP3  
 [samson](https://github.com/wildcardcorp/samson): Cryptanalysis and attack library  
-[graphite](https://github.com/Graphite-Docs/graphite): Encrypted, secure, user-owned productivity suite
+[graphite](https://github.com/Graphite-Docs/graphite): Encrypted, secure, user-owned productivity suite  
+[DataProfiler](https://github.com/capitalone/DataProfiler): What's in your data? Extract schema, statistics and entities from datasets
