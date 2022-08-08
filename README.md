@@ -2958,4 +2958,5 @@
 [Project-Guardian](https://github.com/LEM-Security/Project-Guardian): Project Guardian is designed as an open source and free portable Intrustion Detection System (IDS) and Firewall. Project Guardian was built on the Odroid XU-4 platform and is currently the only hardware officially supported by LEM Security LLC. Project Guardian is officially tested on the ARM version of Ubuntu 18.04 and in its current form should work just fine.    
 [advisor-action](https://github.com/alcideio/advisor-action): Alcide Advisor GitHub Action  
 [Domain_Vulnerability_Detector](https://github.com/AdrianVillamayor/Domain_Vulnerability_Detector): This script allows vulnerability testing to avoid penetration attacks by urls.  
-[spectreScope](https://github.com/ixtal23/spectreScope): The demo of the speculative execution attack Spectre (CVE-2017-5753, CVE-2017-5715).
+[spectreScope](https://github.com/ixtal23/spectreScope): The demo of the speculative execution attack Spectre (CVE-2017-5753, CVE-2017-5715).  
+[How-to-get-a-Entry-Level-Cybersecurity-Job](https://github.com/AirtightSecurity/How-to-get-a-Entry-Level-Cybersecurity-Job): This repository is the store of all the main points and suggestions I have come across on LinkedIn, podcasts and YouTube related to finding an entry level cybersecurity job.
