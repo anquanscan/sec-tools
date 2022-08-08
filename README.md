@@ -2948,4 +2948,5 @@
 [CloudFrontier](https://github.com/riskprofiler/CloudFrontier): Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.  
 [survivio-icehacks-aimbot-v1.0](https://github.com/Michal2SAB/survivio-icehacks-aimbot-v1.0): A compiled surviv.io cheat (by IceHacks) with an old aimbot (v 1.0) for @VN BPM (on youtube).  
 [torch](https://github.com/CameronLonsdale/torch): Command-line Cryptanalysis  
-[Hande-Stealer](https://github.com/swagkarna/Hande-Stealer): Powerful Discord Stealer written in python
+[Hande-Stealer](https://github.com/swagkarna/Hande-Stealer): Powerful Discord Stealer written in python  
+[fwexpl](https://github.com/Cr4sh/fwexpl): PC firmware exploitation tool and library
