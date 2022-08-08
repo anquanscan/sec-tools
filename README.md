@@ -2895,4 +2895,5 @@
 [netizenship](https://github.com/rahulrajpl/netizenship): a commandline #OSINT tool to find the online presence of a username in popular social media websites like Facebook, Instagram, Twitter, etc.  
 [RapidRepoPull](https://github.com/tbalz2319/RapidRepoPull): The goal of this program is to quickly pull and install repos from its list  
 [jigg](https://github.com/multiparty/jigg): JavaScript implementation of garbled gates and 2PC boolean circuit protocols  
-[WSSAT](https://github.com/YalcinYolalan/WSSAT): WEB SERVICE SECURITY ASSESSMENT TOOL
+[WSSAT](https://github.com/YalcinYolalan/WSSAT): WEB SERVICE SECURITY ASSESSMENT TOOL  
+[AzureHunter](https://github.com/darkquasar/AzureHunter): A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365
