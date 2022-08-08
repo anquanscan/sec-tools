@@ -2923,4 +2923,5 @@
 [wpscan](https://github.com/wpscanteam/wpscan): WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.  
 [virustotal](https://github.com/themains/virustotal): R client for the Virustotal Public API. Virustotal is a Google service that analyzes files and URLs for viruses etc.  
 [skjold](https://github.com/twu/skjold): Security audit Python project dependencies against security advisory databases.  
-[traft](https://github.com/danielpygo/traft)
+[traft](https://github.com/danielpygo/traft)  
+[PredictionPipelineMS2020](https://github.com/JakobDohrmann/PredictionPipelineMS2020): Source code and dataset used in M.S. Thesis "Optimizing a prediction pipeline by prepending an efficient low-fidelity model", 2020
