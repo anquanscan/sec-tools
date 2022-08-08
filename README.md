@@ -2907,4 +2907,5 @@
 [CVE-2019-12840_POC](https://github.com/bkaraceylan/CVE-2019-12840_POC): PoC for Webmin Package Update Authenticated Remote Command Execution  
 [gsvsoc_working-from-home-infoseries](https://github.com/guardsight/gsvsoc_working-from-home-infoseries): Cybersecurity Tips When Working Remote  
 [zeek-plugin-tds](https://github.com/amzn/zeek-plugin-tds): Zeek network security monitor plugin that enables parsing of the Tabular Data Stream (TDS) protocol  
-[Lets_Pentest](https://github.com/aniketambore/Lets_Pentest): ☠A collection of Penetration Testing scripts I'd written to use in Pentests.💉
+[Lets_Pentest](https://github.com/aniketambore/Lets_Pentest): ☠A collection of Penetration Testing scripts I'd written to use in Pentests.💉  
+[gitlab_RCE](https://github.com/dotPY-hax/gitlab_RCE): RCE for old gitlab version <= 11.4.7 & 12.4.0-12.8.1 and LFI for old gitlab versions 10.4 - 12.8.1
