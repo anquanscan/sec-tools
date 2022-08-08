@@ -3013,4 +3013,5 @@
 [quay-workshop](https://github.com/cmcornejocrespo/quay-workshop): This repository contains the source code for the Quay workshop.  
 [password-wordlist-generator-cpp](https://github.com/BernardoPiedade/password-wordlist-generator-cpp): Simple wordlist generator, made in c++. It's still in development. It can be a helpfull tool for pentesters trying out wordlist attacks.  
 [DiscordExploit](https://github.com/maximkha/DiscordExploit): This permission-less exploit can hijack a discord account  
-[chef-postgres-hardening](https://github.com/dev-sec/chef-postgres-hardening): This chef cookbook provides security configuration for PostgreSQL.
+[chef-postgres-hardening](https://github.com/dev-sec/chef-postgres-hardening): This chef cookbook provides security configuration for PostgreSQL.  
+[AlanFramework](https://github.com/enkomio/AlanFramework): A C2 post-exploitation framework
