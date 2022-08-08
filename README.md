@@ -2963,4 +2963,5 @@
 [inputs](https://github.com/victornavarrete/inputs): Clase para obtener entradas seguras  GET, POST, HEADERS y más utilidades utilizables para APIS  
 [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt): Ultimate Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT) and Json Web Keys (JWK) Implementation for .NET and .NET Core  
 [vector-addon](https://github.com/cally72jhb/vector-addon): A powerful open-source addon for Meteor Client.  
-[snopf](https://github.com/snopf/snopf): snopf USB password token
+[snopf](https://github.com/snopf/snopf): snopf USB password token  
+[research-threats](https://github.com/disclose/research-threats): Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg
