@@ -2925,4 +2925,5 @@
 [skjold](https://github.com/twu/skjold): Security audit Python project dependencies against security advisory databases.  
 [traft](https://github.com/danielpygo/traft)  
 [PredictionPipelineMS2020](https://github.com/JakobDohrmann/PredictionPipelineMS2020): Source code and dataset used in M.S. Thesis "Optimizing a prediction pipeline by prepending an efficient low-fidelity model", 2020  
-[siemstress](https://github.com/dogoncouch/siemstress): Very basic CLI SIEM (Security Information and Event Management system).
+[siemstress](https://github.com/dogoncouch/siemstress): Very basic CLI SIEM (Security Information and Event Management system).  
+[loctrack](https://github.com/cipheras/loctrack): A tool to locate people using social engineering. :rocket:
