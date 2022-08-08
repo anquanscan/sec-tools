@@ -2874,4 +2874,5 @@
 [Shodan_Search](https://github.com/abdulkadir-gungor/Shodan_Search): Based on the Shodan API, it displays the open ports and security vulnerabilities of the server related to the entered ip or hostname.  
 [neoss](https://github.com/PabloLec/neoss): :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.  
 [AndroPyDucky](https://github.com/proxyanon/AndroPyDucky): Ferramenta para criação de payloads HID (human interface device) para android sem nethunter ou rubber ducky  
-[K-Tool](https://github.com/mrprogrammer2938/K-Tool): K-Tool 
+[K-Tool](https://github.com/mrprogrammer2938/K-Tool): K-Tool   
+[security-core](https://github.com/symfony/security-core): Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
