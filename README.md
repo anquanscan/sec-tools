@@ -2892,4 +2892,5 @@
 [VAC-Bypass](https://github.com/Jackbail4/VAC-Bypass): Full VAC Bypass. Inject detected cheats and not get VAC banned.  
 [aeacus](https://github.com/elysium-suite/aeacus): 🔐 Vulnerability remediation scoring system  
 [printix-CVE-2022-25090](https://github.com/ComparedArray/printix-CVE-2022-25090): A "Creation of Temporary Files in Directory with Insecure Permissions" vulnerability in PrintixService.exe, in Printix's "Printix Secure Cloud Print Management", Version 1.3.1106.0 and below allows any logged in user to elevate any executable or file to the SYSTEM context. This is achieved by exploiting race conditions in the Installer.  
-[netizenship](https://github.com/rahulrajpl/netizenship): a commandline #OSINT tool to find the online presence of a username in popular social media websites like Facebook, Instagram, Twitter, etc.
+[netizenship](https://github.com/rahulrajpl/netizenship): a commandline #OSINT tool to find the online presence of a username in popular social media websites like Facebook, Instagram, Twitter, etc.  
+[RapidRepoPull](https://github.com/tbalz2319/RapidRepoPull): The goal of this program is to quickly pull and install repos from its list
