@@ -3009,4 +3009,5 @@
 [Python-For-Ethical-Hacking](https://github.com/saadhaxxan/Python-For-Ethical-Hacking): This is a complete project series on implementing hacking tools available in Kali Linux into python.  
 [envkeygo](https://github.com/envkey/envkeygo): EnvKey's official Go client library  
 [Debugger](https://github.com/GameHackingAcademy/Debugger): An example of a Windows debugger that will attach to a running Assault Cube 1.2.0.2 process, change a specific instruction to an int 3 instruction (0xCC), and then restore the original instruction when the breakpoint is hit.  
-[stig-cli](https://github.com/MindPointGroup/stig-cli): A CLI for perusing DISA STIG content Mac, Linux, and Windows Compatible
+[stig-cli](https://github.com/MindPointGroup/stig-cli): A CLI for perusing DISA STIG content Mac, Linux, and Windows Compatible  
+[quay-workshop](https://github.com/cmcornejocrespo/quay-workshop): This repository contains the source code for the Quay workshop.
