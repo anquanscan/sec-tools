@@ -2950,4 +2950,5 @@
 [torch](https://github.com/CameronLonsdale/torch): Command-line Cryptanalysis  
 [Hande-Stealer](https://github.com/swagkarna/Hande-Stealer): Powerful Discord Stealer written in python  
 [fwexpl](https://github.com/Cr4sh/fwexpl): PC firmware exploitation tool and library  
-[OWASP-Calculator](https://github.com/JavierOlmedo/OWASP-Calculator): 🧮 An online calculator to assess the risk of web vulnerabilities based on OWASP Risk Assessment
+[OWASP-Calculator](https://github.com/JavierOlmedo/OWASP-Calculator): 🧮 An online calculator to assess the risk of web vulnerabilities based on OWASP Risk Assessment  
+[cryptonice](https://github.com/F5-Labs/cryptonice): CryptoNice is both a command line tool and library which provides the ability to scan and report on the configuration of SSL/TLS for your internet or internal facing web services. Built using the sslyze API and ssl, http-client and dns libraries, cryptonice collects data on a given domain and performs a series of tests to check TLS configuration and supporting protocols such as HTTP2 and DNS.
