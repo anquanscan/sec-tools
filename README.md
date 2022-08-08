@@ -2983,4 +2983,5 @@
 [revive-cc](https://github.com/sivachokkapu/revive-cc): Static analysis tool for Hyperledger Frabric smart contracts written in Go.  
 [AutoBlur-CNN-Features](https://github.com/efidalgo/AutoBlur-CNN-Features): Script to extract CNN deep features with different ConvNets, and then use them for an Image Classification task with a SVM classifier with lineal kernel over the following small datasets: Soccer [1], Birds [2], 17flowers [3], ImageNet-6Weapons[4] and ImageNet-7Arthropods[4].  
 [Hexxo-Starl-client](https://github.com/CoastStarlight/Hexxo-Starl-client): n-gon hack client  
-[DYFKeychain](https://github.com/chenxing640/DYFKeychain): ([Swift] https://github.com/dgynfi/DYFSwiftKeychain) This library is used to store text and data in Keychain securely for iOS, OS X, tvOS and watchOS. (Objective-C)
+[DYFKeychain](https://github.com/chenxing640/DYFKeychain): ([Swift] https://github.com/dgynfi/DYFSwiftKeychain) This library is used to store text and data in Keychain securely for iOS, OS X, tvOS and watchOS. (Objective-C)  
+[AllThingsOpen2018](https://github.com/nomadicmehul/AllThingsOpen2018): All Things Open is the largest "Open" technology event on the east coast.
