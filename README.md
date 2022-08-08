@@ -2896,4 +2896,5 @@
 [RapidRepoPull](https://github.com/tbalz2319/RapidRepoPull): The goal of this program is to quickly pull and install repos from its list  
 [jigg](https://github.com/multiparty/jigg): JavaScript implementation of garbled gates and 2PC boolean circuit protocols  
 [WSSAT](https://github.com/YalcinYolalan/WSSAT): WEB SERVICE SECURITY ASSESSMENT TOOL  
-[AzureHunter](https://github.com/darkquasar/AzureHunter): A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365
+[AzureHunter](https://github.com/darkquasar/AzureHunter): A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365  
+[badusb_botnet](https://github.com/alexfrancow/badusb_botnet): :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
