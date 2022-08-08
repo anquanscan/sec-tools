@@ -2976,4 +2976,5 @@
 [reverser](https://github.com/eitanh/reverser): Reverser - tiny 12k http based reverse tunnel using c++ as client and python3 as server  
 [logiweb-microservices](https://github.com/tuanalexeu/logiweb-microservices): First-part-application for T-Systems Java School  
 [jsafer](https://github.com/avilum/jsafer): A simple JS source code obfuscator/minifier that doesn't hurt consistency or speed.  
-[steganographer](https://github.com/priyansh-anand/steganographer): Steganograpy in Python | Hide files or data in Image Files
+[steganographer](https://github.com/priyansh-anand/steganographer): Steganograpy in Python | Hide files or data in Image Files  
+[SecureBPMN](https://github.com/logicalhacking/SecureBPMN): SecureBPMN is a domain-specific modeling language that allows to model security aspects (e.g., access control, separation of duty, confidentiality).
