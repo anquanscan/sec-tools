@@ -2980,4 +2980,5 @@
 [SecureBPMN](https://github.com/logicalhacking/SecureBPMN): SecureBPMN is a domain-specific modeling language that allows to model security aspects (e.g., access control, separation of duty, confidentiality).  
 [BrainDamage](https://github.com/mehulj94/BrainDamage): Remote administration tool which uses Telegram as a C&C server  
 [tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer): Apache Tomcat auto WAR deployment & pwning penetration testing tool.  
-[revive-cc](https://github.com/sivachokkapu/revive-cc): Static analysis tool for Hyperledger Frabric smart contracts written in Go.
+[revive-cc](https://github.com/sivachokkapu/revive-cc): Static analysis tool for Hyperledger Frabric smart contracts written in Go.  
+[AutoBlur-CNN-Features](https://github.com/efidalgo/AutoBlur-CNN-Features): Script to extract CNN deep features with different ConvNets, and then use them for an Image Classification task with a SVM classifier with lineal kernel over the following small datasets: Soccer [1], Birds [2], 17flowers [3], ImageNet-6Weapons[4] and ImageNet-7Arthropods[4].
