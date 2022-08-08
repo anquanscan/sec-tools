@@ -2918,4 +2918,5 @@
 [ServerTelegramBot](https://github.com/i4specete/ServerTelegramBot): Hacking from your phone   
 [covermyass](https://github.com/sundowndev/covermyass): Shell script to cover your tracks on UNIX systems. Designed for pen testing "covering tracks" phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation.  
 [gray_hat_csharp_code](https://github.com/brandonprry/gray_hat_csharp_code): This repository contains full code examples from the book Gray Hat C#  
-[dontclickshit](https://github.com/sapran/dontclickshit): Як не стати кібер-жертвою
+[dontclickshit](https://github.com/sapran/dontclickshit): Як не стати кібер-жертвою  
+[CVE-2020-7247](https://github.com/f4T1H21/CVE-2020-7247): PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution
