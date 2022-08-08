@@ -2880,4 +2880,5 @@
 [dfir-ioc-ut](https://github.com/jipegit/dfir-ioc-ut): DFIR IoC Unit Testing  
 [minishmaker](https://github.com/minishmaker/minishmaker): Level editing suite for The Legend of Zelda: The Minish Cap  
 [Image_Steganography](https://github.com/rohanailoni/Image_Steganography): It is just an Experiment on Image Strgaography to Demostrate the uses of Hiding data in picture and Also Detecting it using Neural Network w.r.t noise in the malware image  
-[shoulditrust](https://github.com/micheleriva/shoulditrust): 🤔Check if an IP address is safe or not!
+[shoulditrust](https://github.com/micheleriva/shoulditrust): 🤔Check if an IP address is safe or not!  
+[rbac-tool](https://github.com/alcideio/rbac-tool): Rapid7 | insightCloudSec | Kubernetes RBAC Power Toys - Visualize, Analyze, Generate & Query
