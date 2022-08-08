@@ -2882,4 +2882,5 @@
 [Image_Steganography](https://github.com/rohanailoni/Image_Steganography): It is just an Experiment on Image Strgaography to Demostrate the uses of Hiding data in picture and Also Detecting it using Neural Network w.r.t noise in the malware image  
 [shoulditrust](https://github.com/micheleriva/shoulditrust): 🤔Check if an IP address is safe or not!  
 [rbac-tool](https://github.com/alcideio/rbac-tool): Rapid7 | insightCloudSec | Kubernetes RBAC Power Toys - Visualize, Analyze, Generate & Query  
-[CyberSec-Books](https://github.com/ad0x99/CyberSec-Books): Cyber Security Books
+[CyberSec-Books](https://github.com/ad0x99/CyberSec-Books): Cyber Security Books  
+[domain-protect](https://github.com/ovotech/domain-protect): Protect against subdomain takeover
