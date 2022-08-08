@@ -2931,4 +2931,5 @@
 [skipmcgee.github.io](https://github.com/skipmcgee/skipmcgee.github.io): Welcome to Skip McGee's page: a personal introduction to my code and projects!  
 [buildAPKs](https://github.com/SDRausty/buildAPKs): Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.  
 [NoGPKI](https://github.com/Alex4386/NoGPKI): Distrusts GPKI Root CA Certificate because their security and certificate management is bad as F***  
-[awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security): 🛡️ Awesome Cloud Security Resources ⚔️
+[awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security): 🛡️ Awesome Cloud Security Resources ⚔️  
+[rop-tool](https://github.com/t00sh/rop-tool): A tool to help you write binary exploits
