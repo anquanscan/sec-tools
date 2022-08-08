@@ -3001,4 +3001,5 @@
 [Log4Shell-IOCs](https://github.com/curated-intel/Log4Shell-IOCs): A collection of intelligence about Log4Shell and its exploitation activity.   
 [stronghold](https://github.com/alichtman/stronghold): Easily configure macOS security settings from the terminal.  
 [ipa-medit](https://github.com/aktsk/ipa-medit): Memory modification tool for re-signed ipa supports iOS apps running on iPhone and Apple Silicon Mac without jailbreaking.  
-[dumpall](https://github.com/0xHJK/dumpall): 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
+[dumpall](https://github.com/0xHJK/dumpall): 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出  
+[kindle-pw2-5.6.5-jailbreak](https://github.com/esno/kindle-pw2-5.6.5-jailbreak): jailbreak for the kindle paperwhite 2 firmware version 5.6.5
