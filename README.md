@@ -2868,4 +2868,5 @@
 [tamperchrome](https://github.com/google/tamperchrome): Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).  
 [AdvancedKeyHacks](https://github.com/udit-thakkur/AdvancedKeyHacks): API Key/Token Exploitation Made easy.  
 [piknik](https://github.com/jedisct1/piknik): Copy/paste anything over the network.  
-[WireBug](https://github.com/SySS-Research/WireBug): WireBug is a toolset for Voice-over-IP penetration testing
+[WireBug](https://github.com/SySS-Research/WireBug): WireBug is a toolset for Voice-over-IP penetration testing  
+[jupyter-widget-stixview](https://github.com/traut/jupyter-widget-stixview): STIX2 graph widget for Jupyter notebooks, powered by stixview library
