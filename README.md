@@ -2871,4 +2871,5 @@
 [WireBug](https://github.com/SySS-Research/WireBug): WireBug is a toolset for Voice-over-IP penetration testing  
 [jupyter-widget-stixview](https://github.com/traut/jupyter-widget-stixview): STIX2 graph widget for Jupyter notebooks, powered by stixview library  
 [HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。  
-[Shodan_Search](https://github.com/abdulkadir-gungor/Shodan_Search): Based on the Shodan API, it displays the open ports and security vulnerabilities of the server related to the entered ip or hostname.
+[Shodan_Search](https://github.com/abdulkadir-gungor/Shodan_Search): Based on the Shodan API, it displays the open ports and security vulnerabilities of the server related to the entered ip or hostname.  
+[neoss](https://github.com/PabloLec/neoss): :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
