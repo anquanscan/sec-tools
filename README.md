@@ -2977,4 +2977,5 @@
 [logiweb-microservices](https://github.com/tuanalexeu/logiweb-microservices): First-part-application for T-Systems Java School  
 [jsafer](https://github.com/avilum/jsafer): A simple JS source code obfuscator/minifier that doesn't hurt consistency or speed.  
 [steganographer](https://github.com/priyansh-anand/steganographer): Steganograpy in Python | Hide files or data in Image Files  
-[SecureBPMN](https://github.com/logicalhacking/SecureBPMN): SecureBPMN is a domain-specific modeling language that allows to model security aspects (e.g., access control, separation of duty, confidentiality).
+[SecureBPMN](https://github.com/logicalhacking/SecureBPMN): SecureBPMN is a domain-specific modeling language that allows to model security aspects (e.g., access control, separation of duty, confidentiality).  
+[BrainDamage](https://github.com/mehulj94/BrainDamage): Remote administration tool which uses Telegram as a C&C server
