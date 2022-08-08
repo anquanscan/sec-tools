@@ -2860,4 +2860,5 @@
 [storefront_cloner](https://github.com/gh0x0st/storefront_cloner): A python approach to clone Citrix Storefront portals  
 [lzr](https://github.com/stanford-esrg/lzr): LZR quickly detects and fingerprints unexpected services running on unexpected ports.  
 [Shuffle](https://github.com/Shuffle/Shuffle): Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.  
-[pentest-book](https://github.com/six2dez/pentest-book)
+[pentest-book](https://github.com/six2dez/pentest-book)  
+[Penetration-Testing-Cheat-Sheet](https://github.com/curtishoughton/Penetration-Testing-Cheat-Sheet): A guide to help people who are new to penetration testing and are looking to gain an overview of the penetration testing process.  This guide will help anyone hoping to take the CREST CRT or Offensive Security's OSCP exam and will aim to cover each stage of compromising a host.
