@@ -2932,4 +2932,5 @@
 [buildAPKs](https://github.com/SDRausty/buildAPKs): Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.  
 [NoGPKI](https://github.com/Alex4386/NoGPKI): Distrusts GPKI Root CA Certificate because their security and certificate management is bad as F***  
 [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security): 🛡️ Awesome Cloud Security Resources ⚔️  
-[rop-tool](https://github.com/t00sh/rop-tool): A tool to help you write binary exploits
+[rop-tool](https://github.com/t00sh/rop-tool): A tool to help you write binary exploits  
+[eccube-acl-chmod](https://github.com/havill/eccube-acl-chmod): Adds ACLs to EC-CUBE 4.x, each group of allowed access represented by a bit in an octet like Unix.
