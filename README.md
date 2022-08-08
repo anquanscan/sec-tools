@@ -2921,4 +2921,5 @@
 [dontclickshit](https://github.com/sapran/dontclickshit): Як не стати кібер-жертвою  
 [CVE-2020-7247](https://github.com/f4T1H21/CVE-2020-7247): PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 < 6.6.1 Remote Code Execution  
 [wpscan](https://github.com/wpscanteam/wpscan): WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.  
-[virustotal](https://github.com/themains/virustotal): R client for the Virustotal Public API. Virustotal is a Google service that analyzes files and URLs for viruses etc.
+[virustotal](https://github.com/themains/virustotal): R client for the Virustotal Public API. Virustotal is a Google service that analyzes files and URLs for viruses etc.  
+[skjold](https://github.com/twu/skjold): Security audit Python project dependencies against security advisory databases.
