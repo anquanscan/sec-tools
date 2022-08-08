@@ -2869,4 +2869,5 @@
 [AdvancedKeyHacks](https://github.com/udit-thakkur/AdvancedKeyHacks): API Key/Token Exploitation Made easy.  
 [piknik](https://github.com/jedisct1/piknik): Copy/paste anything over the network.  
 [WireBug](https://github.com/SySS-Research/WireBug): WireBug is a toolset for Voice-over-IP penetration testing  
-[jupyter-widget-stixview](https://github.com/traut/jupyter-widget-stixview): STIX2 graph widget for Jupyter notebooks, powered by stixview library
+[jupyter-widget-stixview](https://github.com/traut/jupyter-widget-stixview): STIX2 graph widget for Jupyter notebooks, powered by stixview library  
+[HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
