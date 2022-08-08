@@ -2960,4 +2960,5 @@
 [Domain_Vulnerability_Detector](https://github.com/AdrianVillamayor/Domain_Vulnerability_Detector): This script allows vulnerability testing to avoid penetration attacks by urls.  
 [spectreScope](https://github.com/ixtal23/spectreScope): The demo of the speculative execution attack Spectre (CVE-2017-5753, CVE-2017-5715).  
 [How-to-get-a-Entry-Level-Cybersecurity-Job](https://github.com/AirtightSecurity/How-to-get-a-Entry-Level-Cybersecurity-Job): This repository is the store of all the main points and suggestions I have come across on LinkedIn, podcasts and YouTube related to finding an entry level cybersecurity job.  
-[inputs](https://github.com/victornavarrete/inputs): Clase para obtener entradas seguras  GET, POST, HEADERS y más utilidades utilizables para APIS
+[inputs](https://github.com/victornavarrete/inputs): Clase para obtener entradas seguras  GET, POST, HEADERS y más utilidades utilizables para APIS  
+[jose-jwt](https://github.com/dvsekhvalnov/jose-jwt): Ultimate Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT) and Json Web Keys (JWK) Implementation for .NET and .NET Core
