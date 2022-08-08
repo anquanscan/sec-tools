@@ -2890,4 +2890,5 @@
 [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups  
 [wifi-cracking](https://github.com/brannondorsey/wifi-cracking): Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat  
 [VAC-Bypass](https://github.com/Jackbail4/VAC-Bypass): Full VAC Bypass. Inject detected cheats and not get VAC banned.  
-[aeacus](https://github.com/elysium-suite/aeacus): 🔐 Vulnerability remediation scoring system
+[aeacus](https://github.com/elysium-suite/aeacus): 🔐 Vulnerability remediation scoring system  
+[printix-CVE-2022-25090](https://github.com/ComparedArray/printix-CVE-2022-25090): A "Creation of Temporary Files in Directory with Insecure Permissions" vulnerability in PrintixService.exe, in Printix's "Printix Secure Cloud Print Management", Version 1.3.1106.0 and below allows any logged in user to elevate any executable or file to the SYSTEM context. This is achieved by exploiting race conditions in the Installer.
