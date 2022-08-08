@@ -2930,4 +2930,5 @@
 [Cryptolocker](https://github.com/ajayrandhawa/Cryptolocker): CryptoLocker is open source files encrypt-er. Crypto is developed in Visual C++. It has features encrypt all file, lock down the system and send keys back to the server. Multi-threaded functionality helps to this tool make encryption faster.  
 [skipmcgee.github.io](https://github.com/skipmcgee/skipmcgee.github.io): Welcome to Skip McGee's page: a personal introduction to my code and projects!  
 [buildAPKs](https://github.com/SDRausty/buildAPKs): Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.  
-[NoGPKI](https://github.com/Alex4386/NoGPKI): Distrusts GPKI Root CA Certificate because their security and certificate management is bad as F***
+[NoGPKI](https://github.com/Alex4386/NoGPKI): Distrusts GPKI Root CA Certificate because their security and certificate management is bad as F***  
+[awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security): 🛡️ Awesome Cloud Security Resources ⚔️
