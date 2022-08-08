@@ -2989,4 +2989,5 @@
 [graph-adversarial-learning-literature](https://github.com/safe-graph/graph-adversarial-learning-literature): A curated list of adversarial attacks and defenses papers on graph-structured data.  
 [csgo_memory_hacking_examples](https://github.com/atiksoftware/csgo_memory_hacking_examples): CsGO Memory Hacking C++ code examples. Ex: Read HP,Name,Coord,Bones,Weapons,items etc.  
 [msspray](https://github.com/0xZDH/msspray): A basic username enumeration and password spraying tool aimed at spraying Microsoft's DOM based authentication using selenium.  
-[zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python): Python implementation of Dropbox's realistic password strength estimator
+[zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python): Python implementation of Dropbox's realistic password strength estimator  
+[shellfinder](https://github.com/Lekssays/shellfinder): A Simple Tool to Find Shells and Some Interesting Endpoints in Websites 
