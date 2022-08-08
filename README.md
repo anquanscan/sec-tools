@@ -2987,4 +2987,5 @@
 [AllThingsOpen2018](https://github.com/nomadicmehul/AllThingsOpen2018): All Things Open is the largest "Open" technology event on the east coast.  
 [WizardOpium](https://github.com/forrest-orr/WizardOpium): Google Chrome Use After Free  
 [graph-adversarial-learning-literature](https://github.com/safe-graph/graph-adversarial-learning-literature): A curated list of adversarial attacks and defenses papers on graph-structured data.  
-[csgo_memory_hacking_examples](https://github.com/atiksoftware/csgo_memory_hacking_examples): CsGO Memory Hacking C++ code examples. Ex: Read HP,Name,Coord,Bones,Weapons,items etc.
+[csgo_memory_hacking_examples](https://github.com/atiksoftware/csgo_memory_hacking_examples): CsGO Memory Hacking C++ code examples. Ex: Read HP,Name,Coord,Bones,Weapons,items etc.  
+[msspray](https://github.com/0xZDH/msspray): A basic username enumeration and password spraying tool aimed at spraying Microsoft's DOM based authentication using selenium.
