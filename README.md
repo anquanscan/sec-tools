@@ -2953,4 +2953,5 @@
 [OWASP-Calculator](https://github.com/JavierOlmedo/OWASP-Calculator): 🧮 An online calculator to assess the risk of web vulnerabilities based on OWASP Risk Assessment  
 [cryptonice](https://github.com/F5-Labs/cryptonice): CryptoNice is both a command line tool and library which provides the ability to scan and report on the configuration of SSL/TLS for your internet or internal facing web services. Built using the sslyze API and ssl, http-client and dns libraries, cryptonice collects data on a given domain and performs a series of tests to check TLS configuration and supporting protocols such as HTTP2 and DNS.  
 [tag-security](https://github.com/cncf/tag-security): 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!  
-[Vulhub-Reproduce](https://github.com/Threekiii/Vulhub-Reproduce): 一个Vulhub漏洞复现知识库
+[Vulhub-Reproduce](https://github.com/Threekiii/Vulhub-Reproduce): 一个Vulhub漏洞复现知识库  
+[SpamSlam](https://github.com/Parsons-IT-Solutions/SpamSlam): SpamSlam is a script I created to create accounts using the victim's cellphone number and as a result the victim will receive a ton of verification codes.
