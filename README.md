@@ -3032,4 +3032,5 @@
 [wpgarlic](https://github.com/kazet/wpgarlic): A proof-of-concept WordPress plugin fuzzer  
 [npq](https://github.com/lirantal/npq): 🎖safely* install packages with npm or yarn by auditing them as part of your install process  
 [CVE-2019-8561](https://github.com/0xmachos/CVE-2019-8561): Proof of concept exploit for CVE-2019-8561 discovered by @jbradley89   
-[iSOC](https://github.com/alexfrancow/iSOC): :bar_chart: Deploy an "illegal" SOC to manage vulnerabilities on your city servers in minutes.
+[iSOC](https://github.com/alexfrancow/iSOC): :bar_chart: Deploy an "illegal" SOC to manage vulnerabilities on your city servers in minutes.  
+[python_hacking_tools](https://github.com/steamedeo/python_hacking_tools): A set of hacking tools written in Python
