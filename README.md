@@ -3043,4 +3043,5 @@
 [Crips](https://github.com/Manisso/Crips): IP Tools To quickly get information about IP Address's, Web Pages and DNS records.  
 [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice): Kubernetes Security - Best Practice Guide  
 [Exploit-Vulnerabilities](https://github.com/JulienCheny/Exploit-Vulnerabilities): Where can I find exploits and how to use them ?  
-[samlists](https://github.com/the-xentropy/samlists): Free, libre, effective, and data-driven wordlists for all!
+[samlists](https://github.com/the-xentropy/samlists): Free, libre, effective, and data-driven wordlists for all!  
+[icestick-lpc-tpm-sniffer](https://github.com/SySS-Research/icestick-lpc-tpm-sniffer): FPGA-based LPC bus sniffing tool for Lattice iCEstick Evaluation Kit
