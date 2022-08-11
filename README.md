@@ -3028,4 +3028,5 @@
 [Defender.Net](https://github.com/YaroslavChelentano/Defender.Net): This is a project of the DevSec team, and I am their mentor Yaroslav. Defender.NET is a service that provides consultations, diagnostics and any help to secure your PC.  
 [tpm2-tools](https://github.com/tpm2-software/tpm2-tools): The source repository for the Trusted Platform Module (TPM2.0) tools  
 [FlowMeter](https://github.com/deepfence/FlowMeter): ⭐ ⭐  Use ML to classify flows and packets as benign or malicious. ⭐ ⭐   
-[pOSINT](https://github.com/ecstatic-nobel/pOSINT): Gather Open-Source Intelligence using PowerShell.
+[pOSINT](https://github.com/ecstatic-nobel/pOSINT): Gather Open-Source Intelligence using PowerShell.  
+[wpgarlic](https://github.com/kazet/wpgarlic): A proof-of-concept WordPress plugin fuzzer
