@@ -3098,4 +3098,5 @@
 [laravel-zxcvbn](https://github.com/ziming/laravel-zxcvbn): @dropbox Zxcvbn Password validation rule for Laravel 9 and above  
 [A-New-Approach-of-Image-Encryption-Using-3D](https://github.com/billalkuet07/A-New-Approach-of-Image-Encryption-Using-3D)  
 [cakephp3-captcha](https://github.com/inimist/cakephp3-captcha): Cakephp 3 Captcha Plugin - Image Captcha, Google Recaptcha & Simple Match Question Challenge to protect form submission data from spam  
-[Vulny-Code-Static-Analysis](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis): Python script to detect vulnerabilities inside PHP source code using static analysis, based on regex
+[Vulny-Code-Static-Analysis](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis): Python script to detect vulnerabilities inside PHP source code using static analysis, based on regex  
+[WhiteHat](https://github.com/urcuqui/WhiteHat): Information about my experiences in cybersecurity :skull:
