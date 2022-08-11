@@ -3041,4 +3041,5 @@
 [Sojobo](https://github.com/enkomio/Sojobo): A binary analysis framework  
 [DLC-2018](https://github.com/vinayakumarr/DLC-2018): Application of deep learning for cyber security  
 [Crips](https://github.com/Manisso/Crips): IP Tools To quickly get information about IP Address's, Web Pages and DNS records.  
-[kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice): Kubernetes Security - Best Practice Guide
+[kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice): Kubernetes Security - Best Practice Guide  
+[Exploit-Vulnerabilities](https://github.com/JulienCheny/Exploit-Vulnerabilities): Where can I find exploits and how to use them ?
