@@ -3075,4 +3075,5 @@
 [twofactorauth](https://github.com/2factorauth/twofactorauth): List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.  
 [Analyst-Tool](https://github.com/cybersheepdog/Analyst-Tool): Analyst Tool to automate some of an analyst's daily investigation tasks. In both python script and Jupyter Notebook format.  
 [psvita-webkit](https://github.com/173210/psvita-webkit): PSVita Webkit Exploit  
-[Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools): A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
+[Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools): A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.  
+[CyberPhish](https://github.com/Cyber-Dioxide/CyberPhish): A heavily armed customizable phishing tool for educational purpose only
