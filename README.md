@@ -3045,4 +3045,5 @@
 [Exploit-Vulnerabilities](https://github.com/JulienCheny/Exploit-Vulnerabilities): Where can I find exploits and how to use them ?  
 [samlists](https://github.com/the-xentropy/samlists): Free, libre, effective, and data-driven wordlists for all!  
 [icestick-lpc-tpm-sniffer](https://github.com/SySS-Research/icestick-lpc-tpm-sniffer): FPGA-based LPC bus sniffing tool for Lattice iCEstick Evaluation Kit  
-[js-pp-poc](https://github.com/mostafa/js-pp-poc): Proof of concept for prototype pollution attack on Redis drivers (node-redis & ioredis) for Node.js
+[js-pp-poc](https://github.com/mostafa/js-pp-poc): Proof of concept for prototype pollution attack on Redis drivers (node-redis & ioredis) for Node.js  
+[awsEnum](https://github.com/bassammaged/awsEnum): Enumerate AWS cloud resources based on provided credential
