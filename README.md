@@ -3067,4 +3067,5 @@
 [Python-ByteBeat](https://github.com/Itzsten/Python-ByteBeat): Run ByteBeat in python 3!  
 [nix-security-box](https://github.com/fabaff/nix-security-box): Tool set for Information security professionals and all others  
 [SWEP](https://github.com/Sup0rsonic/SWEP): SWEP - the open-source Web Exploit Project, the development of the project has stopped, and under a complete rework. The name of the new project will be NEKOThreat.  
-[ASU](https://github.com/LOoLzeC/ASU): facebook hacking toolkit
+[ASU](https://github.com/LOoLzeC/ASU): facebook hacking toolkit  
+[linux-container-security-docs](https://github.com/makash/linux-container-security-docs): A gitbook for doing a null Bangalore session on linux container security to discuss and teach namespaces, cgroups etc.
