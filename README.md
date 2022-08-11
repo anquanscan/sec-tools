@@ -3039,4 +3039,5 @@
 [pyWhat](https://github.com/bee-san/pyWhat): 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️  
 [centos7-tutorial](https://github.com/wh211212/centos7-tutorial): :octocat: CentOS 7 运维实战🎬💥  
 [Sojobo](https://github.com/enkomio/Sojobo): A binary analysis framework  
-[DLC-2018](https://github.com/vinayakumarr/DLC-2018): Application of deep learning for cyber security
+[DLC-2018](https://github.com/vinayakumarr/DLC-2018): Application of deep learning for cyber security  
+[Crips](https://github.com/Manisso/Crips): IP Tools To quickly get information about IP Address's, Web Pages and DNS records.
