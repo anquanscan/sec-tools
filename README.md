@@ -3093,4 +3093,5 @@
 [CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP): CVE-2020-0688_EXP Auto trigger payload & encrypt method  
 [PyCPU](https://github.com/education-script-projects/PyCPU): Central Processing Unit Information Gathering Tool  
 [Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi,Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.  
-[rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory): An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.
+[rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory): An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.  
+[njsscan](https://github.com/ajinabraham/njsscan): njsscan is a semantic aware SAST tool that can find insecure code patterns in your Node.js applications.
