@@ -3053,4 +3053,5 @@
 [scant3r](https://github.com/knassar702/scant3r): ScanT3r - Module based Bug Bounty Automation Tool  
 [MalwareScripts](https://github.com/SantiagoPujana/MalwareScripts): Malware scripts coded in C++ and BATCH.  
 [DiamondHardLAMP](https://github.com/Brets0150/DiamondHardLAMP): A script to build and manage a Diamond Hard secure Linux, Apache MariaDB, PHP(LAMP) Webhosting server. Builds and configure a LAMP stack with AppArmor, ModSecurity, ClamAV, LetsEncrypt, Fail2Ban, OSSEC, and UnattendedUpgrades.  
-[CVE-2016-2098](https://github.com/0x00-0x00/CVE-2016-2098): Ruby On Rails unrestricted render() exploit
+[CVE-2016-2098](https://github.com/0x00-0x00/CVE-2016-2098): Ruby On Rails unrestricted render() exploit  
+[nanoid](https://github.com/jkomyno/nanoid): Golang port of ai/nanoid (originally written in JavaScript)
