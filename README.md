@@ -3096,4 +3096,5 @@
 [rawsec-cybersecurity-inventory](https://github.com/noraj/rawsec-cybersecurity-inventory): An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.  
 [njsscan](https://github.com/ajinabraham/njsscan): njsscan is a semantic aware SAST tool that can find insecure code patterns in your Node.js applications.  
 [laravel-zxcvbn](https://github.com/ziming/laravel-zxcvbn): @dropbox Zxcvbn Password validation rule for Laravel 9 and above  
-[A-New-Approach-of-Image-Encryption-Using-3D](https://github.com/billalkuet07/A-New-Approach-of-Image-Encryption-Using-3D)
+[A-New-Approach-of-Image-Encryption-Using-3D](https://github.com/billalkuet07/A-New-Approach-of-Image-Encryption-Using-3D)  
+[cakephp3-captcha](https://github.com/inimist/cakephp3-captcha): Cakephp 3 Captcha Plugin - Image Captcha, Google Recaptcha & Simple Match Question Challenge to protect form submission data from spam
