@@ -3029,4 +3029,5 @@
 [tpm2-tools](https://github.com/tpm2-software/tpm2-tools): The source repository for the Trusted Platform Module (TPM2.0) tools  
 [FlowMeter](https://github.com/deepfence/FlowMeter): ⭐ ⭐  Use ML to classify flows and packets as benign or malicious. ⭐ ⭐   
 [pOSINT](https://github.com/ecstatic-nobel/pOSINT): Gather Open-Source Intelligence using PowerShell.  
-[wpgarlic](https://github.com/kazet/wpgarlic): A proof-of-concept WordPress plugin fuzzer
+[wpgarlic](https://github.com/kazet/wpgarlic): A proof-of-concept WordPress plugin fuzzer  
+[npq](https://github.com/lirantal/npq): 🎖safely* install packages with npm or yarn by auditing them as part of your install process
