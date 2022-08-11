@@ -3035,4 +3035,5 @@
 [iSOC](https://github.com/alexfrancow/iSOC): :bar_chart: Deploy an "illegal" SOC to manage vulnerabilities on your city servers in minutes.  
 [python_hacking_tools](https://github.com/steamedeo/python_hacking_tools): A set of hacking tools written in Python  
 [HackingVigenereCipher](https://github.com/siggb/HackingVigenereCipher): Hacking using Markov chains and Python  
-[UAC-Bypass](https://github.com/exploitblizzard/UAC-Bypass): Bypassing windows uac, however its an old approach/method but its still unpatched ¯\_(ツ)_/¯ 
+[UAC-Bypass](https://github.com/exploitblizzard/UAC-Bypass): Bypassing windows uac, however its an old approach/method but its still unpatched ¯\_(ツ)_/¯   
+[pyWhat](https://github.com/bee-san/pyWhat): 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
