@@ -3047,4 +3047,5 @@
 [icestick-lpc-tpm-sniffer](https://github.com/SySS-Research/icestick-lpc-tpm-sniffer): FPGA-based LPC bus sniffing tool for Lattice iCEstick Evaluation Kit  
 [js-pp-poc](https://github.com/mostafa/js-pp-poc): Proof of concept for prototype pollution attack on Redis drivers (node-redis & ioredis) for Node.js  
 [awsEnum](https://github.com/bassammaged/awsEnum): Enumerate AWS cloud resources based on provided credential  
-[blueborne-dockerized](https://github.com/cybersecsi/blueborne-dockerized): Repo code for the related post on SecSI Blog: https://secsi.io/blog/blueborne-kill-chain-on-dockerized-android
+[blueborne-dockerized](https://github.com/cybersecsi/blueborne-dockerized): Repo code for the related post on SecSI Blog: https://secsi.io/blog/blueborne-kill-chain-on-dockerized-android  
+[vulners-agent](https://github.com/vulnersCom/vulners-agent): Agent scanner for vulners.com
