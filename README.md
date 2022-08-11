@@ -3056,4 +3056,5 @@
 [CVE-2016-2098](https://github.com/0x00-0x00/CVE-2016-2098): Ruby On Rails unrestricted render() exploit  
 [nanoid](https://github.com/jkomyno/nanoid): Golang port of ai/nanoid (originally written in JavaScript)  
 [printix-CVE-2022-25089](https://github.com/ComparedArray/printix-CVE-2022-25089): An "Incorrect Use of a Privileged API" vulnerability in PrintixService.exe, in Printix's "Printix Secure Cloud Print Management", Version 1.3.1106.0 and below allows a Local Or Remote attacker the ability change all HKEY Windows Registry values as SYSTEM context via the UITasks.PersistentRegistryData parameter.  
-[BoopSuite](https://github.com/MisterBianco/BoopSuite): A Suite of Tools written in Python for wireless auditing and security testing.
+[BoopSuite](https://github.com/MisterBianco/BoopSuite): A Suite of Tools written in Python for wireless auditing and security testing.  
+[Application-Gateway](https://github.com/Janusec/Application-Gateway): Janusec Application Gateway, an application security solution which provides ACME HTTPS, WAF (Web Application Firewall), CC defense, OAuth2 Authentication and load balancing. Janusec应用网关，提供ACME自动化证书与HTTPS接入、WAF (Web Application Firewall)、CC防御、OAuth2身份认证、负载均衡等功能。
