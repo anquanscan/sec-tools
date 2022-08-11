@@ -3048,4 +3048,5 @@
 [js-pp-poc](https://github.com/mostafa/js-pp-poc): Proof of concept for prototype pollution attack on Redis drivers (node-redis & ioredis) for Node.js  
 [awsEnum](https://github.com/bassammaged/awsEnum): Enumerate AWS cloud resources based on provided credential  
 [blueborne-dockerized](https://github.com/cybersecsi/blueborne-dockerized): Repo code for the related post on SecSI Blog: https://secsi.io/blog/blueborne-kill-chain-on-dockerized-android  
-[vulners-agent](https://github.com/vulnersCom/vulners-agent): Agent scanner for vulners.com
+[vulners-agent](https://github.com/vulnersCom/vulners-agent): Agent scanner for vulners.com  
+[ufw-docker](https://github.com/chaifeng/ufw-docker): To fix the Docker and UFW security flaw without disabling iptables
