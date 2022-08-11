@@ -3064,4 +3064,5 @@
 [Pacman-DDOS-Script](https://github.com/AnandaRauf/Pacman-DDOS-Script): Pentesting Website Pacman Version 1.0 DDOS  
 [markransom](https://github.com/r3nt0n/markransom): Simple but sharp ransomware  
 [SpeckNet](https://github.com/aegis-dev/SpeckNet): C# implementation of Speck cipher  
-[Python-ByteBeat](https://github.com/Itzsten/Python-ByteBeat): Run ByteBeat in python 3!
+[Python-ByteBeat](https://github.com/Itzsten/Python-ByteBeat): Run ByteBeat in python 3!  
+[nix-security-box](https://github.com/fabaff/nix-security-box): Tool set for Information security professionals and all others
