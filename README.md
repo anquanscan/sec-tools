@@ -3050,4 +3050,5 @@
 [blueborne-dockerized](https://github.com/cybersecsi/blueborne-dockerized): Repo code for the related post on SecSI Blog: https://secsi.io/blog/blueborne-kill-chain-on-dockerized-android  
 [vulners-agent](https://github.com/vulnersCom/vulners-agent): Agent scanner for vulners.com  
 [ufw-docker](https://github.com/chaifeng/ufw-docker): To fix the Docker and UFW security flaw without disabling iptables  
-[scant3r](https://github.com/knassar702/scant3r): ScanT3r - Module based Bug Bounty Automation Tool
+[scant3r](https://github.com/knassar702/scant3r): ScanT3r - Module based Bug Bounty Automation Tool  
+[MalwareScripts](https://github.com/SantiagoPujana/MalwareScripts): Malware scripts coded in C++ and BATCH.
