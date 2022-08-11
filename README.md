@@ -3087,4 +3087,5 @@
 [springShodanBash](https://github.com/ja1sh/springShodanBash): Bash Script for Enumerating Spring Applications  
 [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS): Powerful, secure, modern way to keep your files protected.  
 [webkiller](https://github.com/ultrasecurity/webkiller): Tool Information Gathering Write By Python.  
-[Hive2Hive](https://github.com/Hive2Hive/Hive2Hive): Java library for secure, distributed, P2P-based file synchronization and sharing.
+[Hive2Hive](https://github.com/Hive2Hive/Hive2Hive): Java library for secure, distributed, P2P-based file synchronization and sharing.  
+[express-gateway](https://github.com/ExpressGateway/express-gateway): A microservices API Gateway built on top of Express.js
