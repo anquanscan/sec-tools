@@ -3069,4 +3069,5 @@
 [SWEP](https://github.com/Sup0rsonic/SWEP): SWEP - the open-source Web Exploit Project, the development of the project has stopped, and under a complete rework. The name of the new project will be NEKOThreat.  
 [ASU](https://github.com/LOoLzeC/ASU): facebook hacking toolkit  
 [linux-container-security-docs](https://github.com/makash/linux-container-security-docs): A gitbook for doing a null Bangalore session on linux container security to discuss and teach namespaces, cgroups etc.  
-[php-8.1.0-dev-backdoor-rce](https://github.com/flast101/php-8.1.0-dev-backdoor-rce): PHP 8.1.0-dev Backdoor System Shell Script
+[php-8.1.0-dev-backdoor-rce](https://github.com/flast101/php-8.1.0-dev-backdoor-rce): PHP 8.1.0-dev Backdoor System Shell Script  
+[Ukraine-infosec-conferences](https://github.com/sapran/Ukraine-infosec-conferences): Анонси, програми та архів матеріалів українських конференцій з кібер-безпеки.
