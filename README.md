@@ -3091,4 +3091,5 @@
 [express-gateway](https://github.com/ExpressGateway/express-gateway): A microservices API Gateway built on top of Express.js  
 [checkforce.js](https://github.com/jaimeneeves/checkforce.js): :muscle: A library that helps to perform tasks to test strength of passwords  
 [CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP): CVE-2020-0688_EXP Auto trigger payload & encrypt method  
-[PyCPU](https://github.com/education-script-projects/PyCPU): Central Processing Unit Information Gathering Tool
+[PyCPU](https://github.com/education-script-projects/PyCPU): Central Processing Unit Information Gathering Tool  
+[Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi,Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
