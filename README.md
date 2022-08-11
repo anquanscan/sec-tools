@@ -3051,4 +3051,5 @@
 [vulners-agent](https://github.com/vulnersCom/vulners-agent): Agent scanner for vulners.com  
 [ufw-docker](https://github.com/chaifeng/ufw-docker): To fix the Docker and UFW security flaw without disabling iptables  
 [scant3r](https://github.com/knassar702/scant3r): ScanT3r - Module based Bug Bounty Automation Tool  
-[MalwareScripts](https://github.com/SantiagoPujana/MalwareScripts): Malware scripts coded in C++ and BATCH.
+[MalwareScripts](https://github.com/SantiagoPujana/MalwareScripts): Malware scripts coded in C++ and BATCH.  
+[DiamondHardLAMP](https://github.com/Brets0150/DiamondHardLAMP): A script to build and manage a Diamond Hard secure Linux, Apache MariaDB, PHP(LAMP) Webhosting server. Builds and configure a LAMP stack with AppArmor, ModSecurity, ClamAV, LetsEncrypt, Fail2Ban, OSSEC, and UnattendedUpgrades.
