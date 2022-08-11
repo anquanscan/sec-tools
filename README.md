@@ -3030,4 +3030,5 @@
 [FlowMeter](https://github.com/deepfence/FlowMeter): ⭐ ⭐  Use ML to classify flows and packets as benign or malicious. ⭐ ⭐   
 [pOSINT](https://github.com/ecstatic-nobel/pOSINT): Gather Open-Source Intelligence using PowerShell.  
 [wpgarlic](https://github.com/kazet/wpgarlic): A proof-of-concept WordPress plugin fuzzer  
-[npq](https://github.com/lirantal/npq): 🎖safely* install packages with npm or yarn by auditing them as part of your install process
+[npq](https://github.com/lirantal/npq): 🎖safely* install packages with npm or yarn by auditing them as part of your install process  
+[CVE-2019-8561](https://github.com/0xmachos/CVE-2019-8561): Proof of concept exploit for CVE-2019-8561 discovered by @jbradley89 
