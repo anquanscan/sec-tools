@@ -3065,4 +3065,5 @@
 [markransom](https://github.com/r3nt0n/markransom): Simple but sharp ransomware  
 [SpeckNet](https://github.com/aegis-dev/SpeckNet): C# implementation of Speck cipher  
 [Python-ByteBeat](https://github.com/Itzsten/Python-ByteBeat): Run ByteBeat in python 3!  
-[nix-security-box](https://github.com/fabaff/nix-security-box): Tool set for Information security professionals and all others
+[nix-security-box](https://github.com/fabaff/nix-security-box): Tool set for Information security professionals and all others  
+[SWEP](https://github.com/Sup0rsonic/SWEP): SWEP - the open-source Web Exploit Project, the development of the project has stopped, and under a complete rework. The name of the new project will be NEKOThreat.
