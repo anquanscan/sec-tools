@@ -3090,4 +3090,5 @@
 [Hive2Hive](https://github.com/Hive2Hive/Hive2Hive): Java library for secure, distributed, P2P-based file synchronization and sharing.  
 [express-gateway](https://github.com/ExpressGateway/express-gateway): A microservices API Gateway built on top of Express.js  
 [checkforce.js](https://github.com/jaimeneeves/checkforce.js): :muscle: A library that helps to perform tasks to test strength of passwords  
-[CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP): CVE-2020-0688_EXP Auto trigger payload & encrypt method
+[CVE-2020-0688_EXP](https://github.com/Yt1g3r/CVE-2020-0688_EXP): CVE-2020-0688_EXP Auto trigger payload & encrypt method  
+[PyCPU](https://github.com/education-script-projects/PyCPU): Central Processing Unit Information Gathering Tool
