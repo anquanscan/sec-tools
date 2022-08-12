@@ -3140,4 +3140,5 @@
 [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang): Golang安全资源合集  
 [Cybercrime-Report-Template](https://github.com/bartblaze/Cybercrime-Report-Template): Template to use when you've fallen victim of a cybercrime.  
 [O-MEGA_VIRUS_2](https://github.com/ABC123USA/O-MEGA_VIRUS_2): O-MEGA VIRUS_V2  
-[mona-ropshell](https://github.com/VoidSec/mona-ropshell): For all loaded modules (DLLs), fetch ROP gadgets querying Ropshell DB
+[mona-ropshell](https://github.com/VoidSec/mona-ropshell): For all loaded modules (DLLs), fetch ROP gadgets querying Ropshell DB  
+[eReKon](https://github.com/slithery0/eReKon): Yet another web recon tool But beautiful
