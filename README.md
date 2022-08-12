@@ -3194,4 +3194,5 @@
 [GScan](https://github.com/grayddq/GScan): 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。  
 [rabbit-shell](https://github.com/greedalbadi/rabbit-shell): Rabbit shell reverse shell tool.  
 [SecurityTools](https://github.com/birdhan/SecurityTools): 渗透测试工具包 | 开源安全测试工具 | 网络安全工具  
-[snow-crash](https://github.com/kema-dev/snow-crash): 42 | Privilege escalation exercices on a system image
+[snow-crash](https://github.com/kema-dev/snow-crash): 42 | Privilege escalation exercices on a system image  
+[linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration): Linux enumeration tool for pentesting and CTFs with verbosity levels
