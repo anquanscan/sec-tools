@@ -3101,4 +3101,5 @@
 [Vulny-Code-Static-Analysis](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis): Python script to detect vulnerabilities inside PHP source code using static analysis, based on regex  
 [WhiteHat](https://github.com/urcuqui/WhiteHat): Information about my experiences in cybersecurity :skull:  
 [device_google_coral](https://github.com/GrapheneOS/device_google_coral): Pixel 4 and Pixel 4 XL device sources.  
-[phuck](https://github.com/vaibhavpandeyvpz/phuck): Single-file shell to f__k vulnerable PHP servers, solely for educational and research purposes. Powered by Bootstrap and React.js, features a file browser and browser based, SSH like terminal.
+[phuck](https://github.com/vaibhavpandeyvpz/phuck): Single-file shell to f__k vulnerable PHP servers, solely for educational and research purposes. Powered by Bootstrap and React.js, features a file browser and browser based, SSH like terminal.  
+[dropwizard-pac4j](https://github.com/pac4j/dropwizard-pac4j): A Dropwizard bundle for securing REST endpoints using pac4j
