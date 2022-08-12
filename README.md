@@ -3174,4 +3174,5 @@
 [Biometric-Attack](https://github.com/Royz2123/Biometric-Attack): This project has been created as a Final project for my B.A. in CS. The project attempts to find the actual security of state-of-the-art facial recognition technologies, and attempts to prove that they are vulnerable to fairly complex brute-force attacks.  
 [wahh_extras](https://github.com/six2dez/wahh_extras): The Web Application Hacker's Handbook - Extra Content  
 [Vxscan](https://github.com/al0ne/Vxscan): python3写的综合扫描工具，主要用来存活验证，敏感文件探测(目录扫描/js泄露接口/html注释泄露)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏。  
-[CyberMachine](https://github.com/emr4h/CyberMachine): Detects cyber threats to the end user with machine learning. This tool can do malware analysis of given exe file, spam analysis of given url and mail.
+[CyberMachine](https://github.com/emr4h/CyberMachine): Detects cyber threats to the end user with machine learning. This tool can do malware analysis of given exe file, spam analysis of given url and mail.  
+[aleph-docker](https://github.com/Pr0teus/aleph-docker): An docker compose to quickly load your Aleph for malware analysis.
