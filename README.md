@@ -3191,4 +3191,5 @@
 [Mailpile](https://github.com/mailpile/Mailpile): A free & open modern, fast email client with user-friendly encryption and privacy features  
 [CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service): CVE-2022-30780 - lighttpd remote denial of service  
 [caldera_pathfinder](https://github.com/center-for-threat-informed-defense/caldera_pathfinder): Pathfinder is a plugin for mapping network vulnerabilities, scanned by CALDERA or imported by a supported network scanner, and translating those scans into adversaries for network traversal.  
-[GScan](https://github.com/grayddq/GScan): 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
+[GScan](https://github.com/grayddq/GScan): 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。  
+[rabbit-shell](https://github.com/greedalbadi/rabbit-shell): Rabbit shell reverse shell tool.
