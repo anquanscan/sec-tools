@@ -3130,4 +3130,5 @@
 [maching-learning-CDAC-Technopark](https://github.com/vinayakumarr/maching-learning-CDAC-Technopark): Maching learning workshop at CDAC, Technopark, Thiruvananthapuram  
 [binserve](https://github.com/mufeedvh/binserve): A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:  
 [phishing-frenzy](https://github.com/pentestgeek/phishing-frenzy): Ruby on Rails Phishing Framework  
-[NTLMRecon](https://github.com/pwnfoo/NTLMRecon): Enumerate information from NTLM authentication enabled web endpoints 🔎
+[NTLMRecon](https://github.com/pwnfoo/NTLMRecon): Enumerate information from NTLM authentication enabled web endpoints 🔎  
+[CertEagle](https://github.com/devanshbatham/CertEagle): Weaponizing Live CT logs for automated monitoring of assets
