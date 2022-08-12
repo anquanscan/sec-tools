@@ -3184,4 +3184,5 @@
 [Malware_Classification_Final_Project](https://github.com/tomergill/Malware_Classification_Final_Project): Yossi Mandil & Tomer Gill's Bachelor Degree Final Project under the BIU Cyber Center - Malware &  Benign File Classification using Machine Learning & Deep Learning  
 [DiscordDataGrabber](https://github.com/Zeczero/DiscordDataGrabber): 🔧 The program that allows you to grab certain info about the victim  
 [apple-knowledge](https://github.com/hack-different/apple-knowledge): A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware  
-[laravel-firewall](https://github.com/akaunting/laravel-firewall): Web Application Firewall (WAF) package for Laravel
+[laravel-firewall](https://github.com/akaunting/laravel-firewall): Web Application Firewall (WAF) package for Laravel  
+[awesome-phishing](https://github.com/PhishyAlice/awesome-phishing): Collection of resources related to phishing
