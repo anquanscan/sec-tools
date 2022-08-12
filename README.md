@@ -3161,4 +3161,5 @@
 [THE_HIVE](https://github.com/7h3w4lk3r/THE_HIVE): A public repository for red team/blue team stuff  
 [heapinspect](https://github.com/matrix1001/heapinspect): 🔍Heap analysis tool for CTF pwn.  
 [CTF-Write-UP](https://github.com/MOCSCTF/CTF-Write-UP): 澳門網絡安全暨奪旗競賽協會(Macau Cyber Security and Capture The Flag Association)MOCSCTF/MOCTF  
-[wafparan01d3](https://github.com/alt3kx/wafparan01d3): Quick WAF "paranoid" Doctor Evaluation | WAFPARAN01D3 Tool
+[wafparan01d3](https://github.com/alt3kx/wafparan01d3): Quick WAF "paranoid" Doctor Evaluation | WAFPARAN01D3 Tool  
+[metabigor](https://github.com/j3ssie/metabigor): Intelligence tool but without API key
