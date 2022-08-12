@@ -3105,4 +3105,5 @@
 [dropwizard-pac4j](https://github.com/pac4j/dropwizard-pac4j): A Dropwizard bundle for securing REST endpoints using pac4j  
 [hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.  
 [Protocol-Analyzer](https://github.com/Vitaliy-Grigoriev/Protocol-Analyzer): Fuzz testing framework for network protocols.  
-[linux-rootkits-red-blue-teams](https://github.com/pentesteracademy/linux-rootkits-red-blue-teams): Linux Rootkits (4.x Kernel)
+[linux-rootkits-red-blue-teams](https://github.com/pentesteracademy/linux-rootkits-red-blue-teams): Linux Rootkits (4.x Kernel)  
+[testssl.sh-alerts](https://github.com/bitsofinfo/testssl.sh-alerts): Alerting engine (slack etc) for testssl.sh JSON result output files
