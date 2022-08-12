@@ -3121,4 +3121,5 @@
 [steampipe](https://github.com/turbot/steampipe): Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.   
 [LAZYPARIAH](https://github.com/octetsplicer/LAZYPARIAH): A tool for generating reverse shell payloads on the fly.  
 [eyeballer](https://github.com/BishopFox/eyeballer): Convolutional neural network for analyzing pentest screenshots  
-[kernel_google_coral_techpack_audio](https://github.com/GrapheneOS/kernel_google_coral_techpack_audio): Pixel 4, Pixel 4 XL and Pixel 4a audio driver sources.
+[kernel_google_coral_techpack_audio](https://github.com/GrapheneOS/kernel_google_coral_techpack_audio): Pixel 4, Pixel 4 XL and Pixel 4a audio driver sources.  
+[security-apis](https://github.com/jaegeral/security-apis): A collective list of public APIs for use in security. Contributions welcome
