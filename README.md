@@ -3142,4 +3142,5 @@
 [O-MEGA_VIRUS_2](https://github.com/ABC123USA/O-MEGA_VIRUS_2): O-MEGA VIRUS_V2  
 [mona-ropshell](https://github.com/VoidSec/mona-ropshell): For all loaded modules (DLLs), fetch ROP gadgets querying Ropshell DB  
 [eReKon](https://github.com/slithery0/eReKon): Yet another web recon tool But beautiful  
-[Memory-Hacking-Class](https://github.com/T-vK/Memory-Hacking-Class): Easy-to-use class to read and modify other processes memory.
+[Memory-Hacking-Class](https://github.com/T-vK/Memory-Hacking-Class): Easy-to-use class to read and modify other processes memory.  
+[HTTPUploadExfil](https://github.com/IngoKl/HTTPUploadExfil): A simple HTTP server for delivering and exfiltrating files/data during, for example, CTFs.
