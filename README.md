@@ -3109,4 +3109,5 @@
 [testssl.sh-alerts](https://github.com/bitsofinfo/testssl.sh-alerts): Alerting engine (slack etc) for testssl.sh JSON result output files  
 [VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator): Visual Basic Code universal Obfuscator intended to be used during penetration testing assignments.  
 [CaptfEncoder](https://github.com/guyoung/CaptfEncoder): Captfencoder is a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.  
-[cs-suite](https://github.com/SecurityFTW/cs-suite): Cloud Security Suite - One stop tool for auditing the security posture of AWS/GCP/Azure infrastructure.
+[cs-suite](https://github.com/SecurityFTW/cs-suite): Cloud Security Suite - One stop tool for auditing the security posture of AWS/GCP/Azure infrastructure.  
+[IPRotate_Burp_Extension](https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension): Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.
