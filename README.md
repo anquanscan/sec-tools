@@ -3132,4 +3132,5 @@
 [phishing-frenzy](https://github.com/pentestgeek/phishing-frenzy): Ruby on Rails Phishing Framework  
 [NTLMRecon](https://github.com/pwnfoo/NTLMRecon): Enumerate information from NTLM authentication enabled web endpoints 🔎  
 [CertEagle](https://github.com/devanshbatham/CertEagle): Weaponizing Live CT logs for automated monitoring of assets  
-[Amphetamine](https://github.com/nadmk/Amphetamine): A Browser corruption Exploit written in JS FIXED!
+[Amphetamine](https://github.com/nadmk/Amphetamine): A Browser corruption Exploit written in JS FIXED!  
+[overwatch-aimbot](https://github.com/HarrisonKeeling/overwatch-aimbot): 🔫🎮 An OpenCV based Overwatch Aimbot for Windows
