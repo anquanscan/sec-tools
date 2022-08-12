@@ -3147,4 +3147,5 @@
 [PocOrExp_in_Github](https://github.com/ycdxsb/PocOrExp_in_Github): 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.  
 [hacl-star](https://github.com/project-everest/hacl-star): HACL*, a formally verified cryptographic library written in F*  
 [metin2-akira-metasploit](https://github.com/christian-roggia/metin2-akira-metasploit): Hybrid client emulator (python and C++) for Metin2.  
-[spookey](https://github.com/watersalesman/spookey): SpooKey is a keylogger written in C++ that uses kernel-level APIs to capture keystrokes (Linux only. Windows is a work in progress)
+[spookey](https://github.com/watersalesman/spookey): SpooKey is a keylogger written in C++ that uses kernel-level APIs to capture keystrokes (Linux only. Windows is a work in progress)  
+[magicRecon](https://github.com/robotshell/magicRecon): MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in directories and with various formats.
