@@ -3138,4 +3138,5 @@
 [docker-k8s-practica-2020](https://github.com/cyberhades/docker-k8s-practica-2020): Ejercicio práctico para demostrar los conocimientos adquiridos sobre Docker, Kubernetes y buenas prácticas de seguridad  
 [tetragon](https://github.com/cilium/tetragon): eBPF-based Security Observability and Runtime Enforcement  
 [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang): Golang安全资源合集  
-[Cybercrime-Report-Template](https://github.com/bartblaze/Cybercrime-Report-Template): Template to use when you've fallen victim of a cybercrime.
+[Cybercrime-Report-Template](https://github.com/bartblaze/Cybercrime-Report-Template): Template to use when you've fallen victim of a cybercrime.  
+[O-MEGA_VIRUS_2](https://github.com/ABC123USA/O-MEGA_VIRUS_2): O-MEGA VIRUS_V2
