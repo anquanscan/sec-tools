@@ -3166,4 +3166,5 @@
 [ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser): 一键提取安卓应用中可能存在的敏感信息。  
 [Carilana](https://github.com/Gowixx/Carilana): Scripts developed for the LiquidBounce script api.  
 [SublimeXssEncode](https://github.com/Medicean/SublimeXssEncode): Converts characters from one encoding to another using a transformation.  
-[laravel-acl](https://github.com/mateusjunges/laravel-acl): This package helps you to associate users with permissions and permission groups with laravel framework
+[laravel-acl](https://github.com/mateusjunges/laravel-acl): This package helps you to associate users with permissions and permission groups with laravel framework  
+[Python-Metasploit-Framework-Database-Management](https://github.com/sectool/Python-Metasploit-Framework-Database-Management): Python - Metasploit-Framework Database Management
