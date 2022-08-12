@@ -3116,4 +3116,5 @@
 [MetaInject](https://github.com/swagkarna/MetaInject): Inject Metasploit Shell Code in Legitimate Process  
 [dawnscanner](https://github.com/thesp0nge/dawnscanner): Dawn is a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.  
 [JAFE](https://github.com/pedro-javierf/JAFE): Just Another Fifa Exploit: Unsigned code execution for FIFA Soccer 06 (USA) for the NDS  
-[shhgit](https://github.com/eth0izzle/shhgit): Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+[shhgit](https://github.com/eth0izzle/shhgit): Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com  
+[awesome-privacy](https://github.com/Lissy93/awesome-privacy): 🦄  A curated list of privacy & security-focused software and services
