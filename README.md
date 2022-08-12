@@ -3133,4 +3133,5 @@
 [NTLMRecon](https://github.com/pwnfoo/NTLMRecon): Enumerate information from NTLM authentication enabled web endpoints 🔎  
 [CertEagle](https://github.com/devanshbatham/CertEagle): Weaponizing Live CT logs for automated monitoring of assets  
 [Amphetamine](https://github.com/nadmk/Amphetamine): A Browser corruption Exploit written in JS FIXED!  
-[overwatch-aimbot](https://github.com/HarrisonKeeling/overwatch-aimbot): 🔫🎮 An OpenCV based Overwatch Aimbot for Windows
+[overwatch-aimbot](https://github.com/HarrisonKeeling/overwatch-aimbot): 🔫🎮 An OpenCV based Overwatch Aimbot for Windows  
+[CVE-2021-36260](https://github.com/Cuerz/CVE-2021-36260): 海康威视RCE漏洞 批量检测和利用工具
