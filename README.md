@@ -3113,4 +3113,5 @@
 [IPRotate_Burp_Extension](https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension): Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.  
 [udemy-PythonOffensivePentesting](https://github.com/Vealor/udemy-PythonOffensivePentesting): https://www.udemy.com/python-for-offensive-security-practical-course  
 [sublert](https://github.com/yassineaboukir/sublert): Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.  
-[MetaInject](https://github.com/swagkarna/MetaInject): Inject Metasploit Shell Code in Legitimate Process
+[MetaInject](https://github.com/swagkarna/MetaInject): Inject Metasploit Shell Code in Legitimate Process  
+[dawnscanner](https://github.com/thesp0nge/dawnscanner): Dawn is a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
