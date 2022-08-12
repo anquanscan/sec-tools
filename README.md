@@ -3189,4 +3189,5 @@
 [hexo-leancloud-counter-security](https://github.com/theme-next/hexo-leancloud-counter-security): A plugin to fix a serious security bug in leancloud visitor counter for NexT.  
 [shodanalyzer](https://github.com/cataiovita/shodanalyzer): Ports scanner, web technologies viewer, CVEs tracker and geolocator, based on shodan.io  
 [Mailpile](https://github.com/mailpile/Mailpile): A free & open modern, fast email client with user-friendly encryption and privacy features  
-[CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service): CVE-2022-30780 - lighttpd remote denial of service
+[CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service): CVE-2022-30780 - lighttpd remote denial of service  
+[caldera_pathfinder](https://github.com/center-for-threat-informed-defense/caldera_pathfinder): Pathfinder is a plugin for mapping network vulnerabilities, scanned by CALDERA or imported by a supported network scanner, and translating those scans into adversaries for network traversal.
