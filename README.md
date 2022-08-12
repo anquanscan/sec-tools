@@ -3118,4 +3118,5 @@
 [JAFE](https://github.com/pedro-javierf/JAFE): Just Another Fifa Exploit: Unsigned code execution for FIFA Soccer 06 (USA) for the NDS  
 [shhgit](https://github.com/eth0izzle/shhgit): Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com  
 [awesome-privacy](https://github.com/Lissy93/awesome-privacy): 🦄  A curated list of privacy & security-focused software and services  
-[steampipe](https://github.com/turbot/steampipe): Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. 
+[steampipe](https://github.com/turbot/steampipe): Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.   
+[LAZYPARIAH](https://github.com/octetsplicer/LAZYPARIAH): A tool for generating reverse shell payloads on the fly.
