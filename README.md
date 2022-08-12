@@ -3117,4 +3117,5 @@
 [dawnscanner](https://github.com/thesp0nge/dawnscanner): Dawn is a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.  
 [JAFE](https://github.com/pedro-javierf/JAFE): Just Another Fifa Exploit: Unsigned code execution for FIFA Soccer 06 (USA) for the NDS  
 [shhgit](https://github.com/eth0izzle/shhgit): Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com  
-[awesome-privacy](https://github.com/Lissy93/awesome-privacy): 🦄  A curated list of privacy & security-focused software and services
+[awesome-privacy](https://github.com/Lissy93/awesome-privacy): 🦄  A curated list of privacy & security-focused software and services  
+[steampipe](https://github.com/turbot/steampipe): Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. 
