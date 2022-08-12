@@ -3114,4 +3114,5 @@
 [udemy-PythonOffensivePentesting](https://github.com/Vealor/udemy-PythonOffensivePentesting): https://www.udemy.com/python-for-offensive-security-practical-course  
 [sublert](https://github.com/yassineaboukir/sublert): Sublert is a security and reconnaissance tool which leverages certificate transparency to automatically monitor new subdomains deployed by specific organizations and issued TLS/SSL certificate.  
 [MetaInject](https://github.com/swagkarna/MetaInject): Inject Metasploit Shell Code in Legitimate Process  
-[dawnscanner](https://github.com/thesp0nge/dawnscanner): Dawn is a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
+[dawnscanner](https://github.com/thesp0nge/dawnscanner): Dawn is a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.  
+[JAFE](https://github.com/pedro-javierf/JAFE): Just Another Fifa Exploit: Unsigned code execution for FIFA Soccer 06 (USA) for the NDS
