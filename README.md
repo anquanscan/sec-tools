@@ -3150,4 +3150,5 @@
 [spookey](https://github.com/watersalesman/spookey): SpooKey is a keylogger written in C++ that uses kernel-level APIs to capture keystrokes (Linux only. Windows is a work in progress)  
 [magicRecon](https://github.com/robotshell/magicRecon): MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in directories and with various formats.  
 [vmware_guest_auth_bypass](https://github.com/guardicore/vmware_guest_auth_bypass): Proof of concept of VMSA-2017-0012  
-[mageni](https://github.com/mageni/mageni): ⚡️ Zero-friction Vulnerability Management
+[mageni](https://github.com/mageni/mageni): ⚡️ Zero-friction Vulnerability Management  
+[sandmap](https://github.com/trimstray/sandmap): Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
