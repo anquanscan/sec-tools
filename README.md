@@ -3141,4 +3141,5 @@
 [Cybercrime-Report-Template](https://github.com/bartblaze/Cybercrime-Report-Template): Template to use when you've fallen victim of a cybercrime.  
 [O-MEGA_VIRUS_2](https://github.com/ABC123USA/O-MEGA_VIRUS_2): O-MEGA VIRUS_V2  
 [mona-ropshell](https://github.com/VoidSec/mona-ropshell): For all loaded modules (DLLs), fetch ROP gadgets querying Ropshell DB  
-[eReKon](https://github.com/slithery0/eReKon): Yet another web recon tool But beautiful
+[eReKon](https://github.com/slithery0/eReKon): Yet another web recon tool But beautiful  
+[Memory-Hacking-Class](https://github.com/T-vK/Memory-Hacking-Class): Easy-to-use class to read and modify other processes memory.
