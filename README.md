@@ -3163,4 +3163,5 @@
 [CTF-Write-UP](https://github.com/MOCSCTF/CTF-Write-UP): 澳門網絡安全暨奪旗競賽協會(Macau Cyber Security and Capture The Flag Association)MOCSCTF/MOCTF  
 [wafparan01d3](https://github.com/alt3kx/wafparan01d3): Quick WAF "paranoid" Doctor Evaluation | WAFPARAN01D3 Tool  
 [metabigor](https://github.com/j3ssie/metabigor): Intelligence tool but without API key  
-[ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser): 一键提取安卓应用中可能存在的敏感信息。
+[ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser): 一键提取安卓应用中可能存在的敏感信息。  
+[Carilana](https://github.com/Gowixx/Carilana): Scripts developed for the LiquidBounce script api.
