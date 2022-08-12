@@ -3177,4 +3177,5 @@
 [CyberMachine](https://github.com/emr4h/CyberMachine): Detects cyber threats to the end user with machine learning. This tool can do malware analysis of given exe file, spam analysis of given url and mail.  
 [aleph-docker](https://github.com/Pr0teus/aleph-docker): An docker compose to quickly load your Aleph for malware analysis.  
 [sa-secure-audit-rkhunter](https://github.com/softasap/sa-secure-audit-rkhunter): rkhunter (Rootkit Hunter) is a Unix-based tool that scans for rootkits, backdoors and possible local exploits. It does this by comparing SHA-1 hashes of important files with known good ones in online databases, searching for default directories (of rootkits), wrong permissions, hidden files, suspicious strings in kernel modules, and special tests for Linux and FreeBSD.  
-[HCSystem](https://github.com/Hacker-Combat-Organization/HCSystem): Hacker Combat is an experimental game environment enabling head-to-head competition using Cyber Security, and Computer Science
+[HCSystem](https://github.com/Hacker-Combat-Organization/HCSystem): Hacker Combat is an experimental game environment enabling head-to-head competition using Cyber Security, and Computer Science  
+[dooked](https://github.com/codingo/dooked): DNS and Target HTTP History Local Storage and Search
