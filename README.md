@@ -3107,4 +3107,5 @@
 [Protocol-Analyzer](https://github.com/Vitaliy-Grigoriev/Protocol-Analyzer): Fuzz testing framework for network protocols.  
 [linux-rootkits-red-blue-teams](https://github.com/pentesteracademy/linux-rootkits-red-blue-teams): Linux Rootkits (4.x Kernel)  
 [testssl.sh-alerts](https://github.com/bitsofinfo/testssl.sh-alerts): Alerting engine (slack etc) for testssl.sh JSON result output files  
-[VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator): Visual Basic Code universal Obfuscator intended to be used during penetration testing assignments.
+[VisualBasicObfuscator](https://github.com/mgeeky/VisualBasicObfuscator): Visual Basic Code universal Obfuscator intended to be used during penetration testing assignments.  
+[CaptfEncoder](https://github.com/guyoung/CaptfEncoder): Captfencoder is a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
