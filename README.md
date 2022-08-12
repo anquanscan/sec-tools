@@ -3146,4 +3146,5 @@
 [HTTPUploadExfil](https://github.com/IngoKl/HTTPUploadExfil): A simple HTTP server for delivering and exfiltrating files/data during, for example, CTFs.  
 [PocOrExp_in_Github](https://github.com/ycdxsb/PocOrExp_in_Github): 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.  
 [hacl-star](https://github.com/project-everest/hacl-star): HACL*, a formally verified cryptographic library written in F*  
-[metin2-akira-metasploit](https://github.com/christian-roggia/metin2-akira-metasploit): Hybrid client emulator (python and C++) for Metin2.
+[metin2-akira-metasploit](https://github.com/christian-roggia/metin2-akira-metasploit): Hybrid client emulator (python and C++) for Metin2.  
+[spookey](https://github.com/watersalesman/spookey): SpooKey is a keylogger written in C++ that uses kernel-level APIs to capture keystrokes (Linux only. Windows is a work in progress)
