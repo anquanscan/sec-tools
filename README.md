@@ -3152,4 +3152,5 @@
 [vmware_guest_auth_bypass](https://github.com/guardicore/vmware_guest_auth_bypass): Proof of concept of VMSA-2017-0012  
 [mageni](https://github.com/mageni/mageni): ⚡️ Zero-friction Vulnerability Management  
 [sandmap](https://github.com/trimstray/sandmap): Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.  
-[DNS-Discovery](https://github.com/m0nad/DNS-Discovery): DNS-Discovery is a multithreaded subdomain bruteforcer. 
+[DNS-Discovery](https://github.com/m0nad/DNS-Discovery): DNS-Discovery is a multithreaded subdomain bruteforcer.   
+[nodebb-demo](https://github.com/bluefyreio/nodebb-demo): Fork of NodeBB project v1.7.5 optimized for Kubernetes with Bluefyre
