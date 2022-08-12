@@ -3131,4 +3131,5 @@
 [binserve](https://github.com/mufeedvh/binserve): A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:  
 [phishing-frenzy](https://github.com/pentestgeek/phishing-frenzy): Ruby on Rails Phishing Framework  
 [NTLMRecon](https://github.com/pwnfoo/NTLMRecon): Enumerate information from NTLM authentication enabled web endpoints 🔎  
-[CertEagle](https://github.com/devanshbatham/CertEagle): Weaponizing Live CT logs for automated monitoring of assets
+[CertEagle](https://github.com/devanshbatham/CertEagle): Weaponizing Live CT logs for automated monitoring of assets  
+[Amphetamine](https://github.com/nadmk/Amphetamine): A Browser corruption Exploit written in JS FIXED!
