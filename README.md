@@ -3185,4 +3185,5 @@
 [DiscordDataGrabber](https://github.com/Zeczero/DiscordDataGrabber): 🔧 The program that allows you to grab certain info about the victim  
 [apple-knowledge](https://github.com/hack-different/apple-knowledge): A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware  
 [laravel-firewall](https://github.com/akaunting/laravel-firewall): Web Application Firewall (WAF) package for Laravel  
-[awesome-phishing](https://github.com/PhishyAlice/awesome-phishing): Collection of resources related to phishing
+[awesome-phishing](https://github.com/PhishyAlice/awesome-phishing): Collection of resources related to phishing  
+[hexo-leancloud-counter-security](https://github.com/theme-next/hexo-leancloud-counter-security): A plugin to fix a serious security bug in leancloud visitor counter for NexT.
