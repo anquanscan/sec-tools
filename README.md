@@ -3205,4 +3205,5 @@
 [xiu](https://github.com/harlanc/xiu): A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay).🦀  
 [projeto_python](https://github.com/nenodias/projeto_python): Projeto Python segundo o livro da casa do código  
 [cicd-goat](https://github.com/cider-security-research/cicd-goat): A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.  
-[kepler](https://github.com/Exein-io/kepler): NIST-based CVE lookup store and API powered by Rust.
+[kepler](https://github.com/Exein-io/kepler): NIST-based CVE lookup store and API powered by Rust.  
+[socialfake](https://github.com/thisiskeanyvy/socialfake): A powerful tool for carrying out social engineering attacks.
