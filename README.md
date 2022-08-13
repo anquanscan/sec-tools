@@ -3207,4 +3207,5 @@
 [cicd-goat](https://github.com/cider-security-research/cicd-goat): A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.  
 [kepler](https://github.com/Exein-io/kepler): NIST-based CVE lookup store and API powered by Rust.  
 [socialfake](https://github.com/thisiskeanyvy/socialfake): A powerful tool for carrying out social engineering attacks.  
-[nocom-viewer](https://github.com/nerdsinspace/nocom-viewer): High memory usage reference implementation.
+[nocom-viewer](https://github.com/nerdsinspace/nocom-viewer): High memory usage reference implementation.  
+[better-errors-rce](https://github.com/Mythra/better-errors-rce): Shows off an RCE with better_errors w/ binding_of_caller using DNS Rebinding
