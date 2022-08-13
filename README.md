@@ -3206,4 +3206,5 @@
 [projeto_python](https://github.com/nenodias/projeto_python): Projeto Python segundo o livro da casa do código  
 [cicd-goat](https://github.com/cider-security-research/cicd-goat): A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.  
 [kepler](https://github.com/Exein-io/kepler): NIST-based CVE lookup store and API powered by Rust.  
-[socialfake](https://github.com/thisiskeanyvy/socialfake): A powerful tool for carrying out social engineering attacks.
+[socialfake](https://github.com/thisiskeanyvy/socialfake): A powerful tool for carrying out social engineering attacks.  
+[nocom-viewer](https://github.com/nerdsinspace/nocom-viewer): High memory usage reference implementation.
