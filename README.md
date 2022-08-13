@@ -3278,4 +3278,5 @@
 [SolrExp](https://github.com/k8gege/SolrExp): Apache Solr <=8.2.0 Velocity Template 0day Exploit  
 [CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924): CVE-2016-10924 - Directory traversal vulnerability in WordPress ebook-download plugin(<1.2).  PoC + PID Bruteforce in Python.  
 [Smtp-cracker](https://github.com/Aron-Tn/Smtp-cracker): [NEW] : Simple Mail Transfer Protocol (SMTP) CHECKER - CRACKER Tool V2  
-[iot-security-wiki](https://github.com/yaseng/iot-security-wiki): IOT security wiki
+[iot-security-wiki](https://github.com/yaseng/iot-security-wiki): IOT security wiki  
+[filezilla-decode](https://github.com/chrismeistre/filezilla-decode): Decode passwords from Filezilla's Sitemanager
