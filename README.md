@@ -3262,4 +3262,5 @@
 [SatanBomb](https://github.com/GuilhermeIsNotUnix/SatanBomb): SatanBomb é uma simples Fork Bomb Cross-Platform (macOS, Linux, Windows 32/64 bits) feita em C.  
 [ice_narytree](https://github.com/CoolerVoid/ice_narytree): C library to use Generic tree creation with resources to carry custom data and common functions(n-ary, traversal, search,create, insert childs/siblings,remove childs, destroy trees...)  
 [PicoCTF2022](https://github.com/EShelley/PicoCTF2022): My Writeup's for challenges I completed during PicoCTF2022  
-[practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity): More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity
+[practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity): More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity  
+[jailbreakme-unified](https://github.com/userlandkernel/jailbreakme-unified): Framework for iOS browser exploitation to kernel privileges and rootfs remount
