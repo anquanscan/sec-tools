@@ -3216,4 +3216,5 @@
 [CVE-2013-2028-Exploit](https://github.com/m4drat/CVE-2013-2028-Exploit): CVE-2013-2028 python exploit  
 [keystone](https://github.com/keystone-engine/keystone): Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings  
 [SECR](https://github.com/secrdev/SECR): Application security made easy  
-[pakcrack](https://github.com/htr-tech/pakcrack): All in 1 Pakisthani Facebook Cloner [ 7/8/9/10/11 DIGIT ]
+[pakcrack](https://github.com/htr-tech/pakcrack): All in 1 Pakisthani Facebook Cloner [ 7/8/9/10/11 DIGIT ]  
+[dc-sonar](https://github.com/ST1LLY/dc-sonar): Analyzing AD domains for security risks related to user accounts
