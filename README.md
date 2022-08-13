@@ -3202,4 +3202,5 @@
 [ARL-plus-docker](https://github.com/ki9mu/ARL-plus-docker): 基于斗象灯塔ARL修改后的版本。相比原版，增加了OneForAll、中央数据库，修改了altDns  
 [awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering): A list of useful Detection Engineering-related resources.  
 [bottle-cork](https://github.com/FedericoCeratto/bottle-cork): Authentication module for the Bottle and Flask web frameworks  
-[xiu](https://github.com/harlanc/xiu): A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay).🦀
+[xiu](https://github.com/harlanc/xiu): A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay).🦀  
+[projeto_python](https://github.com/nenodias/projeto_python): Projeto Python segundo o livro da casa do código
