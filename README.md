@@ -3257,4 +3257,5 @@
 [spearmint](https://github.com/open-source-labs/spearmint): Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.  
 [technical-whitepapers](https://github.com/trimstray/technical-whitepapers): Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.  
 [Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques): Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!  
-[dtrack-audit](https://github.com/ozontech/dtrack-audit): OWASP Dependency Track API client for intergration into CI/CD pipeline
+[dtrack-audit](https://github.com/ozontech/dtrack-audit): OWASP Dependency Track API client for intergration into CI/CD pipeline  
+[Oracle_Attip_XML_Entity_Exploit](https://github.com/omurugur/Oracle_Attip_XML_Entity_Exploit): Oracle Attip XML Entity Exploit
