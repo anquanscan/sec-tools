@@ -3238,4 +3238,5 @@
 [IpHack](https://github.com/mishakorzik/IpHack): Track Location With Live Address And City in Termux  
 [Elysian](https://github.com/maso892/Elysian): Source code to Austins, "Elysian" exploit.  
 [awesome-ml-for-threat-detection](https://github.com/patternex/awesome-ml-for-threat-detection): A curated list of resources to deep dive into the intersection of applied machine learning and threat detection.  
-[eks-creation-engine](https://github.com/lightspin-tech/eks-creation-engine): The Amazon Elastic Kubernetes Service (EKS) Creation Engine (ECE) is a Python command-line program created by the Lightspin Office of the CISO to facilitate the creation and enablement of secure EKS Clusters.
+[eks-creation-engine](https://github.com/lightspin-tech/eks-creation-engine): The Amazon Elastic Kubernetes Service (EKS) Creation Engine (ECE) is a Python command-line program created by the Lightspin Office of the CISO to facilitate the creation and enablement of secure EKS Clusters.  
+[clr-meterpreter](https://github.com/OJ/clr-meterpreter): The full story of the CLR implementation of Meterpreter
