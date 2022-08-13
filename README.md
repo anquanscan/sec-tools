@@ -3248,4 +3248,5 @@
 [Cyber-Tech-Articles](https://github.com/idvlecio3silva/Cyber-Tech-Articles): Repositório que a apresenta os meus artigos sobre tecnologia - Linux, Cibersegurança, Computação Forense e Gestão de Projectos  
 [upi-recon-cli](https://github.com/LuD1161/upi-recon-cli): UPI Reconnaissance tool  
 [go-spyse](https://github.com/spyse-com/go-spyse): The official wrapper for spyse.com API, written in Go, aimed to help developers build their integrations with Spyse.   
-[Login-System-API](https://github.com/susyabashti/Login-System-API): AMXX Project
+[Login-System-API](https://github.com/susyabashti/Login-System-API): AMXX Project  
+[SMB-Utility](https://github.com/Maseya/SMB-Utility): An SMB editor originally created by M.K.S
