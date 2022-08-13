@@ -3267,4 +3267,5 @@
 [winchecksec](https://github.com/trailofbits/winchecksec): Checksec, but for Windows: static detection of security mitigations in executables  
 [android-malware-detection](https://github.com/anoopmsivadas/android-malware-detection): Android Malware Detection Using Machine Learning Classifiers ( Using Permissions requested by Apps)  
 [AzureAD-incident-response](https://github.com/WillOram/AzureAD-incident-response): Notes on responding to security breaches relating to Azure AD  
-[vulristics](https://github.com/leonov-av/vulristics): Extensible framework for analyzing publicly available information about vulnerabilities
+[vulristics](https://github.com/leonov-av/vulristics): Extensible framework for analyzing publicly available information about vulnerabilities  
+[xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list): 🎯 XML External Entity (XXE) Injection Payload List
