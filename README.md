@@ -3214,4 +3214,5 @@
 [VAnalyzer](https://github.com/cyberchiranjit/VAnalyzer): VAnalyzer is a python tool designed to automate the reconnaissance or information gathering process.  
 [inseca](https://github.com/DGAC/inseca): INSECA is a set of tools to build and manage very secure live Linux based endpoint systems.  
 [CVE-2013-2028-Exploit](https://github.com/m4drat/CVE-2013-2028-Exploit): CVE-2013-2028 python exploit  
-[keystone](https://github.com/keystone-engine/keystone): Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
+[keystone](https://github.com/keystone-engine/keystone): Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings  
+[SECR](https://github.com/secrdev/SECR): Application security made easy
