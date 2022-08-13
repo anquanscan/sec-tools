@@ -3242,4 +3242,5 @@
 [clr-meterpreter](https://github.com/OJ/clr-meterpreter): The full story of the CLR implementation of Meterpreter  
 [DeadRinger](https://github.com/hungtruong/DeadRinger): A proof of concept iPhone X lock screen spoof  
 [PenTestKit](https://github.com/maldevel/PenTestKit): Tools, scripts and tips useful during Penetration Testing engagements.  
-[Squid-Password-Bruteforcer](https://github.com/H4rryp0tt3r/Squid-Password-Bruteforcer): A Python snippet for Bruteforcing my University Squid Proxy server with a list of common passwords.
+[Squid-Password-Bruteforcer](https://github.com/H4rryp0tt3r/Squid-Password-Bruteforcer): A Python snippet for Bruteforcing my University Squid Proxy server with a list of common passwords.  
+[master_librarian](https://github.com/CoolerVoid/master_librarian): A simple tool to audit Unix/*BSD/Linux system libraries to find public security vulnerabilities
