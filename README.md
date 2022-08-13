@@ -3223,4 +3223,5 @@
 [d00r](https://github.com/CYB3RMX/d00r): Simple directory brute-force tool written with python.  
 [homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect): :video_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io  
 [guia-ackercode](https://github.com/alestanalves/guia-ackercode): Guia Acker Code de Programação e Hacking  
-[S.A.N.E.-AI](https://github.com/Reiningecho90/S.A.N.E.-AI): Repo for S.A.N.E. (more info can be found under the public project), this is my current project to assist in learning the basics of Python.
+[S.A.N.E.-AI](https://github.com/Reiningecho90/S.A.N.E.-AI): Repo for S.A.N.E. (more info can be found under the public project), this is my current project to assist in learning the basics of Python.  
+[forthectf](https://github.com/AlaaZorkane/forthectf): A library of tools I assembled from various sources in preparation for the REDEYE hack night ctf
