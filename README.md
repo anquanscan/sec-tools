@@ -3244,4 +3244,5 @@
 [PenTestKit](https://github.com/maldevel/PenTestKit): Tools, scripts and tips useful during Penetration Testing engagements.  
 [Squid-Password-Bruteforcer](https://github.com/H4rryp0tt3r/Squid-Password-Bruteforcer): A Python snippet for Bruteforcing my University Squid Proxy server with a list of common passwords.  
 [master_librarian](https://github.com/CoolerVoid/master_librarian): A simple tool to audit Unix/*BSD/Linux system libraries to find public security vulnerabilities  
-[HackThisAI](https://github.com/JosephTLucas/HackThisAI): Adversarial Machine Learning (AML) Capture the Flag (CTF)
+[HackThisAI](https://github.com/JosephTLucas/HackThisAI): Adversarial Machine Learning (AML) Capture the Flag (CTF)  
+[Cyber-Tech-Articles](https://github.com/idvlecio3silva/Cyber-Tech-Articles): Repositório que a apresenta os meus artigos sobre tecnologia - Linux, Cibersegurança, Computação Forense e Gestão de Projectos
