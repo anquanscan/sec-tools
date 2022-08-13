@@ -3215,4 +3215,5 @@
 [inseca](https://github.com/DGAC/inseca): INSECA is a set of tools to build and manage very secure live Linux based endpoint systems.  
 [CVE-2013-2028-Exploit](https://github.com/m4drat/CVE-2013-2028-Exploit): CVE-2013-2028 python exploit  
 [keystone](https://github.com/keystone-engine/keystone): Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings  
-[SECR](https://github.com/secrdev/SECR): Application security made easy
+[SECR](https://github.com/secrdev/SECR): Application security made easy  
+[pakcrack](https://github.com/htr-tech/pakcrack): All in 1 Pakisthani Facebook Cloner [ 7/8/9/10/11 DIGIT ]
