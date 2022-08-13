@@ -3270,4 +3270,5 @@
 [vulristics](https://github.com/leonov-av/vulristics): Extensible framework for analyzing publicly available information about vulnerabilities  
 [xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list): 🎯 XML External Entity (XXE) Injection Payload List  
 [npm-lint](https://github.com/tanepiper/npm-lint): A linter for npm & node package.json files with a focus on dependency security  
-[whalescan](https://github.com/nccgroup/whalescan): Whalescan is a vulnerability scanner for Windows containers, which performs several benchmark checks, as well as checking for CVEs/vulnerable packages on the container
+[whalescan](https://github.com/nccgroup/whalescan): Whalescan is a vulnerability scanner for Windows containers, which performs several benchmark checks, as well as checking for CVEs/vulnerable packages on the container  
+[K55](https://github.com/josh0xA/K55): Linux x86_64 Process Injection Utility | Manipulate Processes With Customized Payloads (beta)
