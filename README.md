@@ -3268,4 +3268,5 @@
 [android-malware-detection](https://github.com/anoopmsivadas/android-malware-detection): Android Malware Detection Using Machine Learning Classifiers ( Using Permissions requested by Apps)  
 [AzureAD-incident-response](https://github.com/WillOram/AzureAD-incident-response): Notes on responding to security breaches relating to Azure AD  
 [vulristics](https://github.com/leonov-av/vulristics): Extensible framework for analyzing publicly available information about vulnerabilities  
-[xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list): 🎯 XML External Entity (XXE) Injection Payload List
+[xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list): 🎯 XML External Entity (XXE) Injection Payload List  
+[npm-lint](https://github.com/tanepiper/npm-lint): A linter for npm & node package.json files with a focus on dependency security
