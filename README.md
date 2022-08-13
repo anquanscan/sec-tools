@@ -3208,4 +3208,5 @@
 [kepler](https://github.com/Exein-io/kepler): NIST-based CVE lookup store and API powered by Rust.  
 [socialfake](https://github.com/thisiskeanyvy/socialfake): A powerful tool for carrying out social engineering attacks.  
 [nocom-viewer](https://github.com/nerdsinspace/nocom-viewer): High memory usage reference implementation.  
-[better-errors-rce](https://github.com/Mythra/better-errors-rce): Shows off an RCE with better_errors w/ binding_of_caller using DNS Rebinding
+[better-errors-rce](https://github.com/Mythra/better-errors-rce): Shows off an RCE with better_errors w/ binding_of_caller using DNS Rebinding  
+[SLAE](https://github.com/VoidSec/SLAE): SecurityTube Linux Assembly Expert x86 Exam
