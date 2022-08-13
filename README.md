@@ -3232,4 +3232,5 @@
 [optiga-trust-x](https://github.com/Infineon/optiga-trust-x): OPTIGA™ Trust X Software Framework  
 [svm](https://github.com/simplevulnerabilitymanager/svm): Program to perform vulnerability analysis and automatically generate a report  
 [CTF-Solve](https://github.com/r888800009/CTF-Solve)  
-[Port_Scanner](https://github.com/Sedatyf/Port_Scanner): This is my take on creating a port scanner script. I kept different version for learning purposes
+[Port_Scanner](https://github.com/Sedatyf/Port_Scanner): This is my take on creating a port scanner script. I kept different version for learning purposes  
+[pie-my-vulns](https://github.com/lirantal/pie-my-vulns): Visualize your project security vulnerabilities as a pie chart in the terminal
