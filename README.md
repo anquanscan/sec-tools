@@ -3225,4 +3225,5 @@
 [guia-ackercode](https://github.com/alestanalves/guia-ackercode): Guia Acker Code de Programação e Hacking  
 [S.A.N.E.-AI](https://github.com/Reiningecho90/S.A.N.E.-AI): Repo for S.A.N.E. (more info can be found under the public project), this is my current project to assist in learning the basics of Python.  
 [forthectf](https://github.com/AlaaZorkane/forthectf): A library of tools I assembled from various sources in preparation for the REDEYE hack night ctf  
-[APACHE-2.4-CIS](https://github.com/ansible-lockdown/APACHE-2.4-CIS): CIS Baseline Ansible Role for Apache 2.4
+[APACHE-2.4-CIS](https://github.com/ansible-lockdown/APACHE-2.4-CIS): CIS Baseline Ansible Role for Apache 2.4  
+[PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup): Solutions (that we managed to find) for the 2021 PicoCTF
