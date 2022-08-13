@@ -3229,4 +3229,5 @@
 [PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup): Solutions (that we managed to find) for the 2021 PicoCTF  
 [kraken](https://github.com/arcaneiceman/kraken): Kraken: A multi-platform distributed brute-force password cracking system  
 [docker-slim](https://github.com/docker-slim/docker-slim): DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)  
-[optiga-trust-x](https://github.com/Infineon/optiga-trust-x): OPTIGA™ Trust X Software Framework
+[optiga-trust-x](https://github.com/Infineon/optiga-trust-x): OPTIGA™ Trust X Software Framework  
+[svm](https://github.com/simplevulnerabilitymanager/svm): Program to perform vulnerability analysis and automatically generate a report
