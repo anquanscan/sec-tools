@@ -3250,4 +3250,5 @@
 [go-spyse](https://github.com/spyse-com/go-spyse): The official wrapper for spyse.com API, written in Go, aimed to help developers build their integrations with Spyse.   
 [Login-System-API](https://github.com/susyabashti/Login-System-API): AMXX Project  
 [SMB-Utility](https://github.com/Maseya/SMB-Utility): An SMB editor originally created by M.K.S  
-[XDEBUG-Exploit](https://github.com/D3Ext/XDEBUG-Exploit): An automated xdebug 2.5.5 vulnerability exploit
+[XDEBUG-Exploit](https://github.com/D3Ext/XDEBUG-Exploit): An automated xdebug 2.5.5 vulnerability exploit  
+[security-notes](https://github.com/jaybosamiya/security-notes): :notebook: Some security related notes
