@@ -3251,4 +3251,5 @@
 [Login-System-API](https://github.com/susyabashti/Login-System-API): AMXX Project  
 [SMB-Utility](https://github.com/Maseya/SMB-Utility): An SMB editor originally created by M.K.S  
 [XDEBUG-Exploit](https://github.com/D3Ext/XDEBUG-Exploit): An automated xdebug 2.5.5 vulnerability exploit  
-[security-notes](https://github.com/jaybosamiya/security-notes): :notebook: Some security related notes
+[security-notes](https://github.com/jaybosamiya/security-notes): :notebook: Some security related notes  
+[Phishing-URL-Detection](https://github.com/VaibhavBichave/Phishing-URL-Detection): Phishers use the websites which are visually and semantically similar to those real websites. So, we develop this website to come to know user whether the URL is phishing or not before using it.
