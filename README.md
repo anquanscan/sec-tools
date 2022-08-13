@@ -3246,4 +3246,5 @@
 [master_librarian](https://github.com/CoolerVoid/master_librarian): A simple tool to audit Unix/*BSD/Linux system libraries to find public security vulnerabilities  
 [HackThisAI](https://github.com/JosephTLucas/HackThisAI): Adversarial Machine Learning (AML) Capture the Flag (CTF)  
 [Cyber-Tech-Articles](https://github.com/idvlecio3silva/Cyber-Tech-Articles): Repositório que a apresenta os meus artigos sobre tecnologia - Linux, Cibersegurança, Computação Forense e Gestão de Projectos  
-[upi-recon-cli](https://github.com/LuD1161/upi-recon-cli): UPI Reconnaissance tool
+[upi-recon-cli](https://github.com/LuD1161/upi-recon-cli): UPI Reconnaissance tool  
+[go-spyse](https://github.com/spyse-com/go-spyse): The official wrapper for spyse.com API, written in Go, aimed to help developers build their integrations with Spyse. 
