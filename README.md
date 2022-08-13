@@ -3209,4 +3209,5 @@
 [socialfake](https://github.com/thisiskeanyvy/socialfake): A powerful tool for carrying out social engineering attacks.  
 [nocom-viewer](https://github.com/nerdsinspace/nocom-viewer): High memory usage reference implementation.  
 [better-errors-rce](https://github.com/Mythra/better-errors-rce): Shows off an RCE with better_errors w/ binding_of_caller using DNS Rebinding  
-[SLAE](https://github.com/VoidSec/SLAE): SecurityTube Linux Assembly Expert x86 Exam
+[SLAE](https://github.com/VoidSec/SLAE): SecurityTube Linux Assembly Expert x86 Exam  
+[afl_pidgin](https://github.com/wh1t3h47/afl_pidgin): Fuzz pidgin dbus by using AFL++ and clang's ASAN
