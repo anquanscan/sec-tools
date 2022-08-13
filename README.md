@@ -3221,4 +3221,5 @@
 [webappsec-trusted-types](https://github.com/w3c/webappsec-trusted-types): A browser API to prevent DOM-Based Cross Site Scripting in modern web applications.  
 [cuc-wiki](https://github.com/c4pr1c3/cuc-wiki): 个人教学 Wiki  
 [d00r](https://github.com/CYB3RMX/d00r): Simple directory brute-force tool written with python.  
-[homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect): :video_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
+[homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect): :video_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io  
+[guia-ackercode](https://github.com/alestanalves/guia-ackercode): Guia Acker Code de Programação e Hacking
