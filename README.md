@@ -3265,4 +3265,5 @@
 [practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity): More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity  
 [jailbreakme-unified](https://github.com/userlandkernel/jailbreakme-unified): Framework for iOS browser exploitation to kernel privileges and rootfs remount  
 [winchecksec](https://github.com/trailofbits/winchecksec): Checksec, but for Windows: static detection of security mitigations in executables  
-[android-malware-detection](https://github.com/anoopmsivadas/android-malware-detection): Android Malware Detection Using Machine Learning Classifiers ( Using Permissions requested by Apps)
+[android-malware-detection](https://github.com/anoopmsivadas/android-malware-detection): Android Malware Detection Using Machine Learning Classifiers ( Using Permissions requested by Apps)  
+[AzureAD-incident-response](https://github.com/WillOram/AzureAD-incident-response): Notes on responding to security breaches relating to Azure AD
