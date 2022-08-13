@@ -3241,4 +3241,5 @@
 [eks-creation-engine](https://github.com/lightspin-tech/eks-creation-engine): The Amazon Elastic Kubernetes Service (EKS) Creation Engine (ECE) is a Python command-line program created by the Lightspin Office of the CISO to facilitate the creation and enablement of secure EKS Clusters.  
 [clr-meterpreter](https://github.com/OJ/clr-meterpreter): The full story of the CLR implementation of Meterpreter  
 [DeadRinger](https://github.com/hungtruong/DeadRinger): A proof of concept iPhone X lock screen spoof  
-[PenTestKit](https://github.com/maldevel/PenTestKit): Tools, scripts and tips useful during Penetration Testing engagements.
+[PenTestKit](https://github.com/maldevel/PenTestKit): Tools, scripts and tips useful during Penetration Testing engagements.  
+[Squid-Password-Bruteforcer](https://github.com/H4rryp0tt3r/Squid-Password-Bruteforcer): A Python snippet for Bruteforcing my University Squid Proxy server with a list of common passwords.
