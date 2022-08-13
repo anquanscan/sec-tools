@@ -3212,4 +3212,5 @@
 [SLAE](https://github.com/VoidSec/SLAE): SecurityTube Linux Assembly Expert x86 Exam  
 [afl_pidgin](https://github.com/wh1t3h47/afl_pidgin): Fuzz pidgin dbus by using AFL++ and clang's ASAN  
 [VAnalyzer](https://github.com/cyberchiranjit/VAnalyzer): VAnalyzer is a python tool designed to automate the reconnaissance or information gathering process.  
-[inseca](https://github.com/DGAC/inseca): INSECA is a set of tools to build and manage very secure live Linux based endpoint systems.
+[inseca](https://github.com/DGAC/inseca): INSECA is a set of tools to build and manage very secure live Linux based endpoint systems.  
+[CVE-2013-2028-Exploit](https://github.com/m4drat/CVE-2013-2028-Exploit): CVE-2013-2028 python exploit
