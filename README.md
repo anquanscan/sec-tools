@@ -3195,4 +3195,5 @@
 [rabbit-shell](https://github.com/greedalbadi/rabbit-shell): Rabbit shell reverse shell tool.  
 [SecurityTools](https://github.com/birdhan/SecurityTools): 渗透测试工具包 | 开源安全测试工具 | 网络安全工具  
 [snow-crash](https://github.com/kema-dev/snow-crash): 42 | Privilege escalation exercices on a system image  
-[linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration): Linux enumeration tool for pentesting and CTFs with verbosity levels
+[linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration): Linux enumeration tool for pentesting and CTFs with verbosity levels  
+[zeek-plugin-bacnet](https://github.com/amzn/zeek-plugin-bacnet): Zeek network security monitor plugin that enables parsing of the BACnet standard building controls protocol
