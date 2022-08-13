@@ -3273,4 +3273,5 @@
 [whalescan](https://github.com/nccgroup/whalescan): Whalescan is a vulnerability scanner for Windows containers, which performs several benchmark checks, as well as checking for CVEs/vulnerable packages on the container  
 [K55](https://github.com/josh0xA/K55): Linux x86_64 Process Injection Utility | Manipulate Processes With Customized Payloads (beta)  
 [CanIBeSpoofed](https://github.com/Rices/CanIBeSpoofed): CanIBeSpoofed is a console project utilising functionality built for the https://caniphish.com/free-phishing-tools/email-spoofing-test website. This project facilitates scanning of domains to gain visibility over email supply chain and SPF/DMARC vulnerabilities.  
-[badchars](https://github.com/cytopia/badchars): Bad char generator to instruct encoders such as shikata-ga-nai to transform those to other chars.
+[badchars](https://github.com/cytopia/badchars): Bad char generator to instruct encoders such as shikata-ga-nai to transform those to other chars.  
+[intrusion-detection-engine](https://github.com/doneria-anjali/intrusion-detection-engine): Intrusion detection engine for Cloud Systems built using Alternative Fuzzy C-mean Clustering and Artificial Neural Network
