@@ -3255,4 +3255,5 @@
 [Phishing-URL-Detection](https://github.com/VaibhavBichave/Phishing-URL-Detection): Phishers use the websites which are visually and semantically similar to those real websites. So, we develop this website to come to know user whether the URL is phishing or not before using it.  
 [columbo](https://github.com/visma-prodsec/columbo): Columbo is a computer forensic analysis tool used to simplify and identify specific patterns in compromised datasets.  
 [spearmint](https://github.com/open-source-labs/spearmint): Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.  
-[technical-whitepapers](https://github.com/trimstray/technical-whitepapers): Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
+[technical-whitepapers](https://github.com/trimstray/technical-whitepapers): Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.  
+[Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques): Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
