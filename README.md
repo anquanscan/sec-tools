@@ -3340,4 +3340,5 @@
 [Minesweeper-Frida](https://github.com/anirudhrata/Minesweeper-Frida): Frida script to hack Minesweeper on Windows 7  
 [wordpress-code-review](https://github.com/markjivko/wordpress-code-review): Automatic WordPress plugin review tool  
 [kdigger](https://github.com/quarkslab/kdigger): Kubernetes focused container assessment and context discovery tool for penetration testing  
-[social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+[social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites  
+[crypto-methods-of-data-protection](https://github.com/amsavchenko/crypto-methods-of-data-protection): 🔍🕵🏻‍♂️ Лабораторные работы по курсу "Криптографические методы защиты информации"
