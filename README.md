@@ -3368,4 +3368,5 @@
 [ysoserial](https://github.com/frohoff/ysoserial): A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.  
 [lampas](https://github.com/ziozzang/lampas): "Lampas" is Generic Linux Package security scanning tool.(include non-docker)  
 [pwn_jenkins](https://github.com/gquere/pwn_jenkins): Notes about attacking Jenkins servers  
-[infosec-arsenal](https://github.com/umair9747/infosec-arsenal): A curated list of tools which you can use in Infosec!
+[infosec-arsenal](https://github.com/umair9747/infosec-arsenal): A curated list of tools which you can use in Infosec!  
+[Redcloud](https://github.com/khast3x/Redcloud): Automated Red Team Infrastructure deployement using Docker
