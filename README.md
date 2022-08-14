@@ -3294,4 +3294,5 @@
 [skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty): Dangerously fast DNS/network/port scanner  
 [nimc2](https://github.com/d4rckh/nimc2): a c2 fully written in nim  
 [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy): A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server.   
-[vulscanpro](https://github.com/thenurhabib/vulscanpro): Automatic Web Vulnerability Scanner.
+[vulscanpro](https://github.com/thenurhabib/vulscanpro): Automatic Web Vulnerability Scanner.  
+[cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin
