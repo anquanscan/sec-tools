@@ -3299,4 +3299,5 @@
 [gotestwaf](https://github.com/wallarm/gotestwaf): An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses  
 [rucaptcha](https://github.com/huacnlee/rucaptcha): Captcha gem for Rails Application. No dependencies. No ImageMagick, No RMagick.  
 [github-dorks](https://github.com/techgaun/github-dorks): Find leaked secrets via github search  
-[lostnintendohistory.github.io](https://github.com/LostNintendoHistory/lostnintendohistory.github.io): Lost Nintendo History website - check out all the projects!
+[lostnintendohistory.github.io](https://github.com/LostNintendoHistory/lostnintendohistory.github.io): Lost Nintendo History website - check out all the projects!  
+[Hexa_Payload_Decoder](https://github.com/stratosphereips/Hexa_Payload_Decoder): A tool to automatically decode and translate any TCP hexa payload data form any language to english.
