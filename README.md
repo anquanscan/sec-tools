@@ -3369,4 +3369,5 @@
 [lampas](https://github.com/ziozzang/lampas): "Lampas" is Generic Linux Package security scanning tool.(include non-docker)  
 [pwn_jenkins](https://github.com/gquere/pwn_jenkins): Notes about attacking Jenkins servers  
 [infosec-arsenal](https://github.com/umair9747/infosec-arsenal): A curated list of tools which you can use in Infosec!  
-[Redcloud](https://github.com/khast3x/Redcloud): Automated Red Team Infrastructure deployement using Docker
+[Redcloud](https://github.com/khast3x/Redcloud): Automated Red Team Infrastructure deployement using Docker  
+[keyctl-unmask](https://github.com/antitree/keyctl-unmask): Going Florida on container keyring masks. A tool to demonstrate the ineffectivity containers have on isolating Linux Kernel keyrings.
