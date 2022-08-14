@@ -3384,4 +3384,5 @@
 [Axis_Vuln_Webcam](https://github.com/bikashdash/Axis_Vuln_Webcam): This particular .NSE will find vulnerable Axis webcam and exploit  
 [Passy](https://github.com/PositronPiercer/Passy): 3 level password system  
 [CodeView-Security-Toolkit](https://github.com/CodeViewDevops/CodeView-Security-Toolkit): CST - CodeView Security Toolkit é uma ferramenta projetada para auxiliar na implementação de BASELINES de segurança em sistemas operacionais Unix. A ferramenta e composta por uma serie de scripts Shell que realiza a correção e aplica regras de segurança em sistemas Linux sem afetar seu funcionamento.  
-[serenity-exploits](https://github.com/bcoles/serenity-exploits): Various exploits for SerenityOS
+[serenity-exploits](https://github.com/bcoles/serenity-exploits): Various exploits for SerenityOS  
+[laravel-composer-security](https://github.com/padosoft/laravel-composer-security): Laravel command to test security vulnerabilities in your composer files.
