@@ -3297,4 +3297,5 @@
 [vulscanpro](https://github.com/thenurhabib/vulscanpro): Automatic Web Vulnerability Scanner.  
 [cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin  
 [gotestwaf](https://github.com/wallarm/gotestwaf): An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses  
-[rucaptcha](https://github.com/huacnlee/rucaptcha): Captcha gem for Rails Application. No dependencies. No ImageMagick, No RMagick.
+[rucaptcha](https://github.com/huacnlee/rucaptcha): Captcha gem for Rails Application. No dependencies. No ImageMagick, No RMagick.  
+[github-dorks](https://github.com/techgaun/github-dorks): Find leaked secrets via github search
