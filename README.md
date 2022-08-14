@@ -3375,4 +3375,5 @@
 [doona](https://github.com/wireghoul/doona): Network based protocol fuzzer  
 [assisted-log-enabler-for-aws](https://github.com/awslabs/assisted-log-enabler-for-aws): Assisted Log Enabler for AWS  - Find AWS resources that are not logging, and turn them on.  
 [exim-rce-cve-2018-6789](https://github.com/martinclauss/exim-rce-cve-2018-6789): This repository provides a learning environment to understand how an Exim RCE exploit for CVE-2018-6789 works.  
-[CVE-2019-1253](https://github.com/sgabe/CVE-2019-1253): AppXSvc Arbitrary File Security Descriptor Overwrite EoP
+[CVE-2019-1253](https://github.com/sgabe/CVE-2019-1253): AppXSvc Arbitrary File Security Descriptor Overwrite EoP  
+[r00tz2017](https://github.com/danielklim/r00tz2017): An Intro to Penetration Testing Workshop
