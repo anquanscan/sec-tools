@@ -3364,4 +3364,5 @@
 [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide): 📗 How to write cross-platform Node.js code  
 [reverse-engineering](https://github.com/tijme/reverse-engineering): This repository contains some of the executables that I've cracked.  
 [githack](https://github.com/OwenChia/githack): A .git/ folder disclosure exploit  
-[CDAS](https://github.com/cmu-sei/CDAS): This program generates cyber attack scenarios for use in cyber training exercises, red team planning, blue team planning, automated attack execution, and cybersecurity policy analysis.
+[CDAS](https://github.com/cmu-sei/CDAS): This program generates cyber attack scenarios for use in cyber training exercises, red team planning, blue team planning, automated attack execution, and cybersecurity policy analysis.  
+[ysoserial](https://github.com/frohoff/ysoserial): A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
