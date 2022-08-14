@@ -3379,4 +3379,5 @@
 [r00tz2017](https://github.com/danielklim/r00tz2017): An Intro to Penetration Testing Workshop  
 [github-watchman](https://github.com/PaperMtn/github-watchman): Monitoring GitHub for sensitive data shared publicly  
 [DeauthDetector](https://github.com/SpacehuhnTech/DeauthDetector): Detect deauthentication frames using an ESP8266  
-[SecureSoftwareDevelopement-Fuzzer](https://github.com/ellietoulabi/SecureSoftwareDevelopement-Fuzzer): A Fuzzer For Detecting Security Vulnerabilities in Web Applications
+[SecureSoftwareDevelopement-Fuzzer](https://github.com/ellietoulabi/SecureSoftwareDevelopement-Fuzzer): A Fuzzer For Detecting Security Vulnerabilities in Web Applications  
+[goBox](https://github.com/nishitm/goBox): GO sandbox to run untrusted code
