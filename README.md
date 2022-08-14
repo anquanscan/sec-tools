@@ -3313,4 +3313,5 @@
 [lblfixer_cve_2022_31181](https://github.com/drkbcn/lblfixer_cve_2022_31181): Module for PrestaShop 1.6.1.X/1.7.X to fix CVE-2022-31181 / CVE-2022-36408 vulnerability (Chain SQL Injection)  
 [Kernal-cheat-Injector](https://github.com/Skengdoo/Kernal-cheat-Injector): safe and easy to use injector for intel and AMD cpus  
 [ReversePowerShell](https://github.com/tobor88/ReversePowerShell): Functions that can be used to gain Reverse Shells with PowerShell  
-[Discord-Exploit-Collection](https://github.com/ecriminal/Discord-Exploit-Collection): 👾 A collection of Discord bugs and exploits
+[Discord-Exploit-Collection](https://github.com/ecriminal/Discord-Exploit-Collection): 👾 A collection of Discord bugs and exploits  
+[tld-scan](https://github.com/1ultimat3/tld-scan): Top level domain scanner in Go
