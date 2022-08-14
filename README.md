@@ -3353,4 +3353,5 @@
 [dradis-ce](https://github.com/dradis/dradis-ce): Dradis Framework: Colllaboration and reporting for IT Security teams  
 [sqlvet](https://github.com/houqp/sqlvet): Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.  
 [netinfo](https://github.com/9b/netinfo): Simple IP enrichment service and API wrapping PyASN and MaxMind GeoIP.  
-[libsodium-php](https://github.com/jedisct1/libsodium-php): The PHP extension for libsodium.
+[libsodium-php](https://github.com/jedisct1/libsodium-php): The PHP extension for libsodium.  
+[catnip](https://github.com/baguswiratmaadi/catnip): Cat-Nip Automated Basic Pentest Tool - Designed For Kali Linux
