@@ -3344,4 +3344,5 @@
 [crypto-methods-of-data-protection](https://github.com/amsavchenko/crypto-methods-of-data-protection): 🔍🕵🏻‍♂️ Лабораторные работы по курсу "Криптографические методы защиты информации"  
 [blorg](https://github.com/yurrriq/blorg): C-c C-e P p >>=  
 [Nivistealer](https://github.com/swagkarna/Nivistealer): steal victim images  exact location device info and much more   
-[saferwall](https://github.com/saferwall/saferwall): :cloud: Collaborative and Streamlined Threat Analysis at Scale 
+[saferwall](https://github.com/saferwall/saferwall): :cloud: Collaborative and Streamlined Threat Analysis at Scale   
+[CVE-2022-1040](https://github.com/APTIRAN/CVE-2022-1040): This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication
