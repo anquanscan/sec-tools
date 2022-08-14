@@ -3329,4 +3329,5 @@
 [MSF-Venom-Cheatsheet](https://github.com/frizb/MSF-Venom-Cheatsheet): Single Page Cheatsheet for common MSF Venom One Liners  
 [authpass](https://github.com/authpass/authpass): AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.  
 [Pwdlyser-CLI](https://github.com/ins1gn1a/Pwdlyser-CLI): Python-based CLI Password Analyser (Reporting Tool)  
-[winallenum](https://github.com/FabioDefilippo/winallenum): This powershell script has got to run in remote hacked windows host, even for pivoting
+[winallenum](https://github.com/FabioDefilippo/winallenum): This powershell script has got to run in remote hacked windows host, even for pivoting  
+[nrf24-playset](https://github.com/SySS-Research/nrf24-playset): Software tools for Nordic Semiconductor nRF24-based devices like wireless keyboards, mice, and presenters
