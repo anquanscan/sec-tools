@@ -3314,4 +3314,5 @@
 [Kernal-cheat-Injector](https://github.com/Skengdoo/Kernal-cheat-Injector): safe and easy to use injector for intel and AMD cpus  
 [ReversePowerShell](https://github.com/tobor88/ReversePowerShell): Functions that can be used to gain Reverse Shells with PowerShell  
 [Discord-Exploit-Collection](https://github.com/ecriminal/Discord-Exploit-Collection): 👾 A collection of Discord bugs and exploits  
-[tld-scan](https://github.com/1ultimat3/tld-scan): Top level domain scanner in Go
+[tld-scan](https://github.com/1ultimat3/tld-scan): Top level domain scanner in Go  
+[nli-exploits](https://github.com/NitescuLucian/nli-exploits): Some lazy but working exploits written, modded or collected by me. But the scope is to write my own exploits and store them in this repository. Of course if I let you see.
