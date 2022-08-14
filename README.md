@@ -3337,4 +3337,5 @@
 [WALKOFF](https://github.com/nsacyber/WALKOFF): A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber  
 [PEGuarder](https://github.com/jsc0218/PEGuarder): a security tool checking the portable executable (PE) files in windows  
 [retire.js](https://github.com/RetireJS/retire.js): scanner detecting the use of JavaScript libraries with known vulnerabilities  
-[Minesweeper-Frida](https://github.com/anirudhrata/Minesweeper-Frida): Frida script to hack Minesweeper on Windows 7
+[Minesweeper-Frida](https://github.com/anirudhrata/Minesweeper-Frida): Frida script to hack Minesweeper on Windows 7  
+[wordpress-code-review](https://github.com/markjivko/wordpress-code-review): Automatic WordPress plugin review tool
