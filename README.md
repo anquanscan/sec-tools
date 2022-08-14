@@ -3378,4 +3378,5 @@
 [CVE-2019-1253](https://github.com/sgabe/CVE-2019-1253): AppXSvc Arbitrary File Security Descriptor Overwrite EoP  
 [r00tz2017](https://github.com/danielklim/r00tz2017): An Intro to Penetration Testing Workshop  
 [github-watchman](https://github.com/PaperMtn/github-watchman): Monitoring GitHub for sensitive data shared publicly  
-[DeauthDetector](https://github.com/SpacehuhnTech/DeauthDetector): Detect deauthentication frames using an ESP8266
+[DeauthDetector](https://github.com/SpacehuhnTech/DeauthDetector): Detect deauthentication frames using an ESP8266  
+[SecureSoftwareDevelopement-Fuzzer](https://github.com/ellietoulabi/SecureSoftwareDevelopement-Fuzzer): A Fuzzer For Detecting Security Vulnerabilities in Web Applications
