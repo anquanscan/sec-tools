@@ -3380,4 +3380,5 @@
 [github-watchman](https://github.com/PaperMtn/github-watchman): Monitoring GitHub for sensitive data shared publicly  
 [DeauthDetector](https://github.com/SpacehuhnTech/DeauthDetector): Detect deauthentication frames using an ESP8266  
 [SecureSoftwareDevelopement-Fuzzer](https://github.com/ellietoulabi/SecureSoftwareDevelopement-Fuzzer): A Fuzzer For Detecting Security Vulnerabilities in Web Applications  
-[goBox](https://github.com/nishitm/goBox): GO sandbox to run untrusted code
+[goBox](https://github.com/nishitm/goBox): GO sandbox to run untrusted code  
+[Axis_Vuln_Webcam](https://github.com/bikashdash/Axis_Vuln_Webcam): This particular .NSE will find vulnerable Axis webcam and exploit
