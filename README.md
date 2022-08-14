@@ -3326,4 +3326,5 @@
 [CMSScan](https://github.com/ajinabraham/CMSScan): CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues  
 [ESP-8266-Captive-Portal-GET-Authentication-Phisher](https://github.com/reedhaffner/ESP-8266-Captive-Portal-GET-Authentication-Phisher): Uses the ESP 8266 to create a free Wi-Fi AP, which requires the user to "sign in," when the user logs in, all GET requests are sent to the Serial Monitor.  
 [sudo_pair](https://github.com/square/sudo_pair): Plugin for sudo that requires another human to approve and monitor privileged sudo sessions  
-[MSF-Venom-Cheatsheet](https://github.com/frizb/MSF-Venom-Cheatsheet): Single Page Cheatsheet for common MSF Venom One Liners
+[MSF-Venom-Cheatsheet](https://github.com/frizb/MSF-Venom-Cheatsheet): Single Page Cheatsheet for common MSF Venom One Liners  
+[authpass](https://github.com/authpass/authpass): AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
