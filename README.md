@@ -3292,4 +3292,5 @@
 [CVE-2017-0781](https://github.com/ojasookert/CVE-2017-0781): Blueborne CVE-2017-0781 Android heap overflow vulnerability  
 [wifibang](https://github.com/Leviathan36/wifibang): wifi attacks suite  
 [skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty): Dangerously fast DNS/network/port scanner  
-[nimc2](https://github.com/d4rckh/nimc2): a c2 fully written in nim
+[nimc2](https://github.com/d4rckh/nimc2): a c2 fully written in nim  
+[MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy): A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server. 
