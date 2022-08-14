@@ -3360,4 +3360,5 @@
 [aura-botnet](https://github.com/watersalesman/aura-botnet): A super portable botnet framework with a Django-based C2 server. The client is written in C++, with alternate clients written in Rust, Bash, and Powershell.  
 [landing-zone](https://github.com/TrenchBoot/landing-zone): An open source implementation of an AMD-V Secure Loader.  
 [synopsys-detect-bash-completion](https://github.com/thaljef/synopsys-detect-bash-completion): Command completion for Synopsys (Black Duck) Detect commands  
-[ICSVerifiedSoftwareProject](https://github.com/mssabr01/ICSVerifiedSoftwareProject): A formally verified implementation of a bolt-on security device for ICS networks. Designed with TLA+ and written/proved in F*
+[ICSVerifiedSoftwareProject](https://github.com/mssabr01/ICSVerifiedSoftwareProject): A formally verified implementation of a bolt-on security device for ICS networks. Designed with TLA+ and written/proved in F*  
+[cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide): 📗 How to write cross-platform Node.js code
