@@ -3366,4 +3366,5 @@
 [githack](https://github.com/OwenChia/githack): A .git/ folder disclosure exploit  
 [CDAS](https://github.com/cmu-sei/CDAS): This program generates cyber attack scenarios for use in cyber training exercises, red team planning, blue team planning, automated attack execution, and cybersecurity policy analysis.  
 [ysoserial](https://github.com/frohoff/ysoserial): A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.  
-[lampas](https://github.com/ziozzang/lampas): "Lampas" is Generic Linux Package security scanning tool.(include non-docker)
+[lampas](https://github.com/ziozzang/lampas): "Lampas" is Generic Linux Package security scanning tool.(include non-docker)  
+[pwn_jenkins](https://github.com/gquere/pwn_jenkins): Notes about attacking Jenkins servers
