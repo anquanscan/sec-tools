@@ -3307,4 +3307,5 @@
 [DeepImageSpam](https://github.com/dineshresearch/DeepImageSpam): Deep Learning based Image Spam Detection  
 [securewebapp](https://github.com/sinipelto/securewebapp): SecureWebApp - Secure Web Application Template for ASP.NET Core 5.0  
 [vsaudit](https://github.com/ociredefz/vsaudit): VOIP Security Audit Framework  
-[Rrhododendron](https://github.com/0x802/Rrhododendron): Examine target ip address ports, extract information, and search 41,000 gaps for exploitation
+[Rrhododendron](https://github.com/0x802/Rrhododendron): Examine target ip address ports, extract information, and search 41,000 gaps for exploitation  
+[Fingerprinter](https://github.com/erwanlr/Fingerprinter): CMS/LMS/Library etc Versions Fingerprinter
