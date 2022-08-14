@@ -3283,4 +3283,5 @@
 [DDoS-Script](https://github.com/cqHack/DDoS-Script):  A script written in perl for ddos ​​with automatic detection of open and vulnerable port that gives up to 1.5 gb packages / s  
 [ctf-kali-linux](https://github.com/sgama/ctf-kali-linux): A docker image for CTFs  
 [fuzzable](https://github.com/ex0dus-0x/fuzzable): Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.  
-[CVE-2021-3129_exploit](https://github.com/nth347/CVE-2021-3129_exploit): Exploit for CVE-2021-3129
+[CVE-2021-3129_exploit](https://github.com/nth347/CVE-2021-3129_exploit): Exploit for CVE-2021-3129  
+[passive-scan-client](https://github.com/c0ny1/passive-scan-client): Burp被动扫描流量转发插件
