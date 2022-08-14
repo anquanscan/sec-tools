@@ -3388,4 +3388,5 @@
 [laravel-composer-security](https://github.com/padosoft/laravel-composer-security): Laravel command to test security vulnerabilities in your composer files.  
 [AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries): Microsoft 365 Advanced Hunting Queries  
 [pynode](https://github.com/okdocker/pynode): Python 3.6 + Node.js + Yarn docker image recipe.  
-[Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis): Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares
+[Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis): Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares  
+[SP-Proxy](https://github.com/MBHudson/SP-Proxy): 🥇Self-Propagating ProxyChains: Beta v0.1 Auto-Sourced ProxyChains, SOCK4/5 & HTTP(S) - Downloaded, Verified, Formatted and Ready For Your "proxychains4.conf"
