@@ -3279,4 +3279,5 @@
 [CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924): CVE-2016-10924 - Directory traversal vulnerability in WordPress ebook-download plugin(<1.2).  PoC + PID Bruteforce in Python.  
 [Smtp-cracker](https://github.com/Aron-Tn/Smtp-cracker): [NEW] : Simple Mail Transfer Protocol (SMTP) CHECKER - CRACKER Tool V2  
 [iot-security-wiki](https://github.com/yaseng/iot-security-wiki): IOT security wiki  
-[filezilla-decode](https://github.com/chrismeistre/filezilla-decode): Decode passwords from Filezilla's Sitemanager
+[filezilla-decode](https://github.com/chrismeistre/filezilla-decode): Decode passwords from Filezilla's Sitemanager  
+[DDoS-Script](https://github.com/cqHack/DDoS-Script):  A script written in perl for ddos ​​with automatic detection of open and vulnerable port that gives up to 1.5 gb packages / s
