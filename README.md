@@ -3386,4 +3386,5 @@
 [CodeView-Security-Toolkit](https://github.com/CodeViewDevops/CodeView-Security-Toolkit): CST - CodeView Security Toolkit é uma ferramenta projetada para auxiliar na implementação de BASELINES de segurança em sistemas operacionais Unix. A ferramenta e composta por uma serie de scripts Shell que realiza a correção e aplica regras de segurança em sistemas Linux sem afetar seu funcionamento.  
 [serenity-exploits](https://github.com/bcoles/serenity-exploits): Various exploits for SerenityOS  
 [laravel-composer-security](https://github.com/padosoft/laravel-composer-security): Laravel command to test security vulnerabilities in your composer files.  
-[AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries): Microsoft 365 Advanced Hunting Queries
+[AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries): Microsoft 365 Advanced Hunting Queries  
+[pynode](https://github.com/okdocker/pynode): Python 3.6 + Node.js + Yarn docker image recipe.
