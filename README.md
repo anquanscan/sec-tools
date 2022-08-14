@@ -3285,4 +3285,5 @@
 [fuzzable](https://github.com/ex0dus-0x/fuzzable): Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.  
 [CVE-2021-3129_exploit](https://github.com/nth347/CVE-2021-3129_exploit): Exploit for CVE-2021-3129  
 [passive-scan-client](https://github.com/c0ny1/passive-scan-client): Burp被动扫描流量转发插件  
-[asu-v5](https://github.com/ASU-LAB/asu-v5): Hacking is your weapon :)
+[asu-v5](https://github.com/ASU-LAB/asu-v5): Hacking is your weapon :)  
+[CVE-2019-5624](https://github.com/VoidSec/CVE-2019-5624): A proof of concept for Metasploit's CVE-2019-5624 vulnerability (Rubyzip insecure ZIP handling RCE) 
