@@ -3387,4 +3387,5 @@
 [serenity-exploits](https://github.com/bcoles/serenity-exploits): Various exploits for SerenityOS  
 [laravel-composer-security](https://github.com/padosoft/laravel-composer-security): Laravel command to test security vulnerabilities in your composer files.  
 [AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries): Microsoft 365 Advanced Hunting Queries  
-[pynode](https://github.com/okdocker/pynode): Python 3.6 + Node.js + Yarn docker image recipe.
+[pynode](https://github.com/okdocker/pynode): Python 3.6 + Node.js + Yarn docker image recipe.  
+[Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis): Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares
