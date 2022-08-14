@@ -3333,4 +3333,5 @@
 [nrf24-playset](https://github.com/SySS-Research/nrf24-playset): Software tools for Nordic Semiconductor nRF24-based devices like wireless keyboards, mice, and presenters  
 [weblogic_java_des](https://github.com/hktalent/weblogic_java_des): weblogic T3 collections java InvokerTransformer Transformer  InvokerTransformer weblogic.jndi.WLInitialContextFactory  
 [progpilot](https://github.com/designsecurity/progpilot): A static analysis tool for security  
-[CySecTools](https://github.com/SofianeHamlaoui/CySecTools): Cyber Security Tools Collection that I use
+[CySecTools](https://github.com/SofianeHamlaoui/CySecTools): Cyber Security Tools Collection that I use  
+[WALKOFF](https://github.com/nsacyber/WALKOFF): A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
