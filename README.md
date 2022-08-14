@@ -3291,4 +3291,5 @@
 [apache-project-safeguard](https://github.com/bjoern-hempel/apache-project-safeguard): A script that set all folders and files of a given project directory to readonly. Excepting some user interactive directories like uploads, etc.  
 [CVE-2017-0781](https://github.com/ojasookert/CVE-2017-0781): Blueborne CVE-2017-0781 Android heap overflow vulnerability  
 [wifibang](https://github.com/Leviathan36/wifibang): wifi attacks suite  
-[skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty): Dangerously fast DNS/network/port scanner
+[skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty): Dangerously fast DNS/network/port scanner  
+[nimc2](https://github.com/d4rckh/nimc2): a c2 fully written in nim
