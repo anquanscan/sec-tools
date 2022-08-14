@@ -3389,4 +3389,5 @@
 [AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries): Microsoft 365 Advanced Hunting Queries  
 [pynode](https://github.com/okdocker/pynode): Python 3.6 + Node.js + Yarn docker image recipe.  
 [Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis): Arbitrary SMM code execution exploit for industry-wide 0day vulnerability in AMI Aptio based firmwares  
-[SP-Proxy](https://github.com/MBHudson/SP-Proxy): 🥇Self-Propagating ProxyChains: Beta v0.1 Auto-Sourced ProxyChains, SOCK4/5 & HTTP(S) - Downloaded, Verified, Formatted and Ready For Your "proxychains4.conf"
+[SP-Proxy](https://github.com/MBHudson/SP-Proxy): 🥇Self-Propagating ProxyChains: Beta v0.1 Auto-Sourced ProxyChains, SOCK4/5 & HTTP(S) - Downloaded, Verified, Formatted and Ready For Your "proxychains4.conf"  
+[DirDar](https://github.com/M4DM0e/DirDar): DirDar is a tool that searches for (403-Forbidden) directories to break it and get dir listing on it
