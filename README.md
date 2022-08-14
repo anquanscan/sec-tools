@@ -3288,4 +3288,5 @@
 [asu-v5](https://github.com/ASU-LAB/asu-v5): Hacking is your weapon :)  
 [CVE-2019-5624](https://github.com/VoidSec/CVE-2019-5624): A proof of concept for Metasploit's CVE-2019-5624 vulnerability (Rubyzip insecure ZIP handling RCE)   
 [VpsStealerFiveM](https://github.com/werp420/VpsStealerFiveM): Dette er basic runcode. Brug CEVA eller noget andet til at test lortet. Tak til @servercfg for den orginalle backdoor da vi fik ideen ud fra dem.   
-[apache-project-safeguard](https://github.com/bjoern-hempel/apache-project-safeguard): A script that set all folders and files of a given project directory to readonly. Excepting some user interactive directories like uploads, etc.
+[apache-project-safeguard](https://github.com/bjoern-hempel/apache-project-safeguard): A script that set all folders and files of a given project directory to readonly. Excepting some user interactive directories like uploads, etc.  
+[CVE-2017-0781](https://github.com/ojasookert/CVE-2017-0781): Blueborne CVE-2017-0781 Android heap overflow vulnerability
