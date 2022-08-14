@@ -3331,4 +3331,5 @@
 [Pwdlyser-CLI](https://github.com/ins1gn1a/Pwdlyser-CLI): Python-based CLI Password Analyser (Reporting Tool)  
 [winallenum](https://github.com/FabioDefilippo/winallenum): This powershell script has got to run in remote hacked windows host, even for pivoting  
 [nrf24-playset](https://github.com/SySS-Research/nrf24-playset): Software tools for Nordic Semiconductor nRF24-based devices like wireless keyboards, mice, and presenters  
-[weblogic_java_des](https://github.com/hktalent/weblogic_java_des): weblogic T3 collections java InvokerTransformer Transformer  InvokerTransformer weblogic.jndi.WLInitialContextFactory
+[weblogic_java_des](https://github.com/hktalent/weblogic_java_des): weblogic T3 collections java InvokerTransformer Transformer  InvokerTransformer weblogic.jndi.WLInitialContextFactory  
+[progpilot](https://github.com/designsecurity/progpilot): A static analysis tool for security
