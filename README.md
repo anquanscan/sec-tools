@@ -3345,4 +3345,5 @@
 [blorg](https://github.com/yurrriq/blorg): C-c C-e P p >>=  
 [Nivistealer](https://github.com/swagkarna/Nivistealer): steal victim images  exact location device info and much more   
 [saferwall](https://github.com/saferwall/saferwall): :cloud: Collaborative and Streamlined Threat Analysis at Scale   
-[CVE-2022-1040](https://github.com/APTIRAN/CVE-2022-1040): This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication
+[CVE-2022-1040](https://github.com/APTIRAN/CVE-2022-1040): This vulnerability allows an attacker to gain unauthorized access to the firewall management space by bypassing authentication  
+[solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns): Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise 
