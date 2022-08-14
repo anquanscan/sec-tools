@@ -3282,4 +3282,5 @@
 [filezilla-decode](https://github.com/chrismeistre/filezilla-decode): Decode passwords from Filezilla's Sitemanager  
 [DDoS-Script](https://github.com/cqHack/DDoS-Script):  A script written in perl for ddos ​​with automatic detection of open and vulnerable port that gives up to 1.5 gb packages / s  
 [ctf-kali-linux](https://github.com/sgama/ctf-kali-linux): A docker image for CTFs  
-[fuzzable](https://github.com/ex0dus-0x/fuzzable): Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.
+[fuzzable](https://github.com/ex0dus-0x/fuzzable): Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.  
+[CVE-2021-3129_exploit](https://github.com/nth347/CVE-2021-3129_exploit): Exploit for CVE-2021-3129
