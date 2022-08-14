@@ -3361,4 +3361,5 @@
 [landing-zone](https://github.com/TrenchBoot/landing-zone): An open source implementation of an AMD-V Secure Loader.  
 [synopsys-detect-bash-completion](https://github.com/thaljef/synopsys-detect-bash-completion): Command completion for Synopsys (Black Duck) Detect commands  
 [ICSVerifiedSoftwareProject](https://github.com/mssabr01/ICSVerifiedSoftwareProject): A formally verified implementation of a bolt-on security device for ICS networks. Designed with TLA+ and written/proved in F*  
-[cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide): 📗 How to write cross-platform Node.js code
+[cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide): 📗 How to write cross-platform Node.js code  
+[reverse-engineering](https://github.com/tijme/reverse-engineering): This repository contains some of the executables that I've cracked.
