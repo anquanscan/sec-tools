@@ -3377,4 +3377,5 @@
 [exim-rce-cve-2018-6789](https://github.com/martinclauss/exim-rce-cve-2018-6789): This repository provides a learning environment to understand how an Exim RCE exploit for CVE-2018-6789 works.  
 [CVE-2019-1253](https://github.com/sgabe/CVE-2019-1253): AppXSvc Arbitrary File Security Descriptor Overwrite EoP  
 [r00tz2017](https://github.com/danielklim/r00tz2017): An Intro to Penetration Testing Workshop  
-[github-watchman](https://github.com/PaperMtn/github-watchman): Monitoring GitHub for sensitive data shared publicly
+[github-watchman](https://github.com/PaperMtn/github-watchman): Monitoring GitHub for sensitive data shared publicly  
+[DeauthDetector](https://github.com/SpacehuhnTech/DeauthDetector): Detect deauthentication frames using an ESP8266
