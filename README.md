@@ -3343,4 +3343,5 @@
 [social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites  
 [crypto-methods-of-data-protection](https://github.com/amsavchenko/crypto-methods-of-data-protection): 🔍🕵🏻‍♂️ Лабораторные работы по курсу "Криптографические методы защиты информации"  
 [blorg](https://github.com/yurrriq/blorg): C-c C-e P p >>=  
-[Nivistealer](https://github.com/swagkarna/Nivistealer): steal victim images  exact location device info and much more 
+[Nivistealer](https://github.com/swagkarna/Nivistealer): steal victim images  exact location device info and much more   
+[saferwall](https://github.com/saferwall/saferwall): :cloud: Collaborative and Streamlined Threat Analysis at Scale 
