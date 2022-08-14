@@ -3328,4 +3328,5 @@
 [sudo_pair](https://github.com/square/sudo_pair): Plugin for sudo that requires another human to approve and monitor privileged sudo sessions  
 [MSF-Venom-Cheatsheet](https://github.com/frizb/MSF-Venom-Cheatsheet): Single Page Cheatsheet for common MSF Venom One Liners  
 [authpass](https://github.com/authpass/authpass): AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.  
-[Pwdlyser-CLI](https://github.com/ins1gn1a/Pwdlyser-CLI): Python-based CLI Password Analyser (Reporting Tool)
+[Pwdlyser-CLI](https://github.com/ins1gn1a/Pwdlyser-CLI): Python-based CLI Password Analyser (Reporting Tool)  
+[winallenum](https://github.com/FabioDefilippo/winallenum): This powershell script has got to run in remote hacked windows host, even for pivoting
