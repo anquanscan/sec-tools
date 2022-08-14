@@ -3334,4 +3334,5 @@
 [weblogic_java_des](https://github.com/hktalent/weblogic_java_des): weblogic T3 collections java InvokerTransformer Transformer  InvokerTransformer weblogic.jndi.WLInitialContextFactory  
 [progpilot](https://github.com/designsecurity/progpilot): A static analysis tool for security  
 [CySecTools](https://github.com/SofianeHamlaoui/CySecTools): Cyber Security Tools Collection that I use  
-[WALKOFF](https://github.com/nsacyber/WALKOFF): A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
+[WALKOFF](https://github.com/nsacyber/WALKOFF): A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber  
+[PEGuarder](https://github.com/jsc0218/PEGuarder): a security tool checking the portable executable (PE) files in windows
