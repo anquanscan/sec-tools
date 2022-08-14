@@ -3358,4 +3358,5 @@
 [policy_sentry](https://github.com/salesforce/policy_sentry): IAM Least Privilege Policy Generator  
 [Cyberpolygon_](https://github.com/diurs/Cyberpolygon_): cyberpolygon 1 for information security training   
 [aura-botnet](https://github.com/watersalesman/aura-botnet): A super portable botnet framework with a Django-based C2 server. The client is written in C++, with alternate clients written in Rust, Bash, and Powershell.  
-[landing-zone](https://github.com/TrenchBoot/landing-zone): An open source implementation of an AMD-V Secure Loader.
+[landing-zone](https://github.com/TrenchBoot/landing-zone): An open source implementation of an AMD-V Secure Loader.  
+[synopsys-detect-bash-completion](https://github.com/thaljef/synopsys-detect-bash-completion): Command completion for Synopsys (Black Duck) Detect commands
