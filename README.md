@@ -3319,4 +3319,5 @@
 [RedELK](https://github.com/outflanknl/RedELK): Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.  
 [malwarescanner](https://github.com/password123456/malwarescanner): Simple Malware Scanner written in python  
 [inject-sec-to-devops](https://github.com/fabidick22/inject-sec-to-devops): Security tools that you can inject into devops  
-[id0-rsa.pub](https://github.com/rahiel/id0-rsa.pub): Solutions to the security/cryptography problems at https://id0-rsa.pub
+[id0-rsa.pub](https://github.com/rahiel/id0-rsa.pub): Solutions to the security/cryptography problems at https://id0-rsa.pub  
+[docker-elk-suricata](https://github.com/blanboom/docker-elk-suricata): ELK Stack for pfSense and Suricata, optimized for Synology NAS
