@@ -3382,4 +3382,5 @@
 [SecureSoftwareDevelopement-Fuzzer](https://github.com/ellietoulabi/SecureSoftwareDevelopement-Fuzzer): A Fuzzer For Detecting Security Vulnerabilities in Web Applications  
 [goBox](https://github.com/nishitm/goBox): GO sandbox to run untrusted code  
 [Axis_Vuln_Webcam](https://github.com/bikashdash/Axis_Vuln_Webcam): This particular .NSE will find vulnerable Axis webcam and exploit  
-[Passy](https://github.com/PositronPiercer/Passy): 3 level password system
+[Passy](https://github.com/PositronPiercer/Passy): 3 level password system  
+[CodeView-Security-Toolkit](https://github.com/CodeViewDevops/CodeView-Security-Toolkit): CST - CodeView Security Toolkit é uma ferramenta projetada para auxiliar na implementação de BASELINES de segurança em sistemas operacionais Unix. A ferramenta e composta por uma serie de scripts Shell que realiza a correção e aplica regras de segurança em sistemas Linux sem afetar seu funcionamento.
