@@ -3317,4 +3317,5 @@
 [tld-scan](https://github.com/1ultimat3/tld-scan): Top level domain scanner in Go  
 [nli-exploits](https://github.com/NitescuLucian/nli-exploits): Some lazy but working exploits written, modded or collected by me. But the scope is to write my own exploits and store them in this repository. Of course if I let you see.  
 [RedELK](https://github.com/outflanknl/RedELK): Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.  
-[malwarescanner](https://github.com/password123456/malwarescanner): Simple Malware Scanner written in python
+[malwarescanner](https://github.com/password123456/malwarescanner): Simple Malware Scanner written in python  
+[inject-sec-to-devops](https://github.com/fabidick22/inject-sec-to-devops): Security tools that you can inject into devops
