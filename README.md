@@ -3308,4 +3308,5 @@
 [securewebapp](https://github.com/sinipelto/securewebapp): SecureWebApp - Secure Web Application Template for ASP.NET Core 5.0  
 [vsaudit](https://github.com/ociredefz/vsaudit): VOIP Security Audit Framework  
 [Rrhododendron](https://github.com/0x802/Rrhododendron): Examine target ip address ports, extract information, and search 41,000 gaps for exploitation  
-[Fingerprinter](https://github.com/erwanlr/Fingerprinter): CMS/LMS/Library etc Versions Fingerprinter
+[Fingerprinter](https://github.com/erwanlr/Fingerprinter): CMS/LMS/Library etc Versions Fingerprinter  
+[hackers-tool-kit](https://github.com/unkn0wnh4ckr/hackers-tool-kit): Its a framework filled with alot of options and hacking tools you use directly in the script from brute forcing to payload making im still adding more stuff i now have another tool out called htkl-lite its hackers-tool-kit just not as big and messy to see updates check on my instagram @tuf_unkn0wn or if there are any problems message me on instagram
