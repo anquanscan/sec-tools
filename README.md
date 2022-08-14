@@ -3374,4 +3374,5 @@
 [GourdScanV2](https://github.com/ysrc/GourdScanV2): 被动式漏洞扫描系统  
 [doona](https://github.com/wireghoul/doona): Network based protocol fuzzer  
 [assisted-log-enabler-for-aws](https://github.com/awslabs/assisted-log-enabler-for-aws): Assisted Log Enabler for AWS  - Find AWS resources that are not logging, and turn them on.  
-[exim-rce-cve-2018-6789](https://github.com/martinclauss/exim-rce-cve-2018-6789): This repository provides a learning environment to understand how an Exim RCE exploit for CVE-2018-6789 works.
+[exim-rce-cve-2018-6789](https://github.com/martinclauss/exim-rce-cve-2018-6789): This repository provides a learning environment to understand how an Exim RCE exploit for CVE-2018-6789 works.  
+[CVE-2019-1253](https://github.com/sgabe/CVE-2019-1253): AppXSvc Arbitrary File Security Descriptor Overwrite EoP
