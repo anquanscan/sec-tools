@@ -3372,4 +3372,5 @@
 [Redcloud](https://github.com/khast3x/Redcloud): Automated Red Team Infrastructure deployement using Docker  
 [keyctl-unmask](https://github.com/antitree/keyctl-unmask): Going Florida on container keyring masks. A tool to demonstrate the ineffectivity containers have on isolating Linux Kernel keyrings.  
 [GourdScanV2](https://github.com/ysrc/GourdScanV2): 被动式漏洞扫描系统  
-[doona](https://github.com/wireghoul/doona): Network based protocol fuzzer
+[doona](https://github.com/wireghoul/doona): Network based protocol fuzzer  
+[assisted-log-enabler-for-aws](https://github.com/awslabs/assisted-log-enabler-for-aws): Assisted Log Enabler for AWS  - Find AWS resources that are not logging, and turn them on.
