@@ -3395,4 +3395,5 @@
 [m.app](https://github.com/4k-developer/m.app): m.app (Malicious App) - Google Chrome apps and extensions that have malicious code  
 [k-rail](https://github.com/cruise-automation/k-rail): Kubernetes security tool for policy enforcement  
 [CVE-2018-16763-FuelCMS-1.4.1-RCE](https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE): Exploit to trigger RCE for CVE-2018-16763 on FuelCMS <= 1.4.1 and interactive shell.   
-[ansible-privilege-escalation](https://github.com/iamnasef/ansible-privilege-escalation): ansible-privilege-escalation is an ansible playbook you can use to make linux privilege escalation attack from user A to user B
+[ansible-privilege-escalation](https://github.com/iamnasef/ansible-privilege-escalation): ansible-privilege-escalation is an ansible playbook you can use to make linux privilege escalation attack from user A to user B  
+[pycDcode](https://github.com/BarakAharoni/pycDcode): Python PYC file analysis using bytecode decompilation.
