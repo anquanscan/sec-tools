@@ -3295,4 +3295,5 @@
 [nimc2](https://github.com/d4rckh/nimc2): a c2 fully written in nim  
 [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy): A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server.   
 [vulscanpro](https://github.com/thenurhabib/vulscanpro): Automatic Web Vulnerability Scanner.  
-[cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin
+[cutter](https://github.com/rizinorg/cutter): Free and Open Source Reverse Engineering Platform powered by rizin  
+[gotestwaf](https://github.com/wallarm/gotestwaf): An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses
