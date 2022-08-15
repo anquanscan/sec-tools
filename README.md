@@ -3428,4 +3428,5 @@
 [CTF-Practice](https://github.com/HaxonicOfficial/CTF-Practice): CTF problems for the practice of Beginners in Cyber Forensics.  
 [Favicon_Recon](https://github.com/BlackSnufkin/Favicon_Recon): Search in shodan foe relted hosts with the same hash of the favicon of website  
 [Machine-Learning-approach-for-Malware-Detection](https://github.com/surajr/Machine-Learning-approach-for-Malware-Detection): A Machine Learning approach for classifying a file as Malicious or Legitimate  
-[node-opcua](https://github.com/node-opcua/node-opcua): an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/
+[node-opcua](https://github.com/node-opcua/node-opcua): an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/  
+[black-hat-python3-code](https://github.com/edoardottt/black-hat-python3-code): 🏴‍☠️ tools (py3 version) of Black Hat Python book 🏴‍☠️
