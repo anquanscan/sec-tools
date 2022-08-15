@@ -3458,4 +3458,5 @@
 [dorky](https://github.com/garthhumphreys/dorky): Dorky is a tool to automate [Google Dorking](https://en.wikipedia.org/wiki/Google_hacking)  
 [CamPhish](https://github.com/techchipnet/CamPhish): Grab cam shots from target's phone front camera or PC webcam just sending a link.  
 [protravel](https://github.com/Sjord/protravel): Recursively exploit path traversal vulnerability  
-[Besder-6024PB-XMA501-ip-camera-security-investigation](https://github.com/KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation): Security investigation of Besder 6024PB-XMA501 ip camera.
+[Besder-6024PB-XMA501-ip-camera-security-investigation](https://github.com/KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation): Security investigation of Besder 6024PB-XMA501 ip camera.  
+[Bluetooth-Unlock](https://github.com/LethalEthan/Bluetooth-Unlock): Simple script to unlock your Linux based Computer using a Bluetooth device when nearby
