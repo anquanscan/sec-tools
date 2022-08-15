@@ -3403,4 +3403,5 @@
 [GIT_THEM](https://github.com/Clutchisback1/GIT_THEM): Just a quick and dirty little script import all the github goodies I like to play with.  
 [gsvsoc_cybersecurity-incident-response-plan](https://github.com/guardsight/gsvsoc_cybersecurity-incident-response-plan): Cybersecurity Incident Response Plan  
 [DigiSparkBadUSB](https://github.com/neogret/DigiSparkBadUSB): DigiSpark like a UsbRubberDucky: with a USB drive as storage device.  
-[LogMePwn](https://github.com/0xInfection/LogMePwn): A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.
+[LogMePwn](https://github.com/0xInfection/LogMePwn): A fully automated, reliable, super-fast, mass scanning and validation toolkit for the Log4J RCE CVE-2021-44228 vulnerability.  
+[chan-vy](https://github.com/oanderoficial/chan-vy): Chan-vy é um script que baixa o código-fonte de todas as ferramentas disponíveis no Kali Linux, direto dos seus repositórios oficiais e de repositórios confiáveis.
