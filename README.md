@@ -3454,4 +3454,5 @@
 [supply-chain-goat](https://github.com/step-security/supply-chain-goat): 🐐Hands-on tutorials to learn about software supply chain security  
 [Ticketbleed](https://github.com/EgeBalci/Ticketbleed): This is a tool for exploiting Ticketbleed (CVE-2016-9244) vulnerability.  
 [Swift-Keylogger](https://github.com/SkrewEverything/Swift-Keylogger): Keylogger for mac written in Swift using HID  
-[Splunk-Cyences-App-for-Splunk](https://github.com/VatsalJagani/Splunk-Cyences-App-for-Splunk): Cyences App (Cyber Defense) built by CrossRealms International - https://splunkbase.splunk.com/app/5351/
+[Splunk-Cyences-App-for-Splunk](https://github.com/VatsalJagani/Splunk-Cyences-App-for-Splunk): Cyences App (Cyber Defense) built by CrossRealms International - https://splunkbase.splunk.com/app/5351/  
+[dorky](https://github.com/garthhumphreys/dorky): Dorky is a tool to automate [Google Dorking](https://en.wikipedia.org/wiki/Google_hacking)
