@@ -3453,4 +3453,5 @@
 [wp-sniff](https://github.com/alexmacarthur/wp-sniff): A Python script that searches a site's source code for signs that it runs on WordPress.  
 [supply-chain-goat](https://github.com/step-security/supply-chain-goat): 🐐Hands-on tutorials to learn about software supply chain security  
 [Ticketbleed](https://github.com/EgeBalci/Ticketbleed): This is a tool for exploiting Ticketbleed (CVE-2016-9244) vulnerability.  
-[Swift-Keylogger](https://github.com/SkrewEverything/Swift-Keylogger): Keylogger for mac written in Swift using HID
+[Swift-Keylogger](https://github.com/SkrewEverything/Swift-Keylogger): Keylogger for mac written in Swift using HID  
+[Splunk-Cyences-App-for-Splunk](https://github.com/VatsalJagani/Splunk-Cyences-App-for-Splunk): Cyences App (Cyber Defense) built by CrossRealms International - https://splunkbase.splunk.com/app/5351/
