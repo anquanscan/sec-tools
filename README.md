@@ -3397,4 +3397,5 @@
 [CVE-2018-16763-FuelCMS-1.4.1-RCE](https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE): Exploit to trigger RCE for CVE-2018-16763 on FuelCMS <= 1.4.1 and interactive shell.   
 [ansible-privilege-escalation](https://github.com/iamnasef/ansible-privilege-escalation): ansible-privilege-escalation is an ansible playbook you can use to make linux privilege escalation attack from user A to user B  
 [pycDcode](https://github.com/BarakAharoni/pycDcode): Python PYC file analysis using bytecode decompilation.  
-[AFLplusplus](https://github.com/AFLplusplus/AFLplusplus): The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+[AFLplusplus](https://github.com/AFLplusplus/AFLplusplus): The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!  
+[FaceRecognitionSecurity](https://github.com/aydinnyunus/FaceRecognitionSecurity): Face Recognition Security
