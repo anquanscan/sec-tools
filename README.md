@@ -3449,4 +3449,5 @@
 [Hacker_Social_Networks](https://github.com/SOUMAJYOTI/Hacker_Social_Networks): Mining user networks for predicting cyber attacks  
 [OpenUBA](https://github.com/GACWR/OpenUBA): A robust, and flexible open source User & Entity Behavior Analytics (UEBA) framework used for Security Analytics. Developed with luv by Data Scientists & Security Analysts from the Cyber Security Industry. [PRE-ALPHA]  
 [solr-injection](https://github.com/veracode-research/solr-injection): Apache Solr Injection Research  
-[teye_scanner_for_book](https://github.com/imiyoo2010/teye_scanner_for_book): 《白帽子讲Web扫描》书籍参考代码
+[teye_scanner_for_book](https://github.com/imiyoo2010/teye_scanner_for_book): 《白帽子讲Web扫描》书籍参考代码  
+[wp-sniff](https://github.com/alexmacarthur/wp-sniff): A Python script that searches a site's source code for signs that it runs on WordPress.
