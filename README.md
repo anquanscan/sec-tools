@@ -3443,4 +3443,5 @@
 [qnsm](https://github.com/iqiyi/qnsm): QNSM is network security monitoring framework based on DPDK.  
 [Phishing-URL-Detector](https://github.com/srimani-programmer/Phishing-URL-Detector):  A Flask Based Web Application which is used to detect the phishing URL's.  
 [bank-vaults](https://github.com/banzaicloud/bank-vaults): A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.  
-[box-Staff-Manager](https://github.com/boxproject/box-Staff-Manager): Employee App is used for initialize transactions, user management, authorise flow so that enteripise digital assets can be managed by stakeholders and partners.
+[box-Staff-Manager](https://github.com/boxproject/box-Staff-Manager): Employee App is used for initialize transactions, user management, authorise flow so that enteripise digital assets can be managed by stakeholders and partners.  
+[blackhat-python3](https://github.com/EONRaider/blackhat-python3): Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.
