@@ -3436,4 +3436,5 @@
 [Raptor](https://github.com/HJ23/Raptor): Passive subdomain enumeration tool with http-probe.  
 [NXLoader](https://github.com/DavidBuchanan314/NXLoader): My first Android app: Launch Fusée Gelée payloads from stock Android (CVE-2018-6242)  
 [bromite](https://github.com/bromite/bromite): Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!  
-[Code-Injector](https://github.com/cr7pt0pl4gu3/Code-Injector): Simple Linux Code-Injector by Ravehorn. Built using SNFQ.
+[Code-Injector](https://github.com/cr7pt0pl4gu3/Code-Injector): Simple Linux Code-Injector by Ravehorn. Built using SNFQ.  
+[CVE-2020-8816](https://github.com/team0se7en/CVE-2020-8816): Pi-hole ( <= 4.3.2)  authenticated remote code execution.
