@@ -3430,4 +3430,5 @@
 [Machine-Learning-approach-for-Malware-Detection](https://github.com/surajr/Machine-Learning-approach-for-Malware-Detection): A Machine Learning approach for classifying a file as Malicious or Legitimate  
 [node-opcua](https://github.com/node-opcua/node-opcua): an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/  
 [black-hat-python3-code](https://github.com/edoardottt/black-hat-python3-code): 🏴‍☠️ tools (py3 version) of Black Hat Python book 🏴‍☠️  
-[awesome-DGA](https://github.com/chhayac/awesome-DGA): Domain Generation Algorithms research papers, datasets and code
+[awesome-DGA](https://github.com/chhayac/awesome-DGA): Domain Generation Algorithms research papers, datasets and code  
+[CVE-2020-1472](https://github.com/VoidSec/CVE-2020-1472): Exploit Code for CVE-2020-1472 aka Zerologon
