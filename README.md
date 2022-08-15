@@ -3434,4 +3434,5 @@
 [CVE-2020-1472](https://github.com/VoidSec/CVE-2020-1472): Exploit Code for CVE-2020-1472 aka Zerologon  
 [utsanjan](https://github.com/utsanjan/utsanjan): Utsanjan's GitHub Profile Bio  
 [Raptor](https://github.com/HJ23/Raptor): Passive subdomain enumeration tool with http-probe.  
-[NXLoader](https://github.com/DavidBuchanan314/NXLoader): My first Android app: Launch Fusée Gelée payloads from stock Android (CVE-2018-6242)
+[NXLoader](https://github.com/DavidBuchanan314/NXLoader): My first Android app: Launch Fusée Gelée payloads from stock Android (CVE-2018-6242)  
+[bromite](https://github.com/bromite/bromite): Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
