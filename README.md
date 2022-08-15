@@ -3414,4 +3414,5 @@
 [SkyArk](https://github.com/cyberark/SkyArk): SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS  
 [EvilTwinFramework](https://github.com/Esser50K/EvilTwinFramework): A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities  
 [wasabi-aeg](https://github.com/macaron-et/wasabi-aeg): Yet another implementation of AEG (Automated Exploit Generation) using symbolic execution engine Triton.   
-[mksub](https://github.com/trickest/mksub): Generate tens of thousands of subdomain combinations in a matter of seconds
+[mksub](https://github.com/trickest/mksub): Generate tens of thousands of subdomain combinations in a matter of seconds  
+[target-blank-vulnerabilities-features](https://github.com/apal21/target-blank-vulnerabilities-features): Examples of some features and the vulnerabilities that can exploit any webpage if target="_blank" is used without rel="noopener"
