@@ -3412,4 +3412,5 @@
 [chaos-ctf](https://github.com/rdvdev2/chaos-ctf): A simple 5 level CTF  
 [CepFinder](https://github.com/CybeSecurityOficial/CepFinder): CepFinder é uma tool feita para consultar CEP (codigo postal brasileiro), ela foi feita em Python usando a lib Requests para fazer o request para a API Viacep  
 [SkyArk](https://github.com/cyberark/SkyArk): SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS  
-[EvilTwinFramework](https://github.com/Esser50K/EvilTwinFramework): A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities
+[EvilTwinFramework](https://github.com/Esser50K/EvilTwinFramework): A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities  
+[wasabi-aeg](https://github.com/macaron-et/wasabi-aeg): Yet another implementation of AEG (Automated Exploit Generation) using symbolic execution engine Triton. 
