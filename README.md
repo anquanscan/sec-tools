@@ -3425,4 +3425,5 @@
 [powershell-credential-encryption-tools](https://github.com/bitsofinfo/powershell-credential-encryption-tools): Set of small tools for managing AES encrypted credentials for powershell scripts  
 [gsvsoc_cirt-playbook-battle-cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards): Cyber Incident Response Team Playbook Battle Cards  
 [voicemailautomator](https://github.com/martinvigo/voicemailautomator): A tool that serves as a Proof of Concept for the research I presented at DEF CON 26, "Compromising online accounts by cracking voicemail systems"  
-[CTF-Practice](https://github.com/HaxonicOfficial/CTF-Practice): CTF problems for the practice of Beginners in Cyber Forensics.
+[CTF-Practice](https://github.com/HaxonicOfficial/CTF-Practice): CTF problems for the practice of Beginners in Cyber Forensics.  
+[Favicon_Recon](https://github.com/BlackSnufkin/Favicon_Recon): Search in shodan foe relted hosts with the same hash of the favicon of website
