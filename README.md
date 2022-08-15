@@ -3441,4 +3441,5 @@
 [wolfMQTT](https://github.com/wolfSSL/wolfMQTT): wolfMQTT is a small, fast, portable MQTT client implementation, including support for TLS 1.3.  
 [lsd-pl-exploits](https://github.com/sepehrdaddev/lsd-pl-exploits)  
 [qnsm](https://github.com/iqiyi/qnsm): QNSM is network security monitoring framework based on DPDK.  
-[Phishing-URL-Detector](https://github.com/srimani-programmer/Phishing-URL-Detector):  A Flask Based Web Application which is used to detect the phishing URL's.
+[Phishing-URL-Detector](https://github.com/srimani-programmer/Phishing-URL-Detector):  A Flask Based Web Application which is used to detect the phishing URL's.  
+[bank-vaults](https://github.com/banzaicloud/bank-vaults): A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
