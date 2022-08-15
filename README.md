@@ -3461,4 +3461,5 @@
 [Besder-6024PB-XMA501-ip-camera-security-investigation](https://github.com/KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation): Security investigation of Besder 6024PB-XMA501 ip camera.  
 [Bluetooth-Unlock](https://github.com/LethalEthan/Bluetooth-Unlock): Simple script to unlock your Linux based Computer using a Bluetooth device when nearby  
 [pycryptodome](https://github.com/Legrandin/pycryptodome): A self-contained cryptographic library for Python  
-[osx-root-installer](https://github.com/dreadl0ck/osx-root-installer): OSX ElCapitan Privilege Escalation Proof Of Concept
+[osx-root-installer](https://github.com/dreadl0ck/osx-root-installer): OSX ElCapitan Privilege Escalation Proof Of Concept  
+[AspNet6IdentityServer4AngularOidcFlows](https://github.com/damienbod/AspNet6IdentityServer4AngularOidcFlows): OpenID Connect Code Flow PKCE /  Implicit Flow with Angular and ASP.NET Core 6 IdentityServer4
