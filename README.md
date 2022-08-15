@@ -3432,4 +3432,5 @@
 [black-hat-python3-code](https://github.com/edoardottt/black-hat-python3-code): 🏴‍☠️ tools (py3 version) of Black Hat Python book 🏴‍☠️  
 [awesome-DGA](https://github.com/chhayac/awesome-DGA): Domain Generation Algorithms research papers, datasets and code  
 [CVE-2020-1472](https://github.com/VoidSec/CVE-2020-1472): Exploit Code for CVE-2020-1472 aka Zerologon  
-[utsanjan](https://github.com/utsanjan/utsanjan): Utsanjan's GitHub Profile Bio
+[utsanjan](https://github.com/utsanjan/utsanjan): Utsanjan's GitHub Profile Bio  
+[Raptor](https://github.com/HJ23/Raptor): Passive subdomain enumeration tool with http-probe.
