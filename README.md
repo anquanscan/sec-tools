@@ -3439,4 +3439,5 @@
 [Code-Injector](https://github.com/cr7pt0pl4gu3/Code-Injector): Simple Linux Code-Injector by Ravehorn. Built using SNFQ.  
 [CVE-2020-8816](https://github.com/team0se7en/CVE-2020-8816): Pi-hole ( <= 4.3.2)  authenticated remote code execution.  
 [wolfMQTT](https://github.com/wolfSSL/wolfMQTT): wolfMQTT is a small, fast, portable MQTT client implementation, including support for TLS 1.3.  
-[lsd-pl-exploits](https://github.com/sepehrdaddev/lsd-pl-exploits)
+[lsd-pl-exploits](https://github.com/sepehrdaddev/lsd-pl-exploits)  
+[qnsm](https://github.com/iqiyi/qnsm): QNSM is network security monitoring framework based on DPDK.
