@@ -3460,4 +3460,5 @@
 [protravel](https://github.com/Sjord/protravel): Recursively exploit path traversal vulnerability  
 [Besder-6024PB-XMA501-ip-camera-security-investigation](https://github.com/KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation): Security investigation of Besder 6024PB-XMA501 ip camera.  
 [Bluetooth-Unlock](https://github.com/LethalEthan/Bluetooth-Unlock): Simple script to unlock your Linux based Computer using a Bluetooth device when nearby  
-[pycryptodome](https://github.com/Legrandin/pycryptodome): A self-contained cryptographic library for Python
+[pycryptodome](https://github.com/Legrandin/pycryptodome): A self-contained cryptographic library for Python  
+[osx-root-installer](https://github.com/dreadl0ck/osx-root-installer): OSX ElCapitan Privilege Escalation Proof Of Concept
