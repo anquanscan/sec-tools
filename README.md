@@ -3446,4 +3446,5 @@
 [box-Staff-Manager](https://github.com/boxproject/box-Staff-Manager): Employee App is used for initialize transactions, user management, authorise flow so that enteripise digital assets can be managed by stakeholders and partners.  
 [blackhat-python3](https://github.com/EONRaider/blackhat-python3): Source code for the book "Black Hat Python" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.  
 [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks): GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.  
-[Hacker_Social_Networks](https://github.com/SOUMAJYOTI/Hacker_Social_Networks): Mining user networks for predicting cyber attacks
+[Hacker_Social_Networks](https://github.com/SOUMAJYOTI/Hacker_Social_Networks): Mining user networks for predicting cyber attacks  
+[OpenUBA](https://github.com/GACWR/OpenUBA): A robust, and flexible open source User & Entity Behavior Analytics (UEBA) framework used for Security Analytics. Developed with luv by Data Scientists & Security Analysts from the Cyber Security Industry. [PRE-ALPHA]
