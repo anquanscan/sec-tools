@@ -3422,4 +3422,5 @@
 [BerylEnigma](https://github.com/ffffffff0x/BerylEnigma): 一个为渗透测试与CTF而制作的工具集，主要实现一些加解密的功能。  
 [VulnPOC](https://github.com/mu0gua/VulnPOC): POC Repository  
 [W3knd](https://github.com/W3knd/W3knd): Hey,I'm the W3knd you get it like the weekend  anyway ah welcome to my GitHub don't know how you got here but stick around if you want to.  
-[powershell-credential-encryption-tools](https://github.com/bitsofinfo/powershell-credential-encryption-tools): Set of small tools for managing AES encrypted credentials for powershell scripts
+[powershell-credential-encryption-tools](https://github.com/bitsofinfo/powershell-credential-encryption-tools): Set of small tools for managing AES encrypted credentials for powershell scripts  
+[gsvsoc_cirt-playbook-battle-cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards): Cyber Incident Response Team Playbook Battle Cards
