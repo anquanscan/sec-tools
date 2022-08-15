@@ -3452,4 +3452,5 @@
 [teye_scanner_for_book](https://github.com/imiyoo2010/teye_scanner_for_book): 《白帽子讲Web扫描》书籍参考代码  
 [wp-sniff](https://github.com/alexmacarthur/wp-sniff): A Python script that searches a site's source code for signs that it runs on WordPress.  
 [supply-chain-goat](https://github.com/step-security/supply-chain-goat): 🐐Hands-on tutorials to learn about software supply chain security  
-[Ticketbleed](https://github.com/EgeBalci/Ticketbleed): This is a tool for exploiting Ticketbleed (CVE-2016-9244) vulnerability.
+[Ticketbleed](https://github.com/EgeBalci/Ticketbleed): This is a tool for exploiting Ticketbleed (CVE-2016-9244) vulnerability.  
+[Swift-Keylogger](https://github.com/SkrewEverything/Swift-Keylogger): Keylogger for mac written in Swift using HID
