@@ -3563,4 +3563,5 @@
 [chipwhisperer](https://github.com/newaetech/chipwhisperer): ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks  
 [toh](https://github.com/EtherDream/toh): TCP over HTTP. 隐藏网站的管理服务  
 [linux-privilege-escalation](https://github.com/rexpository/linux-privilege-escalation): Scripted Linux Privilege Escalation for the CVE-2022-0847 "Dirty Pipe" vulnerability  
-[LP3](https://github.com/iamrohitsuthar/LP3): SPPU BE COMP LP3 Codes - Machine Learning (ML) and Information and Cyber Security (ICS) 
+[LP3](https://github.com/iamrohitsuthar/LP3): SPPU BE COMP LP3 Codes - Machine Learning (ML) and Information and Cyber Security (ICS)   
+[Ultimate-Hacker-Roadmap](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap): Don't know what to focus on to become a Penetration Tester..? This is the BEST roadmap for becoming a modern penetration tester.  Everything you need to know to land a paying job, categorized in 5 skill levels.
