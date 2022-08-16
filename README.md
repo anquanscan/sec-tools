@@ -3476,4 +3476,5 @@
 [instagram-hacking-tool](https://github.com/SwetabhOfficial/instagram-hacking-tool): Instagram Hacking Tool is a phishing tool, it will help you to hack Instagram Accounts using fake login page.  
 [Malware-Development](https://github.com/AhmedRaja1/Malware-Development): Malware Development  
 [w3a_SOC](https://github.com/smarttang/w3a_SOC): 元豚科技 - 基于日志安全分析做切入，做最好用的「云原生安全运维工作台」  
-[kubeclarity](https://github.com/openclarity/kubeclarity): KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+[kubeclarity](https://github.com/openclarity/kubeclarity): KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems  
+[steady](https://github.com/eclipse/steady): Analyses your Java and Python applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://eclipse.github.io/steady/
