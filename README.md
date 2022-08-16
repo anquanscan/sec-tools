@@ -3506,4 +3506,5 @@
 [hack-this](https://github.com/lambdacasserole/hack-this): A collection of common web programming security mistakes.  
 [PasswordManager](https://github.com/cout970/PasswordManager): Password manager that doesn't need to store credencials  
 [screenMelter](https://github.com/aliberro39109/screenMelter): A simple C++ program that uses GDI to mimic the effect of screen being melt.  
-[wordpress-malware](https://github.com/stefanpejcic/wordpress-malware): Collection of malware files found on WordPress sites
+[wordpress-malware](https://github.com/stefanpejcic/wordpress-malware): Collection of malware files found on WordPress sites  
+[EIMI](https://github.com/KM-11/EIMI): Multiarchitecture platform designed for IoT malware execution, characterization and classification.
