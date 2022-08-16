@@ -3559,4 +3559,5 @@
 [callow](https://github.com/maximousblk/callow): Dead simple brute force tool for website login forms  
 [apache-http-logs](https://github.com/ocatak/apache-http-logs): to detect vulnerability scans, XSS and SQLI attacks, examine access log files for detections.  
 [wrathofeagle](https://github.com/Luigi632-qc/wrathofeagle): Guida sulle vulnerabilità e sull'analisi di esse.  
-[CVE-2021-3345](https://github.com/MLGRadish/CVE-2021-3345): POC exploit of CVE-2021-3345, a vulnerability in libgcrypt version 1.9.0
+[CVE-2021-3345](https://github.com/MLGRadish/CVE-2021-3345): POC exploit of CVE-2021-3345, a vulnerability in libgcrypt version 1.9.0  
+[chipwhisperer](https://github.com/newaetech/chipwhisperer): ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks
