@@ -3494,4 +3494,5 @@
 [Apache-Struts-2.5-RCE-Exploit](https://github.com/h4x0r-dz/Apache-Struts-2.5-RCE-Exploit)  
 [LogAnalysisBeta](https://github.com/lorenzo-papa/LogAnalysisBeta): LogAnalysisTool: provide a new approach for pattern attack search and for calculation of severity of logins in Linux's Wtmp, Btmp and Secure log. Searched patterns: Brute Force, Password Spraying. Also check of IPWhois and Reputation.  
 [4_security_Wi-Fi](https://github.com/ryuuzaki42/4_security_Wi-Fi): Alguns testes com Wi-Fi (e.g., WEP, WPA e WPA2) e os  programas usado compilados para Slackware  
-[curiefense](https://github.com/curiefense/curiefense): Curiefense is a unified, open source platform protecting cloud native applications.
+[curiefense](https://github.com/curiefense/curiefense): Curiefense is a unified, open source platform protecting cloud native applications.  
+[tg-nearby](https://github.com/JoogsWasTaken/tg-nearby): Using Telegram's "People Nearby" feature to pinpoint people (technically) around the globe
