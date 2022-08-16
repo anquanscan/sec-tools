@@ -3566,4 +3566,5 @@
 [LP3](https://github.com/iamrohitsuthar/LP3): SPPU BE COMP LP3 Codes - Machine Learning (ML) and Information and Cyber Security (ICS)   
 [Ultimate-Hacker-Roadmap](https://github.com/Kennyslaboratory/Ultimate-Hacker-Roadmap): Don't know what to focus on to become a Penetration Tester..? This is the BEST roadmap for becoming a modern penetration tester.  Everything you need to know to land a paying job, categorized in 5 skill levels.  
 [Omnispray](https://github.com/0xZDH/Omnispray): Modular Enumeration and Password Spraying Framework  
-[rimrafall](https://github.com/joaojeronimo/rimrafall): npm install could be dangerous
+[rimrafall](https://github.com/joaojeronimo/rimrafall): npm install could be dangerous  
+[prada-protecting-against-dnn-model-stealing-attacks](https://github.com/SSGAalto/prada-protecting-against-dnn-model-stealing-attacks): Reference implementation of the PRADA model stealing defense.
