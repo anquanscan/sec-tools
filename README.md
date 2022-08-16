@@ -3540,4 +3540,5 @@
 [broxy](https://github.com/rhaidiz/broxy): An HTTP/HTTPS intercept proxy written in Go.  
 [42Cyber](https://github.com/somedevv/42Cyber): Index repository for all the work I do at the Cybersecutiry Bootcamp of 42 Madrid Fundación Telefónica  
 [uspno.9](https://github.com/lojikil/uspno.9): Unnamed SymbEx Project No. 9  
-[docker-misp](https://github.com/coolacid/docker-misp): A (nearly) production ready Dockered MISP
+[docker-misp](https://github.com/coolacid/docker-misp): A (nearly) production ready Dockered MISP  
+[kit_hunter](https://github.com/SteveD3/kit_hunter): A basic phishing kit scanner for dedicated and semi-dedicated hosting 
