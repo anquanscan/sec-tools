@@ -3521,4 +3521,5 @@
 [bulwark](https://github.com/softrams/bulwark): An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.  
 [RSF](https://github.com/aliasrobotics/RSF): The Robot Security Framework (RSF), Robot Security Framework (RSF), a standardized methodology to perform security assessments in robotics.  
 [vulnerable-python-contrast](https://github.com/mowsec/vulnerable-python-contrast): A sample vulnerable Python Flask application instrumented with the Contrast Security Agent. Used for evaluating the Contrast Security agent and platform.  
-[xsymlink](https://github.com/Xenomega/xsymlink): Xbox One Symbolic Link Exploit: Access restricted/encrypted volumes using the Xbox File Explorer.
+[xsymlink](https://github.com/Xenomega/xsymlink): Xbox One Symbolic Link Exploit: Access restricted/encrypted volumes using the Xbox File Explorer.  
+[DefGen](https://github.com/Err0r-ICA/DefGen): Deface HTML Page Generator
