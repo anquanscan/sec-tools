@@ -3561,4 +3561,5 @@
 [wrathofeagle](https://github.com/Luigi632-qc/wrathofeagle): Guida sulle vulnerabilità e sull'analisi di esse.  
 [CVE-2021-3345](https://github.com/MLGRadish/CVE-2021-3345): POC exploit of CVE-2021-3345, a vulnerability in libgcrypt version 1.9.0  
 [chipwhisperer](https://github.com/newaetech/chipwhisperer): ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks  
-[toh](https://github.com/EtherDream/toh): TCP over HTTP. 隐藏网站的管理服务
+[toh](https://github.com/EtherDream/toh): TCP over HTTP. 隐藏网站的管理服务  
+[linux-privilege-escalation](https://github.com/rexpository/linux-privilege-escalation): Scripted Linux Privilege Escalation for the CVE-2022-0847 "Dirty Pipe" vulnerability
