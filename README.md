@@ -3473,4 +3473,5 @@
 [K9-BruteForcer](https://github.com/avdaredevil/K9-BruteForcer): Bruteforces a common security suite [BlueCoat K9 Web Protection] used to protect large scale network environments from different types of internet traffic.  
 [apiosintDS](https://github.com/davidonzo/apiosintDS): On demand query API for https://github.com/davidonzo/Threat-Intel project.  
 [MTJailed-Native](https://github.com/MTJailed/MTJailed-Native): A terminal emulator with remote shell for non-jailbroken iOS devices  
-[instagram-hacking-tool](https://github.com/SwetabhOfficial/instagram-hacking-tool): Instagram Hacking Tool is a phishing tool, it will help you to hack Instagram Accounts using fake login page.
+[instagram-hacking-tool](https://github.com/SwetabhOfficial/instagram-hacking-tool): Instagram Hacking Tool is a phishing tool, it will help you to hack Instagram Accounts using fake login page.  
+[Malware-Development](https://github.com/AhmedRaja1/Malware-Development): Malware Development
