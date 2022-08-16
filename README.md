@@ -3478,4 +3478,5 @@
 [w3a_SOC](https://github.com/smarttang/w3a_SOC): 元豚科技 - 基于日志安全分析做切入，做最好用的「云原生安全运维工作台」  
 [kubeclarity](https://github.com/openclarity/kubeclarity): KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems  
 [steady](https://github.com/eclipse/steady): Analyses your Java and Python applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://eclipse.github.io/steady/  
-[Mikrotik-Blacklist](https://github.com/pwlgrzs/Mikrotik-Blacklist): Mikrotik friendly blacklist to filter all these damn hackers.
+[Mikrotik-Blacklist](https://github.com/pwlgrzs/Mikrotik-Blacklist): Mikrotik friendly blacklist to filter all these damn hackers.  
+[typedb-cti](https://github.com/typedb-osi/typedb-cti): Open Source Threat Intelligence Platform
