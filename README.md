@@ -3527,4 +3527,5 @@
 [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail): Email recon made fast and easy, with a framework to build on  
 [CVE-2021-31159](https://github.com/ricardojoserf/CVE-2021-31159): Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) - https://ricardojoserf.github.io/CVE-2021-31159/  
 [GoogleITCourse](https://github.com/rakibhhridoy/GoogleITCourse): This is a hands on specialization of Coursera Google IT Support Professional Certifications   
-[rc4-variants](https://github.com/slightlyskepticalpotat/rc4-variants): Sample Python 3 implementation of various RC4 variants, including regular RC4 (ARC4), RC4A, and RC4-drop[n] (MARK-4). RC4A uses two state arrays and keys instead as one, whereas RC4-drop[n] discards the first n bytes of the keystream after key scheduling to improve security.
+[rc4-variants](https://github.com/slightlyskepticalpotat/rc4-variants): Sample Python 3 implementation of various RC4 variants, including regular RC4 (ARC4), RC4A, and RC4-drop[n] (MARK-4). RC4A uses two state arrays and keys instead as one, whereas RC4-drop[n] discards the first n bytes of the keystream after key scheduling to improve security.  
+[tabby](https://github.com/wh1t3p1g/tabby): A CAT called tabby ( Code Analysis Tool )
