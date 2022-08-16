@@ -3474,4 +3474,5 @@
 [apiosintDS](https://github.com/davidonzo/apiosintDS): On demand query API for https://github.com/davidonzo/Threat-Intel project.  
 [MTJailed-Native](https://github.com/MTJailed/MTJailed-Native): A terminal emulator with remote shell for non-jailbroken iOS devices  
 [instagram-hacking-tool](https://github.com/SwetabhOfficial/instagram-hacking-tool): Instagram Hacking Tool is a phishing tool, it will help you to hack Instagram Accounts using fake login page.  
-[Malware-Development](https://github.com/AhmedRaja1/Malware-Development): Malware Development
+[Malware-Development](https://github.com/AhmedRaja1/Malware-Development): Malware Development  
+[w3a_SOC](https://github.com/smarttang/w3a_SOC): 元豚科技 - 基于日志安全分析做切入，做最好用的「云原生安全运维工作台」
