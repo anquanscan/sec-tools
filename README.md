@@ -3532,4 +3532,5 @@
 [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide): Guide to using YubiKey for GPG and SSH  
 [Vulnerability-Analysis](https://github.com/rainmakerho/Vulnerability-Analysis): 多收集一些資安檢測問題， 來跟大家討論它是否真的需要修正， 或是用什麼方式俢正會來得比較好。  
 [ronin](https://github.com/ronin-rb/ronin): Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories.  
-[Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows): A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
+[Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows): A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.  
+[Python-shell-cheat-sheet](https://github.com/shelld3v/Python-shell-cheat-sheet): Full python reverse shell and bind shell payloads
