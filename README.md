@@ -3498,4 +3498,5 @@
 [tg-nearby](https://github.com/JoogsWasTaken/tg-nearby): Using Telegram's "People Nearby" feature to pinpoint people (technically) around the globe  
 [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit): This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.  
 [cybersecurity-JavaFX](https://github.com/SergeyMyssak/cybersecurity-JavaFX): E-textbook on the "Cybersecurity" course (JavaFX)  
-[ctf-party](https://github.com/Orange-Cyberdefense/ctf-party): :flags: A library to enhance and speed up script/exploit writing for CTF players
+[ctf-party](https://github.com/Orange-Cyberdefense/ctf-party): :flags: A library to enhance and speed up script/exploit writing for CTF players  
+[criptowiki](https://github.com/criptowiki/criptowiki): criptowiki official website
