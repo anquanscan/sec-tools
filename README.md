@@ -3501,4 +3501,5 @@
 [ctf-party](https://github.com/Orange-Cyberdefense/ctf-party): :flags: A library to enhance and speed up script/exploit writing for CTF players  
 [criptowiki](https://github.com/criptowiki/criptowiki): criptowiki official website  
 [readhook](https://github.com/PLEXSolutions/readhook): Red-team tool to hook libc read syscall with a buffer overflow vulnerability.  
-[sig-716i](https://github.com/Narasimha1997/sig-716i): A CLI tool that can be used to disrupt wireless connectivity in your area by jamming all the wireless devices connected to multiple access points.
+[sig-716i](https://github.com/Narasimha1997/sig-716i): A CLI tool that can be used to disrupt wireless connectivity in your area by jamming all the wireless devices connected to multiple access points.  
+[CVE-2021-3560-Polkit-DBus](https://github.com/f4T1H21/CVE-2021-3560-Polkit-DBus): f4T1H's PoC script for CVE-2021-3560 Polkit D-Bus Privilege Escalation
