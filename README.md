@@ -3491,4 +3491,5 @@
 [Cyberattack-detection-with-AI](https://github.com/franckdeturchedura/Cyberattack-detection-with-AI): Feed Forward Neural Network (FFNN) visant à détecter une cyber attaque sur une VM par l'analyse de sondes.  
 [ChopChop](https://github.com/michelin/ChopChop): ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.   
 [cytrone](https://github.com/crond-jaist/cytrone): CyTrONE: Integrated Cybersecurity Training Framework  
-[Apache-Struts-2.5-RCE-Exploit](https://github.com/h4x0r-dz/Apache-Struts-2.5-RCE-Exploit)
+[Apache-Struts-2.5-RCE-Exploit](https://github.com/h4x0r-dz/Apache-Struts-2.5-RCE-Exploit)  
+[LogAnalysisBeta](https://github.com/lorenzo-papa/LogAnalysisBeta): LogAnalysisTool: provide a new approach for pattern attack search and for calculation of severity of logins in Linux's Wtmp, Btmp and Secure log. Searched patterns: Brute Force, Password Spraying. Also check of IPWhois and Reputation.
