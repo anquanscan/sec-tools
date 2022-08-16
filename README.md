@@ -3544,4 +3544,5 @@
 [kit_hunter](https://github.com/SteveD3/kit_hunter): A basic phishing kit scanner for dedicated and semi-dedicated hosting   
 [cyberanom](https://github.com/genimind/cyberanom): Cyber Anomaly Detection using RNN Language model  
 [cybersecurity-roadmap](https://github.com/jassics/cybersecurity-roadmap): Cybersecurity skills, job roles and career roadmap with the starting points and guidelines, resources, etc.  
-[hackerone-reports](https://github.com/reddelexc/hackerone-reports): Top disclosed reports from HackerOne
+[hackerone-reports](https://github.com/reddelexc/hackerone-reports): Top disclosed reports from HackerOne  
+[CamRaptor](https://github.com/EntySec/CamRaptor): CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials.
