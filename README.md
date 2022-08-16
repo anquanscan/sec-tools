@@ -3522,4 +3522,5 @@
 [RSF](https://github.com/aliasrobotics/RSF): The Robot Security Framework (RSF), Robot Security Framework (RSF), a standardized methodology to perform security assessments in robotics.  
 [vulnerable-python-contrast](https://github.com/mowsec/vulnerable-python-contrast): A sample vulnerable Python Flask application instrumented with the Contrast Security Agent. Used for evaluating the Contrast Security agent and platform.  
 [xsymlink](https://github.com/Xenomega/xsymlink): Xbox One Symbolic Link Exploit: Access restricted/encrypted volumes using the Xbox File Explorer.  
-[DefGen](https://github.com/Err0r-ICA/DefGen): Deface HTML Page Generator
+[DefGen](https://github.com/Err0r-ICA/DefGen): Deface HTML Page Generator  
+[angular-sso](https://github.com/hamza-ml/angular-sso): OAuth 2 and OpenId Connect in an angular application using login via Code Flow w.r.t PKCE for user login.
