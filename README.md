@@ -3513,4 +3513,5 @@
 [LinPwn](https://github.com/3XPL017/LinPwn): Interactive Post Exploitation Tool  
 [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub): 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.  
 [trickster](https://github.com/neg4n/trickster): user-friendly linux memory hacking library  
-[dockovpn](https://github.com/dockovpn/dockovpn): 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
+[dockovpn](https://github.com/dockovpn/dockovpn): 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds  
+[magpie](https://github.com/openraven/magpie): A Cloud Security Posture Manager or CSPM with a focus on security analysis for the modern cloud stack and a focus on the emerging threat landscape such as cloud ransomware and supply chain attacks. 
