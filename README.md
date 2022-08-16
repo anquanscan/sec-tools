@@ -3525,4 +3525,5 @@
 [DefGen](https://github.com/Err0r-ICA/DefGen): Deface HTML Page Generator  
 [angular-sso](https://github.com/hamza-ml/angular-sso): OAuth 2 and OpenId Connect in an angular application using login via Code Flow w.r.t PKCE for user login.  
 [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail): Email recon made fast and easy, with a framework to build on  
-[CVE-2021-31159](https://github.com/ricardojoserf/CVE-2021-31159): Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) - https://ricardojoserf.github.io/CVE-2021-31159/
+[CVE-2021-31159](https://github.com/ricardojoserf/CVE-2021-31159): Zoho ManageEngine ServiceDesk Plus MSP - Active Directory User Enumeration (CVE-2021-31159) - https://ricardojoserf.github.io/CVE-2021-31159/  
+[GoogleITCourse](https://github.com/rakibhhridoy/GoogleITCourse): This is a hands on specialization of Coursera Google IT Support Professional Certifications 
