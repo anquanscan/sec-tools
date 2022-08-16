@@ -3534,4 +3534,5 @@
 [ronin](https://github.com/ronin-rb/ronin): Ronin is a Ruby platform for vulnerability research and exploit development. Ronin allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories.  
 [Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows): A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.  
 [Python-shell-cheat-sheet](https://github.com/shelld3v/Python-shell-cheat-sheet): Full python reverse shell and bind shell payloads  
-[gophish](https://github.com/gophish/gophish): Open-Source Phishing Toolkit
+[gophish](https://github.com/gophish/gophish): Open-Source Phishing Toolkit  
+[honeygrove](https://github.com/UHH-ISS/honeygrove): A multi-purpose, modular medium-interaction honeypot based on Twisted.
