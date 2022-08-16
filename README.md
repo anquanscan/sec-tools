@@ -3574,4 +3574,5 @@
 [blockchain_c2c](https://github.com/i3visio/blockchain_c2c): A Proof of Concept to show how blockchain can solve C2C persistence. PoC originally presented at EuskalHack Security Congress 2017, updated and improved for Cybercamp 2017.  
 [YAPS](https://github.com/Nickguitar/YAPS): Yet Another PHP Shell - The most complete PHP reverse shell  
 [injectR](https://github.com/O1sims/injectR): :syringe: SQLi and XSS detection for R  
-[DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm): 📢 🔒  Exploit manager for attack-defense CTF competitions
+[DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm): 📢 🔒  Exploit manager for attack-defense CTF competitions  
+[android-inline-hook](https://github.com/bytedance/android-inline-hook): :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
