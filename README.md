@@ -3492,4 +3492,5 @@
 [ChopChop](https://github.com/michelin/ChopChop): ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.   
 [cytrone](https://github.com/crond-jaist/cytrone): CyTrONE: Integrated Cybersecurity Training Framework  
 [Apache-Struts-2.5-RCE-Exploit](https://github.com/h4x0r-dz/Apache-Struts-2.5-RCE-Exploit)  
-[LogAnalysisBeta](https://github.com/lorenzo-papa/LogAnalysisBeta): LogAnalysisTool: provide a new approach for pattern attack search and for calculation of severity of logins in Linux's Wtmp, Btmp and Secure log. Searched patterns: Brute Force, Password Spraying. Also check of IPWhois and Reputation.
+[LogAnalysisBeta](https://github.com/lorenzo-papa/LogAnalysisBeta): LogAnalysisTool: provide a new approach for pattern attack search and for calculation of severity of logins in Linux's Wtmp, Btmp and Secure log. Searched patterns: Brute Force, Password Spraying. Also check of IPWhois and Reputation.  
+[4_security_Wi-Fi](https://github.com/ryuuzaki42/4_security_Wi-Fi): Alguns testes com Wi-Fi (e.g., WEP, WPA e WPA2) e os  programas usado compilados para Slackware
