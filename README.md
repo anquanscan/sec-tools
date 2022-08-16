@@ -3485,4 +3485,5 @@
 [stretcher](https://github.com/jimywork/stretcher): Tool designed to help identify open Elasticsearch servers that are exposing sensitive information  
 [hellokitty](https://github.com/Sevenqin/hellokitty)  
 [netmaker](https://github.com/gravitl/netmaker): Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.  
-[amicontained](https://github.com/genuinetools/amicontained): Container introspection tool. Find out what container runtime is being used as well as features available.
+[amicontained](https://github.com/genuinetools/amicontained): Container introspection tool. Find out what container runtime is being used as well as features available.  
+[VulnServer-BOF](https://github.com/loneicewolf/VulnServer-BOF): My approach to the VulnServer BOF (Windows 10 - SYSTEM gained)
