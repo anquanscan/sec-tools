@@ -3552,4 +3552,5 @@
 [v1ew-s0urce](https://github.com/CRO-THEHACKER/v1ew-s0urce): v1ew-s0urce a recon tool built by the 5/9Dark team.  
 [MailFinder](https://github.com/mishakorzik/MailFinder): OSINT tool for finding email by first and last name  
 [ATM-DebugKit](https://github.com/lambia/ATM-DebugKit): This is a personal tool I'm developing to help myself debuggin some stuff for the public transport in Milan. Educational and security purpose only.  
-[MySQLMonitor](https://github.com/Buzz2d0/MySQLMonitor): 监控 MySQL 执行语句并实时打印的工具 🤖️
+[MySQLMonitor](https://github.com/Buzz2d0/MySQLMonitor): 监控 MySQL 执行语句并实时打印的工具 🤖️  
+[mXtract](https://github.com/rek7/mXtract): mXtract - Memory Extractor & Analyzer
