@@ -3505,4 +3505,5 @@
 [CVE-2021-3560-Polkit-DBus](https://github.com/f4T1H21/CVE-2021-3560-Polkit-DBus): f4T1H's PoC script for CVE-2021-3560 Polkit D-Bus Privilege Escalation  
 [hack-this](https://github.com/lambdacasserole/hack-this): A collection of common web programming security mistakes.  
 [PasswordManager](https://github.com/cout970/PasswordManager): Password manager that doesn't need to store credencials  
-[screenMelter](https://github.com/aliberro39109/screenMelter): A simple C++ program that uses GDI to mimic the effect of screen being melt.
+[screenMelter](https://github.com/aliberro39109/screenMelter): A simple C++ program that uses GDI to mimic the effect of screen being melt.  
+[wordpress-malware](https://github.com/stefanpejcic/wordpress-malware): Collection of malware files found on WordPress sites
