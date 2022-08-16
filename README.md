@@ -3576,4 +3576,5 @@
 [injectR](https://github.com/O1sims/injectR): :syringe: SQLi and XSS detection for R  
 [DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm): 📢 🔒  Exploit manager for attack-defense CTF competitions  
 [android-inline-hook](https://github.com/bytedance/android-inline-hook): :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.  
-[whonow](https://github.com/brannondorsey/whonow): A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)
+[whonow](https://github.com/brannondorsey/whonow): A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)  
+[MadMax](https://github.com/nevillegrech/MadMax): Ethereum Static Vulnerability Detector for Gas-Focussed Vulnerabilities
