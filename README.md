@@ -3486,4 +3486,5 @@
 [hellokitty](https://github.com/Sevenqin/hellokitty)  
 [netmaker](https://github.com/gravitl/netmaker): Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.  
 [amicontained](https://github.com/genuinetools/amicontained): Container introspection tool. Find out what container runtime is being used as well as features available.  
-[VulnServer-BOF](https://github.com/loneicewolf/VulnServer-BOF): My approach to the VulnServer BOF (Windows 10 - SYSTEM gained)
+[VulnServer-BOF](https://github.com/loneicewolf/VulnServer-BOF): My approach to the VulnServer BOF (Windows 10 - SYSTEM gained)  
+[windows-privilege-escalation](https://github.com/sscholbe/windows-privilege-escalation): Proof of concept for process privilege escalation on Windows 7 (SP 1, x64) using the vulnerable driver of the program SpeedFan 4.51.
