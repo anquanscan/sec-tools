@@ -3556,4 +3556,5 @@
 [mXtract](https://github.com/rek7/mXtract): mXtract - Memory Extractor & Analyzer  
 [intelspy](https://github.com/maldevel/intelspy): Perform automated network reconnaissance scans  
 [PrivateBin](https://github.com/PrivateBin/PrivateBin): A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.  
-[callow](https://github.com/maximousblk/callow): Dead simple brute force tool for website login forms
+[callow](https://github.com/maximousblk/callow): Dead simple brute force tool for website login forms  
+[apache-http-logs](https://github.com/ocatak/apache-http-logs): to detect vulnerability scans, XSS and SQLI attacks, examine access log files for detections.
