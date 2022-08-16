@@ -3529,4 +3529,5 @@
 [GoogleITCourse](https://github.com/rakibhhridoy/GoogleITCourse): This is a hands on specialization of Coursera Google IT Support Professional Certifications   
 [rc4-variants](https://github.com/slightlyskepticalpotat/rc4-variants): Sample Python 3 implementation of various RC4 variants, including regular RC4 (ARC4), RC4A, and RC4-drop[n] (MARK-4). RC4A uses two state arrays and keys instead as one, whereas RC4-drop[n] discards the first n bytes of the keystream after key scheduling to improve security.  
 [tabby](https://github.com/wh1t3p1g/tabby): A CAT called tabby ( Code Analysis Tool )  
-[YubiKey-Guide](https://github.com/drduh/YubiKey-Guide): Guide to using YubiKey for GPG and SSH
+[YubiKey-Guide](https://github.com/drduh/YubiKey-Guide): Guide to using YubiKey for GPG and SSH  
+[Vulnerability-Analysis](https://github.com/rainmakerho/Vulnerability-Analysis): 多收集一些資安檢測問題， 來跟大家討論它是否真的需要修正， 或是用什麼方式俢正會來得比較好。
