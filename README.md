@@ -3479,4 +3479,5 @@
 [kubeclarity](https://github.com/openclarity/kubeclarity): KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems  
 [steady](https://github.com/eclipse/steady): Analyses your Java and Python applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://eclipse.github.io/steady/  
 [Mikrotik-Blacklist](https://github.com/pwlgrzs/Mikrotik-Blacklist): Mikrotik friendly blacklist to filter all these damn hackers.  
-[typedb-cti](https://github.com/typedb-osi/typedb-cti): Open Source Threat Intelligence Platform
+[typedb-cti](https://github.com/typedb-osi/typedb-cti): Open Source Threat Intelligence Platform  
+[Wordpress-XMLRPC-Brute-Force-Exploit](https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit): Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield
