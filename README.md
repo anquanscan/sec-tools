@@ -3554,4 +3554,5 @@
 [ATM-DebugKit](https://github.com/lambia/ATM-DebugKit): This is a personal tool I'm developing to help myself debuggin some stuff for the public transport in Milan. Educational and security purpose only.  
 [MySQLMonitor](https://github.com/Buzz2d0/MySQLMonitor): 监控 MySQL 执行语句并实时打印的工具 🤖️  
 [mXtract](https://github.com/rek7/mXtract): mXtract - Memory Extractor & Analyzer  
-[intelspy](https://github.com/maldevel/intelspy): Perform automated network reconnaissance scans
+[intelspy](https://github.com/maldevel/intelspy): Perform automated network reconnaissance scans  
+[PrivateBin](https://github.com/PrivateBin/PrivateBin): A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
