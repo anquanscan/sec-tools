@@ -3481,4 +3481,5 @@
 [Mikrotik-Blacklist](https://github.com/pwlgrzs/Mikrotik-Blacklist): Mikrotik friendly blacklist to filter all these damn hackers.  
 [typedb-cti](https://github.com/typedb-osi/typedb-cti): Open Source Threat Intelligence Platform  
 [Wordpress-XMLRPC-Brute-Force-Exploit](https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit): Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield  
-[neuropil](https://github.com/pi-lar/neuropil): (this is a gitlab mirror of) neuropil cybersecurity mesh
+[neuropil](https://github.com/pi-lar/neuropil): (this is a gitlab mirror of) neuropil cybersecurity mesh  
+[stretcher](https://github.com/jimywork/stretcher): Tool designed to help identify open Elasticsearch servers that are exposing sensitive information
