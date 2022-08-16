@@ -3519,4 +3519,5 @@
 [OWDemo](https://github.com/rakijah/OWDemo): A tool for Counter-Strike: Global Offensive which allows you to find the unencrypted demo of your Overwatch case.  
 [IOSurfaceRootUserClientUAF](https://github.com/TylerJaacks/IOSurfaceRootUserClientUAF): IOSurfaceRootUserClient UAF based on the Pangu blog post.  
 [bulwark](https://github.com/softrams/bulwark): An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.  
-[RSF](https://github.com/aliasrobotics/RSF): The Robot Security Framework (RSF), Robot Security Framework (RSF), a standardized methodology to perform security assessments in robotics.
+[RSF](https://github.com/aliasrobotics/RSF): The Robot Security Framework (RSF), Robot Security Framework (RSF), a standardized methodology to perform security assessments in robotics.  
+[vulnerable-python-contrast](https://github.com/mowsec/vulnerable-python-contrast): A sample vulnerable Python Flask application instrumented with the Contrast Security Agent. Used for evaluating the Contrast Security agent and platform.
