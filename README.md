@@ -3504,4 +3504,5 @@
 [sig-716i](https://github.com/Narasimha1997/sig-716i): A CLI tool that can be used to disrupt wireless connectivity in your area by jamming all the wireless devices connected to multiple access points.  
 [CVE-2021-3560-Polkit-DBus](https://github.com/f4T1H21/CVE-2021-3560-Polkit-DBus): f4T1H's PoC script for CVE-2021-3560 Polkit D-Bus Privilege Escalation  
 [hack-this](https://github.com/lambdacasserole/hack-this): A collection of common web programming security mistakes.  
-[PasswordManager](https://github.com/cout970/PasswordManager): Password manager that doesn't need to store credencials
+[PasswordManager](https://github.com/cout970/PasswordManager): Password manager that doesn't need to store credencials  
+[screenMelter](https://github.com/aliberro39109/screenMelter): A simple C++ program that uses GDI to mimic the effect of screen being melt.
