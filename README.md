@@ -3573,4 +3573,5 @@
 [Awesome-Security-Repos](https://github.com/njmulsqb/Awesome-Security-Repos): Here's a list of cyber security related github repos and tools that I believe are awesome and should be promoted and used.   
 [blockchain_c2c](https://github.com/i3visio/blockchain_c2c): A Proof of Concept to show how blockchain can solve C2C persistence. PoC originally presented at EuskalHack Security Congress 2017, updated and improved for Cybercamp 2017.  
 [YAPS](https://github.com/Nickguitar/YAPS): Yet Another PHP Shell - The most complete PHP reverse shell  
-[injectR](https://github.com/O1sims/injectR): :syringe: SQLi and XSS detection for R
+[injectR](https://github.com/O1sims/injectR): :syringe: SQLi and XSS detection for R  
+[DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm): 📢 🔒  Exploit manager for attack-defense CTF competitions
