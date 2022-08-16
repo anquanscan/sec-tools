@@ -3546,4 +3546,5 @@
 [cybersecurity-roadmap](https://github.com/jassics/cybersecurity-roadmap): Cybersecurity skills, job roles and career roadmap with the starting points and guidelines, resources, etc.  
 [hackerone-reports](https://github.com/reddelexc/hackerone-reports): Top disclosed reports from HackerOne  
 [CamRaptor](https://github.com/EntySec/CamRaptor): CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials.  
-[ChromeBluetooth](https://github.com/aydinakcasu/ChromeBluetooth): Demo of a "Stress Display" using Chrome Bluetooth.  Reads Heart-rate data, and displays "stress" colors to a smart bulb.  (Uses a SBT5007 smart bulb) 
+[ChromeBluetooth](https://github.com/aydinakcasu/ChromeBluetooth): Demo of a "Stress Display" using Chrome Bluetooth.  Reads Heart-rate data, and displays "stress" colors to a smart bulb.  (Uses a SBT5007 smart bulb)   
+[HOUDINI](https://github.com/cybersecsi/HOUDINI): Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
