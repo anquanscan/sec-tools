@@ -3569,4 +3569,5 @@
 [rimrafall](https://github.com/joaojeronimo/rimrafall): npm install could be dangerous  
 [prada-protecting-against-dnn-model-stealing-attacks](https://github.com/SSGAalto/prada-protecting-against-dnn-model-stealing-attacks): Reference implementation of the PRADA model stealing defense.  
 [k8s-sec.github.io](https://github.com/k8s-sec/k8s-sec.github.io): Links and resources for the O'Reilly Kubernetes Security book  
-[SINF](https://github.com/sergio-faraldo/SINF): Entregas de la asignatura Seguridad de la información (criptografía)
+[SINF](https://github.com/sergio-faraldo/SINF): Entregas de la asignatura Seguridad de la información (criptografía)  
+[Awesome-Security-Repos](https://github.com/njmulsqb/Awesome-Security-Repos): Here's a list of cyber security related github repos and tools that I believe are awesome and should be promoted and used. 
