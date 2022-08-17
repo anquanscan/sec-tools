@@ -3623,4 +3623,5 @@
 [cve-2014-0038](https://github.com/saelo/cve-2014-0038): Linux local root exploit for CVE-2014-0038  
 [webcve-scan](https://github.com/Practical-Technology/webcve-scan): A simple framework for vulnerability scanner known web CVEs.  
 [vuejs-serverside-template-xss](https://github.com/dotboris/vuejs-serverside-template-xss): Demo of a Vue.js app that mixes both clientside templates and serverside templates leading to an XSS vulnerability  
-[CVE-2019-5010](https://github.com/JonathanWilbur/CVE-2019-5010): CVE-2019-5010 Exploit PoC - Python Denial of Service via Malformed X.509v3 Extension
+[CVE-2019-5010](https://github.com/JonathanWilbur/CVE-2019-5010): CVE-2019-5010 Exploit PoC - Python Denial of Service via Malformed X.509v3 Extension  
+[FreePhone](https://github.com/jorcuad/FreePhone): FreePhone es un proyecto de investigación sobre privacidad en dispositivos móviles. Con este repositorio pretendemos liberar toda la experiencia acumulada durante la creación de un smartphone casero.
