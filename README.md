@@ -3683,4 +3683,5 @@
 [voodoo](https://github.com/QKaiser/voodoo): This repository holds proof-of-concepts for the VOOdoo vulnerabilities found in NETGEAR CG3100 and CG3700B cable modems provided by VOO to its subscribers.  
 [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.  
 [juice-shop-ctf](https://github.com/juice-shop/juice-shop-ctf): Capture-the-Flag (CTF) environment setup tools for OWASP Juice Shop supporting CTFd, FBCTF and RootTheBox  
-[docker-metasploit](https://github.com/opsxcq/docker-metasploit): Metasploit framework with steroids
+[docker-metasploit](https://github.com/opsxcq/docker-metasploit): Metasploit framework with steroids  
+[EDRHunt](https://github.com/FourCoreLabs/EDRHunt): Scan installed EDRs and AVs on Windows
