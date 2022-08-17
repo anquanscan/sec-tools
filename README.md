@@ -3615,4 +3615,5 @@
 [cisco_asa_research](https://github.com/jbaines-r7/cisco_asa_research): Cisco ASA Software and ASDM Security Research  
 [vestigo](https://github.com/crimson-med/vestigo): A tool for exploring and investigating APIs and websites.  
 [django-security](https://github.com/rasoolsomji/django-security): Django is great! Here are some ways to make it safer  
-[Backtrack-Patch](https://github.com/J-Tanzanite/Backtrack-Patch): Backtrack patch for Source games like CS:GO, TF2, CS:S, HL2:DM, etc.
+[Backtrack-Patch](https://github.com/J-Tanzanite/Backtrack-Patch): Backtrack patch for Source games like CS:GO, TF2, CS:S, HL2:DM, etc.  
+[boopkit](https://github.com/kris-nova/boopkit): Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.
