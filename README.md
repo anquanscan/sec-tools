@@ -3688,4 +3688,5 @@
 [SIPTorch](https://github.com/0xInfection/SIPTorch): A "SIP Torture" (RFC 4475) testing suite.  
 [aws-security-viz](https://github.com/anaynayak/aws-security-viz): Visualize your aws security groups.  
 [zohocorp_dc](https://github.com/patois/zohocorp_dc): Zoho ManageEngine Desktop Central CVEs  
-[m-ld-security-spec](https://github.com/m-ld/m-ld-security-spec): Securing Shared Decentralised Live Information with m-ld
+[m-ld-security-spec](https://github.com/m-ld/m-ld-security-spec): Securing Shared Decentralised Live Information with m-ld  
+[BrowserBox](https://github.com/crisdosyago/BrowserBox): 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!
