@@ -3670,4 +3670,5 @@
 [Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit): 🧨🧨This is a 🎇Real World🎇 Malware Collection I have created or Compiled/analysed🔥 to understand more about Malware threats😈, analysis and mitigation🧐.  
 [murphysec](https://github.com/murphysecurity/murphysec): An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。  
 [Public-CTF-Writeups](https://github.com/utcoalition/Public-CTF-Writeups): CTF writeups by UTC team  
-[AndroidLibrary](https://github.com/StringCare/AndroidLibrary): Android library to reveal or obfuscate strings and assets at runtime
+[AndroidLibrary](https://github.com/StringCare/AndroidLibrary): Android library to reveal or obfuscate strings and assets at runtime  
+[github-vuln-scraper](https://github.com/PhilipKazmeier/github-vuln-scraper): Vulnerability Scraper for GitHub
