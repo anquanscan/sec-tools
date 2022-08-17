@@ -3672,4 +3672,5 @@
 [Public-CTF-Writeups](https://github.com/utcoalition/Public-CTF-Writeups): CTF writeups by UTC team  
 [AndroidLibrary](https://github.com/StringCare/AndroidLibrary): Android library to reveal or obfuscate strings and assets at runtime  
 [github-vuln-scraper](https://github.com/PhilipKazmeier/github-vuln-scraper): Vulnerability Scraper for GitHub  
-[operagbas](https://github.com/thotypous/operagbas): Alternative "security" module for Brazilian banks
+[operagbas](https://github.com/thotypous/operagbas): Alternative "security" module for Brazilian banks  
+[infra1](https://github.com/example-policy-org/infra1): This infra is compliant with version 1.0.0 of the company policy only
