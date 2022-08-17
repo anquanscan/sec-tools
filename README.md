@@ -3682,4 +3682,5 @@
 [acra](https://github.com/cossacklabs/acra): Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.  
 [voodoo](https://github.com/QKaiser/voodoo): This repository holds proof-of-concepts for the VOOdoo vulnerabilities found in NETGEAR CG3100 and CG3700B cable modems provided by VOO to its subscribers.  
 [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.  
-[juice-shop-ctf](https://github.com/juice-shop/juice-shop-ctf): Capture-the-Flag (CTF) environment setup tools for OWASP Juice Shop supporting CTFd, FBCTF and RootTheBox
+[juice-shop-ctf](https://github.com/juice-shop/juice-shop-ctf): Capture-the-Flag (CTF) environment setup tools for OWASP Juice Shop supporting CTFd, FBCTF and RootTheBox  
+[docker-metasploit](https://github.com/opsxcq/docker-metasploit): Metasploit framework with steroids
