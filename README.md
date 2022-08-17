@@ -3622,4 +3622,5 @@
 [OTP-Verification-in-E-mail](https://github.com/XDoodler/OTP-Verification-in-E-mail): Give your website the most security by One Time Password(OTP) Verification.  Written in PHP 5.0. OTP will be dropped in your registered email  
 [cve-2014-0038](https://github.com/saelo/cve-2014-0038): Linux local root exploit for CVE-2014-0038  
 [webcve-scan](https://github.com/Practical-Technology/webcve-scan): A simple framework for vulnerability scanner known web CVEs.  
-[vuejs-serverside-template-xss](https://github.com/dotboris/vuejs-serverside-template-xss): Demo of a Vue.js app that mixes both clientside templates and serverside templates leading to an XSS vulnerability
+[vuejs-serverside-template-xss](https://github.com/dotboris/vuejs-serverside-template-xss): Demo of a Vue.js app that mixes both clientside templates and serverside templates leading to an XSS vulnerability  
+[CVE-2019-5010](https://github.com/JonathanWilbur/CVE-2019-5010): CVE-2019-5010 Exploit PoC - Python Denial of Service via Malformed X.509v3 Extension
