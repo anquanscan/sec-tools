@@ -3620,4 +3620,5 @@
 [cargo-auditable](https://github.com/rust-secure-code/cargo-auditable): Make production Rust binaries auditable  
 [oscp-omnibus](https://github.com/alexiasa/oscp-omnibus): A collection of resources I'm using while working toward the OSCP  
 [OTP-Verification-in-E-mail](https://github.com/XDoodler/OTP-Verification-in-E-mail): Give your website the most security by One Time Password(OTP) Verification.  Written in PHP 5.0. OTP will be dropped in your registered email  
-[cve-2014-0038](https://github.com/saelo/cve-2014-0038): Linux local root exploit for CVE-2014-0038
+[cve-2014-0038](https://github.com/saelo/cve-2014-0038): Linux local root exploit for CVE-2014-0038  
+[webcve-scan](https://github.com/Practical-Technology/webcve-scan): A simple framework for vulnerability scanner known web CVEs.
