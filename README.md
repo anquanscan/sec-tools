@@ -3645,4 +3645,5 @@
 [CISSP-Study-Guide](https://github.com/so87/CISSP-Study-Guide): study material used for the 2018 CISSP exam  
 [snappass](https://github.com/pinterest/snappass): Share passwords securely  
 [Localroot-ALL-CVE](https://github.com/Snoopy-Sec/Localroot-ALL-CVE): Localroot-ALL-CVE~  
-[Faceboom](https://github.com/thehassantahir/Faceboom): Faceboom - Social Engineering Application for Facebook
+[Faceboom](https://github.com/thehassantahir/Faceboom): Faceboom - Social Engineering Application for Facebook  
+[makersmasher.github.io](https://github.com/makersmasher/makersmasher.github.io): Website for www.makersmasher.com
