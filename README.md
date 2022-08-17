@@ -3687,4 +3687,5 @@
 [EDRHunt](https://github.com/FourCoreLabs/EDRHunt): Scan installed EDRs and AVs on Windows  
 [SIPTorch](https://github.com/0xInfection/SIPTorch): A "SIP Torture" (RFC 4475) testing suite.  
 [aws-security-viz](https://github.com/anaynayak/aws-security-viz): Visualize your aws security groups.  
-[zohocorp_dc](https://github.com/patois/zohocorp_dc): Zoho ManageEngine Desktop Central CVEs
+[zohocorp_dc](https://github.com/patois/zohocorp_dc): Zoho ManageEngine Desktop Central CVEs  
+[m-ld-security-spec](https://github.com/m-ld/m-ld-security-spec): Securing Shared Decentralised Live Information with m-ld
