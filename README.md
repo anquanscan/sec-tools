@@ -3609,4 +3609,5 @@
 [quimera-workshop](https://github.com/quimera-project/quimera-workshop): Quimera Workshop almacena los distintos checks y configuraciones de Quimera.  
 [hstspreload.org](https://github.com/chromium/hstspreload.org): :lock: Chromium's HSTS preload list submission website.  
 [Authr](https://github.com/JLDevOps/Authr):  A visualization tool that can extract information from any server log (i.e. HTTP server/Django/Auth/etc), reverse-search the data, and visualize the origination of the authentication attempts.  
-[Security-PPT](https://github.com/FeeiCN/Security-PPT): Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
+[Security-PPT](https://github.com/FeeiCN/Security-PPT): Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）  
+[shodan-cli](https://github.com/yvesago/shodan-cli): Simple golang shodan cli
