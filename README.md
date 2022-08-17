@@ -3613,4 +3613,5 @@
 [shodan-cli](https://github.com/yvesago/shodan-cli): Simple golang shodan cli  
 [passbolt_api](https://github.com/passbolt/passbolt_api): Passbolt CE Backend, a JSON API written with Cakephp  
 [cisco_asa_research](https://github.com/jbaines-r7/cisco_asa_research): Cisco ASA Software and ASDM Security Research  
-[vestigo](https://github.com/crimson-med/vestigo): A tool for exploring and investigating APIs and websites.
+[vestigo](https://github.com/crimson-med/vestigo): A tool for exploring and investigating APIs and websites.  
+[django-security](https://github.com/rasoolsomji/django-security): Django is great! Here are some ways to make it safer
