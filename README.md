@@ -3595,4 +3595,5 @@
 [gdb-static](https://github.com/hugsy/gdb-static): Public repository of static GDB and GDBServer  
 [bypass-host-request.github.io](https://github.com/Al0ne-collab/bypass-host-request.github.io): site requests, web scraping etc. Bypass cookies for sites that do not allow this. (it's different for each site. this is usually example exploit for free hosts)  
 [huntr](https://github.com/418sec/huntr): Public Roadmap | huntr.dev  
-[PurpleFoxPlus-Stealer](https://github.com/exploitblizzard/PurpleFoxPlus-Stealer): Purple Fox Plus Stealer, Purple Fox Plus Stealer, all chromium and gecko based browser and many more features. serverless stealer.
+[PurpleFoxPlus-Stealer](https://github.com/exploitblizzard/PurpleFoxPlus-Stealer): Purple Fox Plus Stealer, Purple Fox Plus Stealer, all chromium and gecko based browser and many more features. serverless stealer.  
+[ASST](https://github.com/OWASP/ASST): OWASP ASST (Automated Software Security Toolkit) | A Novel Open Source Web Security Scanner.
