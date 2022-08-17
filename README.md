@@ -3593,4 +3593,5 @@
 [iOS-Jailbreak-Development](https://github.com/GeoSn0w/iOS-Jailbreak-Development): GeoSn0w's majestic knowledge base for iOS 12 / iOS 13 Jailbreak Development.  
 [BurpSuite-Xkeys](https://github.com/vsec7/BurpSuite-Xkeys): A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage.  
 [gdb-static](https://github.com/hugsy/gdb-static): Public repository of static GDB and GDBServer  
-[bypass-host-request.github.io](https://github.com/Al0ne-collab/bypass-host-request.github.io): site requests, web scraping etc. Bypass cookies for sites that do not allow this. (it's different for each site. this is usually example exploit for free hosts)
+[bypass-host-request.github.io](https://github.com/Al0ne-collab/bypass-host-request.github.io): site requests, web scraping etc. Bypass cookies for sites that do not allow this. (it's different for each site. this is usually example exploit for free hosts)  
+[huntr](https://github.com/418sec/huntr): Public Roadmap | huntr.dev
