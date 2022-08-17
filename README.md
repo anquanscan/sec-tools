@@ -3685,4 +3685,5 @@
 [juice-shop-ctf](https://github.com/juice-shop/juice-shop-ctf): Capture-the-Flag (CTF) environment setup tools for OWASP Juice Shop supporting CTFd, FBCTF and RootTheBox  
 [docker-metasploit](https://github.com/opsxcq/docker-metasploit): Metasploit framework with steroids  
 [EDRHunt](https://github.com/FourCoreLabs/EDRHunt): Scan installed EDRs and AVs on Windows  
-[SIPTorch](https://github.com/0xInfection/SIPTorch): A "SIP Torture" (RFC 4475) testing suite.
+[SIPTorch](https://github.com/0xInfection/SIPTorch): A "SIP Torture" (RFC 4475) testing suite.  
+[aws-security-viz](https://github.com/anaynayak/aws-security-viz): Visualize your aws security groups.
