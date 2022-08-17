@@ -3663,4 +3663,5 @@
 [G2-Alarmsystem](https://github.com/PerMalmberg/G2-Alarmsystem): Alarmsystem based on the Smooth framework, running on the G2 I/O card.  
 [The-Not-So-Simple-PHP-Command-Shell](https://github.com/kaotickj/The-Not-So-Simple-PHP-Command-Shell): This tool is intended to be used for on target enumeration to gather and exfiltrate information and then to upload tools such as netcat or msvenom payload for further access to the target.  
 [victorian_machinery](https://github.com/jbaines-r7/victorian_machinery): Proof of concept exploit for CVE-2022-30525 (Zxyel firewall command injection)  
-[0x01-ARM-32-Hacking-Hello-World](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World): ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
+[0x01-ARM-32-Hacking-Hello-World](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World): ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.  
+[Megaploit](https://github.com/JosephFrankFir/Megaploit): A hacking tool(Reverse shell) based on python-3
