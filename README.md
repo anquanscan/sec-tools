@@ -3586,4 +3586,5 @@
 [PeFixup](https://github.com/obscuritylabs/PeFixup): PE File Blessing - To continue or not to continue   
 [attack-website](https://github.com/mitre-attack/attack-website): MITRE ATT&CK Website  
 [Valorant-External](https://github.com/SarnaxLii/Valorant-External): Aimbot + Esp + Spoofer / C++   
-[Simple-Calculator](https://github.com/shidhu/Simple-Calculator): It is a calculator software developed by python. Python version is 3.x. It is my first project on python Graphical User Interface. This project always take the two numbers and do 4 operations (Addition, Subtraction, Multiplication and Division) between that two numbers. User can only entry two numerical values otherwise it will give Error message
+[Simple-Calculator](https://github.com/shidhu/Simple-Calculator): It is a calculator software developed by python. Python version is 3.x. It is my first project on python Graphical User Interface. This project always take the two numbers and do 4 operations (Addition, Subtraction, Multiplication and Division) between that two numbers. User can only entry two numerical values otherwise it will give Error message  
+[seed-labs](https://github.com/seed-labs/seed-labs): SEED Labs developed in the last 20 years.
