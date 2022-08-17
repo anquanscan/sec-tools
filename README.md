@@ -3581,4 +3581,5 @@
 [totp-keychain](https://github.com/moul/totp-keychain): :lock: TOTP cli backed by the OS X keychain  
 [redcanary-response-utils](https://github.com/redcanaryco/redcanary-response-utils): Tools to automate and/or expedite response.  
 [my-links](https://github.com/jturgasen/my-links): Knowledge seeks no man  
-[faraday-client](https://github.com/infobyte/faraday-client): GTK client of FaradaySEC
+[faraday-client](https://github.com/infobyte/faraday-client): GTK client of FaradaySEC  
+[NASL-Plugins](https://github.com/richkmeli/NASL-Plugins): Collection of plugins written in NASL language.
