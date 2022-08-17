@@ -3651,4 +3651,5 @@
 [Multi-Go](https://github.com/TheRedSpy15/Multi-Go): A multi-tool made in Go, and aimed at security experts to make life a little more convenient  
 [dirtycow](https://github.com/nowsecure/dirtycow): radare2 IO plugin for Linux and Android. Modifies files owned by other users via dirtycow Copy-On-Write cache vulnerability  
 [OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli): OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.  
-[ArchiveFuzz](https://github.com/devanshbatham/ArchiveFuzz): Hunt down the secrets from the WebArchives for Fun and Profit
+[ArchiveFuzz](https://github.com/devanshbatham/ArchiveFuzz): Hunt down the secrets from the WebArchives for Fun and Profit  
+[vbscan](https://github.com/OWASP/vbscan): OWASP VBScan is a Black Box vBulletin Vulnerability Scanner
