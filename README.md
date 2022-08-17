@@ -3680,4 +3680,5 @@
 [h-sploit](https://github.com/jravis-8520/h-sploit): H-SPLOIT TOOL IS HELP TO INSTALL METASPLOIT-FRAMEWORK IN A TERMUX   
 [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.  
 [acra](https://github.com/cossacklabs/acra): Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.  
-[voodoo](https://github.com/QKaiser/voodoo): This repository holds proof-of-concepts for the VOOdoo vulnerabilities found in NETGEAR CG3100 and CG3700B cable modems provided by VOO to its subscribers.
+[voodoo](https://github.com/QKaiser/voodoo): This repository holds proof-of-concepts for the VOOdoo vulnerabilities found in NETGEAR CG3100 and CG3700B cable modems provided by VOO to its subscribers.  
+[cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
