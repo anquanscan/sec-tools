@@ -3635,4 +3635,5 @@
 [yafinger](https://github.com/yaseng/yafinger): yet another  web fingerprinter  
 [awesome-infosec](https://github.com/onlurking/awesome-infosec):  A curated list of awesome infosec courses and training resources.  
 [Discord-Shell-POC](https://github.com/brows3r/Discord-Shell-POC): A script that can allow you to get remote access to a machine on Discord via them putting code in the console. Also allows you to crash the BetterDiscord client.  
-[MalConfScan](https://github.com/JPCERTCC/MalConfScan): Volatility plugin for extracts configuration data of known malware
+[MalConfScan](https://github.com/JPCERTCC/MalConfScan): Volatility plugin for extracts configuration data of known malware  
+[Android-Disassembler](https://github.com/KYHSGeekCode/Android-Disassembler): Disassemble ANY files including .so (NDK, JNI), Windows PE(EXE, DLL, SYS, etc), linux binaries,  libraries, and any other files such as pictures, audios, etc(for fun)files on Android. Capstone-based disassembler application on android. 안드로이드 NDK 공유 라이브러리, Windows 바이너리, etc,... 리버싱 앱
