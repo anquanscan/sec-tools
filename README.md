@@ -3643,4 +3643,5 @@
 [GoAhead-IPCAM-XSS-and-RCE](https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE): An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices.  
 [haveibeenpwned-python](https://github.com/agucova/haveibeenpwned-python): ⚠️ A simple python client for the HaveIBeenPwned API 2.0  
 [CISSP-Study-Guide](https://github.com/so87/CISSP-Study-Guide): study material used for the 2018 CISSP exam  
-[snappass](https://github.com/pinterest/snappass): Share passwords securely
+[snappass](https://github.com/pinterest/snappass): Share passwords securely  
+[Localroot-ALL-CVE](https://github.com/Snoopy-Sec/Localroot-ALL-CVE): Localroot-ALL-CVE~
