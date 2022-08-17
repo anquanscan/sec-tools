@@ -3633,4 +3633,5 @@
 [wolfssl](https://github.com/wolfSSL/wolfssl): The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!  
 [csp-playground](https://github.com/tsureshkumar/csp-playground): A locally hosted playground for experimenting with XSS and Content-Security-Policy  
 [yafinger](https://github.com/yaseng/yafinger): yet another  web fingerprinter  
-[awesome-infosec](https://github.com/onlurking/awesome-infosec):  A curated list of awesome infosec courses and training resources.
+[awesome-infosec](https://github.com/onlurking/awesome-infosec):  A curated list of awesome infosec courses and training resources.  
+[Discord-Shell-POC](https://github.com/brows3r/Discord-Shell-POC): A script that can allow you to get remote access to a machine on Discord via them putting code in the console. Also allows you to crash the BetterDiscord client.
