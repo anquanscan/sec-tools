@@ -3660,4 +3660,5 @@
 [reading_list](https://github.com/bl8nr/reading_list): A very useful reading list of technical documents related to internetworking and cybersecurity.  
 [netmap.js](https://github.com/serain/netmap.js): Fast browser-based network discovery module  
 [CVE-2020-1971](https://github.com/MBHudson/CVE-2020-1971): CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script.  
-[G2-Alarmsystem](https://github.com/PerMalmberg/G2-Alarmsystem): Alarmsystem based on the Smooth framework, running on the G2 I/O card.
+[G2-Alarmsystem](https://github.com/PerMalmberg/G2-Alarmsystem): Alarmsystem based on the Smooth framework, running on the G2 I/O card.  
+[The-Not-So-Simple-PHP-Command-Shell](https://github.com/kaotickj/The-Not-So-Simple-PHP-Command-Shell): This tool is intended to be used for on target enumeration to gather and exfiltrate information and then to upload tools such as netcat or msvenom payload for further access to the target.
