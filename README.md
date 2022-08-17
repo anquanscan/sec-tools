@@ -3597,4 +3597,5 @@
 [huntr](https://github.com/418sec/huntr): Public Roadmap | huntr.dev  
 [PurpleFoxPlus-Stealer](https://github.com/exploitblizzard/PurpleFoxPlus-Stealer): Purple Fox Plus Stealer, Purple Fox Plus Stealer, all chromium and gecko based browser and many more features. serverless stealer.  
 [ASST](https://github.com/OWASP/ASST): OWASP ASST (Automated Software Security Toolkit) | A Novel Open Source Web Security Scanner.  
-[device-monitor-client](https://github.com/ibonkonesa/device-monitor-client): Device monitor client based on Quasar framework
+[device-monitor-client](https://github.com/ibonkonesa/device-monitor-client): Device monitor client based on Quasar framework  
+[EAPrimer](https://github.com/m8sec/EAPrimer): C# project that Reflectively loads .Net assemblies in memory.
