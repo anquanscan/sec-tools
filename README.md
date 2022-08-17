@@ -3666,4 +3666,5 @@
 [0x01-ARM-32-Hacking-Hello-World](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World): ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.  
 [Megaploit](https://github.com/JosephFrankFir/Megaploit): A hacking tool(Reverse shell) based on python-3  
 [arkime](https://github.com/arkime/arkime): Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.  
-[CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting): A collection of resources for Threat Hunters - Sponsored by Falcon Guard
+[CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting): A collection of resources for Threat Hunters - Sponsored by Falcon Guard  
+[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit): 🧨🧨This is a 🎇Real World🎇 Malware Collection I have created or Compiled/analysed🔥 to understand more about Malware threats😈, analysis and mitigation🧐.
