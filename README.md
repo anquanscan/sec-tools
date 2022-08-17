@@ -3590,4 +3590,5 @@
 [seed-labs](https://github.com/seed-labs/seed-labs): SEED Labs developed in the last 20 years.  
 [CTF-Difficulty](https://github.com/Ignitetechnologies/CTF-Difficulty): This cheasheet is aimed at the CTF Players and Beginners to help them sort the CTF Challenges on the basis of Difficulties.  
 [twitcher](https://github.com/bird-house/twitcher): Security Proxy for Web Processing Services (WPS)  
-[iOS-Jailbreak-Development](https://github.com/GeoSn0w/iOS-Jailbreak-Development): GeoSn0w's majestic knowledge base for iOS 12 / iOS 13 Jailbreak Development.
+[iOS-Jailbreak-Development](https://github.com/GeoSn0w/iOS-Jailbreak-Development): GeoSn0w's majestic knowledge base for iOS 12 / iOS 13 Jailbreak Development.  
+[BurpSuite-Xkeys](https://github.com/vsec7/BurpSuite-Xkeys): A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage.
