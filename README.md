@@ -3640,4 +3640,5 @@
 [cybersecurity-devsecops](https://github.com/paulveillard/cybersecurity-devsecops): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about DevSecOps in Cybersecurity.  
 [Deep-Security-Smart-Check-Scan-Action](https://github.com/felipecosta09/Deep-Security-Smart-Check-Scan-Action): :mag: For scanning your images as part of your CI pipeline using Cloud One Container Security (Formerly Deep Security Smart Check)  
 [SharpCGHunter](https://github.com/tid4l/SharpCGHunter): Receive the status of Windows Defender Credential Guard on network hosts.  
-[GoAhead-IPCAM-XSS-and-RCE](https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE): An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices.
+[GoAhead-IPCAM-XSS-and-RCE](https://github.com/0x1CA3/GoAhead-IPCAM-XSS-and-RCE): An exploit for an XSS and RCE vulnerability in the GoAhead webserver for embedded devices.  
+[haveibeenpwned-python](https://github.com/agucova/haveibeenpwned-python): ⚠️ A simple python client for the HaveIBeenPwned API 2.0
