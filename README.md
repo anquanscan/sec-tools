@@ -3631,4 +3631,5 @@
 [Smart-Contract-Audits](https://github.com/TechRate/Smart-Contract-Audits): Smart Contract security audit reports  
 [ControlCompass.github.io](https://github.com/ControlCompass/ControlCompass.github.io): Pointing cybersecurity teams to thousands of detection rules and offensive security tests aligned with common attacker techniques  
 [wolfssl](https://github.com/wolfSSL/wolfssl): The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!  
-[csp-playground](https://github.com/tsureshkumar/csp-playground): A locally hosted playground for experimenting with XSS and Content-Security-Policy
+[csp-playground](https://github.com/tsureshkumar/csp-playground): A locally hosted playground for experimenting with XSS and Content-Security-Policy  
+[yafinger](https://github.com/yaseng/yafinger): yet another  web fingerprinter
