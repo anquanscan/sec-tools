@@ -3667,4 +3667,5 @@
 [Megaploit](https://github.com/JosephFrankFir/Megaploit): A hacking tool(Reverse shell) based on python-3  
 [arkime](https://github.com/arkime/arkime): Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.  
 [CyberThreatHunting](https://github.com/A3sal0n/CyberThreatHunting): A collection of resources for Threat Hunters - Sponsored by Falcon Guard  
-[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit): 🧨🧨This is a 🎇Real World🎇 Malware Collection I have created or Compiled/analysed🔥 to understand more about Malware threats😈, analysis and mitigation🧐.
+[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit): 🧨🧨This is a 🎇Real World🎇 Malware Collection I have created or Compiled/analysed🔥 to understand more about Malware threats😈, analysis and mitigation🧐.  
+[murphysec](https://github.com/murphysecurity/murphysec): An open source tool focused on software supply chain security. 墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
