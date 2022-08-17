@@ -3676,4 +3676,5 @@
 [infra1](https://github.com/example-policy-org/infra1): This infra is compliant with version 1.0.0 of the company policy only  
 [WDIR](https://github.com/gkhan496/WDIR): Good resources about web security that I have read.  
 [ComputerScience](https://github.com/www-code-in/ComputerScience): CS.CODE.IN is a 1 year online Computer Science education program to equip yourself with modern and cutting edge programming technologies in the competitive world.  
-[SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab): This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack
+[SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab): This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack  
+[h-sploit](https://github.com/jravis-8520/h-sploit): H-SPLOIT TOOL IS HELP TO INSTALL METASPLOIT-FRAMEWORK IN A TERMUX 
