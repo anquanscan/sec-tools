@@ -3607,4 +3607,5 @@
 [webdojo](https://github.com/0xffsec/webdojo): A learning and testing environment for web application hacking and pentesting.  
 [toxic](https://github.com/JFreegman/toxic): A Tox-based instant messaging and video chat client  
 [quimera-workshop](https://github.com/quimera-project/quimera-workshop): Quimera Workshop almacena los distintos checks y configuraciones de Quimera.  
-[hstspreload.org](https://github.com/chromium/hstspreload.org): :lock: Chromium's HSTS preload list submission website.
+[hstspreload.org](https://github.com/chromium/hstspreload.org): :lock: Chromium's HSTS preload list submission website.  
+[Authr](https://github.com/JLDevOps/Authr):  A visualization tool that can extract information from any server log (i.e. HTTP server/Django/Auth/etc), reverse-search the data, and visualize the origination of the authentication attempts.
