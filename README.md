@@ -3601,4 +3601,5 @@
 [EAPrimer](https://github.com/m8sec/EAPrimer): C# project that Reflectively loads .Net assemblies in memory.  
 [Retrieve-Windows-Wifi-Passwords](https://github.com/codingo/Retrieve-Windows-Wifi-Passwords): Retreives the SSID names and passwords in cleartext for each Wifi network stored on the computer running this powershell script and output to JSON.  
 [CTFTools](https://github.com/LvMalware/CTFTools): Some tools I wrote (and will write) for CTF competitions  
-[hacker-container](https://github.com/madhuakula/hacker-container): The Swiss Army Container for Cloud Native Security. Container with all the list of useful tools/commands while hacking and securing Containers, Kubernetes Clusters, and Cloud Native workloads.
+[hacker-container](https://github.com/madhuakula/hacker-container): The Swiss Army Container for Cloud Native Security. Container with all the list of useful tools/commands while hacking and securing Containers, Kubernetes Clusters, and Cloud Native workloads.  
+[Zimbra-RCE-exploit](https://github.com/nth347/Zimbra-RCE-exploit): RCE exploit for attack chain in "A Saga of Code Executions on Zimbra" post
