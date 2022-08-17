@@ -3653,4 +3653,5 @@
 [OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli): OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.  
 [ArchiveFuzz](https://github.com/devanshbatham/ArchiveFuzz): Hunt down the secrets from the WebArchives for Fun and Profit  
 [vbscan](https://github.com/OWASP/vbscan): OWASP VBScan is a Black Box vBulletin Vulnerability Scanner  
-[Lizard](https://github.com/wr0x00/Lizard): Lizard is a python-based fully automated infiltration script,feature-rich and can run on termux(Android).     Lizard是一款基于python的web安全渗透测试工具；支持端口扫描、IP探测、密码爆破、shodan扫描、网站目录后台扫描、whois查询，CMS识别，poc检测；webshell一句话连接，dos攻击，ddos攻击，exp利用；整体采用模块化设计，可自行调用
+[Lizard](https://github.com/wr0x00/Lizard): Lizard is a python-based fully automated infiltration script,feature-rich and can run on termux(Android).     Lizard是一款基于python的web安全渗透测试工具；支持端口扫描、IP探测、密码爆破、shodan扫描、网站目录后台扫描、whois查询，CMS识别，poc检测；webshell一句话连接，dos攻击，ddos攻击，exp利用；整体采用模块化设计，可自行调用  
+[NoSight](https://github.com/mematron/NoSight): Disable any video input on a Mac. Putting tape over your iSight won't help you but this will.
