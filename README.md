@@ -3578,4 +3578,5 @@
 [android-inline-hook](https://github.com/bytedance/android-inline-hook): :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.  
 [whonow](https://github.com/brannondorsey/whonow): A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)  
 [MadMax](https://github.com/nevillegrech/MadMax): Ethereum Static Vulnerability Detector for Gas-Focussed Vulnerabilities  
-[totp-keychain](https://github.com/moul/totp-keychain): :lock: TOTP cli backed by the OS X keychain
+[totp-keychain](https://github.com/moul/totp-keychain): :lock: TOTP cli backed by the OS X keychain  
+[redcanary-response-utils](https://github.com/redcanaryco/redcanary-response-utils): Tools to automate and/or expedite response.
