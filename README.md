@@ -3656,4 +3656,5 @@
 [Lizard](https://github.com/wr0x00/Lizard): Lizard is a python-based fully automated infiltration script,feature-rich and can run on termux(Android).     Lizard是一款基于python的web安全渗透测试工具；支持端口扫描、IP探测、密码爆破、shodan扫描、网站目录后台扫描、whois查询，CMS识别，poc检测；webshell一句话连接，dos攻击，ddos攻击，exp利用；整体采用模块化设计，可自行调用  
 [NoSight](https://github.com/mematron/NoSight): Disable any video input on a Mac. Putting tape over your iSight won't help you but this will.  
 [Path_Travelsal_Payload_List](https://github.com/omurugur/Path_Travelsal_Payload_List): Path Traversal Vulnerability Payload List  
-[RSPET](https://github.com/panagiks/RSPET): RSPET (Reverse Shell and Post Exploitation Tool) is a Python based reverse shell equipped with functionalities that assist in a post exploitation scenario.
+[RSPET](https://github.com/panagiks/RSPET): RSPET (Reverse Shell and Post Exploitation Tool) is a Python based reverse shell equipped with functionalities that assist in a post exploitation scenario.  
+[reading_list](https://github.com/bl8nr/reading_list): A very useful reading list of technical documents related to internetworking and cybersecurity.
