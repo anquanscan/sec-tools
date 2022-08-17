@@ -3658,4 +3658,5 @@
 [Path_Travelsal_Payload_List](https://github.com/omurugur/Path_Travelsal_Payload_List): Path Traversal Vulnerability Payload List  
 [RSPET](https://github.com/panagiks/RSPET): RSPET (Reverse Shell and Post Exploitation Tool) is a Python based reverse shell equipped with functionalities that assist in a post exploitation scenario.  
 [reading_list](https://github.com/bl8nr/reading_list): A very useful reading list of technical documents related to internetworking and cybersecurity.  
-[netmap.js](https://github.com/serain/netmap.js): Fast browser-based network discovery module
+[netmap.js](https://github.com/serain/netmap.js): Fast browser-based network discovery module  
+[CVE-2020-1971](https://github.com/MBHudson/CVE-2020-1971): CVE-2020-1971 Auto Scan & Remote Exploit Script. Auto Local Scan & Patch Script.
