@@ -3724,4 +3724,5 @@
 [contained.af](https://github.com/genuinetools/contained.af): A stupid game for learning about containers, capabilities, and syscalls.  
 [SipHash](https://github.com/veorq/SipHash): High-speed secure pseudorandom function for short messages   
 [exploit-CVE-2018-15139](https://github.com/sec-it/exploit-CVE-2018-15139): OpenEMR < 5.0.1.4 - (Authenticated) File upload - Remote command execution  
-[YSF](https://github.com/IllidanS4/YSF): YSF Server Functions
+[YSF](https://github.com/IllidanS4/YSF): YSF Server Functions  
+[k8badusb](https://github.com/k8gege/k8badusb): BadUSB Teensy downexec exploit support Windows & Linux / Windows Cmd & PowerShell addUser exploit
