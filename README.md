@@ -3692,4 +3692,5 @@
 [BrowserBox](https://github.com/crisdosyago/BrowserBox): 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!  
 [agebox](https://github.com/slok/agebox): Age based repository file encryption gitops tool  
 [rctf-scenario2](https://github.com/aliasrobotics/rctf-scenario2): Robotics CTF scenario 2  
-[sec-scannode](https://github.com/wanzywang/sec-scannode): SEC分布式资产扫描系统
+[sec-scannode](https://github.com/wanzywang/sec-scannode): SEC分布式资产扫描系统  
+[AppleDOS](https://github.com/farisv/AppleDOS): Messing Apple devices on the network with CVE-2018-4407 (heap overflow in bad packet handling)
