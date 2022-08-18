@@ -3743,4 +3743,5 @@
 [metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).  
 [Spydan](https://github.com/adanvillarreal/Spydan): A web spider for shodan.io without using the Developer API.  
 [windbg-exploit-helper-scripts](https://github.com/tin-z/windbg-exploit-helper-scripts): JS scripts for windbg that i'll made for exploit development purpose  
-[SensitiveFileFuzzer](https://github.com/begininvoke/SensitiveFileFuzzer): A tool for fuzzing files on the website
+[SensitiveFileFuzzer](https://github.com/begininvoke/SensitiveFileFuzzer): A tool for fuzzing files on the website  
+[mosec-composer-plugin](https://github.com/momosecurity/mosec-composer-plugin): 用于检测composer项目的第三方依赖组件是否存在安全漏洞。
