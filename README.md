@@ -3738,4 +3738,5 @@
 [ca-clone](https://github.com/BishopFox/ca-clone): Scripts to clone CA certificates for use in HTTPS client attacks.  
 [attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow): Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT&CK techniques into attacks by developing a representation of attack flows, modeling attack flows for a small corpus of incidents, and creating visualization tools to display attack flows.  
 [netflixparty_exploit](https://github.com/kr-b/netflixparty_exploit): Exploit tool for XSS in Netflix party <=1.7.8  
-[gsvsoc_docker-system-of-record](https://github.com/guardsight/gsvsoc_docker-system-of-record): A dockerized log server, that has plug and play capabilities. 
+[gsvsoc_docker-system-of-record](https://github.com/guardsight/gsvsoc_docker-system-of-record): A dockerized log server, that has plug and play capabilities.   
+[djangohunter](https://github.com/jimywork/djangohunter): Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information.
