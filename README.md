@@ -3705,4 +3705,5 @@
 [netcap](https://github.com/dreadl0ck/netcap): A framework for secure and scalable network traffic analysis - https://netcap.io  
 [100-Days-Of-SwiftUI](https://github.com/PetroOnishchuk/100-Days-Of-SwiftUI): 👨‍💻👩‍💻100 Days Of SwiftUI free course from Hacking with Swift. 👨‍💻👩‍💻  
 [Exploring-APT-campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns): Further investigation in to APT campaigns disclosed by private security firms and security agencies  
-[firewalla](https://github.com/firewalla/firewalla): http://firewalla.com
+[firewalla](https://github.com/firewalla/firewalla): http://firewalla.com  
+[CVE-2021-4034-exploit](https://github.com/PentesterSoham/CVE-2021-4034-exploit): I am not the real author of this exploits.. There are two exploits available, use any of one if it doesn't work use another one... Manual for this two exploit has given in README file. Please read that file before using it.. :) 
