@@ -3697,4 +3697,5 @@
 [exifLooter](https://github.com/aydinnyunus/exifLooter): ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap  
 [ctf_platform](https://github.com/IRS-Cybersec/ctf_platform): Sieberrsec CTF platform. A Jeopardy CTF platform designed with various neat features to aid in training and learning.  
 [http-header](https://github.com/TahaT80/http-header): # You can get information such as HTTP Version, Server, Date, Content-Type, Transfer-Encoding, Vary, Expires, X-Frame-Options, Connection, P3P, Keep-Alive, X-DIS-Request-ID, Location, address, Cache-Control, etc.  
-[P-SAK](https://github.com/leoanggal1/P-SAK): Pentester Swiss Army Knife is a Docker Image with a suite of the most used tools for Hacking and Pentesting. 
+[P-SAK](https://github.com/leoanggal1/P-SAK): Pentester Swiss Army Knife is a Docker Image with a suite of the most used tools for Hacking and Pentesting.   
+[pnwgen](https://github.com/toxydose/pnwgen): A very flexible phone number wordlist generator
