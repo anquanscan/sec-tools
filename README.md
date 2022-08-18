@@ -3740,4 +3740,5 @@
 [netflixparty_exploit](https://github.com/kr-b/netflixparty_exploit): Exploit tool for XSS in Netflix party <=1.7.8  
 [gsvsoc_docker-system-of-record](https://github.com/guardsight/gsvsoc_docker-system-of-record): A dockerized log server, that has plug and play capabilities.   
 [djangohunter](https://github.com/jimywork/djangohunter): Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information.  
-[metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
+[metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).  
+[Spydan](https://github.com/adanvillarreal/Spydan): A web spider for shodan.io without using the Developer API.
