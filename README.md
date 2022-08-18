@@ -3762,4 +3762,5 @@
 [zenco](https://github.com/faizannadeem12/zenco): This tool is developed to quickly get information about IP Address's DNS records etc  
 [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go): Golang for Security Professionals  
 [appsweep-gradle](https://github.com/Guardsquare/appsweep-gradle): This Gradle plugin can be used to continuously integrate app scanning using AppSweep into your Android app build process  
-[Adding-Security-to-Maven-Spring-WebApp](https://github.com/AdityaKshettri/Adding-Security-to-Maven-Spring-WebApp): In this project, I have worked on Maven Spring Web Application where I have provided Authentication and Authorization security to the web app using Netbeans 11.3
+[Adding-Security-to-Maven-Spring-WebApp](https://github.com/AdityaKshettri/Adding-Security-to-Maven-Spring-WebApp): In this project, I have worked on Maven Spring Web Application where I have provided Authentication and Authorization security to the web app using Netbeans 11.3  
+[firefox_tunnel](https://github.com/CoolerVoid/firefox_tunnel): The way to use firefox to make a tunnel to remote communication, bypass  any firewall
