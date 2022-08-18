@@ -3713,4 +3713,5 @@
 [awesome-russian-it](https://github.com/unchase/awesome-russian-it): :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru  
 [BPStegano](https://github.com/TapanSoni/BPStegano): BPStegano is a steganography tool built using Python 3. It uses AES-128 encryption a custom LSB random pixel algorithm hiding to hide raw strings and any type of file inside images.  
 [pickup-webapp](https://github.com/Ninna-log/pickup-webapp): 🛒💰 This is a demo for an e-commerce called Pickup App  
-[openwrt-useful-tools](https://github.com/adde88/openwrt-useful-tools): A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.
+[openwrt-useful-tools](https://github.com/adde88/openwrt-useful-tools): A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.  
+[chkdomain](https://github.com/PeterDaveHello/chkdomain): Check if a domain can be resolved or been blocked by secure DNS services.
