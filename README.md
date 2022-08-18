@@ -3733,4 +3733,5 @@
 [so-you-want-to-fight-the-state](https://github.com/cutealism/so-you-want-to-fight-the-state): So You Want to Fight the State: A How-to Guide  
 [Twitter-Seclists](https://github.com/securibee/Twitter-Seclists): Curated lists of InfoSec on Twitter. Find out who's awesome to follow!  
 [shu-shell](https://github.com/linuxsec/shu-shell): Webshell Jumping Edition  
-[pmanager](https://github.com/yukselberkay/pmanager): Simple, secure password manager for power users that is suitable for enterprise usage, with Rust's safety and performance.
+[pmanager](https://github.com/yukselberkay/pmanager): Simple, secure password manager for power users that is suitable for enterprise usage, with Rust's safety and performance.  
+[CVE-2017-0785](https://github.com/ojasookert/CVE-2017-0785): Blueborne CVE-2017-0785 Android information leak vulnerability
