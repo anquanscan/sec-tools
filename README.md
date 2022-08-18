@@ -3726,4 +3726,5 @@
 [exploit-CVE-2018-15139](https://github.com/sec-it/exploit-CVE-2018-15139): OpenEMR < 5.0.1.4 - (Authenticated) File upload - Remote command execution  
 [YSF](https://github.com/IllidanS4/YSF): YSF Server Functions  
 [k8badusb](https://github.com/k8gege/k8badusb): BadUSB Teensy downexec exploit support Windows & Linux / Windows Cmd & PowerShell addUser exploit  
-[NotesToCommands](https://github.com/xozxro/NotesToCommands): NotesToCommands is a powerful command template experience, allowing users to instantly execute terminal commands, with varying arguments, grouped into sections in a note or file. It was originally created for pentesting uses, to avoid the needed remembrance and retyping of sets of commands for various attacks.
+[NotesToCommands](https://github.com/xozxro/NotesToCommands): NotesToCommands is a powerful command template experience, allowing users to instantly execute terminal commands, with varying arguments, grouped into sections in a note or file. It was originally created for pentesting uses, to avoid the needed remembrance and retyping of sets of commands for various attacks.  
+[HaboMalHunter](https://github.com/Tencent/HaboMalHunter): HaboMalHunter is a sub-project of Habo Malware Analysis System (https://habo.qq.com), which can be used for automated malware analysis and security assessment on the Linux system.
