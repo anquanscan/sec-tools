@@ -3730,4 +3730,5 @@
 [HaboMalHunter](https://github.com/Tencent/HaboMalHunter): HaboMalHunter is a sub-project of Habo Malware Analysis System (https://habo.qq.com), which can be used for automated malware analysis and security assessment on the Linux system.  
 [bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Make your web services secure by default !  
 [exploit-CVE-2017-7494](https://github.com/opsxcq/exploit-CVE-2017-7494): SambaCry exploit and vulnerable container (CVE-2017-7494)  
-[so-you-want-to-fight-the-state](https://github.com/cutealism/so-you-want-to-fight-the-state): So You Want to Fight the State: A How-to Guide
+[so-you-want-to-fight-the-state](https://github.com/cutealism/so-you-want-to-fight-the-state): So You Want to Fight the State: A How-to Guide  
+[Twitter-Seclists](https://github.com/securibee/Twitter-Seclists): Curated lists of InfoSec on Twitter. Find out who's awesome to follow!
