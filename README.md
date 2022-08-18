@@ -3758,4 +3758,5 @@
 [linux-baseline](https://github.com/dev-sec/linux-baseline): DevSec Linux Baseline - InSpec Profile  
 [TpAll](https://github.com/werp420/TpAll): Dette er stadig basic runcode. Brug CEVA eller noget andet til at test om lortet virker på serveren.  
 [itext7-dotnet](https://github.com/itext/itext7-dotnet): iText 7 for .NET is the .NET version of the iText 7 library, formerly known as iTextSharp, which it replaces. iText 7 represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.  
-[race-the-web](https://github.com/TheHackerDev/race-the-web): Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline.
+[race-the-web](https://github.com/TheHackerDev/race-the-web): Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline.  
+[zenco](https://github.com/faizannadeem12/zenco): This tool is developed to quickly get information about IP Address's DNS records etc
