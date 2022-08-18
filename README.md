@@ -3711,4 +3711,5 @@
 [inql](https://github.com/doyensec/inql): InQL - A Burp Extension for GraphQL Security Testing  
 [POFR](https://github.com/gmagklaras/POFR): Penguin OS Forensic (or Flight) Recorder  
 [awesome-russian-it](https://github.com/unchase/awesome-russian-it): :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru  
-[BPStegano](https://github.com/TapanSoni/BPStegano): BPStegano is a steganography tool built using Python 3. It uses AES-128 encryption a custom LSB random pixel algorithm hiding to hide raw strings and any type of file inside images.
+[BPStegano](https://github.com/TapanSoni/BPStegano): BPStegano is a steganography tool built using Python 3. It uses AES-128 encryption a custom LSB random pixel algorithm hiding to hide raw strings and any type of file inside images.  
+[pickup-webapp](https://github.com/Ninna-log/pickup-webapp): 🛒💰 This is a demo for an e-commerce called Pickup App
