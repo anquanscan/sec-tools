@@ -3732,4 +3732,5 @@
 [exploit-CVE-2017-7494](https://github.com/opsxcq/exploit-CVE-2017-7494): SambaCry exploit and vulnerable container (CVE-2017-7494)  
 [so-you-want-to-fight-the-state](https://github.com/cutealism/so-you-want-to-fight-the-state): So You Want to Fight the State: A How-to Guide  
 [Twitter-Seclists](https://github.com/securibee/Twitter-Seclists): Curated lists of InfoSec on Twitter. Find out who's awesome to follow!  
-[shu-shell](https://github.com/linuxsec/shu-shell): Webshell Jumping Edition
+[shu-shell](https://github.com/linuxsec/shu-shell): Webshell Jumping Edition  
+[pmanager](https://github.com/yukselberkay/pmanager): Simple, secure password manager for power users that is suitable for enterprise usage, with Rust's safety and performance.
