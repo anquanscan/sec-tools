@@ -3691,4 +3691,5 @@
 [m-ld-security-spec](https://github.com/m-ld/m-ld-security-spec): Securing Shared Decentralised Live Information with m-ld  
 [BrowserBox](https://github.com/crisdosyago/BrowserBox): 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!  
 [agebox](https://github.com/slok/agebox): Age based repository file encryption gitops tool  
-[rctf-scenario2](https://github.com/aliasrobotics/rctf-scenario2): Robotics CTF scenario 2
+[rctf-scenario2](https://github.com/aliasrobotics/rctf-scenario2): Robotics CTF scenario 2  
+[sec-scannode](https://github.com/wanzywang/sec-scannode): SEC分布式资产扫描系统
