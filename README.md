@@ -3745,4 +3745,5 @@
 [windbg-exploit-helper-scripts](https://github.com/tin-z/windbg-exploit-helper-scripts): JS scripts for windbg that i'll made for exploit development purpose  
 [SensitiveFileFuzzer](https://github.com/begininvoke/SensitiveFileFuzzer): A tool for fuzzing files on the website  
 [mosec-composer-plugin](https://github.com/momosecurity/mosec-composer-plugin): 用于检测composer项目的第三方依赖组件是否存在安全漏洞。  
-[IS-6B](https://github.com/thenanosoft/IS-6B): Information Security Notes on Web 1.0
+[IS-6B](https://github.com/thenanosoft/IS-6B): Information Security Notes on Web 1.0  
+[aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator): The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
