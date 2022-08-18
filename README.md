@@ -3772,4 +3772,5 @@
 [Rakhat](https://github.com/sarah-lishin/Rakhat): Rakhat - a set of deliberately exploitable VM’s designed to provide practice for web exploits for penetration testing.  
 [golang-tls](https://github.com/denji/golang-tls): Simple Golang HTTPS/TLS Examples  
 [TendaSpill](https://github.com/shaheemirza/TendaSpill): An exploitation tool to extract passwords using CVE-2015-5995.  
-[web-devlopment](https://github.com/rishusingh022/web-devlopment): All the stacks which i know in web-development are present here u can have a look
+[web-devlopment](https://github.com/rishusingh022/web-devlopment): All the stacks which i know in web-development are present here u can have a look  
+[Hax-Godz](https://github.com/ZTF666/Hax-Godz): 👨‍💻 This script will turn you into the ultimate H4X0R , the God of the GODZzZzZ .  Use its power wisely ! and don't abuse it too much .
