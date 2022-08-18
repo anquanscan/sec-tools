@@ -3756,4 +3756,5 @@
 [security-privacy](https://github.com/ehsanedalat/security-privacy): This is a repo for all links and tools in the security and privacy field which I have found useful!!  
 [IZANAMI](https://github.com/NicolasMuras/IZANAMI): Es mi proyecto mas actual. Usted podrá ver como razono, y como aplico algunas metodologías demandadas en el mundo del desarrollo. OOP, Selenium con Python Behave (BDD) y TDD + refactoring.  
 [linux-baseline](https://github.com/dev-sec/linux-baseline): DevSec Linux Baseline - InSpec Profile  
-[TpAll](https://github.com/werp420/TpAll): Dette er stadig basic runcode. Brug CEVA eller noget andet til at test om lortet virker på serveren.
+[TpAll](https://github.com/werp420/TpAll): Dette er stadig basic runcode. Brug CEVA eller noget andet til at test om lortet virker på serveren.  
+[itext7-dotnet](https://github.com/itext/itext7-dotnet): iText 7 for .NET is the .NET version of the iText 7 library, formerly known as iTextSharp, which it replaces. iText 7 represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.
