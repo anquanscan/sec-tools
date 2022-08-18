@@ -3701,4 +3701,5 @@
 [pnwgen](https://github.com/toxydose/pnwgen): A very flexible phone number wordlist generator  
 [LabScripts](https://github.com/ColdFusionX/LabScripts): Scripts that I wrote & used in HackTheBox and other CTF's  
 [hackerdosyalaridemo](https://github.com/VolexExtreme/hackerdosyalaridemo): Programın Demo Sürümü  
-[hackerman](https://github.com/AgeOfMarcus/hackerman): A python library for penetration testing, security, development, and fun.
+[hackerman](https://github.com/AgeOfMarcus/hackerman): A python library for penetration testing, security, development, and fun.  
+[netcap](https://github.com/dreadl0ck/netcap): A framework for secure and scalable network traffic analysis - https://netcap.io
