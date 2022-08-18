@@ -3721,4 +3721,5 @@
 [sethc-patch](https://github.com/catb0t/sethc-patch): Linux source to patch Windows NT's sethc.exe to cmd.exe so that pressing SHIFT 5 times at the login screen opens a SYSTEM level cmd.exe  
 [better-passwords](https://github.com/riklewis/better-passwords): Stop use of a bad passwords, including those in the Have I Been Pwned breached password database  
 [cybersecurity-penetration-testing](https://github.com/paulveillard/cybersecurity-penetration-testing): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Penetration Testing in Cybersecurity.  
-[contained.af](https://github.com/genuinetools/contained.af): A stupid game for learning about containers, capabilities, and syscalls.
+[contained.af](https://github.com/genuinetools/contained.af): A stupid game for learning about containers, capabilities, and syscalls.  
+[SipHash](https://github.com/veorq/SipHash): High-speed secure pseudorandom function for short messages 
