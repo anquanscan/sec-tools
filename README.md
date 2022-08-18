@@ -3768,4 +3768,5 @@
 [myProject](https://github.com/iRaneem/myProject): these are some presentation of projects I worked on through time ( Note* : I did publish other documents despite ppt like source code & report ..etc. in other repository so u can check it out )  
 [bluubomb](https://github.com/GaryOderNichts/bluubomb): Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth  
 [lemur](https://github.com/Netflix/lemur): Repository for the Lemur Certificate Manager  
-[awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools): A curated list of various bug bounty tools
+[awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools): A curated list of various bug bounty tools  
+[Rakhat](https://github.com/sarah-lishin/Rakhat): Rakhat - a set of deliberately exploitable VM’s designed to provide practice for web exploits for penetration testing.
