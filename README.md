@@ -3714,4 +3714,5 @@
 [BPStegano](https://github.com/TapanSoni/BPStegano): BPStegano is a steganography tool built using Python 3. It uses AES-128 encryption a custom LSB random pixel algorithm hiding to hide raw strings and any type of file inside images.  
 [pickup-webapp](https://github.com/Ninna-log/pickup-webapp): 🛒💰 This is a demo for an e-commerce called Pickup App  
 [openwrt-useful-tools](https://github.com/adde88/openwrt-useful-tools): A repo containing different tools compiled specifically for the Hak5 WiFi Pineapple MK6 and MK7.  
-[chkdomain](https://github.com/PeterDaveHello/chkdomain): Check if a domain can be resolved or been blocked by secure DNS services.
+[chkdomain](https://github.com/PeterDaveHello/chkdomain): Check if a domain can be resolved or been blocked by secure DNS services.  
+[fusee-nano](https://github.com/DavidBuchanan314/fusee-nano): A minimalist re-implementation of the Fusée Gelée exploit (http://memecpy.com), designed to run on embedded Linux devices. (Zero dependencies)
