@@ -3750,4 +3750,5 @@
 [CVE-2022-0847-Container-Escape](https://github.com/greenhandatsjtu/CVE-2022-0847-Container-Escape): CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸  
 [gf-patterns](https://github.com/mrofisr/gf-patterns): Collection grep patterns for Tom Hudson a.k.a Tomnomnom tools namely gf  
 [V2GInjector](https://github.com/FlUxIuS/V2GInjector): V2GInjector - Tool to intrude a V2G PowerLine network, but also to capture and inject V2G packets   
-[systeminformer](https://github.com/winsiderss/systeminformer): A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+[systeminformer](https://github.com/winsiderss/systeminformer): A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com  
+[cve-2020-9375](https://github.com/thewhiteh4t/cve-2020-9375): TP-Link Archer C50 V3 devices before Build 200318 Rel. 62209 allows remote attackers to cause a denial of service via a crafted HTTP Header containing an unexpected Referer field.
