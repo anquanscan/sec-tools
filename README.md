@@ -3707,4 +3707,5 @@
 [Exploring-APT-campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns): Further investigation in to APT campaigns disclosed by private security firms and security agencies  
 [firewalla](https://github.com/firewalla/firewalla): http://firewalla.com  
 [CVE-2021-4034-exploit](https://github.com/PentesterSoham/CVE-2021-4034-exploit): I am not the real author of this exploits.. There are two exploits available, use any of one if it doesn't work use another one... Manual for this two exploit has given in README file. Please read that file before using it.. :)   
-[heap-exploitation](https://github.com/DhavalKapil/heap-exploitation): This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. 
+[heap-exploitation](https://github.com/DhavalKapil/heap-exploitation): This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure.   
+[inql](https://github.com/doyensec/inql): InQL - A Burp Extension for GraphQL Security Testing
