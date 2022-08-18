@@ -3693,4 +3693,5 @@
 [agebox](https://github.com/slok/agebox): Age based repository file encryption gitops tool  
 [rctf-scenario2](https://github.com/aliasrobotics/rctf-scenario2): Robotics CTF scenario 2  
 [sec-scannode](https://github.com/wanzywang/sec-scannode): SEC分布式资产扫描系统  
-[AppleDOS](https://github.com/farisv/AppleDOS): Messing Apple devices on the network with CVE-2018-4407 (heap overflow in bad packet handling)
+[AppleDOS](https://github.com/farisv/AppleDOS): Messing Apple devices on the network with CVE-2018-4407 (heap overflow in bad packet handling)  
+[exifLooter](https://github.com/aydinnyunus/exifLooter): ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
