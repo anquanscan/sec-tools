@@ -3769,4 +3769,5 @@
 [bluubomb](https://github.com/GaryOderNichts/bluubomb): Exploits the Wii U's bluetooth stack to gain IOSU kernel access via bluetooth  
 [lemur](https://github.com/Netflix/lemur): Repository for the Lemur Certificate Manager  
 [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools): A curated list of various bug bounty tools  
-[Rakhat](https://github.com/sarah-lishin/Rakhat): Rakhat - a set of deliberately exploitable VM’s designed to provide practice for web exploits for penetration testing.
+[Rakhat](https://github.com/sarah-lishin/Rakhat): Rakhat - a set of deliberately exploitable VM’s designed to provide practice for web exploits for penetration testing.  
+[golang-tls](https://github.com/denji/golang-tls): Simple Golang HTTPS/TLS Examples
