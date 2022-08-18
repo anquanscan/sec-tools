@@ -3709,4 +3709,5 @@
 [CVE-2021-4034-exploit](https://github.com/PentesterSoham/CVE-2021-4034-exploit): I am not the real author of this exploits.. There are two exploits available, use any of one if it doesn't work use another one... Manual for this two exploit has given in README file. Please read that file before using it.. :)   
 [heap-exploitation](https://github.com/DhavalKapil/heap-exploitation): This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure.   
 [inql](https://github.com/doyensec/inql): InQL - A Burp Extension for GraphQL Security Testing  
-[POFR](https://github.com/gmagklaras/POFR): Penguin OS Forensic (or Flight) Recorder
+[POFR](https://github.com/gmagklaras/POFR): Penguin OS Forensic (or Flight) Recorder  
+[awesome-russian-it](https://github.com/unchase/awesome-russian-it): :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
