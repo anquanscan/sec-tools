@@ -3760,4 +3760,5 @@
 [itext7-dotnet](https://github.com/itext/itext7-dotnet): iText 7 for .NET is the .NET version of the iText 7 library, formerly known as iTextSharp, which it replaces. iText 7 represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow.  
 [race-the-web](https://github.com/TheHackerDev/race-the-web): Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline.  
 [zenco](https://github.com/faizannadeem12/zenco): This tool is developed to quickly get information about IP Address's DNS records etc  
-[Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go): Golang for Security Professionals
+[Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go): Golang for Security Professionals  
+[appsweep-gradle](https://github.com/Guardsquare/appsweep-gradle): This Gradle plugin can be used to continuously integrate app scanning using AppSweep into your Android app build process
