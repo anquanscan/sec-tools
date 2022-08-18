@@ -3700,4 +3700,5 @@
 [P-SAK](https://github.com/leoanggal1/P-SAK): Pentester Swiss Army Knife is a Docker Image with a suite of the most used tools for Hacking and Pentesting.   
 [pnwgen](https://github.com/toxydose/pnwgen): A very flexible phone number wordlist generator  
 [LabScripts](https://github.com/ColdFusionX/LabScripts): Scripts that I wrote & used in HackTheBox and other CTF's  
-[hackerdosyalaridemo](https://github.com/VolexExtreme/hackerdosyalaridemo): Programın Demo Sürümü
+[hackerdosyalaridemo](https://github.com/VolexExtreme/hackerdosyalaridemo): Programın Demo Sürümü  
+[hackerman](https://github.com/AgeOfMarcus/hackerman): A python library for penetration testing, security, development, and fun.
