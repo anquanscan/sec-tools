@@ -3806,4 +3806,5 @@
 [MARA_threat_model](https://github.com/AcutronicRobotics/MARA_threat_model): Threat Model analysis for MARA modular robot  
 [SVScanner](https://github.com/radenvodka/SVScanner): SVScanner - Scanner Vulnerability And MaSsive Exploit.  
 [Karakurt-Hacking-Team-CTI](https://github.com/infinitumitlabs/Karakurt-Hacking-Team-CTI): IOC Data Obtained From Karakurt Hacking Team's Internal Infrastructure  
-[Enterprise-Security-Skill](https://github.com/AnyeDuke/Enterprise-Security-Skill): 用于记录企业安全规划，建设，运营，攻防的相关资源
+[Enterprise-Security-Skill](https://github.com/AnyeDuke/Enterprise-Security-Skill): 用于记录企业安全规划，建设，运营，攻防的相关资源  
+[OffensiveDLR](https://github.com/byt3bl33d3r/OffensiveDLR): Toolbox containing research notes & PoC code for weaponizing .NET's DLR
