@@ -3823,4 +3823,5 @@
 [IIS-HTTP-Internal-IP-Finder](https://github.com/KooroshRZ/IIS-HTTP-Internal-IP-Finder): Optimized metasploit module to find internal IP address of vulnerable IIS web servers  
 [catbox](https://github.com/m-mizutani/catbox): Vulnerability scan and management serverless system for AWS ECR images with Trivy.  
 [pbscan](https://github.com/gvb84/pbscan): Faster and more efficient stateless SYN scanner and banner grabber due to userland TCP/IP stack usage.  
-[Kali-Linux-Dockerfile](https://github.com/tsumarios/Kali-Linux-Dockerfile): A simple Dockerfile to build an image starting from the latest official one of Kali Linux and including some useful tools.
+[Kali-Linux-Dockerfile](https://github.com/tsumarios/Kali-Linux-Dockerfile): A simple Dockerfile to build an image starting from the latest official one of Kali Linux and including some useful tools.  
+[malnet-image](https://github.com/safreita1/malnet-image): A large-scale database of malicious software images
