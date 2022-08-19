@@ -3815,4 +3815,5 @@
 [RCE_Super_Web_Mailer](https://github.com/Dark-Clown-Security/RCE_Super_Web_Mailer): Author : Mr.TenAr  
 [GoWard](https://github.com/tid4l/GoWard): A robust Red Team proxy written in Go.  
 [React-Spy-API](https://github.com/ankit0183/React-Spy-API): React Spy API For React Application ( Spy error, Intercept, BrodcastError etc...)A set of utilities for collecting UX-analytics of your React-application.!  
-[NELphase](https://github.com/cdpxe/NELphase): Network Environment Learning (NEL) Phase for Covert Channels (with a Feedback Channel)
+[NELphase](https://github.com/cdpxe/NELphase): Network Environment Learning (NEL) Phase for Covert Channels (with a Feedback Channel)  
+[encryption-with-emoji](https://github.com/ojan2021/encryption-with-emoji): A encryption tool coded to encrpyt and decrypt dynamicly (means every time encryption happens with random algorithm) text with emojis.
