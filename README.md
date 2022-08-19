@@ -3787,4 +3787,5 @@
 [App-Partage-d-avis](https://github.com/MarcelintoSpace/App-Partage-d-avis): Application de partage d'avis et photos 🌶️  
 [strongbox](https://github.com/schibsted/strongbox): A secret manager for AWS  
 [Simple-Adware](https://github.com/SKocur/Simple-Adware): Script which display image (ad) downloaded from the internet.  
-[Invoke-PSObfuscation](https://github.com/gh0x0st/Invoke-PSObfuscation): An in-depth approach to obfuscating the individual components of a PowerShell payload whether you're on Windows or Kali Linux.
+[Invoke-PSObfuscation](https://github.com/gh0x0st/Invoke-PSObfuscation): An in-depth approach to obfuscating the individual components of a PowerShell payload whether you're on Windows or Kali Linux.  
+[udpih](https://github.com/GaryOderNichts/udpih): Exploit for the Wii U's USB Host Stack
