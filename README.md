@@ -3782,4 +3782,5 @@
 [HazProne](https://github.com/stafordtituss/HazProne): HazProne is a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand AWS resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why!!  
 [Legacy-Botnets-Source-Code-Collection](https://github.com/maxamin/Legacy-Botnets-Source-Code-Collection): legacy Botnets source code Forked from github.com/malwares  
 [fsf](https://github.com/EmersonElectricCo/fsf): File Scanning Framework  
-[shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust): A Rust port of shadowsocks
+[shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust): A Rust port of shadowsocks  
+[mosec-maven-plugin](https://github.com/momosecurity/mosec-maven-plugin): 用于检测maven项目的第三方依赖组件是否存在安全漏洞。
