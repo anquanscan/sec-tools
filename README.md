@@ -3828,4 +3828,5 @@
 [4-Digit-Brute-Force-Method](https://github.com/ryantwt07/4-Digit-Brute-Force-Method): This machine was developed by Ryan. This machine shows the danger of having a 4-digit password for security purposes.  
 [praesidio-sdk](https://github.com/marnovandermaas/praesidio-sdk): Complete RISC-V toolchain to evaluate physically isolated enclaves  
 [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps): A completely free, open source and online course about Reverse Engineering iOS Applications.  
-[GitGot](https://github.com/BishopFox/GitGot): Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
+[GitGot](https://github.com/BishopFox/GitGot): Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.  
+[Textractor](https://github.com/Artikash/Textractor): Extracts text from video games and visual novels. Highly extensible.
