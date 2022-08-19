@@ -3801,4 +3801,5 @@
 [gef-extras](https://github.com/hugsy/gef-extras): Extra goodies for GEF: Open repository for unfiltered contributions to the project.  
 [docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server): Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2  
 [yandi-scanner](https://github.com/RASSec/yandi-scanner): Network Security Vulnerability Scanner  
-[p2psec](https://github.com/gpestana/p2psec): research on privacy and security in p2p and decentralised systems 
+[p2psec](https://github.com/gpestana/p2psec): research on privacy and security in p2p and decentralised systems   
+[OSCP-Automation](https://github.com/C-Cracks/OSCP-Automation): A collection of personal scripts used in hacking excercises.
