@@ -3810,4 +3810,5 @@
 [OffensiveDLR](https://github.com/byt3bl33d3r/OffensiveDLR): Toolbox containing research notes & PoC code for weaponizing .NET's DLR  
 [mythx-cli](https://github.com/dmuhs/mythx-cli): A command line interface for the MythX smart contract security analysis API  
 [Fngerprint-based-security-system](https://github.com/arunbsmrstu/Fngerprint-based-security-system): It is a fingerprint based security system.This project is developed with java ,u and u 4500 fingerprint reader .  
-[Rhme-2017](https://github.com/Riscure/Rhme-2017): Riscure Hack Me embedded hardware CTF 2017-2018.
+[Rhme-2017](https://github.com/Riscure/Rhme-2017): Riscure Hack Me embedded hardware CTF 2017-2018.  
+[RedNixOS](https://github.com/redcode-labs/RedNixOS): NixOS-based 'distro' for cybersecurity enthusiasts
