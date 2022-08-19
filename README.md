@@ -3803,4 +3803,5 @@
 [yandi-scanner](https://github.com/RASSec/yandi-scanner): Network Security Vulnerability Scanner  
 [p2psec](https://github.com/gpestana/p2psec): research on privacy and security in p2p and decentralised systems   
 [OSCP-Automation](https://github.com/C-Cracks/OSCP-Automation): A collection of personal scripts used in hacking excercises.  
-[MARA_threat_model](https://github.com/AcutronicRobotics/MARA_threat_model): Threat Model analysis for MARA modular robot
+[MARA_threat_model](https://github.com/AcutronicRobotics/MARA_threat_model): Threat Model analysis for MARA modular robot  
+[SVScanner](https://github.com/radenvodka/SVScanner): SVScanner - Scanner Vulnerability And MaSsive Exploit.
