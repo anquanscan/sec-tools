@@ -3778,4 +3778,5 @@
 [rpigrab](https://github.com/TheSpeedX/rpigrab): Hack Raspberry Pi(s) across the world using Shodan !!  
 [infra2](https://github.com/example-policy-org/infra2): This infra is compliant with version 2.0.1 of the company policy  
 [WSOB](https://github.com/oppsec/WSOB): 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.  
-[IsDebuggerPresent](https://github.com/killswitch-GUI/IsDebuggerPresent): Debugger checks in 3 ways
+[IsDebuggerPresent](https://github.com/killswitch-GUI/IsDebuggerPresent): Debugger checks in 3 ways  
+[HazProne](https://github.com/stafordtituss/HazProne): HazProne is a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand AWS resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why!!
