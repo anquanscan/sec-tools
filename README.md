@@ -3796,4 +3796,5 @@
 [awesome-asus-tinker-board](https://github.com/thyrlian/awesome-asus-tinker-board): A curated list of ASUS Tinker Board resources  
 [gowitness](https://github.com/sensepost/gowitness): 🔍 gowitness - a golang, web screenshot utility using Chrome Headless  
 [payloadkit](https://github.com/jordanjoewatson/payloadkit): An offensive security framework for writing payloads  
-[urlcrazy](https://github.com/urbanadventurer/urlcrazy): Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
+[urlcrazy](https://github.com/urbanadventurer/urlcrazy): Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.  
+[cwe_checker](https://github.com/fkie-cad/cwe_checker): cwe_checker finds vulnerable patterns in binary executables
