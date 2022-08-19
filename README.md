@@ -3835,4 +3835,5 @@
 [owasp-mstg](https://github.com/OWASP/owasp-mstg): The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).  
 [teerex-exploits](https://github.com/uni-due-syssec/teerex-exploits): PoC exploits against various SGX enclaves  
 [Threat-Intelligence-Tradecraft](https://github.com/WeaverHeavy/Threat-Intelligence-Tradecraft)  
-[GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler): GraphQL automated security testing toolkit
+[GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler): GraphQL automated security testing toolkit  
+[exit_code_java](https://github.com/TheCyaniteProject/exit_code_java): ExitCode - The Free, Open-Source, Desktop & Hacking Simulator Game.
