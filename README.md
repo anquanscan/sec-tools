@@ -3836,4 +3836,5 @@
 [teerex-exploits](https://github.com/uni-due-syssec/teerex-exploits): PoC exploits against various SGX enclaves  
 [Threat-Intelligence-Tradecraft](https://github.com/WeaverHeavy/Threat-Intelligence-Tradecraft)  
 [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler): GraphQL automated security testing toolkit  
-[exit_code_java](https://github.com/TheCyaniteProject/exit_code_java): ExitCode - The Free, Open-Source, Desktop & Hacking Simulator Game.
+[exit_code_java](https://github.com/TheCyaniteProject/exit_code_java): ExitCode - The Free, Open-Source, Desktop & Hacking Simulator Game.  
+[quiver](https://github.com/stevemcilwain/quiver): Quiver is the tool to manage all of your tools for bug bounty hunting and penetration testing.
