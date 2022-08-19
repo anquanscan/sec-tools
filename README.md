@@ -3817,4 +3817,5 @@
 [React-Spy-API](https://github.com/ankit0183/React-Spy-API): React Spy API For React Application ( Spy error, Intercept, BrodcastError etc...)A set of utilities for collecting UX-analytics of your React-application.!  
 [NELphase](https://github.com/cdpxe/NELphase): Network Environment Learning (NEL) Phase for Covert Channels (with a Feedback Channel)  
 [encryption-with-emoji](https://github.com/ojan2021/encryption-with-emoji): A encryption tool coded to encrpyt and decrypt dynamicly (means every time encryption happens with random algorithm) text with emojis.  
-[magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date
+[magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date  
+[AppmemDumper](https://github.com/dhondta/AppmemDumper): Forensics triage tool relying on Volatility and Foremost
