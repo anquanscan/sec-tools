@@ -3797,4 +3797,5 @@
 [gowitness](https://github.com/sensepost/gowitness): 🔍 gowitness - a golang, web screenshot utility using Chrome Headless  
 [payloadkit](https://github.com/jordanjoewatson/payloadkit): An offensive security framework for writing payloads  
 [urlcrazy](https://github.com/urbanadventurer/urlcrazy): Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.  
-[cwe_checker](https://github.com/fkie-cad/cwe_checker): cwe_checker finds vulnerable patterns in binary executables
+[cwe_checker](https://github.com/fkie-cad/cwe_checker): cwe_checker finds vulnerable patterns in binary executables  
+[gef-extras](https://github.com/hugsy/gef-extras): Extra goodies for GEF: Open repository for unfiltered contributions to the project.
