@@ -3838,4 +3838,5 @@
 [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler): GraphQL automated security testing toolkit  
 [exit_code_java](https://github.com/TheCyaniteProject/exit_code_java): ExitCode - The Free, Open-Source, Desktop & Hacking Simulator Game.  
 [quiver](https://github.com/stevemcilwain/quiver): Quiver is the tool to manage all of your tools for bug bounty hunting and penetration testing.  
-[cocomelonc.github.io](https://github.com/cocomelonc/cocomelonc.github.io): Cybersecurity blog. Red Team, pentest, malware analysis and dev
+[cocomelonc.github.io](https://github.com/cocomelonc/cocomelonc.github.io): Cybersecurity blog. Red Team, pentest, malware analysis and dev  
+[hakip2host](https://github.com/hakluke/hakip2host): hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.
