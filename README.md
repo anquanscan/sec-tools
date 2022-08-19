@@ -3800,4 +3800,5 @@
 [cwe_checker](https://github.com/fkie-cad/cwe_checker): cwe_checker finds vulnerable patterns in binary executables  
 [gef-extras](https://github.com/hugsy/gef-extras): Extra goodies for GEF: Open repository for unfiltered contributions to the project.  
 [docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server): Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2  
-[yandi-scanner](https://github.com/RASSec/yandi-scanner): Network Security Vulnerability Scanner
+[yandi-scanner](https://github.com/RASSec/yandi-scanner): Network Security Vulnerability Scanner  
+[p2psec](https://github.com/gpestana/p2psec): research on privacy and security in p2p and decentralised systems 
