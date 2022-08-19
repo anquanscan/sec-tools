@@ -3791,4 +3791,5 @@
 [udpih](https://github.com/GaryOderNichts/udpih): Exploit for the Wii U's USB Host Stack  
 [TamperThemAll](https://github.com/francescolacerenza/TamperThemAll): A tampered payload generator to Fuzz Web Application Firewalls  
 [showdown](https://github.com/stavinski/showdown): Perform OSINT on external targets using Shodan  
-[wordpress_cve-2018-6389](https://github.com/m3ssap0/wordpress_cve-2018-6389): Tries to exploit a WordPress vulnerability (CVE-2018-6389) which can be used to cause a Denial of Service.
+[wordpress_cve-2018-6389](https://github.com/m3ssap0/wordpress_cve-2018-6389): Tries to exploit a WordPress vulnerability (CVE-2018-6389) which can be used to cause a Denial of Service.  
+[lm5](https://github.com/jmcph4/lm5): Simple and extensible fuzzer
