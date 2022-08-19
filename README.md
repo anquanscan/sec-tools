@@ -3833,4 +3833,5 @@
 [Android2PrivateLAN](https://github.com/H21lab/Android2PrivateLAN): Android App to tunnel access from HTTPs C&C server into Private LAN  
 [nessus-file-analyzer](https://github.com/LimberDuck/nessus-file-analyzer): GUI tool which enables you to parse nessus scan files from Nessus and Tenable.SC by (C) Tenable, Inc. and exports results to a Microsoft Excel Workbook for effortless analysis.  
 [owasp-mstg](https://github.com/OWASP/owasp-mstg): The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).  
-[teerex-exploits](https://github.com/uni-due-syssec/teerex-exploits): PoC exploits against various SGX enclaves
+[teerex-exploits](https://github.com/uni-due-syssec/teerex-exploits): PoC exploits against various SGX enclaves  
+[Threat-Intelligence-Tradecraft](https://github.com/WeaverHeavy/Threat-Intelligence-Tradecraft)
