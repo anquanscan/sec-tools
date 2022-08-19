@@ -3830,4 +3830,5 @@
 [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps): A completely free, open source and online course about Reverse Engineering iOS Applications.  
 [GitGot](https://github.com/BishopFox/GitGot): Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.  
 [Textractor](https://github.com/Artikash/Textractor): Extracts text from video games and visual novels. Highly extensible.  
-[Android2PrivateLAN](https://github.com/H21lab/Android2PrivateLAN): Android App to tunnel access from HTTPs C&C server into Private LAN
+[Android2PrivateLAN](https://github.com/H21lab/Android2PrivateLAN): Android App to tunnel access from HTTPs C&C server into Private LAN  
+[nessus-file-analyzer](https://github.com/LimberDuck/nessus-file-analyzer): GUI tool which enables you to parse nessus scan files from Nessus and Tenable.SC by (C) Tenable, Inc. and exports results to a Microsoft Excel Workbook for effortless analysis.
