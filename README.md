@@ -3777,4 +3777,5 @@
 [nDPI](https://github.com/ntop/nDPI): Open Source Deep Packet Inspection Software Toolkit  
 [rpigrab](https://github.com/TheSpeedX/rpigrab): Hack Raspberry Pi(s) across the world using Shodan !!  
 [infra2](https://github.com/example-policy-org/infra2): This infra is compliant with version 2.0.1 of the company policy  
-[WSOB](https://github.com/oppsec/WSOB): 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.
+[WSOB](https://github.com/oppsec/WSOB): 😭 WSOB is a python tool created to exploit the new vulnerability on WSO2 assigned as CVE-2022-29464.  
+[IsDebuggerPresent](https://github.com/killswitch-GUI/IsDebuggerPresent): Debugger checks in 3 ways
