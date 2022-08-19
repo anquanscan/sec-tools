@@ -3818,4 +3818,5 @@
 [NELphase](https://github.com/cdpxe/NELphase): Network Environment Learning (NEL) Phase for Covert Channels (with a Feedback Channel)  
 [encryption-with-emoji](https://github.com/ojan2021/encryption-with-emoji): A encryption tool coded to encrpyt and decrypt dynamicly (means every time encryption happens with random algorithm) text with emojis.  
 [magisk-frida](https://github.com/ViRb3/magisk-frida): 🔐 Run frida-server on boot with Magisk, always up-to-date  
-[AppmemDumper](https://github.com/dhondta/AppmemDumper): Forensics triage tool relying on Volatility and Foremost
+[AppmemDumper](https://github.com/dhondta/AppmemDumper): Forensics triage tool relying on Volatility and Foremost  
+[Intel-One](https://github.com/jkcso/Intel-One): Command line tool for passive reconnaissance, able to gather and link public information to a target domain, company or individual.  It can make intelligence gathering faster and more effective by drastically reducing manual user interaction.  This is achieved through the engineering of a highly customisable single input to multiple output solution.  Tool conceived and developed in my free time as a result of my genuine interest in penetration testing.
