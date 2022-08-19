@@ -3840,4 +3840,5 @@
 [quiver](https://github.com/stevemcilwain/quiver): Quiver is the tool to manage all of your tools for bug bounty hunting and penetration testing.  
 [cocomelonc.github.io](https://github.com/cocomelonc/cocomelonc.github.io): Cybersecurity blog. Red Team, pentest, malware analysis and dev  
 [hakip2host](https://github.com/hakluke/hakip2host): hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.  
-[H4CK3R-Installer](https://github.com/noyonarfin26/H4CK3R-Installer): This is auto installaling hacking item program simple run it all is well all thing is auto mode script
+[H4CK3R-Installer](https://github.com/noyonarfin26/H4CK3R-Installer): This is auto installaling hacking item program simple run it all is well all thing is auto mode script  
+[stegreg](https://github.com/0ur4n05/stegreg): A tool that encrypt and hide your data inside your images.
