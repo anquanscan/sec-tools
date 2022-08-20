@@ -3849,4 +3849,5 @@
 [scan-for-webcams](https://github.com/JettChenT/scan-for-webcams): scan for webcams on the internet  
 [dnsmonster](https://github.com/mosajjal/dnsmonster): Passive DNS Capture and Monitoring Toolkit  
 [foretoken](https://github.com/domgolonka/foretoken): A blazing fast, highly customizable, modern-day defence tool using (in memory) SQL & REST/gRPC protocols.  
-[pmvr](https://github.com/bemasher/pmvr): Raspberry Pi Motion Video Recorder
+[pmvr](https://github.com/bemasher/pmvr): Raspberry Pi Motion Video Recorder  
+[WannaCry](https://github.com/eitanh/WannaCry): WannaCry Scanner
