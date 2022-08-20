@@ -3850,4 +3850,5 @@
 [dnsmonster](https://github.com/mosajjal/dnsmonster): Passive DNS Capture and Monitoring Toolkit  
 [foretoken](https://github.com/domgolonka/foretoken): A blazing fast, highly customizable, modern-day defence tool using (in memory) SQL & REST/gRPC protocols.  
 [pmvr](https://github.com/bemasher/pmvr): Raspberry Pi Motion Video Recorder  
-[WannaCry](https://github.com/eitanh/WannaCry): WannaCry Scanner
+[WannaCry](https://github.com/eitanh/WannaCry): WannaCry Scanner  
+[shomon](https://github.com/KaanSK/shomon): Shodan Monitoring integration for TheHive.
