@@ -3852,4 +3852,5 @@
 [pmvr](https://github.com/bemasher/pmvr): Raspberry Pi Motion Video Recorder  
 [WannaCry](https://github.com/eitanh/WannaCry): WannaCry Scanner  
 [shomon](https://github.com/KaanSK/shomon): Shodan Monitoring integration for TheHive.  
-[screenshot-writeup](https://github.com/Ahmedwaleed22/screenshot-writeup): Cybertalents Screenshot Writeup
+[screenshot-writeup](https://github.com/Ahmedwaleed22/screenshot-writeup): Cybertalents Screenshot Writeup  
+[ictf-framework](https://github.com/shellphish/ictf-framework): The iCTF Framework, presented by Shellphish!
