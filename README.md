@@ -3851,4 +3851,5 @@
 [foretoken](https://github.com/domgolonka/foretoken): A blazing fast, highly customizable, modern-day defence tool using (in memory) SQL & REST/gRPC protocols.  
 [pmvr](https://github.com/bemasher/pmvr): Raspberry Pi Motion Video Recorder  
 [WannaCry](https://github.com/eitanh/WannaCry): WannaCry Scanner  
-[shomon](https://github.com/KaanSK/shomon): Shodan Monitoring integration for TheHive.
+[shomon](https://github.com/KaanSK/shomon): Shodan Monitoring integration for TheHive.  
+[screenshot-writeup](https://github.com/Ahmedwaleed22/screenshot-writeup): Cybertalents Screenshot Writeup
