@@ -3846,4 +3846,5 @@
 [awesome-windows-security](https://github.com/chryzsh/awesome-windows-security): List of Awesome Windows Security Resources  
 [soup](https://github.com/Jfaler/soup): ☎️ Original open source call flooder using Twilio's API.  
 [Fedora-Guide](https://github.com/mikeroyal/Fedora-Guide): Fedora/CentOS Stream/Red Hat Enterprise Linux Guide   
-[scan-for-webcams](https://github.com/JettChenT/scan-for-webcams): scan for webcams on the internet
+[scan-for-webcams](https://github.com/JettChenT/scan-for-webcams): scan for webcams on the internet  
+[dnsmonster](https://github.com/mosajjal/dnsmonster): Passive DNS Capture and Monitoring Toolkit
