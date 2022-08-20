@@ -3844,4 +3844,5 @@
 [stegreg](https://github.com/0ur4n05/stegreg): A tool that encrypt and hide your data inside your images.  
 [HTB-Emdee-five-for-life-Solution](https://github.com/localhost-Security/HTB-Emdee-five-for-life-Solution): Python script to solve the 'Emdee five for life' Challenge on hackthebox.eu  
 [awesome-windows-security](https://github.com/chryzsh/awesome-windows-security): List of Awesome Windows Security Resources  
-[soup](https://github.com/Jfaler/soup): ☎️ Original open source call flooder using Twilio's API.
+[soup](https://github.com/Jfaler/soup): ☎️ Original open source call flooder using Twilio's API.  
+[Fedora-Guide](https://github.com/mikeroyal/Fedora-Guide): Fedora/CentOS Stream/Red Hat Enterprise Linux Guide 
