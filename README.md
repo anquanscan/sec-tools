@@ -3859,4 +3859,5 @@
 [WMB-Scrapper](https://github.com/daudmalik06/WMB-Scrapper): A small Php package to fetch archive url snapshots from archive.org. Using it you can fetch complete list of snapshot urls of any year or  complete list of all years possible.This package can be used to do recon of any target.  
 [monkey365](https://github.com/silverhack/monkey365): Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.  
 [adv-dnn-ens-malware](https://github.com/deqangss/adv-dnn-ens-malware): adversarial examples, adversarial malware examples, adversarial malware detection, adversarial deep ensemble, Android malware variants  
-[HASH_CRACKING](https://github.com/meduzzabytes/HASH_CRACKING): Its a simple tool for hash cracking password in MD5, SHA1, SHA224, SHA256, SHA384, SHA512
+[HASH_CRACKING](https://github.com/meduzzabytes/HASH_CRACKING): Its a simple tool for hash cracking password in MD5, SHA1, SHA224, SHA256, SHA384, SHA512  
+[CVE-2020-0069_poc](https://github.com/quarkslab/CVE-2020-0069_poc)
