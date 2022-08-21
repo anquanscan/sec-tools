@@ -3889,4 +3889,5 @@
 [insta-hack](https://github.com/IncredibleHacker/insta-hack): All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)  
 [moving_target_defense](https://github.com/erseco/moving_target_defense): Evolutionary Based Moving Target Cyber-Defense Master Thesis  
 [envisioncollision](https://github.com/ShadowEye/envisioncollision): Getting Envisioncollision to actually work.  
-[wordsploit](https://github.com/thisiskeanyvy/wordsploit): Programme de brute force amélioré
+[wordsploit](https://github.com/thisiskeanyvy/wordsploit): Programme de brute force amélioré  
+[ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists): A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
