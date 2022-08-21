@@ -3873,4 +3873,5 @@
 [Ip-Attack](https://github.com/Bhai4You/Ip-Attack): Auto IP or Domain Attack Tool ( #1 )  
 [learn-100](https://github.com/anishkashukla/learn-100): Cool resources and content for bug bounty hunting.  
 [CVE-2022-21907](https://github.com/mauricelambert/CVE-2022-21907): CVE-2022-21907: detection, protection, exploitation and demonstration. Exploitation: Powershell, Python, Ruby, NMAP and Metasploit. Detection and protection: Powershell. Demonstration: Youtube.  
-[evilscan](https://github.com/eviltik/evilscan): NodeJS Simple Network Scanner
+[evilscan](https://github.com/eviltik/evilscan): NodeJS Simple Network Scanner  
+[malware-analysis-reports](https://github.com/An00bRektn/malware-analysis-reports): Reports on malware that I write in my free time, if and when I have any.
