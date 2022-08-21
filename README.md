@@ -3861,4 +3861,5 @@
 [adv-dnn-ens-malware](https://github.com/deqangss/adv-dnn-ens-malware): adversarial examples, adversarial malware examples, adversarial malware detection, adversarial deep ensemble, Android malware variants  
 [HASH_CRACKING](https://github.com/meduzzabytes/HASH_CRACKING): Its a simple tool for hash cracking password in MD5, SHA1, SHA224, SHA256, SHA384, SHA512  
 [CVE-2020-0069_poc](https://github.com/quarkslab/CVE-2020-0069_poc)  
-[uTox](https://github.com/uTox/uTox): µTox the lightest and fluffiest Tox client
+[uTox](https://github.com/uTox/uTox): µTox the lightest and fluffiest Tox client  
+[Twitter-Follow-Exploit](https://github.com/AdrianBZG/Twitter-Follow-Exploit): Automated Twitter mass account creation and follow using Selenium and Tor VPN
