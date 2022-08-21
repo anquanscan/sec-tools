@@ -3888,4 +3888,5 @@
 [Malware-Zoo](https://github.com/BushidoUK/Malware-Zoo): Hashes of infamous malware  
 [insta-hack](https://github.com/IncredibleHacker/insta-hack): All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)  
 [moving_target_defense](https://github.com/erseco/moving_target_defense): Evolutionary Based Moving Target Cyber-Defense Master Thesis  
-[envisioncollision](https://github.com/ShadowEye/envisioncollision): Getting Envisioncollision to actually work.
+[envisioncollision](https://github.com/ShadowEye/envisioncollision): Getting Envisioncollision to actually work.  
+[wordsploit](https://github.com/thisiskeanyvy/wordsploit): Programme de brute force amélioré
