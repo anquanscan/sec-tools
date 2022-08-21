@@ -3864,4 +3864,5 @@
 [uTox](https://github.com/uTox/uTox): µTox the lightest and fluffiest Tox client  
 [Twitter-Follow-Exploit](https://github.com/AdrianBZG/Twitter-Follow-Exploit): Automated Twitter mass account creation and follow using Selenium and Tor VPN  
 [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire): "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences ("narratives") to simulate realistic scenarios and generate corresponding network and filesystem artifacts.  
-[GelatekReanimate](https://github.com/StrokeThePea/GelatekReanimate): Reanimation that's way better than Catware Reanimate.
+[GelatekReanimate](https://github.com/StrokeThePea/GelatekReanimate): Reanimation that's way better than Catware Reanimate.  
+[authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps
