@@ -3881,4 +3881,5 @@
 [PassTron](https://github.com/deepraj1729/PassTron): PassTron is a Security Password Manager that stores user's password locally instead of a live database. It can auto generate secure passwords with stable UI experience  
 [Risk-Measurement-Framework](https://github.com/EvilWatermelon/Risk-Measurement-Framework): For my Masterthesis I implement a framework and evaluate it with a case study for risk measurement. The case study is a NN on traffic sign detection.  
 [in-toto](https://github.com/in-toto/in-toto): in-toto is a framework to protect supply chain integrity.  
-[Web-Phishing-Detection-](https://github.com/Govind155/Web-Phishing-Detection-): Detecting phishing websites using Machine learning with Python.
+[Web-Phishing-Detection-](https://github.com/Govind155/Web-Phishing-Detection-): Detecting phishing websites using Machine learning with Python.  
+[Ooze](https://github.com/CoolerVoid/Ooze): Ooze is a tool to use at pentest with Social engineering. - beta
