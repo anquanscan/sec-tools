@@ -3854,4 +3854,5 @@
 [shomon](https://github.com/KaanSK/shomon): Shodan Monitoring integration for TheHive.  
 [screenshot-writeup](https://github.com/Ahmedwaleed22/screenshot-writeup): Cybertalents Screenshot Writeup  
 [ictf-framework](https://github.com/shellphish/ictf-framework): The iCTF Framework, presented by Shellphish!  
-[fallout-terminal-hacking](https://github.com/evaneliasyoung/fallout-terminal-hacking): This is a fun web-port of my favorite Fallout activity– terminal hacking.
+[fallout-terminal-hacking](https://github.com/evaneliasyoung/fallout-terminal-hacking): This is a fun web-port of my favorite Fallout activity– terminal hacking.  
+[audit-userspace](https://github.com/linux-audit/audit-userspace): Linux audit userspace repository
