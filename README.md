@@ -3868,4 +3868,5 @@
 [authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps  
 [arp-poison](https://github.com/srdja/arp-poison): ARP cache poisoning tool  
 [ICU](https://github.com/003random/ICU): An Extended, Modulair, Host Discovery Framework  
-[authentik](https://github.com/goauthentik/authentik): The authentication glue you need.
+[authentik](https://github.com/goauthentik/authentik): The authentication glue you need.  
+[exein-openwrt-public](https://github.com/Exeinspa/exein-openwrt-public): Openwrt 18.06.5 featured with the Exein's security framework
