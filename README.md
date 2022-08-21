@@ -3857,4 +3857,5 @@
 [fallout-terminal-hacking](https://github.com/evaneliasyoung/fallout-terminal-hacking): This is a fun web-port of my favorite Fallout activity– terminal hacking.  
 [audit-userspace](https://github.com/linux-audit/audit-userspace): Linux audit userspace repository  
 [WMB-Scrapper](https://github.com/daudmalik06/WMB-Scrapper): A small Php package to fetch archive url snapshots from archive.org. Using it you can fetch complete list of snapshot urls of any year or  complete list of all years possible.This package can be used to do recon of any target.  
-[monkey365](https://github.com/silverhack/monkey365): Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.
+[monkey365](https://github.com/silverhack/monkey365): Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.  
+[adv-dnn-ens-malware](https://github.com/deqangss/adv-dnn-ens-malware): adversarial examples, adversarial malware examples, adversarial malware detection, adversarial deep ensemble, Android malware variants
