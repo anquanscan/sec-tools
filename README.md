@@ -3884,4 +3884,5 @@
 [Web-Phishing-Detection-](https://github.com/Govind155/Web-Phishing-Detection-): Detecting phishing websites using Machine learning with Python.  
 [Ooze](https://github.com/CoolerVoid/Ooze): Ooze is a tool to use at pentest with Social engineering. - beta  
 [TechnicalNote](https://github.com/jobhope/TechnicalNote): Repository to store what we have studied. :book: We want everyone to get a job through TechnicalNote.  
-[postshell](https://github.com/rek7/postshell): PostShell - Post Exploitation Bind/Backconnect Shell
+[postshell](https://github.com/rek7/postshell): PostShell - Post Exploitation Bind/Backconnect Shell  
+[Malware-Zoo](https://github.com/BushidoUK/Malware-Zoo): Hashes of infamous malware
