@@ -3901,4 +3901,5 @@
 [m.sc.project](https://github.com/egrzeszczak/m.sc.project): Praca Magisterska (M. Sc.) - Implementacja Security Operations Center przy użyciu oprogramowania open source  
 [gencybercoin](https://github.com/vitalyford/gencybercoin): GenCyberCoin is a project sponsored by NSA/NSF GenCyber program. A demo is deployed here:  
 [MCPTool](https://github.com/wrrulos/MCPTool): Pentesting tool for Minecraft  
-[horusSE](https://github.com/Akshay-Rohatgi/horusSE): lightweight vulnerability remediation engine (Linux scoring engine)
+[horusSE](https://github.com/Akshay-Rohatgi/horusSE): lightweight vulnerability remediation engine (Linux scoring engine)  
+[CVE-2022-31101](https://github.com/karthikuj/CVE-2022-31101): Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101)
