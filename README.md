@@ -3855,4 +3855,5 @@
 [screenshot-writeup](https://github.com/Ahmedwaleed22/screenshot-writeup): Cybertalents Screenshot Writeup  
 [ictf-framework](https://github.com/shellphish/ictf-framework): The iCTF Framework, presented by Shellphish!  
 [fallout-terminal-hacking](https://github.com/evaneliasyoung/fallout-terminal-hacking): This is a fun web-port of my favorite Fallout activity– terminal hacking.  
-[audit-userspace](https://github.com/linux-audit/audit-userspace): Linux audit userspace repository
+[audit-userspace](https://github.com/linux-audit/audit-userspace): Linux audit userspace repository  
+[WMB-Scrapper](https://github.com/daudmalik06/WMB-Scrapper): A small Php package to fetch archive url snapshots from archive.org. Using it you can fetch complete list of snapshot urls of any year or  complete list of all years possible.This package can be used to do recon of any target.
