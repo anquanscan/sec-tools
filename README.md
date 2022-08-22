@@ -3942,4 +3942,5 @@
 [CVE-2017-11882](https://github.com/unamer/CVE-2017-11882): CVE-2017-11882 Exploit accepts over 17k bytes long command/code in maximum.  
 [teatime](https://github.com/dmuhs/teatime): An RPC attack framework for Blockchain nodes.  
 [tutanota](https://github.com/tutao/tutanota): Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.  
-[o365recon](https://github.com/nyxgeek/o365recon): retrieve information via O365 and AzureAD with a valid cred
+[o365recon](https://github.com/nyxgeek/o365recon): retrieve information via O365 and AzureAD with a valid cred  
+[local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner): Simple local scanner for vulnerable log4j instances
