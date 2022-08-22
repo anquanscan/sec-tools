@@ -3934,4 +3934,5 @@
 [ImHex](https://github.com/WerWolv/ImHex): 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.  
 [gocewl](https://github.com/shellhunter/gocewl): gocewl is a commandline tool to generate custom wordlists by crawling webpages  
 [thug](https://github.com/buffer/thug): Python low-interaction honeyclient  
-[the-s-in-iot](https://github.com/Makerville/the-s-in-iot): "The S in IoT stands for security" - unknown
+[the-s-in-iot](https://github.com/Makerville/the-s-in-iot): "The S in IoT stands for security" - unknown  
+[DVIA-v2](https://github.com/prateek147/DVIA-v2): Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. This project is developed and maintained by @prateekg147. The vulnerabilities and solutions covered in this app are tested up to iOS 11. The current version is writen in Swift and has the following vulnerabilities.
