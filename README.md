@@ -3927,4 +3927,5 @@
 [sopekocko](https://github.com/natho19/sopekocko): La marque So Pekocko, qui crée des sauces piquantes, connaît un franc succès. L’entreprise souhaite désormais développer une application d’évaluation de ses sauces piquantes, appelée “Piquante”.  
 [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security): 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)  
 [Python-Windows-utils](https://github.com/agentzex/Python-Windows-utils): Machine info gathering and post exploitation tools  
-[firefox-profilemaker](https://github.com/allo-/firefox-profilemaker): Tool to create firefox profiles with good defaults.
+[firefox-profilemaker](https://github.com/allo-/firefox-profilemaker): Tool to create firefox profiles with good defaults.  
+[linux-hardened](https://github.com/GrapheneOS/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Shared IRC channel with KSPP: irc.freenode.net ##linux-hardened. Currently maintained at https://github.com/anthraxx/linux-hardened.
