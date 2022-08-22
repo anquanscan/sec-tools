@@ -3945,4 +3945,5 @@
 [o365recon](https://github.com/nyxgeek/o365recon): retrieve information via O365 and AzureAD with a valid cred  
 [local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner): Simple local scanner for vulnerable log4j instances  
 [PopCat-Hack](https://github.com/rxzyx/PopCat-Hack): The best hack for popcat.click  
-[malinkundang](https://github.com/Proyek-Sangkuriang/malinkundang): Backend for project sangkuriang
+[malinkundang](https://github.com/Proyek-Sangkuriang/malinkundang): Backend for project sangkuriang  
+[Filefy-Public-Download](https://github.com/Itzsten/Filefy-Public-Download): Finally, my new trojan called Filefy is now released publicly- for the first time ever! Feel free to test it on a virtual machine or record a video about it, but credit would be appreciated (as a relatively small creator). This is the version that's recoded in C, for an attempt to exclude the attempts of decompilation and removal of the warning. This is only for demostrational and educational purposes only, I, (itzsten) am not responsible for anything, whatsoever that you do with this malicious program. Don't use it for malicious purposes or you'll have a bad time at jail (not kidding).
