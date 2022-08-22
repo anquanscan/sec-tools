@@ -3951,4 +3951,5 @@
 [aws-iam-key-rotator](https://github.com/skildops/aws-iam-key-rotator): Generates new IAM access key pair every X days and notifies it to the user via configured channel along with deleting the existing key pair after a few days of new key generation  
 [Bug-Bounty-Scripts](https://github.com/victoni/Bug-Bounty-Scripts): The scripts I write to help me on my bug bounty hunting  
 [cleverhans](https://github.com/cleverhans-lab/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both  
-[AlliN](https://github.com/P1-Team/AlliN): A flexible scanner
+[AlliN](https://github.com/P1-Team/AlliN): A flexible scanner  
+[Better-pwn](https://github.com/moom825/Better-pwn): Tools for hacking better discord(BD).
