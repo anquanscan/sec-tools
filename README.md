@@ -3905,4 +3905,5 @@
 [CVE-2022-31101](https://github.com/karthikuj/CVE-2022-31101): Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101)  
 [ebpf-slide](https://github.com/ehids/ebpf-slide): Collection of Linux eBPF slides/documents.  
 [OWASP-Top-10](https://github.com/ravi518/OWASP-Top-10): It contains the  Resources for learning OWASP top 10 vulnerabilities.  
-[nailgun](https://github.com/ningzhenyu/nailgun): Nailgun attack on ARM devices.
+[nailgun](https://github.com/ningzhenyu/nailgun): Nailgun attack on ARM devices.  
+[reverse-ssh](https://github.com/Fahrj/reverse-ssh): Statically-linked ssh server with reverse shell functionality for CTFs and such
