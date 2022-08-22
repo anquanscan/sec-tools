@@ -3964,4 +3964,5 @@
 [Artificial-Intelligence-for-Security](https://github.com/minellogiacomo/Artificial-Intelligence-for-Security): Final project for the course of Artificial Intelligence for Security 2019  
 [PocLibrary](https://github.com/Coldwave96/PocLibrary): 定制界面版POC/EXP脚本仓库  
 [onionshare](https://github.com/onionshare/onionshare): Securely and anonymously share files, host websites, and chat with friends using the Tor network  
-[logclear](https://github.com/dipanshujha/logclear): This script is a shell script for clearing out all temp logs in any Linux system
+[logclear](https://github.com/dipanshujha/logclear): This script is a shell script for clearing out all temp logs in any Linux system  
+[LuaJIT-Wrapper](https://github.com/milkteaaa/LuaJIT-Wrapper): ROBLOX Lua Wrapper made with Lua 5.1 Just-In-Time compiler
