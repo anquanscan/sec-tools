@@ -3923,4 +3923,5 @@
 [sillyproxy](https://github.com/ChandraNarreddy/sillyproxy): SillyProxy - Dynamic SNI based TLS proxy for terminating TLS (>=1.1) HTTP connections to multiple domains.  
 [Vuln_search](https://github.com/lprat/Vuln_search): Docker contains security tools for find vuln in programs (radare2, bap [modified], llvm fuzzer, llvm static [modified], ...)  
 [Goldman-Sachs-Crack-Leaked-Passsword-Database](https://github.com/surajmane24/Goldman-Sachs-Crack-Leaked-Passsword-Database): Improved password security policy   
-[awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security): Awesome Ruby Security resources
+[awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security): Awesome Ruby Security resources  
+[sopekocko](https://github.com/natho19/sopekocko): La marque So Pekocko, qui crée des sauces piquantes, connaît un franc succès. L’entreprise souhaite désormais développer une application d’évaluation de ses sauces piquantes, appelée “Piquante”.
