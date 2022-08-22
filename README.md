@@ -3957,4 +3957,5 @@
 [nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username  
 [Terminhack](https://github.com/sandoche/Terminhack): 👨‍💻 Impress your friends by pretending to be a real hacker  
 [BLUESPAWN](https://github.com/ION28/BLUESPAWN): An Active Defense and EDR software to empower Blue Teams  
-[todomvc-playground-project](https://github.com/alexmonteirocastro/todomvc-playground-project): A playground for enhancing todo-MVC app
+[todomvc-playground-project](https://github.com/alexmonteirocastro/todomvc-playground-project): A playground for enhancing todo-MVC app  
+[MemJect](https://github.com/danielkrupinski/MemJect): Simple Dll injector loading from memory. Supports PE header and entry point erasure. Written in C99.
