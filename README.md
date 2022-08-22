@@ -3954,4 +3954,5 @@
 [AlliN](https://github.com/P1-Team/AlliN): A flexible scanner  
 [Better-pwn](https://github.com/moom825/Better-pwn): Tools for hacking better discord(BD).  
 [cybersecurity-CTF](https://github.com/KhalilThabet/cybersecurity-CTF): This repository is used to store answers when resolving CTF (Catch The Flag) challanges, how i came to the solution and the line of thought used to reach it.  
-[nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
+[nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username  
+[Terminhack](https://github.com/sandoche/Terminhack): 👨‍💻 Impress your friends by pretending to be a real hacker
