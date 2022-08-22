@@ -3969,4 +3969,5 @@
 [fp-jsonwebtoken](https://github.com/natanbueno/fp-jsonwebtoken): fp-jsonwebtoken é um conjunto de bibliotecas para gerar, assinar e validar TOKENS JWT no fpc/lazarus.  
 [Mention_Glitch_Discord](https://github.com/GabinCleaver/Mention_Glitch_Discord): ✨ Un court code qui permet de faire une mention glitch en Python par moi, et en français.  
 [accesscontrol](https://github.com/onury/accesscontrol): Role and Attribute based Access Control for Node.js  
-[SSTI-XSS-Finder](https://github.com/darklotuskdb/SSTI-XSS-Finder): XSS Finder Via SSTI 
+[SSTI-XSS-Finder](https://github.com/darklotuskdb/SSTI-XSS-Finder): XSS Finder Via SSTI   
+[awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation): A curated list of awesome privilege escalation
