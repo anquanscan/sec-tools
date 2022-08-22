@@ -3973,4 +3973,5 @@
 [awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation): A curated list of awesome privilege escalation  
 [Venomsploit](https://github.com/Err0r-ICA/Venomsploit): Meterpreter payload for all platforms  
 [MOSP](https://github.com/CASES-LU/MOSP): A collaborative platform for creating, editing and sharing JSON objects.  
-[pci](https://github.com/michoo/pci): Packet communication investigator
+[pci](https://github.com/michoo/pci): Packet communication investigator  
+[DS4CS-Final](https://github.com/yujunkuo/DS4CS-Final): [網路安全的資料科學 108-2@NCCU] 惡意程式偵測 - 使用靜態分析與模型集成
