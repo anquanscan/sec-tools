@@ -3965,4 +3965,5 @@
 [PocLibrary](https://github.com/Coldwave96/PocLibrary): 定制界面版POC/EXP脚本仓库  
 [onionshare](https://github.com/onionshare/onionshare): Securely and anonymously share files, host websites, and chat with friends using the Tor network  
 [logclear](https://github.com/dipanshujha/logclear): This script is a shell script for clearing out all temp logs in any Linux system  
-[LuaJIT-Wrapper](https://github.com/milkteaaa/LuaJIT-Wrapper): ROBLOX Lua Wrapper made with Lua 5.1 Just-In-Time compiler
+[LuaJIT-Wrapper](https://github.com/milkteaaa/LuaJIT-Wrapper): ROBLOX Lua Wrapper made with Lua 5.1 Just-In-Time compiler  
+[fp-jsonwebtoken](https://github.com/natanbueno/fp-jsonwebtoken): fp-jsonwebtoken é um conjunto de bibliotecas para gerar, assinar e validar TOKENS JWT no fpc/lazarus.
