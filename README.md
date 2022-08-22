@@ -3933,4 +3933,5 @@
 [ArchwareExtraction](https://github.com/Healpler/ArchwareExtraction): [CYBERSECURITY PROJECT] As an IT student and a cybersecurity thesis assistant in the French laboratory IRISA, I searched how to extract the vulnerability assets from CAPEC. I used R language to do XML extraction and processes of VA extraction. A BASH application has been written and allows to use this tool thanks a command prompt (Linux Distributions only at the moment). A Web application has been written to find some vulnerabilities before this cybersecurity project.  
 [ImHex](https://github.com/WerWolv/ImHex): 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.  
 [gocewl](https://github.com/shellhunter/gocewl): gocewl is a commandline tool to generate custom wordlists by crawling webpages  
-[thug](https://github.com/buffer/thug): Python low-interaction honeyclient
+[thug](https://github.com/buffer/thug): Python low-interaction honeyclient  
+[the-s-in-iot](https://github.com/Makerville/the-s-in-iot): "The S in IoT stands for security" - unknown
