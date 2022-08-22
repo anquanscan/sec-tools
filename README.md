@@ -3950,4 +3950,5 @@
 [pwnfb50](https://github.com/securelayer7/pwnfb50): :unlock: transfer ownership of any FB50 smart lock to yourself (CVE-2019-13143)  
 [aws-iam-key-rotator](https://github.com/skildops/aws-iam-key-rotator): Generates new IAM access key pair every X days and notifies it to the user via configured channel along with deleting the existing key pair after a few days of new key generation  
 [Bug-Bounty-Scripts](https://github.com/victoni/Bug-Bounty-Scripts): The scripts I write to help me on my bug bounty hunting  
-[cleverhans](https://github.com/cleverhans-lab/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
+[cleverhans](https://github.com/cleverhans-lab/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both  
+[AlliN](https://github.com/P1-Team/AlliN): A flexible scanner
