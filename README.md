@@ -3972,4 +3972,5 @@
 [SSTI-XSS-Finder](https://github.com/darklotuskdb/SSTI-XSS-Finder): XSS Finder Via SSTI   
 [awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation): A curated list of awesome privilege escalation  
 [Venomsploit](https://github.com/Err0r-ICA/Venomsploit): Meterpreter payload for all platforms  
-[MOSP](https://github.com/CASES-LU/MOSP): A collaborative platform for creating, editing and sharing JSON objects.
+[MOSP](https://github.com/CASES-LU/MOSP): A collaborative platform for creating, editing and sharing JSON objects.  
+[pci](https://github.com/michoo/pci): Packet communication investigator
