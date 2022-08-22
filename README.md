@@ -3910,4 +3910,5 @@
 [nmap-formatter](https://github.com/vdjagilev/nmap-formatter): A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot). Simply put it's nmap converter.  
 [polysecrets](https://github.com/ableinc/polysecrets): A completely randomized order of secrets; built with security in mind.  
 [cybersecurity-forensics](https://github.com/paulveillard/cybersecurity-forensics): A collection of forensics tools, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity  
-[ios-arm-research](https://github.com/xsscx/ios-arm-research): UPDATED: All the action is at https://github.com/xsscx/srd
+[ios-arm-research](https://github.com/xsscx/ios-arm-research): UPDATED: All the action is at https://github.com/xsscx/srd  
+[caddy-security](https://github.com/greenpau/caddy-security): 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
