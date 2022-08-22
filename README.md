@@ -3917,4 +3917,5 @@
 [CI-CD-Integrations](https://github.com/deepfence/CI-CD-Integrations): CI/CD plugins for image scanning, integrations with AWS ECR, Google Container Registry  
 [destiny-macros](https://github.com/preco21/destiny-macros): A collection of Destiny 2 macros built with AutoHotKey  
 [Generate-Checksum-Hash-SHAs-and-MD5-Python](https://github.com/srbrettle/Generate-Checksum-Hash-SHAs-and-MD5-Python): Generate SHA1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-3-224, SHA-3-256, SHA-3-384, SHA-3-512 and MD5 checksums/hash values for a given file.  
-[gosint](https://github.com/1in9e/gosint): Gosint is a distributed asset information collection and vulnerability scanning platform
+[gosint](https://github.com/1in9e/gosint): Gosint is a distributed asset information collection and vulnerability scanning platform  
+[owasp-masvs](https://github.com/OWASP/owasp-masvs): The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
