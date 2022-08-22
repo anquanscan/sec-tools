@@ -3926,4 +3926,5 @@
 [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security): Awesome Ruby Security resources  
 [sopekocko](https://github.com/natho19/sopekocko): La marque So Pekocko, qui crée des sauces piquantes, connaît un franc succès. L’entreprise souhaite désormais développer une application d’évaluation de ses sauces piquantes, appelée “Piquante”.  
 [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security): 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)  
-[Python-Windows-utils](https://github.com/agentzex/Python-Windows-utils): Machine info gathering and post exploitation tools
+[Python-Windows-utils](https://github.com/agentzex/Python-Windows-utils): Machine info gathering and post exploitation tools  
+[firefox-profilemaker](https://github.com/allo-/firefox-profilemaker): Tool to create firefox profiles with good defaults.
