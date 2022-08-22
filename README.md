@@ -3939,4 +3939,5 @@
 [Log4J-RCE-Proof-Of-Concept](https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept): Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information  
 [hunting-rules](https://github.com/travisbgreen/hunting-rules): Suricata rules for network anomaly detection  
 [darlene](https://github.com/Timofey21/darlene): This is a tool for fuzzing XSS vulnerabilities. It's based on genetic algorithm.  
-[CVE-2017-11882](https://github.com/unamer/CVE-2017-11882): CVE-2017-11882 Exploit accepts over 17k bytes long command/code in maximum.
+[CVE-2017-11882](https://github.com/unamer/CVE-2017-11882): CVE-2017-11882 Exploit accepts over 17k bytes long command/code in maximum.  
+[teatime](https://github.com/dmuhs/teatime): An RPC attack framework for Blockchain nodes.
