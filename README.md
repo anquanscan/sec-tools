@@ -3915,4 +3915,5 @@
 [Mac_OSX-Hack](https://github.com/wuseman/Mac_OSX-Hack): Get full root access to Apple Devices running OSX by two commands in single-user-mode. (unless root partition has been encrypted)  
 [bcrypt.net](https://github.com/BcryptNet/bcrypt.net): BCrypt.Net - Bringing updates to the original bcrypt package  
 [CI-CD-Integrations](https://github.com/deepfence/CI-CD-Integrations): CI/CD plugins for image scanning, integrations with AWS ECR, Google Container Registry  
-[destiny-macros](https://github.com/preco21/destiny-macros): A collection of Destiny 2 macros built with AutoHotKey
+[destiny-macros](https://github.com/preco21/destiny-macros): A collection of Destiny 2 macros built with AutoHotKey  
+[Generate-Checksum-Hash-SHAs-and-MD5-Python](https://github.com/srbrettle/Generate-Checksum-Hash-SHAs-and-MD5-Python): Generate SHA1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-3-224, SHA-3-256, SHA-3-384, SHA-3-512 and MD5 checksums/hash values for a given file.
