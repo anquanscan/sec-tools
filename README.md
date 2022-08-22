@@ -3912,4 +3912,5 @@
 [cybersecurity-forensics](https://github.com/paulveillard/cybersecurity-forensics): A collection of forensics tools, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity  
 [ios-arm-research](https://github.com/xsscx/ios-arm-research): UPDATED: All the action is at https://github.com/xsscx/srd  
 [caddy-security](https://github.com/greenpau/caddy-security): 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐  
-[Mac_OSX-Hack](https://github.com/wuseman/Mac_OSX-Hack): Get full root access to Apple Devices running OSX by two commands in single-user-mode. (unless root partition has been encrypted)
+[Mac_OSX-Hack](https://github.com/wuseman/Mac_OSX-Hack): Get full root access to Apple Devices running OSX by two commands in single-user-mode. (unless root partition has been encrypted)  
+[bcrypt.net](https://github.com/BcryptNet/bcrypt.net): BCrypt.Net - Bringing updates to the original bcrypt package
