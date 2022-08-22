@@ -3909,4 +3909,5 @@
 [reverse-ssh](https://github.com/Fahrj/reverse-ssh): Statically-linked ssh server with reverse shell functionality for CTFs and such  
 [nmap-formatter](https://github.com/vdjagilev/nmap-formatter): A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot). Simply put it's nmap converter.  
 [polysecrets](https://github.com/ableinc/polysecrets): A completely randomized order of secrets; built with security in mind.  
-[cybersecurity-forensics](https://github.com/paulveillard/cybersecurity-forensics): A collection of forensics tools, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity
+[cybersecurity-forensics](https://github.com/paulveillard/cybersecurity-forensics): A collection of forensics tools, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity  
+[ios-arm-research](https://github.com/xsscx/ios-arm-research): UPDATED: All the action is at https://github.com/xsscx/srd
