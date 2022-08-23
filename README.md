@@ -4066,4 +4066,5 @@
 [BlogPessoal](https://github.com/RafaelBalbino/BlogPessoal): Onde será armazenado todo o código Java do meu blog pessoal (Exercícios inclusos)  
 [zynix-fusion](https://github.com/th3void/zynix-fusion)  
 [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks): A collected list of awesome security talks  
-[FilezillaExploit](https://github.com/NeoTheCapt/FilezillaExploit): Filezilla local admin port exploit
+[FilezillaExploit](https://github.com/NeoTheCapt/FilezillaExploit): Filezilla local admin port exploit  
+[noonlight-hass](https://github.com/konnected-io/noonlight-hass): HomeAssistant integration for Noonlight
