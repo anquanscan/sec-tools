@@ -4039,4 +4039,5 @@
 [WebDevRN.github.io](https://github.com/WebDevRN/WebDevRN.github.io): Somos uma organização regional do Rio grande do norte, com finalidade apresentar nossos desenvolvedores e reunir assim aumentando o conhecimento de cada um de nossos desevolvedores.  
 [docker-testssl](https://github.com/jumanjihouse/docker-testssl): http://testssl.sh/ in a tiny docker container  
 [ThreatHunting_with_Osquery](https://github.com/Kirtar22/ThreatHunting_with_Osquery): Threat Hunting & Incident Investigation with Osquery  
-[amlogic-usbdl](https://github.com/frederic/amlogic-usbdl): Unsigned code loader for Amlogic BootROM
+[amlogic-usbdl](https://github.com/frederic/amlogic-usbdl): Unsigned code loader for Amlogic BootROM  
+[vsmartcard](https://github.com/frankmorgner/vsmartcard): umbrella project for emulation of smart card readers or smart cards
