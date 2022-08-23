@@ -3983,4 +3983,5 @@
 [pptop](https://github.com/alttch/pptop): Open, extensible Python injector/profiler/analyzer  
 [zip-shotgun](https://github.com/jpiechowka/zip-shotgun): Utility script to test zip file upload functionality (and possible extraction of zip files) for vulnerabilities (aka Zip Slip)  
 [apicheck](https://github.com/BBVA/apicheck): The DevSecOps toolset for REST APIs  
-[0x-review](https://github.com/ConsenSys/0x-review): Security review of 0x smart contracts
+[0x-review](https://github.com/ConsenSys/0x-review): Security review of 0x smart contracts  
+[solarsploit](https://github.com/testifysec/solarsploit): Red team tool that emulates the SolarWinds CI compromise attack vector.
