@@ -4065,4 +4065,5 @@
 [CHMH](https://github.com/CyberRiskOp/CHMH): Just as we create cybersecurity systems according to Design and Engineering Principles, the Handbook authors believed we should offer something similar to our audience of practitioners.  
 [BlogPessoal](https://github.com/RafaelBalbino/BlogPessoal): Onde será armazenado todo o código Java do meu blog pessoal (Exercícios inclusos)  
 [zynix-fusion](https://github.com/th3void/zynix-fusion)  
-[awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks): A collected list of awesome security talks
+[awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks): A collected list of awesome security talks  
+[FilezillaExploit](https://github.com/NeoTheCapt/FilezillaExploit): Filezilla local admin port exploit
