@@ -4021,4 +4021,5 @@
 [attack_to_cve](https://github.com/center-for-threat-informed-defense/attack_to_cve): A methodology for mapping MITRE ATT&CK techniques to vulnerability records to describe the impact of a vulnerability.   
 [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network  
 [django-multifactor-authentication](https://github.com/andrenerd/django-multifactor-authentication): Django Multifactor Authentication  
-[encryptwp](https://github.com/crypteron/encryptwp): EncryptWP - Adds military-grade encryption and tamper protection to WordPress user data.
+[encryptwp](https://github.com/crypteron/encryptwp): EncryptWP - Adds military-grade encryption and tamper protection to WordPress user data.  
+[SpoofThatMail](https://github.com/v4d1/SpoofThatMail): Bash script to check if a domain or list of domains can be spoofed based in DMARC records
