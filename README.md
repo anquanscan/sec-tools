@@ -4033,4 +4033,5 @@
 [porc](https://github.com/hrbrmstr/porc): :boar: Tools to Work with 'Snort' Rules, Logs and Data  
 [gitjacker](https://github.com/liamg/gitjacker): 🔪 :octocat: Leak git repositories from misconfigured websites  
 [keysniffer-poc](https://github.com/mellow-hype/keysniffer-poc): Simple PoC Linux keysniffer showing impact of a lack of GUI-isolation in X display server.  
-[nmapthon2](https://github.com/cblopez/nmapthon2): A modern Nmap automation library for Python
+[nmapthon2](https://github.com/cblopez/nmapthon2): A modern Nmap automation library for Python  
+[flask-security](https://github.com/Flask-Middleware/flask-security): Quick and simple security for Flask applications
