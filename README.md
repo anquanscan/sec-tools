@@ -4001,4 +4001,5 @@
 [lockigest](https://github.com/elmsec/lockigest): 🔐 Lockigest – Why would you have to enter a password to unlock your screen countless times a day? Lockigest is a simple idea that solves this. It will lock your screen only if a predefined pattern is not followed within a certain time.  
 [infosec-jobs-com-salaries](https://github.com/foorilla/infosec-jobs-com-salaries): A dataset of global salaries in InfoSec/Cyber Security.  
 [security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets): 🔒 A collection of cheatsheets for various infosec tools and topics.  
-[Modlishka](https://github.com/drk1wi/Modlishka): Modlishka. Reverse Proxy.  
+[Modlishka](https://github.com/drk1wi/Modlishka): Modlishka. Reverse Proxy.    
+[mssd-systems-security](https://github.com/lamida/mssd-systems-security): Lecture notes and relevant materials of SUTD MSSD 51.502 Systems Security Course
