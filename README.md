@@ -3982,4 +3982,5 @@
 [vulnerable-web-application](https://github.com/fuatkarakus/vulnerable-web-application): Türkçe açıklamalı savunmasız web sitesi  
 [pptop](https://github.com/alttch/pptop): Open, extensible Python injector/profiler/analyzer  
 [zip-shotgun](https://github.com/jpiechowka/zip-shotgun): Utility script to test zip file upload functionality (and possible extraction of zip files) for vulnerabilities (aka Zip Slip)  
-[apicheck](https://github.com/BBVA/apicheck): The DevSecOps toolset for REST APIs
+[apicheck](https://github.com/BBVA/apicheck): The DevSecOps toolset for REST APIs  
+[0x-review](https://github.com/ConsenSys/0x-review): Security review of 0x smart contracts
