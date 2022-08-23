@@ -4034,4 +4034,5 @@
 [gitjacker](https://github.com/liamg/gitjacker): 🔪 :octocat: Leak git repositories from misconfigured websites  
 [keysniffer-poc](https://github.com/mellow-hype/keysniffer-poc): Simple PoC Linux keysniffer showing impact of a lack of GUI-isolation in X display server.  
 [nmapthon2](https://github.com/cblopez/nmapthon2): A modern Nmap automation library for Python  
-[flask-security](https://github.com/Flask-Middleware/flask-security): Quick and simple security for Flask applications
+[flask-security](https://github.com/Flask-Middleware/flask-security): Quick and simple security for Flask applications  
+[SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY): An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR
