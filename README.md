@@ -4026,4 +4026,5 @@
 [panopticon](https://github.com/das-labor/panopticon): A libre cross-platform disassembler.  
 [bouncer_problem](https://github.com/erwanlemerrer/bouncer_problem): Code for the experiment proposed in Section 4.2 of the paper "The Bouncer Problem: Challenges to Remote Explainability".  
 [wifi-deauther](https://github.com/ZKAW/wifi-deauther): A fully automatic wifi deauther coded in Python  
-[Arduino-FastLED-Music-Visualizer](https://github.com/justcallmekoko/Arduino-FastLED-Music-Visualizer): An Arduino based music visualizer using the FastLED library and a strip of individually addressable LEDs
+[Arduino-FastLED-Music-Visualizer](https://github.com/justcallmekoko/Arduino-FastLED-Music-Visualizer): An Arduino based music visualizer using the FastLED library and a strip of individually addressable LEDs  
+[P4ssw0rd-an4lys3r](https://github.com/Himmii/P4ssw0rd-an4lys3r): Check to see if a password is safe or not. If not, Generate the safest password, Of course, it won't be remembered and hence, save it for future reference.
