@@ -4043,4 +4043,5 @@
 [vsmartcard](https://github.com/frankmorgner/vsmartcard): umbrella project for emulation of smart card readers or smart cards  
 [SneakyEXE](https://github.com/hackernese/SneakyEXE): Embedding a "UAC-Bypassing" function into your custom payload  
 [PollDaddyHack](https://github.com/dado3212/PollDaddyHack): Exploit PollDaddy polls  
-[sigmatch](https://github.com/SpriteOvO/sigmatch): ✨ Modern C++ 20 signature match / search library
+[sigmatch](https://github.com/SpriteOvO/sigmatch): ✨ Modern C++ 20 signature match / search library  
+[0x00sec_code](https://github.com/0x00pf/0x00sec_code): Code for my 0x00sec.org posts
