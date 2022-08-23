@@ -4024,4 +4024,5 @@
 [encryptwp](https://github.com/crypteron/encryptwp): EncryptWP - Adds military-grade encryption and tamper protection to WordPress user data.  
 [SpoofThatMail](https://github.com/v4d1/SpoofThatMail): Bash script to check if a domain or list of domains can be spoofed based in DMARC records  
 [panopticon](https://github.com/das-labor/panopticon): A libre cross-platform disassembler.  
-[bouncer_problem](https://github.com/erwanlemerrer/bouncer_problem): Code for the experiment proposed in Section 4.2 of the paper "The Bouncer Problem: Challenges to Remote Explainability".
+[bouncer_problem](https://github.com/erwanlemerrer/bouncer_problem): Code for the experiment proposed in Section 4.2 of the paper "The Bouncer Problem: Challenges to Remote Explainability".  
+[wifi-deauther](https://github.com/ZKAW/wifi-deauther): A fully automatic wifi deauther coded in Python
