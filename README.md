@@ -4046,4 +4046,5 @@
 [sigmatch](https://github.com/SpriteOvO/sigmatch): ✨ Modern C++ 20 signature match / search library  
 [0x00sec_code](https://github.com/0x00pf/0x00sec_code): Code for my 0x00sec.org posts  
 [StringEncryption](https://github.com/Javadr421/StringEncryption): String Encrypting by TripleDES in C# - Security.Cryptogarphi namespace  
-[Network-Traffic-Analysis](https://github.com/vinayakumarr/Network-Traffic-Analysis): SSH traffic analysis
+[Network-Traffic-Analysis](https://github.com/vinayakumarr/Network-Traffic-Analysis): SSH traffic analysis  
+[janus-toolkit](https://github.com/giacomoferretti/janus-toolkit): A collection of tools for the Janus exploit [CVE-2017-13156].
