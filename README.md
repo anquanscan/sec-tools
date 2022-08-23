@@ -4030,4 +4030,5 @@
 [P4ssw0rd-an4lys3r](https://github.com/Himmii/P4ssw0rd-an4lys3r): Check to see if a password is safe or not. If not, Generate the safest password, Of course, it won't be remembered and hence, save it for future reference.  
 [fdsecurity](https://github.com/FabioDefilippo/fdsecurity): this tool analizes a file o many files inside directory with yara and capa to find suspected file  
 [logstash-plugins](https://github.com/lprat/logstash-plugins): My logstash plugins. Filter: sig (for security detect -> IOC, sig, New value, Reference, link, frequence, ...). Output: alert created by filter sig, feed FIR (CERT SG)  
-[porc](https://github.com/hrbrmstr/porc): :boar: Tools to Work with 'Snort' Rules, Logs and Data
+[porc](https://github.com/hrbrmstr/porc): :boar: Tools to Work with 'Snort' Rules, Logs and Data  
+[gitjacker](https://github.com/liamg/gitjacker): 🔪 :octocat: Leak git repositories from misconfigured websites
