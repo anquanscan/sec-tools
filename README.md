@@ -4022,4 +4022,5 @@
 [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network  
 [django-multifactor-authentication](https://github.com/andrenerd/django-multifactor-authentication): Django Multifactor Authentication  
 [encryptwp](https://github.com/crypteron/encryptwp): EncryptWP - Adds military-grade encryption and tamper protection to WordPress user data.  
-[SpoofThatMail](https://github.com/v4d1/SpoofThatMail): Bash script to check if a domain or list of domains can be spoofed based in DMARC records
+[SpoofThatMail](https://github.com/v4d1/SpoofThatMail): Bash script to check if a domain or list of domains can be spoofed based in DMARC records  
+[panopticon](https://github.com/das-labor/panopticon): A libre cross-platform disassembler.
