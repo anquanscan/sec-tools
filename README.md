@@ -4005,4 +4005,5 @@
 [mssd-systems-security](https://github.com/lamida/mssd-systems-security): Lecture notes and relevant materials of SUTD MSSD 51.502 Systems Security Course  
 [Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting): 📝 Understand how cross-site scripting occurs, how to detect and exploit XSS vulnerabilities, giving you control of other visitor's browsers.  
 [consoleme](https://github.com/Netflix/consoleme): A Central Control Plane for AWS Permissions and Access  
-[Infosec-Resources](https://github.com/pathakabhi24/Infosec-Resources): In this repo you will find all the resources used in infosec it helps you to make your knowledge more perfect in this domain
+[Infosec-Resources](https://github.com/pathakabhi24/Infosec-Resources): In this repo you will find all the resources used in infosec it helps you to make your knowledge more perfect in this domain  
+[sploits](https://github.com/mellow-hype/sploits): PoC exploits for bugs I have found and disclosed.
