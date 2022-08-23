@@ -3985,4 +3985,5 @@
 [apicheck](https://github.com/BBVA/apicheck): The DevSecOps toolset for REST APIs  
 [0x-review](https://github.com/ConsenSys/0x-review): Security review of 0x smart contracts  
 [solarsploit](https://github.com/testifysec/solarsploit): Red team tool that emulates the SolarWinds CI compromise attack vector.  
-[Burp-Wordlist-Generator](https://github.com/ldcvanderpoel/Burp-Wordlist-Generator): This Burp extension extracts various data (path, parameter keys, parameter values, subdomains, etc.) from the sitemap. This data is used to create custom wordlists for directory/dns/parameter brute-forcing.
+[Burp-Wordlist-Generator](https://github.com/ldcvanderpoel/Burp-Wordlist-Generator): This Burp extension extracts various data (path, parameter keys, parameter values, subdomains, etc.) from the sitemap. This data is used to create custom wordlists for directory/dns/parameter brute-forcing.  
+[WindowsExploits](https://github.com/Hacker-One/WindowsExploits): Windows Exploit List
