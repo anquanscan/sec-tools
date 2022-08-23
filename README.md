@@ -3995,4 +3995,5 @@
 [Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT): Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.  
 [CyberSec-resources](https://github.com/DavidJKTofan/CyberSec-resources): A repo of useful CyberSec tools/urls, OSINT, Linux security resources, and more.  
 [SDorker](https://github.com/TheSpeedX/SDorker): SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks  
-[little-secret-js](https://github.com/fishwasher/little-secret-js): JavaScript UTF-8 text encoder/decoder secured by a secret key
+[little-secret-js](https://github.com/fishwasher/little-secret-js): JavaScript UTF-8 text encoder/decoder secured by a secret key  
+[Pgen](https://github.com/ctsrc/Pgen): Command-line passphrase generator
