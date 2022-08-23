@@ -4009,4 +4009,5 @@
 [sploits](https://github.com/mellow-hype/sploits): PoC exploits for bugs I have found and disclosed.  
 [l0l](https://github.com/xorond/l0l): An exploit development kit with shellcodes and backdoors for various operating systems  
 [subuser](https://github.com/subuser-security/subuser): Run programs on linux with selectively restricted permissions.  
-[no-ssl](https://github.com/nashcontrol/no-ssl): CLI tool to probe servers for support of legacy TLS protocols and various certificate and cipher checks
+[no-ssl](https://github.com/nashcontrol/no-ssl): CLI tool to probe servers for support of legacy TLS protocols and various certificate and cipher checks  
+[XSS-and-SQL-Vulnerability-Scanner](https://github.com/Muhammad-Nouman-Ahmed/XSS-and-SQL-Vulnerability-Scanner): Python vulnerability scanner to detect XSS and SQL injection in web applications.
