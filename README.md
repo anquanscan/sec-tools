@@ -4051,4 +4051,5 @@
 [bundler-audit](https://github.com/rubysec/bundler-audit): Patch-level verification for Bundler  
 [instagram-zero-click-exploit](https://github.com/cybersecurityresearcher/instagram-zero-click-exploit): Instagram Passwordless Login And Password Reset Bug in The Wild  
 [sec-docker](https://github.com/xiecat/sec-docker): 常用安全工具 docker镜像 自动更新仓库  
-[sedcli](https://github.com/sedcli/sedcli): sedcli and libsed library for NVMe Self-Encrypting Drives (SEDs) management 
+[sedcli](https://github.com/sedcli/sedcli): sedcli and libsed library for NVMe Self-Encrypting Drives (SEDs) management   
+[talk-unity3d-game-hacking](https://github.com/uug-trento/talk-unity3d-game-hacking): Slides for the talk in the UUGTrento #8 
