@@ -3997,4 +3997,5 @@
 [SDorker](https://github.com/TheSpeedX/SDorker): SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks  
 [little-secret-js](https://github.com/fishwasher/little-secret-js): JavaScript UTF-8 text encoder/decoder secured by a secret key  
 [Pgen](https://github.com/ctsrc/Pgen): Command-line passphrase generator  
-[macOS-Kernel-Exploit](https://github.com/A2nkF/macOS-Kernel-Exploit): macOS Kernel Exploit for CVE-2019-8781. 
+[macOS-Kernel-Exploit](https://github.com/A2nkF/macOS-Kernel-Exploit): macOS Kernel Exploit for CVE-2019-8781.   
+[lockigest](https://github.com/elmsec/lockigest): 🔐 Lockigest – Why would you have to enter a password to unlock your screen countless times a day? Lockigest is a simple idea that solves this. It will lock your screen only if a predefined pattern is not followed within a certain time.
