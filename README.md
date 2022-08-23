@@ -4014,4 +4014,5 @@
 [PyExchangePasswordSpray](https://github.com/iomoath/PyExchangePasswordSpray): Microsoft Exchange password spray tool with proxy support.  
 [cervantes](https://github.com/CervantesSec/cervantes): Cervantes is an opensource collaborative platform for pentesters or red teams who want to save time to manage their projects, clients, vulnerabilities and reports in one place.  
 [traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer): A http service to verify request and bounce them according to decisions made by CrowdSec.  
-[internalblue](https://github.com/seemoo-lab/internalblue): Bluetooth experimentation framework for Broadcom and Cypress chips.
+[internalblue](https://github.com/seemoo-lab/internalblue): Bluetooth experimentation framework for Broadcom and Cypress chips.  
+[vsFTPd-2.3.4-exploit](https://github.com/whoamins/vsFTPd-2.3.4-exploit): vsFTPd 2.3.4 Backdoor Exploit CVE-2011-2523
