@@ -3996,4 +3996,5 @@
 [CyberSec-resources](https://github.com/DavidJKTofan/CyberSec-resources): A repo of useful CyberSec tools/urls, OSINT, Linux security resources, and more.  
 [SDorker](https://github.com/TheSpeedX/SDorker): SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks  
 [little-secret-js](https://github.com/fishwasher/little-secret-js): JavaScript UTF-8 text encoder/decoder secured by a secret key  
-[Pgen](https://github.com/ctsrc/Pgen): Command-line passphrase generator
+[Pgen](https://github.com/ctsrc/Pgen): Command-line passphrase generator  
+[macOS-Kernel-Exploit](https://github.com/A2nkF/macOS-Kernel-Exploit): macOS Kernel Exploit for CVE-2019-8781. 
