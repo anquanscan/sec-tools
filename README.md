@@ -4059,4 +4059,5 @@
 [esp32-slcan](https://github.com/mintynet/esp32-slcan): ESP32 slcan compatible device  
 [Joomla_CVE-2015-8562](https://github.com/VoidSec/Joomla_CVE-2015-8562): A proof of concept for Joomla's CVE-2015-8562 vulnerability (Object Injection RCE)  
 [LE-C](https://github.com/l3lch33ts/LE-C): A simple yet powerful Lua-C script executor.  
-[credential-digger](https://github.com/SAP/credential-digger): A Github scanning tool that identifies hardcoded credentials while filtering the false positive data through machine learning models :lock:
+[credential-digger](https://github.com/SAP/credential-digger): A Github scanning tool that identifies hardcoded credentials while filtering the false positive data through machine learning models :lock:  
+[vishwaCTFWebsite21](https://github.com/CybercellVIIT/vishwaCTFWebsite21): Website for the vishwaCTF'21
