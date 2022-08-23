@@ -4055,4 +4055,5 @@
 [talk-unity3d-game-hacking](https://github.com/uug-trento/talk-unity3d-game-hacking): Slides for the talk in the UUGTrento #8   
 [pulsexploit](https://github.com/aqhmal/pulsexploit): Automated script for Pulse Secure SSL VPN exploit (CVE-2019-11510) using hosts retrieved from Shodan API. You must have a Shodan account to use this script.  
 [WebAppNetFrameworkSecurity](https://github.com/carmelogithub/WebAppNetFrameworkSecurity): Configuración de seguridad con Autenticación y Autorización de usuarios  
-[pybfd3](https://github.com/b-2-r/pybfd3): A Python (3.x compatible) interface to the GNU Binary File Descriptor (BFD) and opcodes library.
+[pybfd3](https://github.com/b-2-r/pybfd3): A Python (3.x compatible) interface to the GNU Binary File Descriptor (BFD) and opcodes library.  
+[esp32-slcan](https://github.com/mintynet/esp32-slcan): ESP32 slcan compatible device
