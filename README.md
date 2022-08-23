@@ -4007,4 +4007,5 @@
 [consoleme](https://github.com/Netflix/consoleme): A Central Control Plane for AWS Permissions and Access  
 [Infosec-Resources](https://github.com/pathakabhi24/Infosec-Resources): In this repo you will find all the resources used in infosec it helps you to make your knowledge more perfect in this domain  
 [sploits](https://github.com/mellow-hype/sploits): PoC exploits for bugs I have found and disclosed.  
-[l0l](https://github.com/xorond/l0l): An exploit development kit with shellcodes and backdoors for various operating systems
+[l0l](https://github.com/xorond/l0l): An exploit development kit with shellcodes and backdoors for various operating systems  
+[subuser](https://github.com/subuser-security/subuser): Run programs on linux with selectively restricted permissions.
