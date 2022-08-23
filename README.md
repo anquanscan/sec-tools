@@ -4053,4 +4053,5 @@
 [sec-docker](https://github.com/xiecat/sec-docker): 常用安全工具 docker镜像 自动更新仓库  
 [sedcli](https://github.com/sedcli/sedcli): sedcli and libsed library for NVMe Self-Encrypting Drives (SEDs) management   
 [talk-unity3d-game-hacking](https://github.com/uug-trento/talk-unity3d-game-hacking): Slides for the talk in the UUGTrento #8   
-[pulsexploit](https://github.com/aqhmal/pulsexploit): Automated script for Pulse Secure SSL VPN exploit (CVE-2019-11510) using hosts retrieved from Shodan API. You must have a Shodan account to use this script.
+[pulsexploit](https://github.com/aqhmal/pulsexploit): Automated script for Pulse Secure SSL VPN exploit (CVE-2019-11510) using hosts retrieved from Shodan API. You must have a Shodan account to use this script.  
+[WebAppNetFrameworkSecurity](https://github.com/carmelogithub/WebAppNetFrameworkSecurity): Configuración de seguridad con Autenticación y Autorización de usuarios
