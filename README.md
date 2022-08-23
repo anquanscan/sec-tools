@@ -4062,4 +4062,5 @@
 [credential-digger](https://github.com/SAP/credential-digger): A Github scanning tool that identifies hardcoded credentials while filtering the false positive data through machine learning models :lock:  
 [vishwaCTFWebsite21](https://github.com/CybercellVIIT/vishwaCTFWebsite21): Website for the vishwaCTF'21  
 [CANghost](https://github.com/souravbaghz/CANghost): Automated Script For Hacking Into CAN Bus - Car Hacking  
-[CHMH](https://github.com/CyberRiskOp/CHMH): Just as we create cybersecurity systems according to Design and Engineering Principles, the Handbook authors believed we should offer something similar to our audience of practitioners.
+[CHMH](https://github.com/CyberRiskOp/CHMH): Just as we create cybersecurity systems according to Design and Engineering Principles, the Handbook authors believed we should offer something similar to our audience of practitioners.  
+[BlogPessoal](https://github.com/RafaelBalbino/BlogPessoal): Onde será armazenado todo o código Java do meu blog pessoal (Exercícios inclusos)
