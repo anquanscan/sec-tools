@@ -4069,4 +4069,5 @@
 [FilezillaExploit](https://github.com/NeoTheCapt/FilezillaExploit): Filezilla local admin port exploit  
 [noonlight-hass](https://github.com/konnected-io/noonlight-hass): HomeAssistant integration for Noonlight  
 [Phishing-Websites-Classification-using-Deep-Learning](https://github.com/sohailahmedkhan/Phishing-Websites-Classification-using-Deep-Learning): A detailed comparison of performance scores achieved by Machine Learning and Deep Learning algorithms on 3 different Phishing datasets. 3 different feature selection and 2 different dimensionality reduction techniques are used for comparison.  
-[pacbot](https://github.com/tmobile/pacbot): PacBot (Policy as Code Bot)
+[pacbot](https://github.com/tmobile/pacbot): PacBot (Policy as Code Bot)  
+[cuc-ns](https://github.com/c4pr1c3/cuc-ns): 网络安全课本
