@@ -3980,4 +3980,5 @@
 [WindowsKeylogger](https://github.com/lucasbrsa/WindowsKeylogger): C++ ethical keylogger for Windows  
 [matomo](https://github.com/matomo-org/matomo): Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!   
 [vulnerable-web-application](https://github.com/fuatkarakus/vulnerable-web-application): Türkçe açıklamalı savunmasız web sitesi  
-[pptop](https://github.com/alttch/pptop): Open, extensible Python injector/profiler/analyzer
+[pptop](https://github.com/alttch/pptop): Open, extensible Python injector/profiler/analyzer  
+[zip-shotgun](https://github.com/jpiechowka/zip-shotgun): Utility script to test zip file upload functionality (and possible extraction of zip files) for vulnerabilities (aka Zip Slip)
