@@ -4012,4 +4012,5 @@
 [no-ssl](https://github.com/nashcontrol/no-ssl): CLI tool to probe servers for support of legacy TLS protocols and various certificate and cipher checks  
 [XSS-and-SQL-Vulnerability-Scanner](https://github.com/Muhammad-Nouman-Ahmed/XSS-and-SQL-Vulnerability-Scanner): Python vulnerability scanner to detect XSS and SQL injection in web applications.  
 [PyExchangePasswordSpray](https://github.com/iomoath/PyExchangePasswordSpray): Microsoft Exchange password spray tool with proxy support.  
-[cervantes](https://github.com/CervantesSec/cervantes): Cervantes is an opensource collaborative platform for pentesters or red teams who want to save time to manage their projects, clients, vulnerabilities and reports in one place.
+[cervantes](https://github.com/CervantesSec/cervantes): Cervantes is an opensource collaborative platform for pentesters or red teams who want to save time to manage their projects, clients, vulnerabilities and reports in one place.  
+[traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer): A http service to verify request and bounce them according to decisions made by CrowdSec.
