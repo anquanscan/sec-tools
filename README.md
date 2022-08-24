@@ -4093,4 +4093,5 @@
 [zap-extensions](https://github.com/zaproxy/zap-extensions): OWASP ZAP Add-ons  
 [Make-Rainbow-Table](https://github.com/PolyatomicBrian/Make-Rainbow-Table): A simple rainbow table generator supporting MD5, SHA224, SHA256, SHA384, and SHA512, written in Python 2.7.  
 [AstroNet](https://github.com/lckt0/AstroNet): A basic .NET obfuscator uses dnlib, Modded KoiVM on decryption methods. Not stable for now, works on "crack me" executables.  
-[cybersecurity-security-harderning](https://github.com/paulveillard/cybersecurity-security-harderning): A collection of awesome security hardening software, libraries, learning tutorials & documents, e-books, best practices, checklists, benchmarks about hardening in Cybersecurity
+[cybersecurity-security-harderning](https://github.com/paulveillard/cybersecurity-security-harderning): A collection of awesome security hardening software, libraries, learning tutorials & documents, e-books, best practices, checklists, benchmarks about hardening in Cybersecurity  
+[SpyderC2](https://github.com/Ayantaker/SpyderC2): A simple, dockerized python based Command and Control(C2) Framework named SpyderC2
