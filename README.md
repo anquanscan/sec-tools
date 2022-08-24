@@ -4097,4 +4097,5 @@
 [SpyderC2](https://github.com/Ayantaker/SpyderC2): A simple, dockerized python based Command and Control(C2) Framework named SpyderC2  
 [logSniper](https://github.com/egyjs/logSniper): A fast and powerful dashboard (admin,login page) finder  
 [Hodor](https://github.com/KI-labs/Hodor): Hodor is a an automation application that is used to open the door controlled by an intercom system from Slack using a custom slash command.  
-[penetration_testing](https://github.com/BuggerBag/penetration_testing): 🎩 [penetration testing Book], Kali Magic, Cryptography, Hash Crack, Botnet, Rootkit, Malware, Spyware, Python, Go, C|EH.
+[penetration_testing](https://github.com/BuggerBag/penetration_testing): 🎩 [penetration testing Book], Kali Magic, Cryptography, Hash Crack, Botnet, Rootkit, Malware, Spyware, Python, Go, C|EH.  
+[autorop](https://github.com/mariuszskon/autorop): Automated solver of classic CTF pwn challenges, with flexibility in mind.
