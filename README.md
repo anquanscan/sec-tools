@@ -4095,4 +4095,5 @@
 [AstroNet](https://github.com/lckt0/AstroNet): A basic .NET obfuscator uses dnlib, Modded KoiVM on decryption methods. Not stable for now, works on "crack me" executables.  
 [cybersecurity-security-harderning](https://github.com/paulveillard/cybersecurity-security-harderning): A collection of awesome security hardening software, libraries, learning tutorials & documents, e-books, best practices, checklists, benchmarks about hardening in Cybersecurity  
 [SpyderC2](https://github.com/Ayantaker/SpyderC2): A simple, dockerized python based Command and Control(C2) Framework named SpyderC2  
-[logSniper](https://github.com/egyjs/logSniper): A fast and powerful dashboard (admin,login page) finder
+[logSniper](https://github.com/egyjs/logSniper): A fast and powerful dashboard (admin,login page) finder  
+[Hodor](https://github.com/KI-labs/Hodor): Hodor is a an automation application that is used to open the door controlled by an intercom system from Slack using a custom slash command.
