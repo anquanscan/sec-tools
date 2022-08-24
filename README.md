@@ -4109,4 +4109,5 @@
 [Radium](https://github.com/mehulj94/Radium): Python logger with multiple features.  
 [git-ripper](https://github.com/s3rgeym/git-ripper): Downloads git repo(s) from the web.  
 [Axon](https://github.com/rakion99/Axon): Unrestricted Lua Execution  
-[hackercamp](https://github.com/halit/hackercamp): Enine boyuna siber güvenlik
+[hackercamp](https://github.com/halit/hackercamp): Enine boyuna siber güvenlik  
+[keypatch](https://github.com/keystone-engine/keypatch): Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
