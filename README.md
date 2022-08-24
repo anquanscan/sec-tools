@@ -4106,4 +4106,5 @@
 [CTFarchives](https://github.com/AravGarg/CTFarchives): CTFs I've played so far  
 [rmcpp](https://github.com/apfeltee/rmcpp): rmcpp deletes comments. specifically meant to bridge preprocessor and compiler, it can also (somewhat) handle Pascal-style comments  
 [spellbook](https://github.com/htrgouvea/spellbook): Framework for rapid development and reusable of security tools  
-[Radium](https://github.com/mehulj94/Radium): Python logger with multiple features.
+[Radium](https://github.com/mehulj94/Radium): Python logger with multiple features.  
+[git-ripper](https://github.com/s3rgeym/git-ripper): Downloads git repo(s) from the web.
