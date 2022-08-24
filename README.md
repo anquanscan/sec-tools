@@ -4129,4 +4129,5 @@
 [rctf-scenario4](https://github.com/aliasrobotics/rctf-scenario4): Robotics CTF scenario 4  
 [sa-fail2ban](https://github.com/softasap/sa-fail2ban): Fail2ban scans log files (e.g. sshd log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc. Generally Fail2Ban is then used to update firewall rules to reject the IP addresses for a specified amount of time, although any arbitrary other action (e.g. sending an email) could also be configured  
 [appgyver-auth-flows](https://github.com/SAP-samples/appgyver-auth-flows): SAP Cloud Identity and XSUAA authentication samples for SAP AppGyver. This repository shows how to apply OAuth 2.0 authorization and token flows to your SAP AppGyver apps.   
-[midfp-php](https://github.com/scipag/midfp-php): Mail Message-ID Fingerprinting
+[midfp-php](https://github.com/scipag/midfp-php): Mail Message-ID Fingerprinting  
+[no-sandbox](https://github.com/sickcodes/no-sandbox): No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/
