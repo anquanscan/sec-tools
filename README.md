@@ -4100,4 +4100,5 @@
 [penetration_testing](https://github.com/BuggerBag/penetration_testing): 🎩 [penetration testing Book], Kali Magic, Cryptography, Hash Crack, Botnet, Rootkit, Malware, Spyware, Python, Go, C|EH.  
 [autorop](https://github.com/mariuszskon/autorop): Automated solver of classic CTF pwn challenges, with flexibility in mind.  
 [sdk-js](https://github.com/TankerHQ/sdk-js): Tanker client-side encryption SDK for JavaScript  
-[nocom-frontend](https://github.com/nerdsinspace/nocom-frontend): The No Comment web application frontend. 
+[nocom-frontend](https://github.com/nerdsinspace/nocom-frontend): The No Comment web application frontend.   
+[csrf-spring-webflux-mustache](https://github.com/daggerok/csrf-spring-webflux-mustache): This repository is contains example application using spring boot 2.0, webflux, spring security 5, reactive mongodb and mustache template engine: spring security 5, CSRF protection with mustache, spring webflux functional routes security, method security, authorization decision, etc
