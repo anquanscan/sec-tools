@@ -4131,4 +4131,5 @@
 [appgyver-auth-flows](https://github.com/SAP-samples/appgyver-auth-flows): SAP Cloud Identity and XSUAA authentication samples for SAP AppGyver. This repository shows how to apply OAuth 2.0 authorization and token flows to your SAP AppGyver apps.   
 [midfp-php](https://github.com/scipag/midfp-php): Mail Message-ID Fingerprinting  
 [no-sandbox](https://github.com/sickcodes/no-sandbox): No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/  
-[e-peregrino](https://github.com/aggarcia3/e-peregrino): e-peregrino es una aplicación "de juguete" que pretende implementar los requisitos de seguridad necesarios para credencial de peregrino digital.
+[e-peregrino](https://github.com/aggarcia3/e-peregrino): e-peregrino es una aplicación "de juguete" que pretende implementar los requisitos de seguridad necesarios para credencial de peregrino digital.  
+[secguide](https://github.com/Tencent/secguide): 面向开发人员梳理的代码安全指南
