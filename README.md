@@ -4083,4 +4083,5 @@
 [owasp-seraphimdroid](https://github.com/nikolamilosevic86/owasp-seraphimdroid): OWASP Seraphimdroid is an open source project with aim to create, as a community, an open platform for education and protection of Android users against privacy and security threats.  
 [j3rmbadger.com](https://github.com/jermdw/j3rmbadger.com): j3rmbadger blog  
 [CVE-2021-1675-SCANNER](https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER): Vulnerability Scanner for CVE-2021-1675/PrintNightmare  
-[h-sploit-paylod](https://github.com/jravis-8520/h-sploit-paylod): H-SPLOIT-PAYLOAD GENERATE METASPLOIT PAYLOAD IN 1 CLICK
+[h-sploit-paylod](https://github.com/jravis-8520/h-sploit-paylod): H-SPLOIT-PAYLOAD GENERATE METASPLOIT PAYLOAD IN 1 CLICK  
+[deadfi](https://github.com/robsonbbs/deadfi): Ferramenta para calcular senha padrão de roteadores WiFi
