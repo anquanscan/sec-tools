@@ -4117,4 +4117,5 @@
 [ironcar](https://github.com/vinzeebreak/ironcar): 🏎️ Mini self-driving car for {curious, passionnate} people.  
 [Shellware](https://github.com/NullArray/Shellware): Persistent bind shell via pythonic shellcode execution, and registry tampering.  
 [gitleaks-ci](https://github.com/zricethezav/gitleaks-ci): gitleaks, but for PRs  
-[cloudmapper](https://github.com/duo-labs/cloudmapper):  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+[cloudmapper](https://github.com/duo-labs/cloudmapper):  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.  
+[Abused-Legitimate-Services](https://github.com/BushidoUK/Abused-Legitimate-Services): Cloud, CDN, and marketing services leveraged by cybercriminals and APT groups
