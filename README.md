@@ -4087,4 +4087,5 @@
 [deadfi](https://github.com/robsonbbs/deadfi): Ferramenta para calcular senha padrão de roteadores WiFi  
 [URL-obfuscator](https://github.com/Anish-M-code/URL-obfuscator): Python Program to obfuscate URLs to make Phishing attacks more difficult to detect. Uses Active open redirect list and other URL obfuscation techniques.  
 [formatstring-exploit](https://github.com/Inndy/formatstring-exploit): Dead simple format string exploit payload generator  
-[Red-Team-Tips](https://github.com/6vr/Red-Team-Tips): Red Team Stuffs
+[Red-Team-Tips](https://github.com/6vr/Red-Team-Tips): Red Team Stuffs  
+[Baykus](https://github.com/Yuuyake/Baykus): Baykus is an asynchronous IP analyzer, using 4 different resources 
