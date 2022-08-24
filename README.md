@@ -4076,4 +4076,5 @@
 [pylibcdb](https://github.com/Neetx/pylibcdb): libc_database python wrapper for exploit automation  
 [aws-sso-cli](https://github.com/synfinatic/aws-sso-cli): A powerful tool for using AWS SSO for the CLI and web console.  
 [cyberops](https://github.com/santosomar/cyberops): Cisco Press CCNA Cyber Ops Books and Video Courses supplemental information and additional study materials.  
-[registry-ransomware](https://github.com/Yochran/registry-ransomware): Today I decided to try out some registry editing in VBScript, so I made a quick little ransomware script.
+[registry-ransomware](https://github.com/Yochran/registry-ransomware): Today I decided to try out some registry editing in VBScript, so I made a quick little ransomware script.  
+[awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture): AWESOME-Azure-Architecture
