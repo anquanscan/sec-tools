@@ -4125,4 +4125,5 @@
 [DegateDemoProjects](https://github.com/DegateCommunity/DegateDemoProjects): Degate demonstration projects.  
 [LogServiceCrash](https://github.com/limbenjamin/LogServiceCrash): POC code to crash Windows Event Logger Service  
 [K_Gasp4m](https://github.com/fabiorlobo/K_Gasp4m): "K - Generate a strong password for me" – A password generator  
-[greenbone-container-images](https://github.com/greenbone/greenbone-container-images): Additional Container Images from Greenbone
+[greenbone-container-images](https://github.com/greenbone/greenbone-container-images): Additional Container Images from Greenbone  
+[rctf-scenario4](https://github.com/aliasrobotics/rctf-scenario4): Robotics CTF scenario 4
