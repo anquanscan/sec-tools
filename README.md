@@ -4089,4 +4089,5 @@
 [formatstring-exploit](https://github.com/Inndy/formatstring-exploit): Dead simple format string exploit payload generator  
 [Red-Team-Tips](https://github.com/6vr/Red-Team-Tips): Red Team Stuffs  
 [Baykus](https://github.com/Yuuyake/Baykus): Baykus is an asynchronous IP analyzer, using 4 different resources   
-[forseti-security](https://github.com/forseti-security/forseti-security): Forseti Security
+[forseti-security](https://github.com/forseti-security/forseti-security): Forseti Security  
+[zap-extensions](https://github.com/zaproxy/zap-extensions): OWASP ZAP Add-ons
