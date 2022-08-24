@@ -4110,4 +4110,5 @@
 [git-ripper](https://github.com/s3rgeym/git-ripper): Downloads git repo(s) from the web.  
 [Axon](https://github.com/rakion99/Axon): Unrestricted Lua Execution  
 [hackercamp](https://github.com/halit/hackercamp): Enine boyuna siber güvenlik  
-[keypatch](https://github.com/keystone-engine/keypatch): Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
+[keypatch](https://github.com/keystone-engine/keypatch): Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.  
+[YAFRA](https://github.com/hm-seclab/YAFRA): YAFRA is a semi-automated framework for analyzing and representing reports about IT Security incidents. 
