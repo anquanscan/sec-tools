@@ -4098,4 +4098,5 @@
 [logSniper](https://github.com/egyjs/logSniper): A fast and powerful dashboard (admin,login page) finder  
 [Hodor](https://github.com/KI-labs/Hodor): Hodor is a an automation application that is used to open the door controlled by an intercom system from Slack using a custom slash command.  
 [penetration_testing](https://github.com/BuggerBag/penetration_testing): 🎩 [penetration testing Book], Kali Magic, Cryptography, Hash Crack, Botnet, Rootkit, Malware, Spyware, Python, Go, C|EH.  
-[autorop](https://github.com/mariuszskon/autorop): Automated solver of classic CTF pwn challenges, with flexibility in mind.
+[autorop](https://github.com/mariuszskon/autorop): Automated solver of classic CTF pwn challenges, with flexibility in mind.  
+[sdk-js](https://github.com/TankerHQ/sdk-js): Tanker client-side encryption SDK for JavaScript
