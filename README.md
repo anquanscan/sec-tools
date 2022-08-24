@@ -4121,4 +4121,5 @@
 [Abused-Legitimate-Services](https://github.com/BushidoUK/Abused-Legitimate-Services): Cloud, CDN, and marketing services leveraged by cybercriminals and APT groups  
 [xss-listener](https://github.com/cagataycali/xss-listener): 🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.  
 [NginxDay](https://github.com/AgainstTheWest/NginxDay): Nginx 18.1 04/09/22 zero-day repo  
-[CVE-2020-10749](https://github.com/knqyf263/CVE-2020-10749): CVE-2020-10749 PoC (Kubernetes MitM attacks via IPv6 rogue router advertisements)
+[CVE-2020-10749](https://github.com/knqyf263/CVE-2020-10749): CVE-2020-10749 PoC (Kubernetes MitM attacks via IPv6 rogue router advertisements)  
+[DegateDemoProjects](https://github.com/DegateCommunity/DegateDemoProjects): Degate demonstration projects.
