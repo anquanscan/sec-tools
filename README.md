@@ -4116,4 +4116,5 @@
 [atc-mitigation](https://github.com/atc-project/atc-mitigation): Actionable analytics designed to combat threats based on MITRE's ATT&CK.  
 [ironcar](https://github.com/vinzeebreak/ironcar): 🏎️ Mini self-driving car for {curious, passionnate} people.  
 [Shellware](https://github.com/NullArray/Shellware): Persistent bind shell via pythonic shellcode execution, and registry tampering.  
-[gitleaks-ci](https://github.com/zricethezav/gitleaks-ci): gitleaks, but for PRs
+[gitleaks-ci](https://github.com/zricethezav/gitleaks-ci): gitleaks, but for PRs  
+[cloudmapper](https://github.com/duo-labs/cloudmapper):  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
