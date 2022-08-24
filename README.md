@@ -4072,4 +4072,5 @@
 [pacbot](https://github.com/tmobile/pacbot): PacBot (Policy as Code Bot)  
 [cuc-ns](https://github.com/c4pr1c3/cuc-ns): 网络安全课本  
 [DetExt](https://github.com/alejandro-g-m/DetExt): Detection of malicious data exfiltration over DNS using Machine Learning techniques  
-[cve-2017-0065](https://github.com/Dankirk/cve-2017-0065): Exploiting Edge's read:// urlhandler
+[cve-2017-0065](https://github.com/Dankirk/cve-2017-0065): Exploiting Edge's read:// urlhandler  
+[pylibcdb](https://github.com/Neetx/pylibcdb): libc_database python wrapper for exploit automation
