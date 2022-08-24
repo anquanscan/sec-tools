@@ -4091,4 +4091,5 @@
 [Baykus](https://github.com/Yuuyake/Baykus): Baykus is an asynchronous IP analyzer, using 4 different resources   
 [forseti-security](https://github.com/forseti-security/forseti-security): Forseti Security  
 [zap-extensions](https://github.com/zaproxy/zap-extensions): OWASP ZAP Add-ons  
-[Make-Rainbow-Table](https://github.com/PolyatomicBrian/Make-Rainbow-Table): A simple rainbow table generator supporting MD5, SHA224, SHA256, SHA384, and SHA512, written in Python 2.7.
+[Make-Rainbow-Table](https://github.com/PolyatomicBrian/Make-Rainbow-Table): A simple rainbow table generator supporting MD5, SHA224, SHA256, SHA384, and SHA512, written in Python 2.7.  
+[AstroNet](https://github.com/lckt0/AstroNet): A basic .NET obfuscator uses dnlib, Modded KoiVM on decryption methods. Not stable for now, works on "crack me" executables.
