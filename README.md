@@ -4078,4 +4078,5 @@
 [cyberops](https://github.com/santosomar/cyberops): Cisco Press CCNA Cyber Ops Books and Video Courses supplemental information and additional study materials.  
 [registry-ransomware](https://github.com/Yochran/registry-ransomware): Today I decided to try out some registry editing in VBScript, so I made a quick little ransomware script.  
 [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture): AWESOME-Azure-Architecture  
-[PE-Packer](https://github.com/czs108/PE-Packer): 🗜️ A packer for Windows x86 executable files written in C and Intel x86 Assembly. The new file after packing can obstruct reverse engineering.
+[PE-Packer](https://github.com/czs108/PE-Packer): 🗜️ A packer for Windows x86 executable files written in C and Intel x86 Assembly. The new file after packing can obstruct reverse engineering.  
+[Python_URI](https://github.com/rbshadow/Python_URI): Programming Problems Solution of URI Online Judge using Python 3
