@@ -4114,4 +4114,5 @@
 [YAFRA](https://github.com/hm-seclab/YAFRA): YAFRA is a semi-automated framework for analyzing and representing reports about IT Security incidents.   
 [KiKatz](https://github.com/NITRO-P/KiKatz): Tools untuk pemula dalam kegiatan pentest   
 [atc-mitigation](https://github.com/atc-project/atc-mitigation): Actionable analytics designed to combat threats based on MITRE's ATT&CK.  
-[ironcar](https://github.com/vinzeebreak/ironcar): 🏎️ Mini self-driving car for {curious, passionnate} people.
+[ironcar](https://github.com/vinzeebreak/ironcar): 🏎️ Mini self-driving car for {curious, passionnate} people.  
+[Shellware](https://github.com/NullArray/Shellware): Persistent bind shell via pythonic shellcode execution, and registry tampering.
