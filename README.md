@@ -4079,4 +4079,5 @@
 [registry-ransomware](https://github.com/Yochran/registry-ransomware): Today I decided to try out some registry editing in VBScript, so I made a quick little ransomware script.  
 [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture): AWESOME-Azure-Architecture  
 [PE-Packer](https://github.com/czs108/PE-Packer): 🗜️ A packer for Windows x86 executable files written in C and Intel x86 Assembly. The new file after packing can obstruct reverse engineering.  
-[Python_URI](https://github.com/rbshadow/Python_URI): Programming Problems Solution of URI Online Judge using Python 3
+[Python_URI](https://github.com/rbshadow/Python_URI): Programming Problems Solution of URI Online Judge using Python 3  
+[owasp-seraphimdroid](https://github.com/nikolamilosevic86/owasp-seraphimdroid): OWASP Seraphimdroid is an open source project with aim to create, as a community, an open platform for education and protection of Android users against privacy and security threats.
