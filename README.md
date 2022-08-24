@@ -4119,4 +4119,5 @@
 [gitleaks-ci](https://github.com/zricethezav/gitleaks-ci): gitleaks, but for PRs  
 [cloudmapper](https://github.com/duo-labs/cloudmapper):  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.  
 [Abused-Legitimate-Services](https://github.com/BushidoUK/Abused-Legitimate-Services): Cloud, CDN, and marketing services leveraged by cybercriminals and APT groups  
-[xss-listener](https://github.com/cagataycali/xss-listener): 🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.
+[xss-listener](https://github.com/cagataycali/xss-listener): 🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.  
+[NginxDay](https://github.com/AgainstTheWest/NginxDay): Nginx 18.1 04/09/22 zero-day repo
