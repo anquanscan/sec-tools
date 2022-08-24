@@ -4074,4 +4074,5 @@
 [DetExt](https://github.com/alejandro-g-m/DetExt): Detection of malicious data exfiltration over DNS using Machine Learning techniques  
 [cve-2017-0065](https://github.com/Dankirk/cve-2017-0065): Exploiting Edge's read:// urlhandler  
 [pylibcdb](https://github.com/Neetx/pylibcdb): libc_database python wrapper for exploit automation  
-[aws-sso-cli](https://github.com/synfinatic/aws-sso-cli): A powerful tool for using AWS SSO for the CLI and web console.
+[aws-sso-cli](https://github.com/synfinatic/aws-sso-cli): A powerful tool for using AWS SSO for the CLI and web console.  
+[cyberops](https://github.com/santosomar/cyberops): Cisco Press CCNA Cyber Ops Books and Video Courses supplemental information and additional study materials.
