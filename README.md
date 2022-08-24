@@ -4126,4 +4126,5 @@
 [LogServiceCrash](https://github.com/limbenjamin/LogServiceCrash): POC code to crash Windows Event Logger Service  
 [K_Gasp4m](https://github.com/fabiorlobo/K_Gasp4m): "K - Generate a strong password for me" – A password generator  
 [greenbone-container-images](https://github.com/greenbone/greenbone-container-images): Additional Container Images from Greenbone  
-[rctf-scenario4](https://github.com/aliasrobotics/rctf-scenario4): Robotics CTF scenario 4
+[rctf-scenario4](https://github.com/aliasrobotics/rctf-scenario4): Robotics CTF scenario 4  
+[sa-fail2ban](https://github.com/softasap/sa-fail2ban): Fail2ban scans log files (e.g. sshd log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc. Generally Fail2Ban is then used to update firewall rules to reject the IP addresses for a specified amount of time, although any arbitrary other action (e.g. sending an email) could also be configured
