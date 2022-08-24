@@ -4081,4 +4081,5 @@
 [PE-Packer](https://github.com/czs108/PE-Packer): 🗜️ A packer for Windows x86 executable files written in C and Intel x86 Assembly. The new file after packing can obstruct reverse engineering.  
 [Python_URI](https://github.com/rbshadow/Python_URI): Programming Problems Solution of URI Online Judge using Python 3  
 [owasp-seraphimdroid](https://github.com/nikolamilosevic86/owasp-seraphimdroid): OWASP Seraphimdroid is an open source project with aim to create, as a community, an open platform for education and protection of Android users against privacy and security threats.  
-[j3rmbadger.com](https://github.com/jermdw/j3rmbadger.com): j3rmbadger blog
+[j3rmbadger.com](https://github.com/jermdw/j3rmbadger.com): j3rmbadger blog  
+[CVE-2021-1675-SCANNER](https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER): Vulnerability Scanner for CVE-2021-1675/PrintNightmare
