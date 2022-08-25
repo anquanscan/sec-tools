@@ -4137,4 +4137,5 @@
 [security-rss-list](https://github.com/git-list/security-rss-list): 📰 Security RSS List 📰  
 [CVE-2018-16712](https://github.com/DownWithUp/CVE-2018-16712): PoC Code for CVE-2018-16712 (exploit by MmMapIoSpace)  
 [CNN_Security](https://github.com/jemoran42/CNN_Security)  
-[magnetos](https://github.com/restran/magnetos): 🔥 Hacker Scripts for CTF Challenges.
+[magnetos](https://github.com/restran/magnetos): 🔥 Hacker Scripts for CTF Challenges.  
+[kali-fix](https://github.com/KentVolt/kali-fix): Collection of scripts for fixes and QoL changes for kali linux. Some files for ParrotOS are also included
