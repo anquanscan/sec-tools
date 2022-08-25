@@ -4162,4 +4162,5 @@
 [Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application): Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.  
 [STIX-Interoperability-Runner](https://github.com/StephenOTT/STIX-Interoperability-Runner): STIX Interoperability Runner to write and validate STIX Interoperability Spec tests  
 [CTHackFramework](https://github.com/CelestialPaler/CTHackFramework): 游戏外挂通用框架，快速构建外挂程序。  
-[security-code-scan](https://github.com/security-code-scan/security-code-scan): Vulnerability Patterns Detector for C# and VB.NET
+[security-code-scan](https://github.com/security-code-scan/security-code-scan): Vulnerability Patterns Detector for C# and VB.NET  
+[security-guard](https://github.com/symfony/security-guard): The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.
