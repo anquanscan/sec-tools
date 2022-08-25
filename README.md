@@ -4167,4 +4167,5 @@
 [NTRGhidra](https://github.com/pedro-javierf/NTRGhidra): A Nintendo DS binary loader for Ghidra  
 [Automated-Reconator](https://github.com/CyberDruid-Codes/Automated-Reconator)  
 [noisesocket](https://github.com/Metalnem/noisesocket): .NET Standard 1.3 implementation of the NoiseSocket Protocol (revision 2 of the spec)  
-[autowire](https://github.com/elghazal-a/autowire): Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
+[autowire](https://github.com/elghazal-a/autowire): Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.  
+[awesome-hacking-books](https://github.com/theodorecooper/awesome-hacking-books): A collection of tutorials(e-books, PDF) about cybersecurity and programming.
