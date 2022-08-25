@@ -4191,4 +4191,5 @@
 [Sec-Tools](https://github.com/jwt1399/Sec-Tools): 🍉一款基于Python-Django的多功能Web安全渗透测试工具，包含漏洞扫描，端口扫描，指纹识别，目录扫描，旁站扫描，域名扫描等功能。  
 [JoomlaScan](https://github.com/Pepelux/JoomlaScan): Joomla version and modules scanner  
 [geo-recon](https://github.com/radioactivetobi/geo-recon): An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts.  
-[CSA](https://github.com/ArjitKapoor1/CSA): A web based training portal for employee training in cybersecurity methodologies with a game based questionnaire.  
+[CSA](https://github.com/ArjitKapoor1/CSA): A web based training portal for employee training in cybersecurity methodologies with a game based questionnaire.    
+[shfzlib](https://github.com/shfz/shfzlib): Scenario-based fuzzing test execution tool's scenario library
