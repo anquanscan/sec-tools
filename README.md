@@ -4173,4 +4173,5 @@
 [PortForward](https://github.com/knownsec/PortForward): The port forwarding tool developed by Golang solves the problem that the internal and external networks cannot communicate in certain scenarios  
 [pwndoc](https://github.com/pwndoc/pwndoc): Pentest Report Generator  
 [process_ghost](https://github.com/her0mx/process_ghost): Process Ghosting Rust  
-[secure-pbcopy](https://github.com/alyssais/secure-pbcopy): pbcopy(1) replacement that marks data as confidential
+[secure-pbcopy](https://github.com/alyssais/secure-pbcopy): pbcopy(1) replacement that marks data as confidential  
+[android-hckTool](https://github.com/Izoman/android-hckTool): Android application that consists from collection of all kinds of hacking tools.
