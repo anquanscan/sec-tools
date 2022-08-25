@@ -4186,4 +4186,5 @@
 [arp-scan-rs](https://github.com/kongbytes/arp-scan-rs): A minimalistic ARP scan tool written in Rust for fast local network scans  
 [WannaTool](https://github.com/Err0r-ICA/WannaTool): Script collection  
 [cybersecurity-lab](https://github.com/sgtux/cybersecurity-lab): Laboratory to study security concepts  
-[Zip-BruteForcer](https://github.com/sudo-Ayush/Zip-BruteForcer): Simple python script that can crack ZIP FILE's password!
+[Zip-BruteForcer](https://github.com/sudo-Ayush/Zip-BruteForcer): Simple python script that can crack ZIP FILE's password!  
+[lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go
