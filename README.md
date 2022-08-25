@@ -4164,4 +4164,5 @@
 [CTHackFramework](https://github.com/CelestialPaler/CTHackFramework): 游戏外挂通用框架，快速构建外挂程序。  
 [security-code-scan](https://github.com/security-code-scan/security-code-scan): Vulnerability Patterns Detector for C# and VB.NET  
 [security-guard](https://github.com/symfony/security-guard): The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.  
-[NTRGhidra](https://github.com/pedro-javierf/NTRGhidra): A Nintendo DS binary loader for Ghidra
+[NTRGhidra](https://github.com/pedro-javierf/NTRGhidra): A Nintendo DS binary loader for Ghidra  
+[Automated-Reconator](https://github.com/CyberDruid-Codes/Automated-Reconator)
