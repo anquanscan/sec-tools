@@ -4171,4 +4171,5 @@
 [awesome-hacking-books](https://github.com/theodorecooper/awesome-hacking-books): A collection of tutorials(e-books, PDF) about cybersecurity and programming.  
 [ReverseSh3LL_As_R00tkit](https://github.com/CJHackerz/ReverseSh3LL_As_R00tkit): An example kernel module rootkit to get reverse shell  
 [PortForward](https://github.com/knownsec/PortForward): The port forwarding tool developed by Golang solves the problem that the internal and external networks cannot communicate in certain scenarios  
-[pwndoc](https://github.com/pwndoc/pwndoc): Pentest Report Generator
+[pwndoc](https://github.com/pwndoc/pwndoc): Pentest Report Generator  
+[process_ghost](https://github.com/her0mx/process_ghost): Process Ghosting Rust
