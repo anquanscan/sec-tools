@@ -4196,4 +4196,5 @@
 [PwnX.py](https://github.com/ecriminal/PwnX.py): 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API through chained exploit  
 [Shellkins](https://github.com/HSNHK/Shellkins): Jenkins Remote Command Execution  
 [reverse-engineering-tutorials](https://github.com/maestron/reverse-engineering-tutorials): Reverse Engineering Tutorials  
-[fugacious](https://github.com/fugacious/fugacious): OSSSM (awesome). Open source short-term secure messaging
+[fugacious](https://github.com/fugacious/fugacious): OSSSM (awesome). Open source short-term secure messaging  
+[upash](https://github.com/simonepri/upash): 🔒Unified API for password hashing algorithms
