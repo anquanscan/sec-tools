@@ -4174,4 +4174,5 @@
 [pwndoc](https://github.com/pwndoc/pwndoc): Pentest Report Generator  
 [process_ghost](https://github.com/her0mx/process_ghost): Process Ghosting Rust  
 [secure-pbcopy](https://github.com/alyssais/secure-pbcopy): pbcopy(1) replacement that marks data as confidential  
-[android-hckTool](https://github.com/Izoman/android-hckTool): Android application that consists from collection of all kinds of hacking tools.
+[android-hckTool](https://github.com/Izoman/android-hckTool): Android application that consists from collection of all kinds of hacking tools.  
+[libinject](https://github.com/kkent030315/libinject): A dll injector static library for Win x64 processes with handle elevation supported
