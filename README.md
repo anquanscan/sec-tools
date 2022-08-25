@@ -4148,4 +4148,5 @@
 [cybersecurity-industrial-control-systems-security](https://github.com/paulveillard/cybersecurity-industrial-control-systems-security): A collection of awesome software, libraries, documents, books, resources and cool stuff about industrial control systems in cybersecurity.   
 [crossfeed](https://github.com/cisagov/crossfeed): External monitoring for organization assets  
 [pouch](https://github.com/alibaba/pouch): An Efficient Enterprise-class Container Engine  
-[attack-evals](https://github.com/mitre-attack/attack-evals): ATT&CK Evaluations website (DEPRECATED)
+[attack-evals](https://github.com/mitre-attack/attack-evals): ATT&CK Evaluations website (DEPRECATED)  
+[maltrail](https://github.com/stamparm/maltrail): Malicious traffic detection system
