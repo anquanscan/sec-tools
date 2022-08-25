@@ -4179,4 +4179,5 @@
 [Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources): An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)  
 [OffSecDevOps](https://github.com/omaidf/OffSecDevOps): Offensive Security + DevOps = Fun. Not Safe For AWS.  
 [passwnd](https://github.com/sindastra/passwnd): Check for breached passwords with k-anonymity  
-[opensquat](https://github.com/atenreiro/opensquat): Detection of phishing domains and domain squatting. Supports permutations such as homograph attack, typosquatting and bitsquatting.
+[opensquat](https://github.com/atenreiro/opensquat): Detection of phishing domains and domain squatting. Supports permutations such as homograph attack, typosquatting and bitsquatting.  
+[PS4](https://github.com/jhaik13/PS4): PS4 exploit host for 6.72. 7.02, 7.5x with 100% success rate.
