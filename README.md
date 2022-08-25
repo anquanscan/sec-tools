@@ -4149,4 +4149,5 @@
 [crossfeed](https://github.com/cisagov/crossfeed): External monitoring for organization assets  
 [pouch](https://github.com/alibaba/pouch): An Efficient Enterprise-class Container Engine  
 [attack-evals](https://github.com/mitre-attack/attack-evals): ATT&CK Evaluations website (DEPRECATED)  
-[maltrail](https://github.com/stamparm/maltrail): Malicious traffic detection system
+[maltrail](https://github.com/stamparm/maltrail): Malicious traffic detection system  
+[ucors](https://github.com/wfinn/ucors): tool that scans for CORS bypasses
