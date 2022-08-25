@@ -4142,4 +4142,5 @@
 [Superman](https://github.com/Deusnegro/Superman): The Superman tool is a proxy tool and has the ability to create a proxy list. This tool is made by Omid Ranjbar. Unauthorized use of the tool is the responsibility of the customer  
 [mirror-cultdeadcow.com](https://github.com/opsxcq/mirror-cultdeadcow.com): Cult of Dead Cow website's mirror !  
 [ACFan](https://github.com/xmcp/ACFan): 名副其实的自动AC机  
-[arpmess](https://github.com/avan-pra/arpmess): Perform arp spoofing attack in C
+[arpmess](https://github.com/avan-pra/arpmess): Perform arp spoofing attack in C  
+[Modlishka-Templates](https://github.com/trewisscotch/Modlishka-Templates): BirWell / CoinEx / eTorox / Venus / ProBit Global / Poloniex / Gemini / Gate.io / Binance / Bitfinex / Blockchain / Cex.io / Coinbase / Dashlane / Enpass / Enterprise WebAccountManager / Exmo / FTX Trading / Google / Huobi / Keeper / Korbit / Kraken / MultiPassword / O365 / Yahoo / Canadianbitcoins.com / Liquid.com / Litebit.com / Netcoins.com / Opensea / Shakepay.co / Citibank / Deutsche Bank / Chase / BOA / Wells Fargo / Bank of New York Mellon / Capital One / Suntrust
