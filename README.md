@@ -4166,4 +4166,5 @@
 [security-guard](https://github.com/symfony/security-guard): The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.  
 [NTRGhidra](https://github.com/pedro-javierf/NTRGhidra): A Nintendo DS binary loader for Ghidra  
 [Automated-Reconator](https://github.com/CyberDruid-Codes/Automated-Reconator)  
-[noisesocket](https://github.com/Metalnem/noisesocket): .NET Standard 1.3 implementation of the NoiseSocket Protocol (revision 2 of the spec)
+[noisesocket](https://github.com/Metalnem/noisesocket): .NET Standard 1.3 implementation of the NoiseSocket Protocol (revision 2 of the spec)  
+[autowire](https://github.com/elghazal-a/autowire): Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
