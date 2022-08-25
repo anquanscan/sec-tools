@@ -4187,4 +4187,5 @@
 [WannaTool](https://github.com/Err0r-ICA/WannaTool): Script collection  
 [cybersecurity-lab](https://github.com/sgtux/cybersecurity-lab): Laboratory to study security concepts  
 [Zip-BruteForcer](https://github.com/sudo-Ayush/Zip-BruteForcer): Simple python script that can crack ZIP FILE's password!  
-[lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go
+[lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go  
+[Sec-Tools](https://github.com/jwt1399/Sec-Tools): 🍉一款基于Python-Django的多功能Web安全渗透测试工具，包含漏洞扫描，端口扫描，指纹识别，目录扫描，旁站扫描，域名扫描等功能。
