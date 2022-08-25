@@ -4182,4 +4182,5 @@
 [opensquat](https://github.com/atenreiro/opensquat): Detection of phishing domains and domain squatting. Supports permutations such as homograph attack, typosquatting and bitsquatting.  
 [PS4](https://github.com/jhaik13/PS4): PS4 exploit host for 6.72. 7.02, 7.5x with 100% success rate.  
 [PBKDF2](https://github.com/m9aertner/PBKDF2): A free Java implementation of RFC 2898 / PKCS#5 PBKDF2  
-[PULock](https://github.com/0rientd/PULock): Program with UI to choose the USB which will be used like key to lock you PC
+[PULock](https://github.com/0rientd/PULock): Program with UI to choose the USB which will be used like key to lock you PC  
+[arp-scan-rs](https://github.com/kongbytes/arp-scan-rs): A minimalistic ARP scan tool written in Rust for fast local network scans
