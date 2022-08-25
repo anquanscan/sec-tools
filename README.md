@@ -4133,4 +4133,5 @@
 [no-sandbox](https://github.com/sickcodes/no-sandbox): No Sandbox - Applications That Run Chromium and Chrome Without The Sandbox. TL;DR exploits in these browser based applications are already sandboxed escaped: https://no-sandbox.io/  
 [e-peregrino](https://github.com/aggarcia3/e-peregrino): e-peregrino es una aplicación "de juguete" que pretende implementar los requisitos de seguridad necesarios para credencial de peregrino digital.  
 [secguide](https://github.com/Tencent/secguide): 面向开发人员梳理的代码安全指南  
-[TFM-Analisis-Keyloggers-Ingenieria-Inversa](https://github.com/gabimarti/TFM-Analisis-Keyloggers-Ingenieria-Inversa): Documentos sobre el TFM MCS 2019 de Gabriel Marti
+[TFM-Analisis-Keyloggers-Ingenieria-Inversa](https://github.com/gabimarti/TFM-Analisis-Keyloggers-Ingenieria-Inversa): Documentos sobre el TFM MCS 2019 de Gabriel Marti  
+[security-rss-list](https://github.com/git-list/security-rss-list): 📰 Security RSS List 📰
