@@ -4197,4 +4197,5 @@
 [Shellkins](https://github.com/HSNHK/Shellkins): Jenkins Remote Command Execution  
 [reverse-engineering-tutorials](https://github.com/maestron/reverse-engineering-tutorials): Reverse Engineering Tutorials  
 [fugacious](https://github.com/fugacious/fugacious): OSSSM (awesome). Open source short-term secure messaging  
-[upash](https://github.com/simonepri/upash): 🔒Unified API for password hashing algorithms
+[upash](https://github.com/simonepri/upash): 🔒Unified API for password hashing algorithms  
+[FOHackerApp](https://github.com/boubou37/FOHackerApp): A prototype solver for the Fallout 3 / Fallout New Vegas hacking minigame
