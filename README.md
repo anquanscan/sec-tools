@@ -4138,4 +4138,5 @@
 [CVE-2018-16712](https://github.com/DownWithUp/CVE-2018-16712): PoC Code for CVE-2018-16712 (exploit by MmMapIoSpace)  
 [CNN_Security](https://github.com/jemoran42/CNN_Security)  
 [magnetos](https://github.com/restran/magnetos): 🔥 Hacker Scripts for CTF Challenges.  
-[kali-fix](https://github.com/KentVolt/kali-fix): Collection of scripts for fixes and QoL changes for kali linux. Some files for ParrotOS are also included
+[kali-fix](https://github.com/KentVolt/kali-fix): Collection of scripts for fixes and QoL changes for kali linux. Some files for ParrotOS are also included  
+[Superman](https://github.com/Deusnegro/Superman): The Superman tool is a proxy tool and has the ability to create a proxy list. This tool is made by Omid Ranjbar. Unauthorized use of the tool is the responsibility of the customer
