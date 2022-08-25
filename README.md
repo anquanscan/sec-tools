@@ -4177,4 +4177,5 @@
 [android-hckTool](https://github.com/Izoman/android-hckTool): Android application that consists from collection of all kinds of hacking tools.  
 [libinject](https://github.com/kkent030315/libinject): A dll injector static library for Win x64 processes with handle elevation supported  
 [Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources): An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)  
-[OffSecDevOps](https://github.com/omaidf/OffSecDevOps): Offensive Security + DevOps = Fun. Not Safe For AWS.
+[OffSecDevOps](https://github.com/omaidf/OffSecDevOps): Offensive Security + DevOps = Fun. Not Safe For AWS.  
+[passwnd](https://github.com/sindastra/passwnd): Check for breached passwords with k-anonymity
