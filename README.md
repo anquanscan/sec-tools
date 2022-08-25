@@ -4195,4 +4195,5 @@
 [shfzlib](https://github.com/shfz/shfzlib): Scenario-based fuzzing test execution tool's scenario library  
 [PwnX.py](https://github.com/ecriminal/PwnX.py): 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API through chained exploit  
 [Shellkins](https://github.com/HSNHK/Shellkins): Jenkins Remote Command Execution  
-[reverse-engineering-tutorials](https://github.com/maestron/reverse-engineering-tutorials): Reverse Engineering Tutorials
+[reverse-engineering-tutorials](https://github.com/maestron/reverse-engineering-tutorials): Reverse Engineering Tutorials  
+[fugacious](https://github.com/fugacious/fugacious): OSSSM (awesome). Open source short-term secure messaging
