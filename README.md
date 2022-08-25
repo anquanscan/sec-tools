@@ -4178,4 +4178,5 @@
 [libinject](https://github.com/kkent030315/libinject): A dll injector static library for Win x64 processes with handle elevation supported  
 [Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources): An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)  
 [OffSecDevOps](https://github.com/omaidf/OffSecDevOps): Offensive Security + DevOps = Fun. Not Safe For AWS.  
-[passwnd](https://github.com/sindastra/passwnd): Check for breached passwords with k-anonymity
+[passwnd](https://github.com/sindastra/passwnd): Check for breached passwords with k-anonymity  
+[opensquat](https://github.com/atenreiro/opensquat): Detection of phishing domains and domain squatting. Supports permutations such as homograph attack, typosquatting and bitsquatting.
