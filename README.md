@@ -4158,4 +4158,5 @@
 [infoooze](https://github.com/devXprite/infoooze): Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches.  
 [checkdmarc](https://github.com/domainaware/checkdmarc): A parser for SPF and DMARC DNS records  
 [password_cracker](https://github.com/gsurma/password_cracker): Char-level RNN LSTM password cracker 🔑🔓.  
-[CVE-2022-26159-Ametys-Autocompletion-XML](https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML): A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file. 
+[CVE-2022-26159-Ametys-Autocompletion-XML](https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML): A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file.   
+[Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application): Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
