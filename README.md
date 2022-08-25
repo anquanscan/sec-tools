@@ -4193,4 +4193,5 @@
 [geo-recon](https://github.com/radioactivetobi/geo-recon): An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts.  
 [CSA](https://github.com/ArjitKapoor1/CSA): A web based training portal for employee training in cybersecurity methodologies with a game based questionnaire.    
 [shfzlib](https://github.com/shfz/shfzlib): Scenario-based fuzzing test execution tool's scenario library  
-[PwnX.py](https://github.com/ecriminal/PwnX.py): 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API through chained exploit
+[PwnX.py](https://github.com/ecriminal/PwnX.py): 🏴‍☠️ Pwn misconfigured sites running ShareX custom image uploader API through chained exploit  
+[Shellkins](https://github.com/HSNHK/Shellkins): Jenkins Remote Command Execution
