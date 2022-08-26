@@ -4276,4 +4276,5 @@
 [dotenv_sekrets](https://github.com/mikamai/dotenv_sekrets): Seamlessly encrypt/decrypt/edit your rails Dotenv files with the help of the Sekrets gem  
 [phpLibUserConnected](https://github.com/CymDeveloppement/phpLibUserConnected): Librairie de gestion d'utilisateur pour PHP  
 [secrethub-circleci-orb](https://github.com/secrethub/secrethub-circleci-orb): Load secrets into CircleCI jobs  
-[Centox](https://github.com/Serphyus/Centox): Centox is an injection handler with a collection of payloads for remote access, executable deployment and more for Windows, Mac and Linux
+[Centox](https://github.com/Serphyus/Centox): Centox is an injection handler with a collection of payloads for remote access, executable deployment and more for Windows, Mac and Linux  
+[vulnx](https://github.com/anouarbensaad/vulnx): vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning.
