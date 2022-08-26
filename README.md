@@ -4251,4 +4251,5 @@
 [EmoCheck](https://github.com/JPCERTCC/EmoCheck): Emotet detection tool for Windows OS  
 [twistrs](https://github.com/JuxhinDB/twistrs): A domain name permutation and enumeration library powered by Rust.  
 [.NetCoreVBBindShell](https://github.com/melardev/.NetCoreVBBindShell)  
-[CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514): telegram bug that discloses user's hidden phone number (still unpatched) (exploit included) 
+[CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514): telegram bug that discloses user's hidden phone number (still unpatched) (exploit included)   
+[WatchAD](https://github.com/Qianlitp/WatchAD): AD Security Intrusion Detection System
