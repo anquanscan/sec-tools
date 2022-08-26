@@ -4260,4 +4260,5 @@
 [AssetsDiscovery](https://github.com/xinali/AssetsDiscovery): Assets Discovery System  
 [sedres](https://github.com/kaantekiner/sedres): DNSSEC Application in Terms of Cyber Security and Social Engineering: Sedres / Bachelor's Degree Thesis, Yeditepe University - 2021  
 [DPAPI](https://github.com/abdulkadir-gungor/DPAPI): Information stored in applications is decrypted using DPAPI. In this way, attacker passwords may be captured. For use in attack scenarios, two applications written in Python language have been developed that steal the information stored in internet browsers:  1-Browser Stealer, 2-Browser Stealer Report  
-[netz](https://github.com/SpectralOps/netz): Discover internet-wide misconfigurations while drinking coffee
+[netz](https://github.com/SpectralOps/netz): Discover internet-wide misconfigurations while drinking coffee  
+[js-x-ray](https://github.com/NodeSecure/js-x-ray): JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
