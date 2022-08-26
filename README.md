@@ -4241,4 +4241,5 @@
 [PwdPwnd](https://github.com/aronsky/PwdPwnd): A tool for local password searches in Troy Hunt's HIBP password hash list  
 [hidenc](https://github.com/kapraran/hidenc): A cli tool to easily encrypt and decrypt files  
 [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.  
-[RubyID](https://github.com/snk-git/RubyID): This is generator of Passwords in 2048bit for UsbKey , it generate , save it in a cryptfile and show you the clear file while 30 seconds when you want
+[RubyID](https://github.com/snk-git/RubyID): This is generator of Passwords in 2048bit for UsbKey , it generate , save it in a cryptfile and show you the clear file while 30 seconds when you want  
+[wtfuzz](https://github.com/mattjegan/wtfuzz): A pip-installable tool used for checking the existence of different types of web resources
