@@ -4226,4 +4226,5 @@
 [AirDoS](https://github.com/KishanBagaria/AirDoS): 💣 Remotely render any nearby iPhone or iPad unusable with an AirDrop exploit (now patched)  
 [attack-scripts](https://github.com/mitre-attack/attack-scripts): Scripts and a (future) library to improve users' interactions with the ATT&CK content  
 [RobsScanner](https://github.com/NeloF4/RobsScanner): ROBOTS.TXT SCANNER   
-[drheader-junit-test-containers](https://github.com/juan-medina/drheader-junit-test-containers): Using DrHeader in JUnit test with TestContainers
+[drheader-junit-test-containers](https://github.com/juan-medina/drheader-junit-test-containers): Using DrHeader in JUnit test with TestContainers  
+[secret-share](https://github.com/declan94/secret-share): A secret sharing tool based on Shamir's Secret Sharing algorithm implemented with pure Golang
