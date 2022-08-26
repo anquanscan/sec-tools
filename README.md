@@ -4212,4 +4212,5 @@
 [bigdjrp.github.io](https://github.com/bigdjrp/bigdjrp.github.io): Main repo used for an e-porfolio, displaying projects, cv-resume, and relevant information.  
 [ouba-paper](https://github.com/GACWR/ouba-paper): Working white paper for OpenUBA  
 [Brugglemark](https://github.com/davidprefer/Brugglemark): PowerShell script that abuses browser bookmark synchronization as a mechanism for sending and receiving data between systems.  
-[ropgadgetlib](https://github.com/Neetx/ropgadgetlib): Library for rop gadgets extraction for personal experiments
+[ropgadgetlib](https://github.com/Neetx/ropgadgetlib): Library for rop gadgets extraction for personal experiments  
+[HostEnumerator](https://github.com/fieldraccoon/HostEnumerator): A tool that automates the process of enumeration
