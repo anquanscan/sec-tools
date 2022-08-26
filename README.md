@@ -4244,4 +4244,5 @@
 [RubyID](https://github.com/snk-git/RubyID): This is generator of Passwords in 2048bit for UsbKey , it generate , save it in a cryptfile and show you the clear file while 30 seconds when you want  
 [wtfuzz](https://github.com/mattjegan/wtfuzz): A pip-installable tool used for checking the existence of different types of web resources  
 [EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair): Sign, verify, encrypt and decrypt using the Secure Enclave  
-[ssh-alert](https://github.com/kfiros/ssh-alert): Detect SSH connection attempts in real time using ptrace
+[ssh-alert](https://github.com/kfiros/ssh-alert): Detect SSH connection attempts in real time using ptrace  
+[discord-link-phishing](https://github.com/XKMR/discord-link-phishing): hack people's discord by sending them a link!                       I AM NOT RESPONSIBLE FOR ANY CONSEQUENCES.       FOR SECURITY TESTING PURPOSES ONLY
