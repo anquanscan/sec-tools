@@ -4264,4 +4264,5 @@
 [js-x-ray](https://github.com/NodeSecure/js-x-ray): JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.  
 [m49D4ch3lly](https://github.com/m49D4ch3lly/m49D4ch3lly): Global Citizen, Tunisian and Polish by birth and nationality, Singaporean resident, cybersecurity passionate, author, public speaker, entertainer, and serial entrepreneur.  
 [hardentheworld](https://github.com/jekil/hardentheworld): Harden the world is a community driven project to develop hardening guidelines and checklists for common software and devices.  
-[net-engine](https://github.com/jaywon/net-engine): Configurable and multilingual cybersecurity scenario based game play engine
+[net-engine](https://github.com/jaywon/net-engine): Configurable and multilingual cybersecurity scenario based game play engine  
+[honeypot-iot](https://github.com/anouarbensaad/honeypot-iot): This tool to simulate http server attacks in Python which logs HackerIP and all the tracing he does into a Logfile then a database.
