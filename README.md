@@ -4236,4 +4236,5 @@
 [dark-lord-obama](https://github.com/tanc7/dark-lord-obama): AV-evading Pythonic Reverse Shell with Dynamic Adaption Capabilities  
 [AndroidEncryptionExample](https://github.com/brianPlummer/AndroidEncryptionExample): Android RSA AES Example with unit tests  
 [gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman): Monitoring GitLab for sensitive data shared publicly  
-[Petya2-Patch](https://github.com/Th3Shadowbroker/Petya2-Patch): A patch to protect your windows pc from Petya 2 LAN-Attacks. 
+[Petya2-Patch](https://github.com/Th3Shadowbroker/Petya2-Patch): A patch to protect your windows pc from Petya 2 LAN-Attacks.   
+[digital-copyright](https://github.com/haiphenAI/digital-copyright): Stamp your code with a trackable digital copyright
