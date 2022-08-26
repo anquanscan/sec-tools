@@ -4230,4 +4230,5 @@
 [secret-share](https://github.com/declan94/secret-share): A secret sharing tool based on Shamir's Secret Sharing algorithm implemented with pure Golang  
 [net-vulnerability](https://github.com/PetarRan/net-vulnerability): Check if your IPs, URLs or hosts are potentially malicious or infected.  
 [Dracnmap](https://github.com/screetsec/Dracnmap): Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.  
-[webauthn.io](https://github.com/duo-labs/webauthn.io): The source code for webauthn.io, a demonstration of WebAuthn.
+[webauthn.io](https://github.com/duo-labs/webauthn.io): The source code for webauthn.io, a demonstration of WebAuthn.  
+[ImpulsiveDLLHijack](https://github.com/knight0x07/ImpulsiveDLLHijack): C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.
