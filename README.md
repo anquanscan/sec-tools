@@ -4222,4 +4222,5 @@
 [kamene](https://github.com/phaethon/kamene): Network packet and pcap file crafting/sniffing/manipulation/visualization security tool. Originally forked from scapy in 2015 and providing python3 compatibility since then.  
 [RPCMon](https://github.com/cyberark/RPCMon): RPC Monitor tool based on Event Tracing for Windows  
 [AIC-2018](https://github.com/vinayakumarr/AIC-2018): Application of machine learning for cyber security  
-[GadgetProbe](https://github.com/BishopFox/GadgetProbe): Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.
+[GadgetProbe](https://github.com/BishopFox/GadgetProbe): Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.  
+[AirDoS](https://github.com/KishanBagaria/AirDoS): 💣 Remotely render any nearby iPhone or iPad unusable with an AirDrop exploit (now patched)
