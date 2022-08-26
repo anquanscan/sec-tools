@@ -4202,4 +4202,5 @@
 [php-8.1.0-dev-zerodium-rce](https://github.com/fahmifj/php-8.1.0-dev-zerodium-rce): An exploit for 'zerodium' backdoor in PHP 8.1.0-dev via User-Agent.  
 [NoPixel_Heist_Games](https://github.com/RobertWRadford/NoPixel_Heist_Games): Click the link below to route to the page.  
 [CiscoSpill](https://github.com/shaheemirza/CiscoSpill): Just a PoC tool to extract password using CVE-2019-1653.  
-[web2attack](https://github.com/santatic/web2attack): Web hacking framework with tools, exploits by python
+[web2attack](https://github.com/santatic/web2attack): Web hacking framework with tools, exploits by python  
+[NodeJS-Red-Team-Cheat-Sheet](https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet): NodeJS Red-Team Cheat Sheet
