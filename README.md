@@ -4272,4 +4272,5 @@
 [SaltedCaramel](https://github.com/001SPARTaN/SaltedCaramel): Apfell implant written in C#.  
 [Secretkeeper](https://github.com/Dark-Gran/Secretkeeper): SpringBoot webapp (jsp) with MySQL DB and basic encryption. (learning/testing project)  
 [redteamwiki](https://github.com/redteamwiki/redteamwiki)  
-[aaw-security-proposal](https://github.com/StatCan/aaw-security-proposal): Proposal for the implementation of Protected B workloads in the Advanced Analytics Workspace
+[aaw-security-proposal](https://github.com/StatCan/aaw-security-proposal): Proposal for the implementation of Protected B workloads in the Advanced Analytics Workspace  
+[dotenv_sekrets](https://github.com/mikamai/dotenv_sekrets): Seamlessly encrypt/decrypt/edit your rails Dotenv files with the help of the Sekrets gem
