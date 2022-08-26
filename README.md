@@ -4206,4 +4206,5 @@
 [NodeJS-Red-Team-Cheat-Sheet](https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet): NodeJS Red-Team Cheat Sheet  
 [FastGH3](https://github.com/donnaken15/FastGH3): Minimal Guitar Hero 3 mod with one click play  
 [Cobra](https://github.com/FeeiCN/Cobra): Source Code Security Audit (源代码安全审计)  
-[cybersecurity-resources](https://github.com/alex-bellon/cybersecurity-resources): Resources for learning about cybersecurity and CTFs
+[cybersecurity-resources](https://github.com/alex-bellon/cybersecurity-resources): Resources for learning about cybersecurity and CTFs  
+[LoL-Hacking](https://github.com/SadeghHayeri/LoL-Hacking): My Hacking Activities!
