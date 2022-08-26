@@ -4269,4 +4269,5 @@
 [plug_content_security_policy](https://github.com/xtian/plug_content_security_policy): Plug module for generating a Content Security Policy header  
 [pyraider](https://github.com/tilakthimmappa/pyraider): Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database.  
 [libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit  
-[SaltedCaramel](https://github.com/001SPARTaN/SaltedCaramel): Apfell implant written in C#.
+[SaltedCaramel](https://github.com/001SPARTaN/SaltedCaramel): Apfell implant written in C#.  
+[Secretkeeper](https://github.com/Dark-Gran/Secretkeeper): SpringBoot webapp (jsp) with MySQL DB and basic encryption. (learning/testing project)
