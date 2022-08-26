@@ -4267,4 +4267,5 @@
 [net-engine](https://github.com/jaywon/net-engine): Configurable and multilingual cybersecurity scenario based game play engine  
 [honeypot-iot](https://github.com/anouarbensaad/honeypot-iot): This tool to simulate http server attacks in Python which logs HackerIP and all the tracing he does into a Logfile then a database.  
 [plug_content_security_policy](https://github.com/xtian/plug_content_security_policy): Plug module for generating a Content Security Policy header  
-[pyraider](https://github.com/tilakthimmappa/pyraider): Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database.
+[pyraider](https://github.com/tilakthimmappa/pyraider): Using PyRaider You can scan installed dependencies known security vulnerabilities. It uses publicly known exploits, vulnerabilities database.  
+[libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit
