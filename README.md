@@ -4210,4 +4210,5 @@
 [LoL-Hacking](https://github.com/SadeghHayeri/LoL-Hacking): My Hacking Activities!  
 [woodpecker](https://github.com/qeeqbox/woodpecker): Custom security distro for remote penetration testing  
 [bigdjrp.github.io](https://github.com/bigdjrp/bigdjrp.github.io): Main repo used for an e-porfolio, displaying projects, cv-resume, and relevant information.  
-[ouba-paper](https://github.com/GACWR/ouba-paper): Working white paper for OpenUBA
+[ouba-paper](https://github.com/GACWR/ouba-paper): Working white paper for OpenUBA  
+[Brugglemark](https://github.com/davidprefer/Brugglemark): PowerShell script that abuses browser bookmark synchronization as a mechanism for sending and receiving data between systems.
