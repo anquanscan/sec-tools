@@ -4255,4 +4255,5 @@
 [WatchAD](https://github.com/Qianlitp/WatchAD): AD Security Intrusion Detection System  
 [Burp-Suite](https://github.com/SNGWN/Burp-Suite): || Activate Burp Suite Pro with Key-Generator and Key-Loader ||  
 [offensive-docker](https://github.com/aaaguirrep/offensive-docker): Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.  
-[OPENORCHID](https://github.com/rustrose/OPENORCHID): Collection of GoPhish templates available for legitimate usage.
+[OPENORCHID](https://github.com/rustrose/OPENORCHID): Collection of GoPhish templates available for legitimate usage.  
+[android-play-safetynet](https://github.com/googlesamples/android-play-safetynet): Samples for the Google SafetyNet Attestation API
