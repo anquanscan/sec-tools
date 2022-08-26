@@ -4216,4 +4216,5 @@
 [HostEnumerator](https://github.com/fieldraccoon/HostEnumerator): A tool that automates the process of enumeration  
 [Societe-General](https://github.com/benedekrozemberczki/Societe-General): Solution for ENS  - Societe Generale Challenge (1st place).  
 [SpringBreakVulnerableApp](https://github.com/m3ssap0/SpringBreakVulnerableApp): WARNING: This is a vulnerable application to test the exploit for the Spring Break vulnerability (CVE-2017-8046). Run it at your own risk!  
-[conclave](https://github.com/multiparty/conclave): Query compiler for secure multi-party computation.
+[conclave](https://github.com/multiparty/conclave): Query compiler for secure multi-party computation.  
+[IoT-Security-Attack-Surface](https://github.com/CJHackerz/IoT-Security-Attack-Surface): Simple mind maps for IoT security attack surfaces and methodologies 
