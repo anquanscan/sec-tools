@@ -4204,4 +4204,5 @@
 [CiscoSpill](https://github.com/shaheemirza/CiscoSpill): Just a PoC tool to extract password using CVE-2019-1653.  
 [web2attack](https://github.com/santatic/web2attack): Web hacking framework with tools, exploits by python  
 [NodeJS-Red-Team-Cheat-Sheet](https://github.com/aadityapurani/NodeJS-Red-Team-Cheat-Sheet): NodeJS Red-Team Cheat Sheet  
-[FastGH3](https://github.com/donnaken15/FastGH3): Minimal Guitar Hero 3 mod with one click play
+[FastGH3](https://github.com/donnaken15/FastGH3): Minimal Guitar Hero 3 mod with one click play  
+[Cobra](https://github.com/FeeiCN/Cobra): Source Code Security Audit (源代码安全审计)
