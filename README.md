@@ -4209,4 +4209,5 @@
 [cybersecurity-resources](https://github.com/alex-bellon/cybersecurity-resources): Resources for learning about cybersecurity and CTFs  
 [LoL-Hacking](https://github.com/SadeghHayeri/LoL-Hacking): My Hacking Activities!  
 [woodpecker](https://github.com/qeeqbox/woodpecker): Custom security distro for remote penetration testing  
-[bigdjrp.github.io](https://github.com/bigdjrp/bigdjrp.github.io): Main repo used for an e-porfolio, displaying projects, cv-resume, and relevant information.
+[bigdjrp.github.io](https://github.com/bigdjrp/bigdjrp.github.io): Main repo used for an e-porfolio, displaying projects, cv-resume, and relevant information.  
+[ouba-paper](https://github.com/GACWR/ouba-paper): Working white paper for OpenUBA
