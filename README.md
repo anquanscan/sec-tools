@@ -4249,4 +4249,5 @@
 [AMLIDS](https://github.com/jcapellman/AMLIDS): Android Machine Learning Intrusion Detection System written in C#  
 [Email-Recon](https://github.com/matiasmenares/Email-Recon): 👁 Recon email existence   
 [EmoCheck](https://github.com/JPCERTCC/EmoCheck): Emotet detection tool for Windows OS  
-[twistrs](https://github.com/JuxhinDB/twistrs): A domain name permutation and enumeration library powered by Rust.
+[twistrs](https://github.com/JuxhinDB/twistrs): A domain name permutation and enumeration library powered by Rust.  
+[.NetCoreVBBindShell](https://github.com/melardev/.NetCoreVBBindShell)
