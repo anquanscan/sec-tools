@@ -4275,4 +4275,5 @@
 [aaw-security-proposal](https://github.com/StatCan/aaw-security-proposal): Proposal for the implementation of Protected B workloads in the Advanced Analytics Workspace  
 [dotenv_sekrets](https://github.com/mikamai/dotenv_sekrets): Seamlessly encrypt/decrypt/edit your rails Dotenv files with the help of the Sekrets gem  
 [phpLibUserConnected](https://github.com/CymDeveloppement/phpLibUserConnected): Librairie de gestion d'utilisateur pour PHP  
-[secrethub-circleci-orb](https://github.com/secrethub/secrethub-circleci-orb): Load secrets into CircleCI jobs
+[secrethub-circleci-orb](https://github.com/secrethub/secrethub-circleci-orb): Load secrets into CircleCI jobs  
+[Centox](https://github.com/Serphyus/Centox): Centox is an injection handler with a collection of payloads for remote access, executable deployment and more for Windows, Mac and Linux
