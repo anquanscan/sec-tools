@@ -4214,4 +4214,5 @@
 [Brugglemark](https://github.com/davidprefer/Brugglemark): PowerShell script that abuses browser bookmark synchronization as a mechanism for sending and receiving data between systems.  
 [ropgadgetlib](https://github.com/Neetx/ropgadgetlib): Library for rop gadgets extraction for personal experiments  
 [HostEnumerator](https://github.com/fieldraccoon/HostEnumerator): A tool that automates the process of enumeration  
-[Societe-General](https://github.com/benedekrozemberczki/Societe-General): Solution for ENS  - Societe Generale Challenge (1st place).
+[Societe-General](https://github.com/benedekrozemberczki/Societe-General): Solution for ENS  - Societe Generale Challenge (1st place).  
+[SpringBreakVulnerableApp](https://github.com/m3ssap0/SpringBreakVulnerableApp): WARNING: This is a vulnerable application to test the exploit for the Spring Break vulnerability (CVE-2017-8046). Run it at your own risk!
