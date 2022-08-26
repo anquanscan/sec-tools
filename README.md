@@ -4257,4 +4257,5 @@
 [offensive-docker](https://github.com/aaaguirrep/offensive-docker): Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.  
 [OPENORCHID](https://github.com/rustrose/OPENORCHID): Collection of GoPhish templates available for legitimate usage.  
 [android-play-safetynet](https://github.com/googlesamples/android-play-safetynet): Samples for the Google SafetyNet Attestation API  
-[AssetsDiscovery](https://github.com/xinali/AssetsDiscovery): Assets Discovery System
+[AssetsDiscovery](https://github.com/xinali/AssetsDiscovery): Assets Discovery System  
+[sedres](https://github.com/kaantekiner/sedres): DNSSEC Application in Terms of Cyber Security and Social Engineering: Sedres / Bachelor's Degree Thesis, Yeditepe University - 2021
