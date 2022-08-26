@@ -4246,4 +4246,5 @@
 [EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair): Sign, verify, encrypt and decrypt using the Secure Enclave  
 [ssh-alert](https://github.com/kfiros/ssh-alert): Detect SSH connection attempts in real time using ptrace  
 [discord-link-phishing](https://github.com/XKMR/discord-link-phishing): hack people's discord by sending them a link!                       I AM NOT RESPONSIBLE FOR ANY CONSEQUENCES.       FOR SECURITY TESTING PURPOSES ONLY  
-[AMLIDS](https://github.com/jcapellman/AMLIDS): Android Machine Learning Intrusion Detection System written in C#
+[AMLIDS](https://github.com/jcapellman/AMLIDS): Android Machine Learning Intrusion Detection System written in C#  
+[Email-Recon](https://github.com/matiasmenares/Email-Recon): 👁 Recon email existence 
