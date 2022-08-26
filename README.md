@@ -4234,4 +4234,5 @@
 [ImpulsiveDLLHijack](https://github.com/knight0x07/ImpulsiveDLLHijack): C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.  
 [ESP_For_PubgMobile](https://github.com/satyamurti/ESP_For_PubgMobile): 🛩Pubg Mobile Hack  using Extra Sensory Perception(ESP)🐱‍💻  
 [dark-lord-obama](https://github.com/tanc7/dark-lord-obama): AV-evading Pythonic Reverse Shell with Dynamic Adaption Capabilities  
-[AndroidEncryptionExample](https://github.com/brianPlummer/AndroidEncryptionExample): Android RSA AES Example with unit tests
+[AndroidEncryptionExample](https://github.com/brianPlummer/AndroidEncryptionExample): Android RSA AES Example with unit tests  
+[gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman): Monitoring GitLab for sensitive data shared publicly
