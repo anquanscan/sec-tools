@@ -4250,4 +4250,5 @@
 [Email-Recon](https://github.com/matiasmenares/Email-Recon): 👁 Recon email existence   
 [EmoCheck](https://github.com/JPCERTCC/EmoCheck): Emotet detection tool for Windows OS  
 [twistrs](https://github.com/JuxhinDB/twistrs): A domain name permutation and enumeration library powered by Rust.  
-[.NetCoreVBBindShell](https://github.com/melardev/.NetCoreVBBindShell)
+[.NetCoreVBBindShell](https://github.com/melardev/.NetCoreVBBindShell)  
+[CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514): telegram bug that discloses user's hidden phone number (still unpatched) (exploit included) 
