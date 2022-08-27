@@ -4292,4 +4292,5 @@
 [Web2.0-Guvenligi-](https://github.com/farcompen/Web2.0-Guvenligi-): BGA Akademi Web 2.0 Güvenliği Eğitim Dökümanı   
 [awesome-web-security](https://github.com/qazbnm456/awesome-web-security): 🐶 A curated list of Web Security materials and resources.  
 [wirehack](https://github.com/error434/wirehack): Scripts for hacking through wireless network [WiFi]  
-[PiFiHacker](https://github.com/austinbenincasa/PiFiHacker): CLI for deploying a Evil Twin Wifi network
+[PiFiHacker](https://github.com/austinbenincasa/PiFiHacker): CLI for deploying a Evil Twin Wifi network  
+[crydra-16](https://github.com/secdec/crydra-16): Convenience wrapper around the Hydra brute force password cracking tool to help with automation
