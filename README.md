@@ -4343,4 +4343,5 @@
 [adguardhome-doh-dot](https://github.com/oijkn/adguardhome-doh-dot): Official AdGuarHome docker with both DoH (DNS over HTTPS) and DoT (DNS over TLS) clients. Don't browse the Internet insecurely by sending your DNS requests in clear text !  
 [shellcoder](https://github.com/gnebbia/shellcoder): Create shellcode from executable or assembly code  
 [RemaxDos](https://github.com/RemaxBoxTeam/RemaxDos): This is Script tools from all attack Denial of service by C programming  
-[CloudHunter](https://github.com/belane/CloudHunter): AWS, Azure and Google bucket scanner
+[CloudHunter](https://github.com/belane/CloudHunter): AWS, Azure and Google bucket scanner  
+[watchr](https://github.com/gnuns/watchr):  Track IP address via url redirection 
