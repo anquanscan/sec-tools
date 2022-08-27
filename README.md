@@ -4326,4 +4326,5 @@
 [continent](https://github.com/jmiller-soft/continent): Continent - secure VPN proxy (client and server) and file container with military-grade encryption.  
 [DARKARMY](https://github.com/D4RK-4RMY/DARKARMY): DARKARMY Hacking Tools Pack - A Penetration Testing Framework .  
 [IOT-MQTT-Exploit](https://github.com/Warflop/IOT-MQTT-Exploit): An tool for search IOT MQTT vulnerable with shodan  
-[haaukins-store](https://github.com/aau-network-security/haaukins-store): New haaukins component responsible to store data into the database
+[haaukins-store](https://github.com/aau-network-security/haaukins-store): New haaukins component responsible to store data into the database  
+[KaliToolsManual](https://github.com/AGLcaicai/KaliToolsManual): Kali Linux 工具合集中文说明书
