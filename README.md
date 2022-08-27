@@ -4286,4 +4286,5 @@
 [SMG2-FPSCounterLayout](https://github.com/SuperHackio/SMG2-FPSCounterLayout): FPS Counter for mod creators to track their framerates with. Super Mario Galaxy 2 only.  
 [hackertarget](https://github.com/pyhackertarget/hackertarget): 🎯 HackerTarget ToolKit - Tools And Network Intelligence To Help Organizations With Attack Surface Discovery 🎯  
 [kalel](https://github.com/noobscode/kalel): Kal El Network Stress Test and Penetration Testing Toolkit  
-[WhoisSubdomain](https://github.com/YoungRichOG/WhoisSubdomain): 通过Whois信息发现更多与目标有关联的域名，扩大攻击面
+[WhoisSubdomain](https://github.com/YoungRichOG/WhoisSubdomain): 通过Whois信息发现更多与目标有关联的域名，扩大攻击面  
+[local-php-security-checker](https://github.com/fabpot/local-php-security-checker): PHP security vulnerabilities checker
