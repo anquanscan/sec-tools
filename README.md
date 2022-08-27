@@ -4288,4 +4288,5 @@
 [kalel](https://github.com/noobscode/kalel): Kal El Network Stress Test and Penetration Testing Toolkit  
 [WhoisSubdomain](https://github.com/YoungRichOG/WhoisSubdomain): 通过Whois信息发现更多与目标有关联的域名，扩大攻击面  
 [local-php-security-checker](https://github.com/fabpot/local-php-security-checker): PHP security vulnerabilities checker  
-[buildpack-zap-daemon](https://github.com/hahwul/buildpack-zap-daemon): zap(zed attack proxy) daemon mode buildpack of heroku
+[buildpack-zap-daemon](https://github.com/hahwul/buildpack-zap-daemon): zap(zed attack proxy) daemon mode buildpack of heroku  
+[Web2.0-Guvenligi-](https://github.com/farcompen/Web2.0-Guvenligi-): BGA Akademi Web 2.0 Güvenliği Eğitim Dökümanı 
