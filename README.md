@@ -4324,4 +4324,5 @@
 [dlyscl-web3-bootcamp](https://github.com/sofianhw/dlyscl-web3-bootcamp): Web3 Developer Bootcamp by DailySocial.id - Day 2  
 [DOS.PY](https://github.com/Xeroxxhah/DOS.PY): A Simple yet powerful Dos script  
 [continent](https://github.com/jmiller-soft/continent): Continent - secure VPN proxy (client and server) and file container with military-grade encryption.  
-[DARKARMY](https://github.com/D4RK-4RMY/DARKARMY): DARKARMY Hacking Tools Pack - A Penetration Testing Framework .
+[DARKARMY](https://github.com/D4RK-4RMY/DARKARMY): DARKARMY Hacking Tools Pack - A Penetration Testing Framework .  
+[IOT-MQTT-Exploit](https://github.com/Warflop/IOT-MQTT-Exploit): An tool for search IOT MQTT vulnerable with shodan
