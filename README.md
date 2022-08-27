@@ -4330,4 +4330,5 @@
 [KaliToolsManual](https://github.com/AGLcaicai/KaliToolsManual): Kali Linux 工具合集中文说明书  
 [Pool2022](https://github.com/PoCInnovation/Pool2022): Pools organized for Epitech's students in 2022.  
 [pysectools](https://github.com/unrelentingtech/pysectools): A small Python library that contains various security things  
-[sio_project_3](https://github.com/oEscal/sio_project_3): Security project 3
+[sio_project_3](https://github.com/oEscal/sio_project_3): Security project 3  
+[tryhackme_adventofcyber2_day16](https://github.com/xenophil90/tryhackme_adventofcyber2_day16): Solution to the Day 16-Challenge of TryHackMe's Advent Of Cyber 2.
