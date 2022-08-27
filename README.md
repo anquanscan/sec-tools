@@ -4284,4 +4284,5 @@
 [MyLittleGit](https://github.com/Cloudbeast/MyLittleGit): My little Git space...  
 [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool): Install the tools and start  Attacking , black-tool v5.0 ! ⬛  
 [SMG2-FPSCounterLayout](https://github.com/SuperHackio/SMG2-FPSCounterLayout): FPS Counter for mod creators to track their framerates with. Super Mario Galaxy 2 only.  
-[hackertarget](https://github.com/pyhackertarget/hackertarget): 🎯 HackerTarget ToolKit - Tools And Network Intelligence To Help Organizations With Attack Surface Discovery 🎯
+[hackertarget](https://github.com/pyhackertarget/hackertarget): 🎯 HackerTarget ToolKit - Tools And Network Intelligence To Help Organizations With Attack Surface Discovery 🎯  
+[kalel](https://github.com/noobscode/kalel): Kal El Network Stress Test and Penetration Testing Toolkit
