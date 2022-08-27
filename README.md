@@ -4359,4 +4359,5 @@
 [NIVOSITE](https://github.com/TheSadError/NIVOSITE): NIVOS Offical Website  
 [Email-scale-tester](https://github.com/pepipost/Email-scale-tester): This Project helps user to benchmark speed of sending mail. :email:   
 [dribble](https://github.com/rhaidiz/dribble): A small project for stealing Wi-Fi passwords via browser's cache poisoning  
-[awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC): Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
+[awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC): Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).  
+[Oralyzer](https://github.com/r0075h3ll/Oralyzer): Open Redirection Analyzer
