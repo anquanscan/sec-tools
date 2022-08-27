@@ -4282,4 +4282,5 @@
 [Cybersecurity-TinyOS-Encryption](https://github.com/cgreen18/Cybersecurity-TinyOS-Encryption): Final project for Fundamentals of Cybersecurity  
 [exodus](https://github.com/cpl/exodus): Data exfiltration using DNS  
 [MyLittleGit](https://github.com/Cloudbeast/MyLittleGit): My little Git space...  
-[Black-Tool](https://github.com/mrprogrammer2938/Black-Tool): Install the tools and start  Attacking , black-tool v5.0 ! ⬛
+[Black-Tool](https://github.com/mrprogrammer2938/Black-Tool): Install the tools and start  Attacking , black-tool v5.0 ! ⬛  
+[SMG2-FPSCounterLayout](https://github.com/SuperHackio/SMG2-FPSCounterLayout): FPS Counter for mod creators to track their framerates with. Super Mario Galaxy 2 only.
