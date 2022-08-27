@@ -4349,4 +4349,5 @@
 [fwanalyzer](https://github.com/cruise-automation/fwanalyzer): a tool to analyze filesystem images for security  
 [FACT_core](https://github.com/fkie-cad/FACT_core): Firmware Analysis and Comparison Tool  
 [ip-detector](https://github.com/vivek-pancholi/ip-detector): This small PHP scripts detects IP address whether from it's protected by web proxy or other methods. It reveals original IP address and finds access from which IP address and from which browser.  
-[WusaBypassUAC](https://github.com/Yet-Zio/WusaBypassUAC): UAC bypass abusing WinSxS in "wusa.exe".  Referred from and similar to: https://github.com/L3cr0f/DccwBypassUAC , Kudos to L3cr0f and FuzzySecurity for their efforts
+[WusaBypassUAC](https://github.com/Yet-Zio/WusaBypassUAC): UAC bypass abusing WinSxS in "wusa.exe".  Referred from and similar to: https://github.com/L3cr0f/DccwBypassUAC , Kudos to L3cr0f and FuzzySecurity for their efforts  
+[CVE-2020-3452-Exploit](https://github.com/3ndG4me/CVE-2020-3452-Exploit): Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances.
