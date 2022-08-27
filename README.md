@@ -4306,4 +4306,5 @@
 [ParadoxSE](https://github.com/safinsingh/ParadoxSE): 🔒  An elegant security competition scoring engine  
 [ShonyDanza](https://github.com/fierceoj/ShonyDanza): A customizable, easy-to-navigate tool for researching, pen testing, and defending with the power of Shodan.  
 [Perfect-Malware-Samples](https://github.com/Perfectdotexe/Perfect-Malware-Samples): Fresh malware samples caught in the wild daily from random places. 🎣  
-[SocialScraper](https://github.com/Aravindha1234u/SocialScraper): Social Scraper is a python tool meant for Detection of Child Predators/Cyber Harassers on Social Media
+[SocialScraper](https://github.com/Aravindha1234u/SocialScraper): Social Scraper is a python tool meant for Detection of Child Predators/Cyber Harassers on Social Media  
+[Disclosures](https://github.com/jdgregson/Disclosures): My publically disclosed vulnerability reports.
