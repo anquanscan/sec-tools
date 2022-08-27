@@ -4318,4 +4318,5 @@
 [king-phisher](https://github.com/rsmusllp/king-phisher): Phishing Campaign Toolkit  
 [Goldman-Sachs-Engineering](https://github.com/VesaKelani/Goldman-Sachs-Engineering): Work from the Goldman Sachs Engineering Virtual Program hosted on forage.  
 [xleach](https://github.com/nompelis/xleach): A Unix/Linux utility for "leaching" the root window of an X server. (Nothing to see here.)  
-[graphql-cop](https://github.com/dolevf/graphql-cop): Security Auditor Utility for GraphQL APIs
+[graphql-cop](https://github.com/dolevf/graphql-cop): Security Auditor Utility for GraphQL APIs  
+[exploit-CVE-2016-8016-25](https://github.com/opsxcq/exploit-CVE-2016-8016-25): McAfee Virus Scan for Linux multiple remote flaws (CVE 2016-8016, CVE 2016-8017, CVE 2016-8018, CVE 2016-8019, CVE 2016-8020, CVE 2016-8021, CVE 2016-8022, CVE 2016-8023, CVE 2016-8024, CVE 2016-8025)
