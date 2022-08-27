@@ -4303,4 +4303,5 @@
 [zmNinja](https://github.com/ZoneMinder/zmNinja): High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder  
 [deeptracy](https://github.com/BBVA/deeptracy): The Security Dependency Orchestrator Service  
 [gofingerprint](https://github.com/Static-Flow/gofingerprint): GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.  
-[ParadoxSE](https://github.com/safinsingh/ParadoxSE): 🔒  An elegant security competition scoring engine
+[ParadoxSE](https://github.com/safinsingh/ParadoxSE): 🔒  An elegant security competition scoring engine  
+[ShonyDanza](https://github.com/fierceoj/ShonyDanza): A customizable, easy-to-navigate tool for researching, pen testing, and defending with the power of Shodan.
