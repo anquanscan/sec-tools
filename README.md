@@ -4354,4 +4354,5 @@
 [Nutoscan](https://github.com/whitehatsoumya/Nutoscan): An Automated Mass Network Vulnerability Scanner and Recon Tool  
 [EDT](https://github.com/motazreda/EDT): Exploit Development toolkit is a project that makes exploit developer's life much easier.  
 [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz): "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.  
-[Password-Manager](https://github.com/Tech-Matrix/Password-Manager): A password manager is a tool that takes in information from the user and stores it in encrypted form. It then allows the user to get back their data using the master key which the tool provides.
+[Password-Manager](https://github.com/Tech-Matrix/Password-Manager): A password manager is a tool that takes in information from the user and stores it in encrypted form. It then allows the user to get back their data using the master key which the tool provides.  
+[HG8045Q](https://github.com/meh301/HG8045Q): Pwning the Nuro issued Huawei HG8045Q
