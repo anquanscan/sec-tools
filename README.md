@@ -4332,4 +4332,5 @@
 [pysectools](https://github.com/unrelentingtech/pysectools): A small Python library that contains various security things  
 [sio_project_3](https://github.com/oEscal/sio_project_3): Security project 3  
 [tryhackme_adventofcyber2_day16](https://github.com/xenophil90/tryhackme_adventofcyber2_day16): Solution to the Day 16-Challenge of TryHackMe's Advent Of Cyber 2.  
-[CVE-2022-27925](https://github.com/Josexv1/CVE-2022-27925): Zimbra CVE-2022-27925 PoC
+[CVE-2022-27925](https://github.com/Josexv1/CVE-2022-27925): Zimbra CVE-2022-27925 PoC  
+[LPsecurity](https://github.com/dim-blanchard/LPsecurity): Plugin de sécurisation de serveur Minecraft en version 1.8.8.
