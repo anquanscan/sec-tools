@@ -4334,4 +4334,5 @@
 [tryhackme_adventofcyber2_day16](https://github.com/xenophil90/tryhackme_adventofcyber2_day16): Solution to the Day 16-Challenge of TryHackMe's Advent Of Cyber 2.  
 [CVE-2022-27925](https://github.com/Josexv1/CVE-2022-27925): Zimbra CVE-2022-27925 PoC  
 [LPsecurity](https://github.com/dim-blanchard/LPsecurity): Plugin de sécurisation de serveur Minecraft en version 1.8.8.  
-[huawei_hg255s_exploit](https://github.com/exploit-labs/huawei_hg255s_exploit): 🚀 Server Directory Traversal at Huawei HG255s ☄️ - CVE-2017-17309 🚀
+[huawei_hg255s_exploit](https://github.com/exploit-labs/huawei_hg255s_exploit): 🚀 Server Directory Traversal at Huawei HG255s ☄️ - CVE-2017-17309 🚀  
+[kcare-uchecker](https://github.com/cloudlinux/kcare-uchecker): A simple tool to detect outdated shared libraries
