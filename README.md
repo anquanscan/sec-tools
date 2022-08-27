@@ -4353,4 +4353,5 @@
 [CVE-2020-3452-Exploit](https://github.com/3ndG4me/CVE-2020-3452-Exploit): Just basic scanner abusing CVE-2020-3452 to enumerate the standard files accessible in the Web Directory of the CISCO ASA applicances.  
 [Nutoscan](https://github.com/whitehatsoumya/Nutoscan): An Automated Mass Network Vulnerability Scanner and Recon Tool  
 [EDT](https://github.com/motazreda/EDT): Exploit Development toolkit is a project that makes exploit developer's life much easier.  
-[can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz): "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+[can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz): "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.  
+[Password-Manager](https://github.com/Tech-Matrix/Password-Manager): A password manager is a tool that takes in information from the user and stores it in encrypted form. It then allows the user to get back their data using the master key which the tool provides.
