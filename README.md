@@ -4305,4 +4305,5 @@
 [gofingerprint](https://github.com/Static-Flow/gofingerprint): GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.  
 [ParadoxSE](https://github.com/safinsingh/ParadoxSE): 🔒  An elegant security competition scoring engine  
 [ShonyDanza](https://github.com/fierceoj/ShonyDanza): A customizable, easy-to-navigate tool for researching, pen testing, and defending with the power of Shodan.  
-[Perfect-Malware-Samples](https://github.com/Perfectdotexe/Perfect-Malware-Samples): Fresh malware samples caught in the wild daily from random places. 🎣
+[Perfect-Malware-Samples](https://github.com/Perfectdotexe/Perfect-Malware-Samples): Fresh malware samples caught in the wild daily from random places. 🎣  
+[SocialScraper](https://github.com/Aravindha1234u/SocialScraper): Social Scraper is a python tool meant for Detection of Child Predators/Cyber Harassers on Social Media
