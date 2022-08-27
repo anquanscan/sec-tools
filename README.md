@@ -4294,4 +4294,5 @@
 [wirehack](https://github.com/error434/wirehack): Scripts for hacking through wireless network [WiFi]  
 [PiFiHacker](https://github.com/austinbenincasa/PiFiHacker): CLI for deploying a Evil Twin Wifi network  
 [crydra-16](https://github.com/secdec/crydra-16): Convenience wrapper around the Hydra brute force password cracking tool to help with automation  
-[Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking): Awesome-Cellular-Hacking
+[Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking): Awesome-Cellular-Hacking  
+[Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit](https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit): CVE-2021-41773 | CVE-2021-42013 Exploit Tool (Apache/2.4.49-2.4.50)
