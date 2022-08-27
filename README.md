@@ -4279,4 +4279,5 @@
 [Centox](https://github.com/Serphyus/Centox): Centox is an injection handler with a collection of payloads for remote access, executable deployment and more for Windows, Mac and Linux  
 [vulnx](https://github.com/anouarbensaad/vulnx): vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning.  
 [cfuzz](https://github.com/ariary/cfuzz):  Command line fuzzer and bruteforcer 🌪 wfuzz for command  
-[Cybersecurity-TinyOS-Encryption](https://github.com/cgreen18/Cybersecurity-TinyOS-Encryption): Final project for Fundamentals of Cybersecurity
+[Cybersecurity-TinyOS-Encryption](https://github.com/cgreen18/Cybersecurity-TinyOS-Encryption): Final project for Fundamentals of Cybersecurity  
+[exodus](https://github.com/cpl/exodus): Data exfiltration using DNS
