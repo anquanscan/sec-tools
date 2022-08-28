@@ -4379,4 +4379,5 @@
 [EnvironmentConfigurationObfuscation](https://github.com/hoggmania/EnvironmentConfigurationObfuscation): A pluggable mechanism to (de)obfuscate configuration secrets in a lights out management environment.  
 [fleet](https://github.com/fleetdm/fleet): Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems — without the downtime risk.  
 [reverse_shell](https://github.com/jcs090218/reverse_shell): Reverse shell implementation using Python.  
-[jupyter-collection](https://github.com/fr0gger/jupyter-collection): Collection of Jupyter Notebooks by @fr0gger_
+[jupyter-collection](https://github.com/fr0gger/jupyter-collection): Collection of Jupyter Notebooks by @fr0gger_  
+[HTA-EXPLOIT](https://github.com/trewisscotch/HTA-EXPLOIT)
