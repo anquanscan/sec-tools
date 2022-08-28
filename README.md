@@ -4401,4 +4401,5 @@
 [terraform-aws-secure-sg](https://github.com/cmeinco/terraform-aws-secure-sg): Maintain a AWS Security Group Rule to allow access from dynamic external ip address.  
 [gdpr-tracker](https://github.com/privacyradius/gdpr-tracker): A crowdsourced directory tracking the compliance and security practices of cloud services and their subprocessors  
 [flask-xsrf](https://github.com/gregorynicholas/flask-xsrf): flask extension for defending against cross-site request forgery attacks (XSRF/CSRF)  
-[Smersh](https://github.com/CMEPW/Smersh): Smersh is a pentest oriented collaborative tool used to track the progress of your company's missions.
+[Smersh](https://github.com/CMEPW/Smersh): Smersh is a pentest oriented collaborative tool used to track the progress of your company's missions.  
+[Logic-Bomb-Python](https://github.com/Ck1998/Logic-Bomb-Python): This is my understanding of a logic bomb, built using python.
