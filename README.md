@@ -4374,4 +4374,5 @@
 [Project-Tauro](https://github.com/k0r0pt/Project-Tauro): A Router WiFi key recovery/cracking tool with a twist.  
 [Reverse-Engineering-Tutorials](https://github.com/GeoSn0w/Reverse-Engineering-Tutorials): Some Reverse Engineering Tutorials for Beginners  
 [Kryptosystemy](https://github.com/trolit/Kryptosystemy): Repozytorium przechowuje wszelkie implementacje programów/algorytmów związanych z szyfrowaniem, deszyfracją, złośliwym oprogramowaniem(keylogger)  
-[Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare): 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容
+[Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare): 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容  
+[Raven](https://github.com/CallistoHouseLtd/Raven): 2-vat test is working, the basic getTheAnswer test and the whenResolved reactor test. The 3-vat tests are still failing. An issue with timing against the core tables (imports/exports, questions/answers). Layers 6 through 9 of the 9-layer Vogel cloud-stack, running on top of ParrotTalk 3.7. {5: Parrot, 6: Raven, 7: Pigeon, 8: Vulture, 9: Eagle}
