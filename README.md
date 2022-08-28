@@ -4395,4 +4395,5 @@
 [gOSINT](https://github.com/Nhoya/gOSINT): OSINT Swiss Army Knife  
 [attack-navigator](https://github.com/mitre-attack/attack-navigator): Web app that provides basic navigation and annotation of ATT&CK matrices  
 [LinSysInfo](https://github.com/ShadowVMX/LinSysInfo): Script en bash que tiene como objetivo verificar las distintas características y versiones del sistema para llevar a cabo la escalada de privilegios en los SO Linux.   
-[IoTSan](https://github.com/dangtunguyen/IoTSan): IotSan: Fortifying the Safety of IoT Systems (ACM CoNEXT'18)
+[IoTSan](https://github.com/dangtunguyen/IoTSan): IotSan: Fortifying the Safety of IoT Systems (ACM CoNEXT'18)  
+[df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection): Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP
