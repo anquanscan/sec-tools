@@ -4416,4 +4416,5 @@
 [papers_please](https://github.com/papersPleaseProgrammer/papers_please): Exploit for HP's GGW Server found on common household printers.  
 [Reconky-Automated_Bash_Script](https://github.com/ShivamRai2003/Reconky-Automated_Bash_Script): Reconky is an great Content Discovery bash script for bug bounty hunters which automate lot of task and organized in the well mannered form  which help them to look forward.  
 [TermuxCyberArmy](https://github.com/Err0r-ICA/TermuxCyberArmy)  
-[container-security-checklist](https://github.com/krol3/container-security-checklist): Checklist for container security - devsecops practices
+[container-security-checklist](https://github.com/krol3/container-security-checklist): Checklist for container security - devsecops practices  
+[CVE-2018-2380](https://github.com/erpscanteam/CVE-2018-2380): PoC of Remote Command Execution via Log injection on SAP NetWeaver AS JAVA CRM
