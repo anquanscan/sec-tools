@@ -4405,4 +4405,5 @@
 [Logic-Bomb-Python](https://github.com/Ck1998/Logic-Bomb-Python): This is my understanding of a logic bomb, built using python.  
 [securityModule](https://github.com/DanielVT45/securityModule): Este proyecto sirve para gestionar los accesos de la aplicación, mediante la generación de web tokens. Dichos tokens autenticaran y autorizaran a los usuarios.  
 [h4cklife.org](https://github.com/Clutchisback1/h4cklife.org): Blog about hacking things I've learned  
-[docker-hacklab](https://github.com/johackim/docker-hacklab): My personal hacklab, create your own.
+[docker-hacklab](https://github.com/johackim/docker-hacklab): My personal hacklab, create your own.  
+[linkscyberthreatintelligence](https://github.com/lehmariaa/linkscyberthreatintelligence): Alguns links legais para quem gostaria de entender mais sobre os fundamentos de CTI. Pra quem gostaria de contribuir, só aceitarei PR relacionado a conteúdos teóricos, como blogs, podcasts, videos, livros sendo conteúdos grátis ou baratos.
