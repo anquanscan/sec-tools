@@ -4421,4 +4421,5 @@
 [HaveIBeenPwnedKeePassPlugin](https://github.com/kapsiR/HaveIBeenPwnedKeePassPlugin): KeePass plugin which integrates the k-Anonymity pwned password search from HIBP  
 [jsql-injection](https://github.com/ron190/jsql-injection): jSQL Injection is a Java application for automatic SQL database injection.  
 [chef-windows-hardening](https://github.com/dev-sec/chef-windows-hardening): This chef cookbook provides windows hardening configurations for the DevSec Windows baseline profile.   
-[Phishbait](https://github.com/Err0r-ICA/Phishbait): 100% working Phishing Tool (38 websites) 
+[Phishbait](https://github.com/Err0r-ICA/Phishbait): 100% working Phishing Tool (38 websites)   
+[Dirty-Pipe-CVE-2022-0847](https://github.com/sa-infinity8888/Dirty-Pipe-CVE-2022-0847): CVE-2022-0847 (Dirty Pipe) is an arbitrary file overwrite vulnerability that allows escalation of privileges by modifying or overwriting arbitrary read-only files e.g. /etc/passwd, /etc/shadow.
