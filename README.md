@@ -4362,4 +4362,5 @@
 [awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC): Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).  
 [Oralyzer](https://github.com/r0075h3ll/Oralyzer): Open Redirection Analyzer  
 [defensegrid](https://github.com/commandline-be/defensegrid): notes on how to build defense  
-[chronicel](https://github.com/kbohinski/chronicel): Our super sweet hacker management system, built for HackTCNJ 2017+ | Used by Hack@WPI 2018!
+[chronicel](https://github.com/kbohinski/chronicel): Our super sweet hacker management system, built for HackTCNJ 2017+ | Used by Hack@WPI 2018!  
+[awesome-security-articles](https://github.com/irgoncalves/awesome-security-articles): This repository contains links to awesome security articles.
