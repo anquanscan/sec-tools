@@ -4371,4 +4371,5 @@
 [threema-msgapi-sdk-php](https://github.com/rugk/threema-msgapi-sdk-php): Gateway MsgApi SDK - PHP  
 [PortTran](https://github.com/k8gege/PortTran): PortTran (.NET端口转发工具,支持任意权限)  
 [bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.  
-[Project-Tauro](https://github.com/k0r0pt/Project-Tauro): A Router WiFi key recovery/cracking tool with a twist.
+[Project-Tauro](https://github.com/k0r0pt/Project-Tauro): A Router WiFi key recovery/cracking tool with a twist.  
+[Reverse-Engineering-Tutorials](https://github.com/GeoSn0w/Reverse-Engineering-Tutorials): Some Reverse Engineering Tutorials for Beginners
