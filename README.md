@@ -4399,4 +4399,5 @@
 [df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection): Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP  
 [bash_scripting](https://github.com/bing0o/bash_scripting): bash scripting thing!  
 [terraform-aws-secure-sg](https://github.com/cmeinco/terraform-aws-secure-sg): Maintain a AWS Security Group Rule to allow access from dynamic external ip address.  
-[gdpr-tracker](https://github.com/privacyradius/gdpr-tracker): A crowdsourced directory tracking the compliance and security practices of cloud services and their subprocessors
+[gdpr-tracker](https://github.com/privacyradius/gdpr-tracker): A crowdsourced directory tracking the compliance and security practices of cloud services and their subprocessors  
+[flask-xsrf](https://github.com/gregorynicholas/flask-xsrf): flask extension for defending against cross-site request forgery attacks (XSRF/CSRF)
