@@ -4410,4 +4410,5 @@
 [RedHat-Satellite-Dashboard](https://github.com/platipusica/RedHat-Satellite-Dashboard): Jam.py Application Dashboard for Red Hat Satellite 5.x  
 [cve-2019-14514](https://github.com/seqred-s-a/cve-2019-14514): Remote code execution in Microvirt MEmu  
 [awesome-korea-security-paper](https://github.com/codeengn/awesome-korea-security-paper): Introduces Republic of Korea's security documents recommended by CodeEngn.  
-[keyboard-interceptor-micropython](https://github.com/alpsayin/keyboard-interceptor-micropython): Proof-of-concept keyboard keystroke interceptor for PS/2 protocol proposed to be used with USB-to-ps/2 downgrade
+[keyboard-interceptor-micropython](https://github.com/alpsayin/keyboard-interceptor-micropython): Proof-of-concept keyboard keystroke interceptor for PS/2 protocol proposed to be used with USB-to-ps/2 downgrade  
+[Python-Password-Generator](https://github.com/vismodo/Python-Password-Generator): If you already know a little tkinter but don't know what to do with it, Here is a tutorial!
