@@ -4386,4 +4386,5 @@
 [NodeSecurityShield](https://github.com/DomdogSec/NodeSecurityShield): A Developer and Security Engineer friendly package for Securing NodeJS Applications.  
 [cyber-security-linux-commands](https://github.com/j0eii/cyber-security-linux-commands): daily usage one liner for your cyber security (junk yard lol)  
 [Shreder](https://github.com/EntySec/Shreder): Shreder is a powerful multi-threaded SSH protocol password brute-force tool.  
-[thewhitecircle.github.io](https://github.com/thewhitecircle/thewhitecircle.github.io): Official website of TWC
+[thewhitecircle.github.io](https://github.com/thewhitecircle/thewhitecircle.github.io): Official website of TWC  
+[aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources): :key: Collection of useful AWS IAM Resources & Policies
