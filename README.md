@@ -4420,4 +4420,5 @@
 [CVE-2018-2380](https://github.com/erpscanteam/CVE-2018-2380): PoC of Remote Command Execution via Log injection on SAP NetWeaver AS JAVA CRM  
 [HaveIBeenPwnedKeePassPlugin](https://github.com/kapsiR/HaveIBeenPwnedKeePassPlugin): KeePass plugin which integrates the k-Anonymity pwned password search from HIBP  
 [jsql-injection](https://github.com/ron190/jsql-injection): jSQL Injection is a Java application for automatic SQL database injection.  
-[chef-windows-hardening](https://github.com/dev-sec/chef-windows-hardening): This chef cookbook provides windows hardening configurations for the DevSec Windows baseline profile. 
+[chef-windows-hardening](https://github.com/dev-sec/chef-windows-hardening): This chef cookbook provides windows hardening configurations for the DevSec Windows baseline profile.   
+[Phishbait](https://github.com/Err0r-ICA/Phishbait): 100% working Phishing Tool (38 websites) 
