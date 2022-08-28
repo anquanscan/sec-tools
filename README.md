@@ -4382,4 +4382,5 @@
 [jupyter-collection](https://github.com/fr0gger/jupyter-collection): Collection of Jupyter Notebooks by @fr0gger_  
 [HTA-EXPLOIT](https://github.com/trewisscotch/HTA-EXPLOIT)  
 [xkeys](https://github.com/vsec7/xkeys): Extract Sensitive Keys, Secret, Token Or Interested thing from source  
-[docker-vulnerable-dvwa](https://github.com/opsxcq/docker-vulnerable-dvwa): Damn Vulnerable Web Application Docker container
+[docker-vulnerable-dvwa](https://github.com/opsxcq/docker-vulnerable-dvwa): Damn Vulnerable Web Application Docker container  
+[NodeSecurityShield](https://github.com/DomdogSec/NodeSecurityShield): A Developer and Security Engineer friendly package for Securing NodeJS Applications.
