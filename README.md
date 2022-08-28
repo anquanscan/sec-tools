@@ -4419,4 +4419,5 @@
 [container-security-checklist](https://github.com/krol3/container-security-checklist): Checklist for container security - devsecops practices  
 [CVE-2018-2380](https://github.com/erpscanteam/CVE-2018-2380): PoC of Remote Command Execution via Log injection on SAP NetWeaver AS JAVA CRM  
 [HaveIBeenPwnedKeePassPlugin](https://github.com/kapsiR/HaveIBeenPwnedKeePassPlugin): KeePass plugin which integrates the k-Anonymity pwned password search from HIBP  
-[jsql-injection](https://github.com/ron190/jsql-injection): jSQL Injection is a Java application for automatic SQL database injection.
+[jsql-injection](https://github.com/ron190/jsql-injection): jSQL Injection is a Java application for automatic SQL database injection.  
+[chef-windows-hardening](https://github.com/dev-sec/chef-windows-hardening): This chef cookbook provides windows hardening configurations for the DevSec Windows baseline profile. 
