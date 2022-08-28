@@ -4365,4 +4365,5 @@
 [chronicel](https://github.com/kbohinski/chronicel): Our super sweet hacker management system, built for HackTCNJ 2017+ | Used by Hack@WPI 2018!  
 [awesome-security-articles](https://github.com/irgoncalves/awesome-security-articles): This repository contains links to awesome security articles.  
 [Pi.Alert](https://github.com/pucherot/Pi.Alert): WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices  
-[heimdal-ctf](https://github.com/akhefale/heimdal-ctf): An extensible platform for collaborative CTF challenges of all sorts - although best suited for cybersecurity training.
+[heimdal-ctf](https://github.com/akhefale/heimdal-ctf): An extensible platform for collaborative CTF challenges of all sorts - although best suited for cybersecurity training.  
+[FlipperZero](https://github.com/JMousqueton/FlipperZero): Various tools for my flipperzero 
