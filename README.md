@@ -4388,4 +4388,5 @@
 [Shreder](https://github.com/EntySec/Shreder): Shreder is a powerful multi-threaded SSH protocol password brute-force tool.  
 [thewhitecircle.github.io](https://github.com/thewhitecircle/thewhitecircle.github.io): Official website of TWC  
 [aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources): :key: Collection of useful AWS IAM Resources & Policies  
-[google-hacking-monitor](https://github.com/wmarquardt/google-hacking-monitor): A CLI tool to monitoring a website results in google search
+[google-hacking-monitor](https://github.com/wmarquardt/google-hacking-monitor): A CLI tool to monitoring a website results in google search  
+[PHP-Mini-File-Browser](https://github.com/lynt-smitka/PHP-Mini-File-Browser)
