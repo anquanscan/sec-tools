@@ -4397,4 +4397,5 @@
 [LinSysInfo](https://github.com/ShadowVMX/LinSysInfo): Script en bash que tiene como objetivo verificar las distintas características y versiones del sistema para llevar a cabo la escalada de privilegios en los SO Linux.   
 [IoTSan](https://github.com/dangtunguyen/IoTSan): IotSan: Fortifying the Safety of IoT Systems (ACM CoNEXT'18)  
 [df-ml-anomaly-detection](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection): Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP  
-[bash_scripting](https://github.com/bing0o/bash_scripting): bash scripting thing!
+[bash_scripting](https://github.com/bing0o/bash_scripting): bash scripting thing!  
+[terraform-aws-secure-sg](https://github.com/cmeinco/terraform-aws-secure-sg): Maintain a AWS Security Group Rule to allow access from dynamic external ip address.
