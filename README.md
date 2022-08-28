@@ -4390,4 +4390,5 @@
 [aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources): :key: Collection of useful AWS IAM Resources & Policies  
 [google-hacking-monitor](https://github.com/wmarquardt/google-hacking-monitor): A CLI tool to monitoring a website results in google search  
 [PHP-Mini-File-Browser](https://github.com/lynt-smitka/PHP-Mini-File-Browser)  
-[Acer_Chromebook_C720](https://github.com/wuseman/Acer_Chromebook_C720): How to hack any Acer C7(4)20 Chromebook that has been locked remotely by the enrollment admin
+[Acer_Chromebook_C720](https://github.com/wuseman/Acer_Chromebook_C720): How to hack any Acer C7(4)20 Chromebook that has been locked remotely by the enrollment admin  
+[padoracle](https://github.com/imyelo/padoracle): Padding Oracle Attack with Node.js
