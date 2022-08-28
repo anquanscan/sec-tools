@@ -4377,4 +4377,5 @@
 [Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare): 著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容  
 [Raven](https://github.com/CallistoHouseLtd/Raven): 2-vat test is working, the basic getTheAnswer test and the whenResolved reactor test. The 3-vat tests are still failing. An issue with timing against the core tables (imports/exports, questions/answers). Layers 6 through 9 of the 9-layer Vogel cloud-stack, running on top of ParrotTalk 3.7. {5: Parrot, 6: Raven, 7: Pigeon, 8: Vulture, 9: Eagle}  
 [EnvironmentConfigurationObfuscation](https://github.com/hoggmania/EnvironmentConfigurationObfuscation): A pluggable mechanism to (de)obfuscate configuration secrets in a lights out management environment.  
-[fleet](https://github.com/fleetdm/fleet): Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems — without the downtime risk.
+[fleet](https://github.com/fleetdm/fleet): Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems — without the downtime risk.  
+[reverse_shell](https://github.com/jcs090218/reverse_shell): Reverse shell implementation using Python.
