@@ -4363,4 +4363,5 @@
 [Oralyzer](https://github.com/r0075h3ll/Oralyzer): Open Redirection Analyzer  
 [defensegrid](https://github.com/commandline-be/defensegrid): notes on how to build defense  
 [chronicel](https://github.com/kbohinski/chronicel): Our super sweet hacker management system, built for HackTCNJ 2017+ | Used by Hack@WPI 2018!  
-[awesome-security-articles](https://github.com/irgoncalves/awesome-security-articles): This repository contains links to awesome security articles.
+[awesome-security-articles](https://github.com/irgoncalves/awesome-security-articles): This repository contains links to awesome security articles.  
+[Pi.Alert](https://github.com/pucherot/Pi.Alert): WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
