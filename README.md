@@ -4408,4 +4408,5 @@
 [docker-hacklab](https://github.com/johackim/docker-hacklab): My personal hacklab, create your own.  
 [linkscyberthreatintelligence](https://github.com/lehmariaa/linkscyberthreatintelligence): Alguns links legais para quem gostaria de entender mais sobre os fundamentos de CTI. Pra quem gostaria de contribuir, só aceitarei PR relacionado a conteúdos teóricos, como blogs, podcasts, videos, livros sendo conteúdos grátis ou baratos.  
 [RedHat-Satellite-Dashboard](https://github.com/platipusica/RedHat-Satellite-Dashboard): Jam.py Application Dashboard for Red Hat Satellite 5.x  
-[cve-2019-14514](https://github.com/seqred-s-a/cve-2019-14514): Remote code execution in Microvirt MEmu
+[cve-2019-14514](https://github.com/seqred-s-a/cve-2019-14514): Remote code execution in Microvirt MEmu  
+[awesome-korea-security-paper](https://github.com/codeengn/awesome-korea-security-paper): Introduces Republic of Korea's security documents recommended by CodeEngn.
