@@ -4443,4 +4443,5 @@
 [SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting): Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.  
 [wister](https://github.com/cycurity/wister): A wordlist generator tool, that allows you to supply a set of words, giving you the possibility to craft multiple variations from the given words, creating a unique and ideal wordlist to use regarding a specific target.  
 [paradoxiaRAT](https://github.com/quantumcore/paradoxiaRAT): ParadoxiaRat : Native Windows Remote access Tool.  
-[exif_delete](https://github.com/john-science/exif_delete): Secure your photographs by stripping them of all the EXIF data.
+[exif_delete](https://github.com/john-science/exif_delete): Secure your photographs by stripping them of all the EXIF data.  
+[esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy): ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications.
