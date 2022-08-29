@@ -4468,4 +4468,5 @@
 [Abracadabra](https://github.com/shaps80/Abracadabra): A truly plug 'n' play solution for securing your code.  
 [java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator): 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process.  
 [Wipey](https://github.com/SailReal/Wipey): Android app for wiping data or reboot after x failed logins  
-[sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager
+[sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager  
+[peupasswd](https://github.com/devfemibadmus/peupasswd): peupasswd is an advanced password security software written in python use in generating unique password for each of each service i.e you can generate special password for each of your social media or services with just one master password;
