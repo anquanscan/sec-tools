@@ -4432,4 +4432,5 @@
 [HatVenom](https://github.com/EntySec/HatVenom): HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures.  
 [Traffic-Confuser](https://github.com/0xDarkSky/Traffic-Confuser): Python script to send random HTTP requests, to "hide" your traffic and confuse your ISP/VPN. Your web traffic will be cheaper to sell and useless for ads. Your traffic will look weird and hard to identify, what you browse and are interested in.  
 [line-fido2-server](https://github.com/line/line-fido2-server): FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.  
-[Antimalware-Research](https://github.com/NtRaiseHardError/Antimalware-Research): Research on Anti-malware and other related security solutions
+[Antimalware-Research](https://github.com/NtRaiseHardError/Antimalware-Research): Research on Anti-malware and other related security solutions  
+[All-Discord-Exploits](https://github.com/ImLorio/All-Discord-Exploits): This is a list of Discord console scripts, bugs and exploits.
