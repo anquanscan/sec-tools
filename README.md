@@ -4478,4 +4478,5 @@
 [appmon](https://github.com/dpnishant/appmon): Documentation:  
 [log4shelldetect](https://github.com/1lann/log4shelldetect): Rapidly scan filesystems for Java programs potentially vulnerable to Log4Shell (CVE-2021-44228) or "that Log4j JNDI exploit" by inspecting the class paths inside files  
 [ransombile](https://github.com/martinvigo/ransombile): Ransombile is a tool that can be used in different scenarios to compromise someone’s digital life when having physical access to a locked mobile device  
-[gakuen_handsome](https://github.com/lennylxx/gakuen_handsome): Codes and files used for the Chinese translation of Gakuen Handsome (学园handsome中文版)
+[gakuen_handsome](https://github.com/lennylxx/gakuen_handsome): Codes and files used for the Chinese translation of Gakuen Handsome (学园handsome中文版)  
+[kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security
