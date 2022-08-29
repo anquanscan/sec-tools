@@ -4458,4 +4458,5 @@
 [AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist): A strict curated whitelist for AdGuard Home.  
 [Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program): An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts.  
 [ETH-Sweeper-Bot](https://github.com/japancode/ETH-Sweeper-Bot): This bot will sweeps all available ethers to your wallet :D  
-[macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide): Guide to securing and improving privacy on macOS
+[macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide): Guide to securing and improving privacy on macOS  
+[BlackIP-Rep](https://github.com/sachinoliver/BlackIP-Rep): BlackIP-Rep is a tool designed to gather the reputation and information of Bulk IP's. Focused on increasing the workflow of Security Operations(SOC) team during investigation.
