@@ -4452,4 +4452,5 @@
 [CyberIntel-CTF-2018-HackME-Challenge](https://github.com/CyberIntel-Online/CyberIntel-CTF-2018-HackME-Challenge): This is The GitHub Official Repository of The Cyber-Intel Online CTF (Catch-The-Flag) 2018 Open-World Hacking and Reverse Engineering Challenge. Hope For The Best and Good Luck - Team Cyber-Intel (Sri Lanka).  
 [Client-IP-SafeList](https://github.com/dotnet-labs/Client-IP-SafeList): Client IP safelist for ASP.NET Core | .NET 5 | CIDR | Network | allowed list | IP restriction  
 [Admin-Panel-URL-Finder](https://github.com/akalankauk/Admin-Panel-URL-Finder): Easy & Advanced Websites Admin Panel URL Finder Python Script.   
-[encrypt-storage](https://github.com/michelonsouza/encrypt-storage): EncryptStorage provide a little more security in frontend
+[encrypt-storage](https://github.com/michelonsouza/encrypt-storage): EncryptStorage provide a little more security in frontend  
+[FastgateRoot](https://github.com/classy-giraffe/FastgateRoot): How to get full access to a Fastgate router.
