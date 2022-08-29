@@ -4455,4 +4455,5 @@
 [encrypt-storage](https://github.com/michelonsouza/encrypt-storage): EncryptStorage provide a little more security in frontend  
 [FastgateRoot](https://github.com/classy-giraffe/FastgateRoot): How to get full access to a Fastgate router.  
 [obashfuscator](https://github.com/KevCui/obashfuscator): :performing_arts: A Bash script to obfuscate Bash script  
-[AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist): A strict curated whitelist for AdGuard Home.
+[AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist): A strict curated whitelist for AdGuard Home.  
+[Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program): An example C program which contains vulnerable code for common types of vulnerabilities. It can be used to show fuzzing concepts.
