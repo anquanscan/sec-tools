@@ -4454,4 +4454,5 @@
 [Admin-Panel-URL-Finder](https://github.com/akalankauk/Admin-Panel-URL-Finder): Easy & Advanced Websites Admin Panel URL Finder Python Script.   
 [encrypt-storage](https://github.com/michelonsouza/encrypt-storage): EncryptStorage provide a little more security in frontend  
 [FastgateRoot](https://github.com/classy-giraffe/FastgateRoot): How to get full access to a Fastgate router.  
-[obashfuscator](https://github.com/KevCui/obashfuscator): :performing_arts: A Bash script to obfuscate Bash script
+[obashfuscator](https://github.com/KevCui/obashfuscator): :performing_arts: A Bash script to obfuscate Bash script  
+[AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist): A strict curated whitelist for AdGuard Home.
