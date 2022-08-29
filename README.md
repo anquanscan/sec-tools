@@ -4461,4 +4461,5 @@
 [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide): Guide to securing and improving privacy on macOS  
 [BlackIP-Rep](https://github.com/sachinoliver/BlackIP-Rep): BlackIP-Rep is a tool designed to gather the reputation and information of Bulk IP's. Focused on increasing the workflow of Security Operations(SOC) team during investigation.  
 [security-guidance](https://github.com/ministryofjustice/security-guidance): Security guidance from the MOJ Digital & Technology Cybersecurity team  
-[shellcoding-companion](https://github.com/Ooggle/shellcoding-companion): A python script to automatically generate shellcode payload from assembly files.
+[shellcoding-companion](https://github.com/Ooggle/shellcoding-companion): A python script to automatically generate shellcode payload from assembly files.  
+[aws-quickstart-openvpn](https://github.com/tatobi/aws-quickstart-openvpn): AWS Quick Start: deploy OpenVPN connection to an existing VPC in 2 minutes, single click.
