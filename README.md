@@ -4467,4 +4467,5 @@
 [awesome-gdpr](https://github.com/bakke92/awesome-gdpr): Protection of natural persons with regard to the processing of personal data and on the free movement of such data.  
 [Abracadabra](https://github.com/shaps80/Abracadabra): A truly plug 'n' play solution for securing your code.  
 [java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator): 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process.  
-[Wipey](https://github.com/SailReal/Wipey): Android app for wiping data or reboot after x failed logins
+[Wipey](https://github.com/SailReal/Wipey): Android app for wiping data or reboot after x failed logins  
+[sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager
