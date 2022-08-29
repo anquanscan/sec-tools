@@ -4438,4 +4438,5 @@
 [pentesting-cookbook](https://github.com/tasooshi/pentesting-cookbook): A set of recipes useful in pentesting and red teaming scenarios  
 [Atmail-exploit-toolchain](https://github.com/noraj/Atmail-exploit-toolchain): AtMail Email Server Appliance 6.4 - Exploit toolchain (XSS > CSRF > RCE)  
 [passwords.briansimoni.com](https://github.com/briansimoni/passwords.briansimoni.com): Golang web application for password management  
-[dagda](https://github.com/eliasgranderubio/dagda): a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities
+[dagda](https://github.com/eliasgranderubio/dagda): a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities  
+[mosec-pip-plugin](https://github.com/momosecurity/mosec-pip-plugin): 用于检测python项目的第三方依赖组件是否存在安全漏洞。
