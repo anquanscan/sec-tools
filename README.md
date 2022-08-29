@@ -4429,4 +4429,5 @@
 [KITT-Lite](https://github.com/Cisc0-gif/KITT-Lite): Python-Based Pentesting CLI Tool  
 [break-fast-serial](https://github.com/GoSecure/break-fast-serial): A proof of concept that demonstrates asynchronous scanning for Java deserialization bugs  
 [NimbusSRP-Android](https://github.com/Fi5t/NimbusSRP-Android): Classic NimbusSRP library is optimized for Android  
-[HatVenom](https://github.com/EntySec/HatVenom): HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures.
+[HatVenom](https://github.com/EntySec/HatVenom): HatVenom is a powerful payload generation tool that provides support for all common platforms and architectures.  
+[Traffic-Confuser](https://github.com/0xDarkSky/Traffic-Confuser): Python script to send random HTTP requests, to "hide" your traffic and confuse your ISP/VPN. Your web traffic will be cheaper to sell and useless for ads. Your traffic will look weird and hard to identify, what you browse and are interested in.
