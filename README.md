@@ -4434,4 +4434,5 @@
 [line-fido2-server](https://github.com/line/line-fido2-server): FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.  
 [Antimalware-Research](https://github.com/NtRaiseHardError/Antimalware-Research): Research on Anti-malware and other related security solutions  
 [All-Discord-Exploits](https://github.com/ImLorio/All-Discord-Exploits): This is a list of Discord console scripts, bugs and exploits.  
-[static_file_analysis](https://github.com/lprat/static_file_analysis): Analysis of file (doc, pdf, exe, ...) in deep (emmbedded file(s)) with clamscan and yara rules
+[static_file_analysis](https://github.com/lprat/static_file_analysis): Analysis of file (doc, pdf, exe, ...) in deep (emmbedded file(s)) with clamscan and yara rules  
+[pentesting-cookbook](https://github.com/tasooshi/pentesting-cookbook): A set of recipes useful in pentesting and red teaming scenarios
