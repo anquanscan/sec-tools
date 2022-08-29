@@ -4426,4 +4426,5 @@
 [CryptoManana](https://github.com/TonyKaravasilev/CryptoManana): An Advanced PHP Cryptography Framework  
 [WeakWebServer](https://github.com/mauricelambert/WeakWebServer): A weak web server for ethical hacking (implemented in python).  
 [py-gitguardian](https://github.com/GitGuardian/py-gitguardian): Python API client library for the GitGuardian API  
-[KITT-Lite](https://github.com/Cisc0-gif/KITT-Lite): Python-Based Pentesting CLI Tool
+[KITT-Lite](https://github.com/Cisc0-gif/KITT-Lite): Python-Based Pentesting CLI Tool  
+[break-fast-serial](https://github.com/GoSecure/break-fast-serial): A proof of concept that demonstrates asynchronous scanning for Java deserialization bugs
