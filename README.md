@@ -4464,4 +4464,5 @@
 [shellcoding-companion](https://github.com/Ooggle/shellcoding-companion): A python script to automatically generate shellcode payload from assembly files.  
 [aws-quickstart-openvpn](https://github.com/tatobi/aws-quickstart-openvpn): AWS Quick Start: deploy OpenVPN connection to an existing VPC in 2 minutes, single click.  
 [cryptofuzz](https://github.com/guidovranken/cryptofuzz): Fuzzing cryptographic libraries. Magic bug printer go brrrr.  
-[awesome-gdpr](https://github.com/bakke92/awesome-gdpr): Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+[awesome-gdpr](https://github.com/bakke92/awesome-gdpr): Protection of natural persons with regard to the processing of personal data and on the free movement of such data.  
+[Abracadabra](https://github.com/shaps80/Abracadabra): A truly plug 'n' play solution for securing your code.
