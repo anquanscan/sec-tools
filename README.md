@@ -4427,4 +4427,5 @@
 [WeakWebServer](https://github.com/mauricelambert/WeakWebServer): A weak web server for ethical hacking (implemented in python).  
 [py-gitguardian](https://github.com/GitGuardian/py-gitguardian): Python API client library for the GitGuardian API  
 [KITT-Lite](https://github.com/Cisc0-gif/KITT-Lite): Python-Based Pentesting CLI Tool  
-[break-fast-serial](https://github.com/GoSecure/break-fast-serial): A proof of concept that demonstrates asynchronous scanning for Java deserialization bugs
+[break-fast-serial](https://github.com/GoSecure/break-fast-serial): A proof of concept that demonstrates asynchronous scanning for Java deserialization bugs  
+[NimbusSRP-Android](https://github.com/Fi5t/NimbusSRP-Android): Classic NimbusSRP library is optimized for Android
