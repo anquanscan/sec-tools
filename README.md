@@ -4436,4 +4436,5 @@
 [All-Discord-Exploits](https://github.com/ImLorio/All-Discord-Exploits): This is a list of Discord console scripts, bugs and exploits.  
 [static_file_analysis](https://github.com/lprat/static_file_analysis): Analysis of file (doc, pdf, exe, ...) in deep (emmbedded file(s)) with clamscan and yara rules  
 [pentesting-cookbook](https://github.com/tasooshi/pentesting-cookbook): A set of recipes useful in pentesting and red teaming scenarios  
-[Atmail-exploit-toolchain](https://github.com/noraj/Atmail-exploit-toolchain): AtMail Email Server Appliance 6.4 - Exploit toolchain (XSS > CSRF > RCE)
+[Atmail-exploit-toolchain](https://github.com/noraj/Atmail-exploit-toolchain): AtMail Email Server Appliance 6.4 - Exploit toolchain (XSS > CSRF > RCE)  
+[passwords.briansimoni.com](https://github.com/briansimoni/passwords.briansimoni.com): Golang web application for password management
