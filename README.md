@@ -4448,4 +4448,5 @@
 [sf-detect-suspicious](https://github.com/serverfarmer/sf-detect-suspicious): Lightweight suspicious/unwanted activity detector, that alerts about cryptocurrency mining software, P2P file sharing software and ngrok tunnels.  
 [spring-security](https://github.com/spring-projects/spring-security): Spring Security  
 [network-penetration](https://github.com/alphaolomi/network-penetration): A comprehensive penetration testing toolkit based on python   
-[crazy-weekend](https://github.com/wayanjimmy/crazy-weekend): Mengobati rasa ingin tahu atau kadang hanya iseng. Selanjutnya akan pindah ke gitlab https://gitlab.com/jimboylabs
+[crazy-weekend](https://github.com/wayanjimmy/crazy-weekend): Mengobati rasa ingin tahu atau kadang hanya iseng. Selanjutnya akan pindah ke gitlab https://gitlab.com/jimboylabs  
+[CyberIntel-CTF-2018-HackME-Challenge](https://github.com/CyberIntel-Online/CyberIntel-CTF-2018-HackME-Challenge): This is The GitHub Official Repository of The Cyber-Intel Online CTF (Catch-The-Flag) 2018 Open-World Hacking and Reverse Engineering Challenge. Hope For The Best and Good Luck - Team Cyber-Intel (Sri Lanka).
