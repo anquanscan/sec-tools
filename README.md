@@ -4440,4 +4440,5 @@
 [passwords.briansimoni.com](https://github.com/briansimoni/passwords.briansimoni.com): Golang web application for password management  
 [dagda](https://github.com/eliasgranderubio/dagda): a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities  
 [mosec-pip-plugin](https://github.com/momosecurity/mosec-pip-plugin): 用于检测python项目的第三方依赖组件是否存在安全漏洞。  
-[SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting): Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.
+[SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting](https://github.com/h33tlit/SniffCon-Ultimate-Recon-Dashboard-For-Bug-Bounty-And-Pentesting): Sniffcon has a wide list of powerful online bug bounty tools which can be used to find security vulnerabilities.  
+[wister](https://github.com/cycurity/wister): A wordlist generator tool, that allows you to supply a set of words, giving you the possibility to craft multiple variations from the given words, creating a unique and ideal wordlist to use regarding a specific target.
