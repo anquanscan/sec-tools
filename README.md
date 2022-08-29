@@ -4444,4 +4444,5 @@
 [wister](https://github.com/cycurity/wister): A wordlist generator tool, that allows you to supply a set of words, giving you the possibility to craft multiple variations from the given words, creating a unique and ideal wordlist to use regarding a specific target.  
 [paradoxiaRAT](https://github.com/quantumcore/paradoxiaRAT): ParadoxiaRat : Native Windows Remote access Tool.  
 [exif_delete](https://github.com/john-science/exif_delete): Secure your photographs by stripping them of all the EXIF data.  
-[esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy): ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications.
+[esapi-java-legacy](https://github.com/ESAPI/esapi-java-legacy): ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications.  
+[sf-detect-suspicious](https://github.com/serverfarmer/sf-detect-suspicious): Lightweight suspicious/unwanted activity detector, that alerts about cryptocurrency mining software, P2P file sharing software and ngrok tunnels.
