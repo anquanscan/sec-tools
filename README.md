@@ -4423,4 +4423,5 @@
 [chef-windows-hardening](https://github.com/dev-sec/chef-windows-hardening): This chef cookbook provides windows hardening configurations for the DevSec Windows baseline profile.   
 [Phishbait](https://github.com/Err0r-ICA/Phishbait): 100% working Phishing Tool (38 websites)   
 [Dirty-Pipe-CVE-2022-0847](https://github.com/sa-infinity8888/Dirty-Pipe-CVE-2022-0847): CVE-2022-0847 (Dirty Pipe) is an arbitrary file overwrite vulnerability that allows escalation of privileges by modifying or overwriting arbitrary read-only files e.g. /etc/passwd, /etc/shadow.  
-[CryptoManana](https://github.com/TonyKaravasilev/CryptoManana): An Advanced PHP Cryptography Framework
+[CryptoManana](https://github.com/TonyKaravasilev/CryptoManana): An Advanced PHP Cryptography Framework  
+[WeakWebServer](https://github.com/mauricelambert/WeakWebServer): A weak web server for ethical hacking (implemented in python).
