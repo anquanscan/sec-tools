@@ -4471,4 +4471,5 @@
 [sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager  
 [peupasswd](https://github.com/devfemibadmus/peupasswd): peupasswd is an advanced password security software written in python use in generating unique password for each of each service i.e you can generate special password for each of your social media or services with just one master password;  
 [Free_Net_Free_Education](https://github.com/BrsDincer/Free_Net_Free_Education): Education should be free and accessible to all  
-[Pool2019](https://github.com/PoCInnovation/Pool2019): :briefcase: Pools organized for Epitech's students in 2019.
+[Pool2019](https://github.com/PoCInnovation/Pool2019): :briefcase: Pools organized for Epitech's students in 2019.  
+[Awful-Scripts](https://github.com/Abhishek-op/Awful-Scripts): 😎Some useful and hacking scripts, written in multiple languages like python, go bash, Perl, JScript, C++, PHP, and more. 
