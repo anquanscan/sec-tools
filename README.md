@@ -4480,4 +4480,5 @@
 [ransombile](https://github.com/martinvigo/ransombile): Ransombile is a tool that can be used in different scenarios to compromise someone’s digital life when having physical access to a locked mobile device  
 [gakuen_handsome](https://github.com/lennylxx/gakuen_handsome): Codes and files used for the Chinese translation of Gakuen Handsome (学园handsome中文版)  
 [kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security  
-[lazyaircrack](https://github.com/3xploitGuy/lazyaircrack): Automated tool for WiFi hacking.
+[lazyaircrack](https://github.com/3xploitGuy/lazyaircrack): Automated tool for WiFi hacking.  
+[bluemonday](https://github.com/microcosm-cc/bluemonday): bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
