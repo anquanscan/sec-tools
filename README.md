@@ -4489,4 +4489,5 @@
 [mwdb-core](https://github.com/CERT-Polska/mwdb-core): Malware repository component for samples & static configuration with REST API interface.  
 [sketchy](https://github.com/Netflix-Skunkworks/sketchy): A task based API for taking screenshots and scraping text from websites.  
 [reconmap](https://github.com/reconmap/reconmap): Vulnerability assessment and penetration testing automation and reporting platform for teams.  
-[videostego](https://github.com/JavDomGom/videostego): Steganography (LSB) on MPEG-4 Part 14 format video files.
+[videostego](https://github.com/JavDomGom/videostego): Steganography (LSB) on MPEG-4 Part 14 format video files.  
+[PRAT](https://github.com/bmumme/PRAT): Password Recovery Analysis Tool - A script for analyzing "recovered" Active Directory passwords as a part of general security hygiene or penetration testing. 
