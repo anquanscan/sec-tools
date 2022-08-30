@@ -4514,4 +4514,5 @@
 [effective-shell](https://github.com/dwmkerr/effective-shell): Text, samples and website for my 'Effective Shell' series.  
 [sharesecret](https://github.com/sourcefrenchy/sharesecret): A golang mini web service to share one time secrets  
 [awesome-aws-security](https://github.com/jassics/awesome-aws-security): Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security  
-[marcellelee.github.io](https://github.com/marcellelee/marcellelee.github.io)
+[marcellelee.github.io](https://github.com/marcellelee/marcellelee.github.io)  
+[discord-zeroclick-exploit](https://github.com/0x44F/discord-zeroclick-exploit): Discord client zero-click RCE
