@@ -4518,4 +4518,5 @@
 [discord-zeroclick-exploit](https://github.com/0x44F/discord-zeroclick-exploit): Discord client zero-click RCE  
 [securitytrails](https://github.com/hrbrmstr/securitytrails): 🕵🏼‍♂️Tools to Query the ‘SecurityTrails’ ‘API’  
 [RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io): RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.  
-[PwnDelorean](https://github.com/P3GLEG/PwnDelorean): Git Repo and Filesystem credential scanner
+[PwnDelorean](https://github.com/P3GLEG/PwnDelorean): Git Repo and Filesystem credential scanner  
+[DamnVulnerableWebServer](https://github.com/FrancescoDiSalesGithub/DamnVulnerableWebServer): A SpringBoot Application that is vulnerable to value fuzzing
