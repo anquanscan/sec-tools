@@ -4484,4 +4484,5 @@
 [bluemonday](https://github.com/microcosm-cc/bluemonday): bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS  
 [CodeforcesEduHacking](https://github.com/im0qianqian/CodeforcesEduHacking): 📊 Codeforces Edu & Div. 3 Open hacking  
 [opensshenum](https://github.com/gbonacini/opensshenum): CVE-2018-15473 - Opensshenum is an user enumerator exploiting an OpenSsh bug  
-[filter-controle-acesso-servlet](https://github.com/arianerfrancisco/filter-controle-acesso-servlet): Este projeto controla o acesso de páginas apenas para usuários autenticados via Filters.
+[filter-controle-acesso-servlet](https://github.com/arianerfrancisco/filter-controle-acesso-servlet): Este projeto controla o acesso de páginas apenas para usuários autenticados via Filters.  
+[supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!
