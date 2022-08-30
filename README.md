@@ -4481,4 +4481,5 @@
 [gakuen_handsome](https://github.com/lennylxx/gakuen_handsome): Codes and files used for the Chinese translation of Gakuen Handsome (学园handsome中文版)  
 [kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security  
 [lazyaircrack](https://github.com/3xploitGuy/lazyaircrack): Automated tool for WiFi hacking.  
-[bluemonday](https://github.com/microcosm-cc/bluemonday): bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
+[bluemonday](https://github.com/microcosm-cc/bluemonday): bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS  
+[CodeforcesEduHacking](https://github.com/im0qianqian/CodeforcesEduHacking): 📊 Codeforces Edu & Div. 3 Open hacking
