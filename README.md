@@ -4486,4 +4486,5 @@
 [opensshenum](https://github.com/gbonacini/opensshenum): CVE-2018-15473 - Opensshenum is an user enumerator exploiting an OpenSsh bug  
 [filter-controle-acesso-servlet](https://github.com/arianerfrancisco/filter-controle-acesso-servlet): Este projeto controla o acesso de páginas apenas para usuários autenticados via Filters.  
 [supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!  
-[mwdb-core](https://github.com/CERT-Polska/mwdb-core): Malware repository component for samples & static configuration with REST API interface.
+[mwdb-core](https://github.com/CERT-Polska/mwdb-core): Malware repository component for samples & static configuration with REST API interface.  
+[sketchy](https://github.com/Netflix-Skunkworks/sketchy): A task based API for taking screenshots and scraping text from websites.
