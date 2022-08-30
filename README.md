@@ -4505,4 +4505,5 @@
 [valentine-hbl](https://github.com/173210/valentine-hbl): Half Byte Loader BETA  
 [Hack-Tools](https://github.com/LasCC/Hack-Tools): The all-in-one Red Team extension for Web Pentester 🛠  
 [Cracker-Tool](https://github.com/cracker911181/Cracker-Tool): All in One CRACKER911181's Tool. This Tool For Hacking and Pentesting. 🎭  
-[ObsidianSailboat](https://github.com/paralax/ObsidianSailboat): Nmap and NSE command line wrapper in the style of Metasploit
+[ObsidianSailboat](https://github.com/paralax/ObsidianSailboat): Nmap and NSE command line wrapper in the style of Metasploit  
+[javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator): A powerful obfuscator for JavaScript and Node.js
