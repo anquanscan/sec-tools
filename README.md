@@ -4516,4 +4516,5 @@
 [awesome-aws-security](https://github.com/jassics/awesome-aws-security): Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security  
 [marcellelee.github.io](https://github.com/marcellelee/marcellelee.github.io)  
 [discord-zeroclick-exploit](https://github.com/0x44F/discord-zeroclick-exploit): Discord client zero-click RCE  
-[securitytrails](https://github.com/hrbrmstr/securitytrails): 🕵🏼‍♂️Tools to Query the ‘SecurityTrails’ ‘API’
+[securitytrails](https://github.com/hrbrmstr/securitytrails): 🕵🏼‍♂️Tools to Query the ‘SecurityTrails’ ‘API’  
+[RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io): RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
