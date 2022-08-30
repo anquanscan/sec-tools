@@ -4517,4 +4517,5 @@
 [marcellelee.github.io](https://github.com/marcellelee/marcellelee.github.io)  
 [discord-zeroclick-exploit](https://github.com/0x44F/discord-zeroclick-exploit): Discord client zero-click RCE  
 [securitytrails](https://github.com/hrbrmstr/securitytrails): 🕵🏼‍♂️Tools to Query the ‘SecurityTrails’ ‘API’  
-[RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io): RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
+[RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io): RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.  
+[PwnDelorean](https://github.com/P3GLEG/PwnDelorean): Git Repo and Filesystem credential scanner
