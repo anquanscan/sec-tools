@@ -4488,4 +4488,5 @@
 [supercookie](https://github.com/jonasstrehle/supercookie): ⚠️ Browser fingerprinting via favicon!  
 [mwdb-core](https://github.com/CERT-Polska/mwdb-core): Malware repository component for samples & static configuration with REST API interface.  
 [sketchy](https://github.com/Netflix-Skunkworks/sketchy): A task based API for taking screenshots and scraping text from websites.  
-[reconmap](https://github.com/reconmap/reconmap): Vulnerability assessment and penetration testing automation and reporting platform for teams.
+[reconmap](https://github.com/reconmap/reconmap): Vulnerability assessment and penetration testing automation and reporting platform for teams.  
+[videostego](https://github.com/JavDomGom/videostego): Steganography (LSB) on MPEG-4 Part 14 format video files.
