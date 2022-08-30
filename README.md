@@ -4504,4 +4504,5 @@
 [Remote-Keylogger](https://github.com/dubniczky/Remote-Keylogger): A compiled keylogger written in python with logging to a remote host  
 [valentine-hbl](https://github.com/173210/valentine-hbl): Half Byte Loader BETA  
 [Hack-Tools](https://github.com/LasCC/Hack-Tools): The all-in-one Red Team extension for Web Pentester 🛠  
-[Cracker-Tool](https://github.com/cracker911181/Cracker-Tool): All in One CRACKER911181's Tool. This Tool For Hacking and Pentesting. 🎭
+[Cracker-Tool](https://github.com/cracker911181/Cracker-Tool): All in One CRACKER911181's Tool. This Tool For Hacking and Pentesting. 🎭  
+[ObsidianSailboat](https://github.com/paralax/ObsidianSailboat): Nmap and NSE command line wrapper in the style of Metasploit
