@@ -4511,4 +4511,5 @@
 [owncraft](https://github.com/thelikes/owncraft): offensive notes & resources  
 [inumaki](https://github.com/cr-0w/inumaki): 🚩🐺  shell generator for CTFs!   
 [JabberJaw](https://github.com/Nwqda/JabberJaw): With JabberJaw, convert any OpenWrt compatible device in Hak5 Shark Jack and make your own portable network attack device. (Shark Jack DIY).  
-[effective-shell](https://github.com/dwmkerr/effective-shell): Text, samples and website for my 'Effective Shell' series.
+[effective-shell](https://github.com/dwmkerr/effective-shell): Text, samples and website for my 'Effective Shell' series.  
+[sharesecret](https://github.com/sourcefrenchy/sharesecret): A golang mini web service to share one time secrets
