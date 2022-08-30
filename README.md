@@ -4509,4 +4509,5 @@
 [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator): A powerful obfuscator for JavaScript and Node.js  
 [K-Pots](https://github.com/kaotickj/K-Pots): KPots is a simple honeypots system to capture and log traffic to specified ports. Requires Netcat for monitoring and IPTables for banning. Requires dig for filtering out your own ip address. (Note: I will be adding alternatives in a later realease, but for now, just install dig.)  
 [owncraft](https://github.com/thelikes/owncraft): offensive notes & resources  
-[inumaki](https://github.com/cr-0w/inumaki): 🚩🐺  shell generator for CTFs! 
+[inumaki](https://github.com/cr-0w/inumaki): 🚩🐺  shell generator for CTFs!   
+[JabberJaw](https://github.com/Nwqda/JabberJaw): With JabberJaw, convert any OpenWrt compatible device in Hak5 Shark Jack and make your own portable network attack device. (Shark Jack DIY).
