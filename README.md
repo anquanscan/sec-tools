@@ -4519,4 +4519,5 @@
 [securitytrails](https://github.com/hrbrmstr/securitytrails): 🕵🏼‍♂️Tools to Query the ‘SecurityTrails’ ‘API’  
 [RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io): RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.  
 [PwnDelorean](https://github.com/P3GLEG/PwnDelorean): Git Repo and Filesystem credential scanner  
-[DamnVulnerableWebServer](https://github.com/FrancescoDiSalesGithub/DamnVulnerableWebServer): A SpringBoot Application that is vulnerable to value fuzzing
+[DamnVulnerableWebServer](https://github.com/FrancescoDiSalesGithub/DamnVulnerableWebServer): A SpringBoot Application that is vulnerable to value fuzzing  
+[pyc2bytecode](https://github.com/knight0x07/pyc2bytecode): A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*) 
