@@ -4522,4 +4522,5 @@
 [DamnVulnerableWebServer](https://github.com/FrancescoDiSalesGithub/DamnVulnerableWebServer): A SpringBoot Application that is vulnerable to value fuzzing  
 [pyc2bytecode](https://github.com/knight0x07/pyc2bytecode): A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)   
 [shell-backdoor-list](https://github.com/backdoorhub/shell-backdoor-list): 🎯 PHP / ASP - Shell Backdoor List 🎯  
-[universalrop](https://github.com/kokjo/universalrop): Small tool for generating ropchains using unicorn and z3
+[universalrop](https://github.com/kokjo/universalrop): Small tool for generating ropchains using unicorn and z3  
+[How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
