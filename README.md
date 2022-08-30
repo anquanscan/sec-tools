@@ -4494,4 +4494,5 @@
 [BinV](https://github.com/dev2ero/BinV): 👓 Yet another binary vulnerbilities checker. An automated vulnerability scanner for ELF based on symbolic execution.  
 [Python-Prowler-Container](https://github.com/jonrau1/Python-Prowler-Container): Minimalist containerized implementation of Prowler from https://github.com/toniblyx/prowler, made to run within ECS Fargate and have Secrets passed via AWS Secrets Manager  
 [HydraRecon](https://github.com/aufzayed/HydraRecon): All In One, Fast, Easy Recon Tool  
-[ae-bot](https://github.com/imhunterand/ae-bot): Mass exploiter shell upload scanner 👽
+[ae-bot](https://github.com/imhunterand/ae-bot): Mass exploiter shell upload scanner 👽  
+[FIle-Classifier](https://github.com/jcapellman/FIle-Classifier): ML.NET C# File Classifier
