@@ -4490,4 +4490,5 @@
 [sketchy](https://github.com/Netflix-Skunkworks/sketchy): A task based API for taking screenshots and scraping text from websites.  
 [reconmap](https://github.com/reconmap/reconmap): Vulnerability assessment and penetration testing automation and reporting platform for teams.  
 [videostego](https://github.com/JavDomGom/videostego): Steganography (LSB) on MPEG-4 Part 14 format video files.  
-[PRAT](https://github.com/bmumme/PRAT): Password Recovery Analysis Tool - A script for analyzing "recovered" Active Directory passwords as a part of general security hygiene or penetration testing. 
+[PRAT](https://github.com/bmumme/PRAT): Password Recovery Analysis Tool - A script for analyzing "recovered" Active Directory passwords as a part of general security hygiene or penetration testing.   
+[BinV](https://github.com/dev2ero/BinV): 👓 Yet another binary vulnerbilities checker. An automated vulnerability scanner for ELF based on symbolic execution.
