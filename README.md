@@ -4496,4 +4496,5 @@
 [HydraRecon](https://github.com/aufzayed/HydraRecon): All In One, Fast, Easy Recon Tool  
 [ae-bot](https://github.com/imhunterand/ae-bot): Mass exploiter shell upload scanner 👽  
 [FIle-Classifier](https://github.com/jcapellman/FIle-Classifier): ML.NET C# File Classifier  
-[rsGen](https://github.com/FlyfishSec/rsGen):   rsGen is a Reverse Shell Payload Generator for hacking.
+[rsGen](https://github.com/FlyfishSec/rsGen):   rsGen is a Reverse Shell Payload Generator for hacking.  
+[dep-scan](https://github.com/AppThreat/dep-scan): Fully open-source security audit for project dependencies based on known vulnerabilities and advisories. Supports both local repos and container images. Integrates with various CI environments such as Azure Pipelines, CircleCI, Google CloudBuild. No server required!
