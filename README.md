@@ -4528,4 +4528,5 @@
 [GSR_AutoCar](https://github.com/Guiandrade/GSR_AutoCar): Projeto de Gestão e Segurança de Redes 2ºSemestre 2016  
 [AwesomeMoroccanHackers](https://github.com/j4k0m/AwesomeMoroccanHackers): An Awesome List of Moroccan Cyber Security Researchers, Pentesters, Bug Hunters.  
 [389Rfall18](https://github.com/UMD-CS-STICs/389Rfall18): CMSC389R course at UMD  
-[vault-operator](https://github.com/coreos/vault-operator): Run and manage Vault on Kubernetes simply and securely
+[vault-operator](https://github.com/coreos/vault-operator): Run and manage Vault on Kubernetes simply and securely  
+[game-of-thrones-hacking-ctf](https://github.com/OscarAkaElvis/game-of-thrones-hacking-ctf): Game of Thrones hacking CTF (Capture the flag)
