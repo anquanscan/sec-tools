@@ -4532,4 +4532,5 @@
 [game-of-thrones-hacking-ctf](https://github.com/OscarAkaElvis/game-of-thrones-hacking-ctf): Game of Thrones hacking CTF (Capture the flag)  
 [zoneh](https://github.com/tropicoo/zoneh): Zone-H Cybercrime Archive Telegram Monitoring Bot  
 [smtpcracker](https://github.com/Kik449/smtpcracker): A basic and powerfull python 3 script to brute force passwords in a smtp server.  
-[lazybee](https://github.com/noob-hackers/lazybee): Create Best Wordlist From Python Tool In Termux
+[lazybee](https://github.com/noob-hackers/lazybee): Create Best Wordlist From Python Tool In Termux  
+[CameraHack](https://github.com/OnlineHacKing/CameraHack): Hack Front Camera from Target Phone Using Termux & Linux
