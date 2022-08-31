@@ -4559,4 +4559,5 @@
 [ssl_pinning_remover](https://github.com/HexNio/ssl_pinning_remover): An Android SSL Pinning Remover tool for Security research and Bug Bounty  
 [cybersecurity-honeypots](https://github.com/paulveillard/cybersecurity-honeypots): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Honey Pots in Cybersecurity.  
 [authz0](https://github.com/hahwul/authz0): 🔑 Authz0 is an automated authorization test tool. Unauthorized access can be identified based on URLs and Roles & Credentials.  
-[python_subnet_calculator](https://github.com/carmenmoralesb/python_subnet_calculator): Little example of calculating subnets with a python script i did by myself.
+[python_subnet_calculator](https://github.com/carmenmoralesb/python_subnet_calculator): Little example of calculating subnets with a python script i did by myself.  
+[debian-cis](https://github.com/ovh/debian-cis): PCI-DSS compliant Debian 9/10 hardening
