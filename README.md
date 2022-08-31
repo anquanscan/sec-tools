@@ -4540,4 +4540,5 @@
 [IIT-BHU-Results](https://github.com/IAmBlackHacker/IIT-BHU-Results): Open IIT BHU results without Login ...  
 [CipherSweet](https://github.com/STBRR/CipherSweet): A Utility for Checking SSL Ciphers against CipherSuite's API  
 [my-cybersecurity-notes](https://github.com/anthares101/my-cybersecurity-notes): These are the notes i have been taking since i started learning about ethical hacking and cybersecurity  
-[iedcs-security](https://github.com/rafaelferreirapt/iedcs-security): O trabalho proposto para o projeto da unidade curricular de Segurança é um IEDCS: Identity Enabled Distribution Control System.
+[iedcs-security](https://github.com/rafaelferreirapt/iedcs-security): O trabalho proposto para o projeto da unidade curricular de Segurança é um IEDCS: Identity Enabled Distribution Control System.  
+[awesome-php-security](https://github.com/guardrailsio/awesome-php-security): Awesome PHP Security Resources 🕶🐘🔐
