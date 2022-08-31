@@ -4535,4 +4535,5 @@
 [lazybee](https://github.com/noob-hackers/lazybee): Create Best Wordlist From Python Tool In Termux  
 [CameraHack](https://github.com/OnlineHacKing/CameraHack): Hack Front Camera from Target Phone Using Termux & Linux  
 [auth-portal](https://github.com/pacmancoder/auth-portal): Simple auth portal for protecting services, not supporting authentication (e.g. via ngnix's `auth_request`)  
-[web-brutator](https://github.com/koutto/web-brutator): Fast Modular Web Interfaces Bruteforcer
+[web-brutator](https://github.com/koutto/web-brutator): Fast Modular Web Interfaces Bruteforcer  
+[vulnerable-rails-contrast](https://github.com/mowsec/vulnerable-rails-contrast): A sample vulnerable Ruby on Rails application instrumented with the Contrast Security Agent. Used for evaluating the Contrast Security agent and platform.
