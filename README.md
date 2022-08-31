@@ -4554,4 +4554,5 @@
 [wp2static](https://github.com/WP2Static/wp2static): WordPress static site generator for security, performance and cost benefits  
 [PenetrationTesterRE](https://github.com/imhunterand/PenetrationTesterRE): Penetration Tester all CVE Exploitation tool  
 [CVE-2019-15107](https://github.com/whokilleddb/CVE-2019-15107): CVE-2019-15107 Webmin Exploit in C  
-[nucypher](https://github.com/nucypher/nucypher): A decentralized threshold cryptography network focused on proxy reencryption.
+[nucypher](https://github.com/nucypher/nucypher): A decentralized threshold cryptography network focused on proxy reencryption.  
+[gominhook](https://github.com/NaniteFactory/gominhook): MinHook binding for Go (Golang) with support for Windows API.
