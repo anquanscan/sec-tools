@@ -4548,4 +4548,5 @@
 [acsvrwbewbewb](https://github.com/rolandinsh/acsvrwbewbewb): found as WordPress plugin  
 [laravel6-acl](https://github.com/ribafs/laravel6-acl): Package to ACL implements Laravel 6  
 [CVE-2019-2215](https://github.com/c3r34lk1ll3r/CVE-2019-2215): PoC for old Binder vulnerability (based on P0 exploit)  
-[SIET](https://github.com/frostbits-security/SIET): Smart Install Exploitation Tool
+[SIET](https://github.com/frostbits-security/SIET): Smart Install Exploitation Tool  
+[capstone](https://github.com/capstone-engine/capstone): Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
