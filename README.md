@@ -4542,4 +4542,5 @@
 [my-cybersecurity-notes](https://github.com/anthares101/my-cybersecurity-notes): These are the notes i have been taking since i started learning about ethical hacking and cybersecurity  
 [iedcs-security](https://github.com/rafaelferreirapt/iedcs-security): O trabalho proposto para o projeto da unidade curricular de Segurança é um IEDCS: Identity Enabled Distribution Control System.  
 [awesome-php-security](https://github.com/guardrailsio/awesome-php-security): Awesome PHP Security Resources 🕶🐘🔐  
-[httpheader](https://github.com/FriendsOfREDAXO/httpheader): Redaxo 5 Addon zur Aktivierung verschiedener Webseiten-Header für die Einstellung von Sicherheitsmaßnahmen und Optimierungen.
+[httpheader](https://github.com/FriendsOfREDAXO/httpheader): Redaxo 5 Addon zur Aktivierung verschiedener Webseiten-Header für die Einstellung von Sicherheitsmaßnahmen und Optimierungen.  
+[PhishBuster](https://github.com/nayanmapara/PhishBuster): Aim of the project is to reduce phishing victims. 😇
