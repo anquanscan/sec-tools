@@ -4546,4 +4546,5 @@
 [PhishBuster](https://github.com/nayanmapara/PhishBuster): Aim of the project is to reduce phishing victims. 😇  
 [oletools](https://github.com/decalage2/oletools): oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.  
 [acsvrwbewbewb](https://github.com/rolandinsh/acsvrwbewbewb): found as WordPress plugin  
-[laravel6-acl](https://github.com/ribafs/laravel6-acl): Package to ACL implements Laravel 6
+[laravel6-acl](https://github.com/ribafs/laravel6-acl): Package to ACL implements Laravel 6  
+[CVE-2019-2215](https://github.com/c3r34lk1ll3r/CVE-2019-2215): PoC for old Binder vulnerability (based on P0 exploit)
