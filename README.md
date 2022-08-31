@@ -4560,4 +4560,5 @@
 [cybersecurity-honeypots](https://github.com/paulveillard/cybersecurity-honeypots): An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Honey Pots in Cybersecurity.  
 [authz0](https://github.com/hahwul/authz0): 🔑 Authz0 is an automated authorization test tool. Unauthorized access can be identified based on URLs and Roles & Credentials.  
 [python_subnet_calculator](https://github.com/carmenmoralesb/python_subnet_calculator): Little example of calculating subnets with a python script i did by myself.  
-[debian-cis](https://github.com/ovh/debian-cis): PCI-DSS compliant Debian 9/10 hardening
+[debian-cis](https://github.com/ovh/debian-cis): PCI-DSS compliant Debian 9/10 hardening  
+[DEFCON29-BTV-ThreatReportRoulette](https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette): Learn how to get more out of publicly available threat reports to help improve the security posture of your organization! TLP: White Threat Reports used in the making of this Panel.
