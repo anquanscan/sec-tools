@@ -4529,4 +4529,5 @@
 [AwesomeMoroccanHackers](https://github.com/j4k0m/AwesomeMoroccanHackers): An Awesome List of Moroccan Cyber Security Researchers, Pentesters, Bug Hunters.  
 [389Rfall18](https://github.com/UMD-CS-STICs/389Rfall18): CMSC389R course at UMD  
 [vault-operator](https://github.com/coreos/vault-operator): Run and manage Vault on Kubernetes simply and securely  
-[game-of-thrones-hacking-ctf](https://github.com/OscarAkaElvis/game-of-thrones-hacking-ctf): Game of Thrones hacking CTF (Capture the flag)
+[game-of-thrones-hacking-ctf](https://github.com/OscarAkaElvis/game-of-thrones-hacking-ctf): Game of Thrones hacking CTF (Capture the flag)  
+[zoneh](https://github.com/tropicoo/zoneh): Zone-H Cybercrime Archive Telegram Monitoring Bot
