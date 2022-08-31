@@ -4543,4 +4543,5 @@
 [iedcs-security](https://github.com/rafaelferreirapt/iedcs-security): O trabalho proposto para o projeto da unidade curricular de Segurança é um IEDCS: Identity Enabled Distribution Control System.  
 [awesome-php-security](https://github.com/guardrailsio/awesome-php-security): Awesome PHP Security Resources 🕶🐘🔐  
 [httpheader](https://github.com/FriendsOfREDAXO/httpheader): Redaxo 5 Addon zur Aktivierung verschiedener Webseiten-Header für die Einstellung von Sicherheitsmaßnahmen und Optimierungen.  
-[PhishBuster](https://github.com/nayanmapara/PhishBuster): Aim of the project is to reduce phishing victims. 😇
+[PhishBuster](https://github.com/nayanmapara/PhishBuster): Aim of the project is to reduce phishing victims. 😇  
+[oletools](https://github.com/decalage2/oletools): oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
