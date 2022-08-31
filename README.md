@@ -4526,4 +4526,5 @@
 [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.  
 [hackingTheBootSector](https://github.com/k0r0pt/hackingTheBootSector): Delving into how the boot sector works. Ramblings and research of a young hacker from 2008.  
 [GSR_AutoCar](https://github.com/Guiandrade/GSR_AutoCar): Projeto de Gestão e Segurança de Redes 2ºSemestre 2016  
-[AwesomeMoroccanHackers](https://github.com/j4k0m/AwesomeMoroccanHackers): An Awesome List of Moroccan Cyber Security Researchers, Pentesters, Bug Hunters.
+[AwesomeMoroccanHackers](https://github.com/j4k0m/AwesomeMoroccanHackers): An Awesome List of Moroccan Cyber Security Researchers, Pentesters, Bug Hunters.  
+[389Rfall18](https://github.com/UMD-CS-STICs/389Rfall18): CMSC389R course at UMD
