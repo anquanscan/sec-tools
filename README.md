@@ -4555,4 +4555,5 @@
 [PenetrationTesterRE](https://github.com/imhunterand/PenetrationTesterRE): Penetration Tester all CVE Exploitation tool  
 [CVE-2019-15107](https://github.com/whokilleddb/CVE-2019-15107): CVE-2019-15107 Webmin Exploit in C  
 [nucypher](https://github.com/nucypher/nucypher): A decentralized threshold cryptography network focused on proxy reencryption.  
-[gominhook](https://github.com/NaniteFactory/gominhook): MinHook binding for Go (Golang) with support for Windows API.
+[gominhook](https://github.com/NaniteFactory/gominhook): MinHook binding for Go (Golang) with support for Windows API.  
+[ssl_pinning_remover](https://github.com/HexNio/ssl_pinning_remover): An Android SSL Pinning Remover tool for Security research and Bug Bounty
