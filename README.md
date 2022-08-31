@@ -4538,4 +4538,5 @@
 [web-brutator](https://github.com/koutto/web-brutator): Fast Modular Web Interfaces Bruteforcer  
 [vulnerable-rails-contrast](https://github.com/mowsec/vulnerable-rails-contrast): A sample vulnerable Ruby on Rails application instrumented with the Contrast Security Agent. Used for evaluating the Contrast Security agent and platform.  
 [IIT-BHU-Results](https://github.com/IAmBlackHacker/IIT-BHU-Results): Open IIT BHU results without Login ...  
-[CipherSweet](https://github.com/STBRR/CipherSweet): A Utility for Checking SSL Ciphers against CipherSuite's API
+[CipherSweet](https://github.com/STBRR/CipherSweet): A Utility for Checking SSL Ciphers against CipherSuite's API  
+[my-cybersecurity-notes](https://github.com/anthares101/my-cybersecurity-notes): These are the notes i have been taking since i started learning about ethical hacking and cybersecurity
