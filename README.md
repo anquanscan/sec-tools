@@ -4581,4 +4581,5 @@
 [yasuo](https://github.com/0xsauby/yasuo): A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network  
 [shellclear](https://github.com/rusty-ferris-club/shellclear): Secure shell history commands  
 [KillerQueenCTF-2021](https://github.com/0xRar/KillerQueenCTF-2021): Writeups for the challenges i solved from Killer Queen CTF 2021.  
-[Ethical-Hacking-Notes](https://github.com/s-xync/Ethical-Hacking-Notes): My notes on Ethical Hacking
+[Ethical-Hacking-Notes](https://github.com/s-xync/Ethical-Hacking-Notes): My notes on Ethical Hacking  
+[monitorr-exploit-toolkit](https://github.com/sec-it/monitorr-exploit-toolkit): Multiple exploits for Monitorr
