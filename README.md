@@ -4602,4 +4602,5 @@
 [wowGrail](https://github.com/aaaddress1/wowGrail): PoC: Rebuild A New Path Back to the Heaven's Gate (HITB 2021)  
 [nwam](https://github.com/joaovitorbf/nwam): Find Netwave IP cameras with default admin passwords using Shodan  
 [i9300_emmc_toolbox](https://github.com/oranav/i9300_emmc_toolbox): Samsung Galaxy S3 GT-I9300 eMMC toolbox  
-[exynos-usbdl](https://github.com/frederic/exynos-usbdl): Unsigned code loader for Exynos BootROM
+[exynos-usbdl](https://github.com/frederic/exynos-usbdl): Unsigned code loader for Exynos BootROM  
+[ANYMethodLog](https://github.com/qhd/ANYMethodLog): Log any method call of object in Objective-C
