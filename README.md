@@ -4608,4 +4608,5 @@
 [CloudLeak](https://github.com/DanielAzulayy/CloudLeak)  
 [certainty](https://github.com/paragonie/certainty): Automated cacert.pem management for PHP projects  
 [Always-Learning](https://github.com/404notf0und/Always-Learning): 404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人  
-[cifrar-descifrar-archivos-php](https://github.com/parzibyte/cifrar-descifrar-archivos-php): Cifrado de archivos completos con PHP y php-encryption
+[cifrar-descifrar-archivos-php](https://github.com/parzibyte/cifrar-descifrar-archivos-php): Cifrado de archivos completos con PHP y php-encryption  
+[pass-keybase](https://github.com/mbauhardt/pass-keybase): A pass extension to re-encrypt and decrypt pass entries via keybase
