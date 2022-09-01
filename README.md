@@ -4626,4 +4626,5 @@
 [Valance](https://github.com/FLUORESCENTXX/Valance): A roblox level 6 executor! Designed by me  
 [dnstunneling](https://github.com/hackingyseguridad/dnstunneling): dns tunneling con dns2tcp  
 [Dying-Light-2-H-U-M-A-N-Hack](https://github.com/Nevald/Dying-Light-2-H-U-M-A-N-Hack): Dying Light 2 H*U*M*A*N CHEAT - INCLUDING: Unlimited Health, Stamina, Immunity, Weapon Durability, Defense Multiplier + 50 MORE FEATURES  
-[PandorasBox](https://github.com/Adversis/PandorasBox): Security tool to quickly audit Public Box files and folders.
+[PandorasBox](https://github.com/Adversis/PandorasBox): Security tool to quickly audit Public Box files and folders.  
+[black-widow](https://github.com/offensive-hub/black-widow): GUI based offensive penetration testing tool (Open Source)
