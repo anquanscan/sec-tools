@@ -4577,4 +4577,5 @@
 [Jeroboam](https://github.com/mrackwitz/Jeroboam): Check all your apps on macOS for vulnerable Sparkle updaters  
 [cybersec-hw-phishing](https://github.com/Ergos1/cybersec-hw-phishing): University project. The Cybersecurity's project for phishing. This is a website that clones the Jira login and google oauth2   
 [PeekABoo](https://github.com/Viralmaniar/PeekABoo): PeekABoo tool can be used during internal penetration testing when a user needs to enable Remote Desktop on the targeted machine. It uses PowerShell remoting to perform this task.  Note: Remote desktop is disabled by default on all Windows operating systems.   
-[AixCrypt](https://github.com/Mahmoud7Osman/AixCrypt): A Key Calculation Based Program For Data Confidentiality Over A Steganography-Like Technique Using The ROT Algorithm
+[AixCrypt](https://github.com/Mahmoud7Osman/AixCrypt): A Key Calculation Based Program For Data Confidentiality Over A Steganography-Like Technique Using The ROT Algorithm  
+[yasuo](https://github.com/0xsauby/yasuo): A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
