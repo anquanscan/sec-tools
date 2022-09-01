@@ -4624,4 +4624,5 @@
 [NIST-to-Tech](https://github.com/mikeprivette/NIST-to-Tech): An open-source listing of cybersecurity technology mapped to the NIST Cybersecurity Framework (CSF)  
 [curl-impersonate](https://github.com/lwthiker/curl-impersonate): curl-impersonate: A special build of curl that can impersonate Chrome & Firefox  
 [Valance](https://github.com/FLUORESCENTXX/Valance): A roblox level 6 executor! Designed by me  
-[dnstunneling](https://github.com/hackingyseguridad/dnstunneling): dns tunneling con dns2tcp
+[dnstunneling](https://github.com/hackingyseguridad/dnstunneling): dns tunneling con dns2tcp  
+[Dying-Light-2-H-U-M-A-N-Hack](https://github.com/Nevald/Dying-Light-2-H-U-M-A-N-Hack): Dying Light 2 H*U*M*A*N CHEAT - INCLUDING: Unlimited Health, Stamina, Immunity, Weapon Durability, Defense Multiplier + 50 MORE FEATURES
