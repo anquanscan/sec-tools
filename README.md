@@ -4589,4 +4589,5 @@
 [Awesome-Scripts](https://github.com/DedSecInside/Awesome-Scripts): A collection of awesome scripts from developers around the globe.  
 [watchdog](https://github.com/flipkart-incubator/watchdog): Watchdog - A Comprehensive Security Scanning and a Vulnerability Management Tool.  
 [hyperpwn](https://github.com/bet4it/hyperpwn): A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda  
-[docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan): Qualys sslabs-scan utility in a tiny docker image
+[docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan): Qualys sslabs-scan utility in a tiny docker image  
+[stratus-red-team](https://github.com/DataDog/stratus-red-team): :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
