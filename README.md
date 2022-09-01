@@ -4592,4 +4592,5 @@
 [docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan): Qualys sslabs-scan utility in a tiny docker image  
 [stratus-red-team](https://github.com/DataDog/stratus-red-team): :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud  
 [mevn-stack-vue-2](https://github.com/didinj/mevn-stack-vue-2): Securing MEVN Stack (Vue.js 2) Web Application using Passport  
-[WAFuzzer](https://github.com/TheQmaks/WAFuzzer): Very simple whatsapp fuzzer based on selenium writed on python 3
+[WAFuzzer](https://github.com/TheQmaks/WAFuzzer): Very simple whatsapp fuzzer based on selenium writed on python 3  
+[National-Cyber-Scholarship-2021](https://github.com/AppliedCyberCTF/National-Cyber-Scholarship-2021): A collection of write-ups and solutions for the National Cyber Scholarship Contest CTF
