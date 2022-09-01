@@ -4590,4 +4590,5 @@
 [watchdog](https://github.com/flipkart-incubator/watchdog): Watchdog - A Comprehensive Security Scanning and a Vulnerability Management Tool.  
 [hyperpwn](https://github.com/bet4it/hyperpwn): A hyper plugin to provide a flexible GDB GUI frontend with the help of GEF, pwndbg or peda  
 [docker-ssllabs-scan](https://github.com/jumanjihouse/docker-ssllabs-scan): Qualys sslabs-scan utility in a tiny docker image  
-[stratus-red-team](https://github.com/DataDog/stratus-red-team): :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+[stratus-red-team](https://github.com/DataDog/stratus-red-team): :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud  
+[mevn-stack-vue-2](https://github.com/didinj/mevn-stack-vue-2): Securing MEVN Stack (Vue.js 2) Web Application using Passport
