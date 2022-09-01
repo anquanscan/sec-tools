@@ -4597,4 +4597,5 @@
 [email-concealer-cli](https://github.com/spatie/email-concealer-cli): CLI tool for concealing e-mails in a file by replacing their domain  
 [emerald](https://github.com/reb311ion/emerald): Import DynamoRIO drcov code coverage data into Ghidra  
 [BlockchainSoftwareSecurityProject](https://github.com/BlockchainSecurityServices/BlockchainSoftwareSecurityProject): The Blockchain Software Security Project - A collaborative open source community discovering vulnerabilities, threats & risks to Blockchain software  
-[Webmin-CVE-2022-0824-revshell](https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell): Webmin CVE-2022-0824 Post-Auth Reverse Shell
+[Webmin-CVE-2022-0824-revshell](https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell): Webmin CVE-2022-0824 Post-Auth Reverse Shell  
+[RSA_Algorithm_Encryption_Decryption](https://github.com/Mostafa-Elshiekh/RSA_Algorithm_Encryption_Decryption): RSA algorithm for encryption and decryption using C++ with OOP paradigm. 
