@@ -4606,4 +4606,5 @@
 [ANYMethodLog](https://github.com/qhd/ANYMethodLog): Log any method call of object in Objective-C  
 [V-Rising-cheats](https://github.com/Nevald/V-Rising-cheats): V Rising Private Cheat - Including Unlimited Stealth + Unlimited Blood + Max Blood Quality + Unlimited Items + 10 MORE FEATURES  
 [CloudLeak](https://github.com/DanielAzulayy/CloudLeak)  
-[certainty](https://github.com/paragonie/certainty): Automated cacert.pem management for PHP projects
+[certainty](https://github.com/paragonie/certainty): Automated cacert.pem management for PHP projects  
+[Always-Learning](https://github.com/404notf0und/Always-Learning): 404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人
