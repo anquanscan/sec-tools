@@ -4573,4 +4573,5 @@
 [FortifyVersionCheck](https://github.com/jlburck/FortifyVersionCheck): Checks HP Fortify for projects and project versions.  If the project doesn't exist, then the task is capable of creating the project and an initial version.  If the project version doesn't exist, then the task is capable of creating the version and also capable of copying issues/suppressions from previous versions.  
 [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3): Powerful framework for rogue access point attack.  
 [Python-MikrotikLoginExploit](https://github.com/sinichi449/Python-MikrotikLoginExploit): PoC of CVE-2018-14847 Mikrotik Vulnerability using simple script  
-[Antenna](https://github.com/wuba/Antenna): Antenna是58同城安全团队打造的一款辅助安全从业人员验证网络中多种漏洞是否存在以及可利用性的工具。其基于带外应用安全测试(OAST)通过任务的形式，将不同漏洞场景检测能力通过插件的形式进行集合，通过与目标进行out-bind的数据通信方式进行辅助检测。
+[Antenna](https://github.com/wuba/Antenna): Antenna是58同城安全团队打造的一款辅助安全从业人员验证网络中多种漏洞是否存在以及可利用性的工具。其基于带外应用安全测试(OAST)通过任务的形式，将不同漏洞场景检测能力通过插件的形式进行集合，通过与目标进行out-bind的数据通信方式进行辅助检测。  
+[Jeroboam](https://github.com/mrackwitz/Jeroboam): Check all your apps on macOS for vulnerable Sparkle updaters
