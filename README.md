@@ -4615,4 +4615,5 @@
 [RedTeamToolkit](https://github.com/OWASP/RedTeamToolkit): The WASM Based Security Toolkit for the Web First Paradigm  
 [Criptphy](https://github.com/Criptphy/Criptphy): Criptphy é uma ferramenta de criação e gerenciamento de senhas seguras. 🔒💪  
 [black_veil](https://github.com/rf-peixoto/black_veil): A simple pseudo-crypter for python code.  
-[Malware-Feed](https://github.com/MalwareSamples/Malware-Feed): Bringing you the best of the worst files on the Internet.
+[Malware-Feed](https://github.com/MalwareSamples/Malware-Feed): Bringing you the best of the worst files on the Internet.  
+[Detection_of_Malicious_URLs](https://github.com/sid321axn/Detection_of_Malicious_URLs): In this project, we have detected the malicious URLs using lexical features and boosted machine learning algorithms
