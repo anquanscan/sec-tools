@@ -4575,4 +4575,5 @@
 [Python-MikrotikLoginExploit](https://github.com/sinichi449/Python-MikrotikLoginExploit): PoC of CVE-2018-14847 Mikrotik Vulnerability using simple script  
 [Antenna](https://github.com/wuba/Antenna): Antenna是58同城安全团队打造的一款辅助安全从业人员验证网络中多种漏洞是否存在以及可利用性的工具。其基于带外应用安全测试(OAST)通过任务的形式，将不同漏洞场景检测能力通过插件的形式进行集合，通过与目标进行out-bind的数据通信方式进行辅助检测。  
 [Jeroboam](https://github.com/mrackwitz/Jeroboam): Check all your apps on macOS for vulnerable Sparkle updaters  
-[cybersec-hw-phishing](https://github.com/Ergos1/cybersec-hw-phishing): University project. The Cybersecurity's project for phishing. This is a website that clones the Jira login and google oauth2 
+[cybersec-hw-phishing](https://github.com/Ergos1/cybersec-hw-phishing): University project. The Cybersecurity's project for phishing. This is a website that clones the Jira login and google oauth2   
+[PeekABoo](https://github.com/Viralmaniar/PeekABoo): PeekABoo tool can be used during internal penetration testing when a user needs to enable Remote Desktop on the targeted machine. It uses PowerShell remoting to perform this task.  Note: Remote desktop is disabled by default on all Windows operating systems. 
