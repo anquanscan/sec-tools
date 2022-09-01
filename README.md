@@ -4600,4 +4600,5 @@
 [Webmin-CVE-2022-0824-revshell](https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell): Webmin CVE-2022-0824 Post-Auth Reverse Shell  
 [RSA_Algorithm_Encryption_Decryption](https://github.com/Mostafa-Elshiekh/RSA_Algorithm_Encryption_Decryption): RSA algorithm for encryption and decryption using C++ with OOP paradigm.   
 [wowGrail](https://github.com/aaaddress1/wowGrail): PoC: Rebuild A New Path Back to the Heaven's Gate (HITB 2021)  
-[nwam](https://github.com/joaovitorbf/nwam): Find Netwave IP cameras with default admin passwords using Shodan
+[nwam](https://github.com/joaovitorbf/nwam): Find Netwave IP cameras with default admin passwords using Shodan  
+[i9300_emmc_toolbox](https://github.com/oranav/i9300_emmc_toolbox): Samsung Galaxy S3 GT-I9300 eMMC toolbox
