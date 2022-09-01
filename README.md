@@ -4604,4 +4604,5 @@
 [i9300_emmc_toolbox](https://github.com/oranav/i9300_emmc_toolbox): Samsung Galaxy S3 GT-I9300 eMMC toolbox  
 [exynos-usbdl](https://github.com/frederic/exynos-usbdl): Unsigned code loader for Exynos BootROM  
 [ANYMethodLog](https://github.com/qhd/ANYMethodLog): Log any method call of object in Objective-C  
-[V-Rising-cheats](https://github.com/Nevald/V-Rising-cheats): V Rising Private Cheat - Including Unlimited Stealth + Unlimited Blood + Max Blood Quality + Unlimited Items + 10 MORE FEATURES
+[V-Rising-cheats](https://github.com/Nevald/V-Rising-cheats): V Rising Private Cheat - Including Unlimited Stealth + Unlimited Blood + Max Blood Quality + Unlimited Items + 10 MORE FEATURES  
+[CloudLeak](https://github.com/DanielAzulayy/CloudLeak)
