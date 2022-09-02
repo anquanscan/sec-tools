@@ -4678,4 +4678,5 @@
 [homebrew-penbrew](https://github.com/feffi/homebrew-penbrew): Aye, ye Open PENtesting Brew for ya sailsman Apple device.  
 [SMBploit](https://github.com/d4t4s3c/SMBploit): Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework.  
 [raptor_waf](https://github.com/CoolerVoid/raptor_waf): Raptor - WAF - Web application firewall using DFA [ Current version ] - Beta  
-[zap-tutorial](https://github.com/rezen/zap-tutorial): WIP - A tutorial for OWASP ZAP
+[zap-tutorial](https://github.com/rezen/zap-tutorial): WIP - A tutorial for OWASP ZAP  
+[ossec-hids](https://github.com/ossec/ossec-hids): OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
