@@ -4642,4 +4642,5 @@
 [wargames](https://github.com/0x27/wargames): wargame/challenge solutions  
 [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices): A guide to smart contract security best practices  
 [JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus): 50+ Gadgets(17 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.  
-[Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide): Google Cloud Platform (GCP) Guide
+[Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide): Google Cloud Platform (GCP) Guide  
+[PentestDictionary](https://github.com/D3Ext/PentestDictionary): A list of useful resources for pentesting, Bug Bounty, CTF and similars.
