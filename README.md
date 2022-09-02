@@ -4650,4 +4650,5 @@
 [xss-injection](https://github.com/chi-wei-lien/xss-injection): In this video I covered how to perform cross site scripting (XSS), which basically allows attackers to have full control over a vulnerable website 😈. Just like always, this video is for educational purposes. If you do any illegal stuff you will get arrested 🚓!  
 [singlefile](https://github.com/exploitmafia/singlefile): featured cs:go internal hack, one file and less than 1000 lines.  
 [vpndemon](https://github.com/primaryobjects/vpndemon): Monitor a VPN connection on Linux and kill a process upon disconnect  
-[Instagram-Hacker](https://github.com/importCTF/Instagram-Hacker): This is an advanced script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
+[Instagram-Hacker](https://github.com/importCTF/Instagram-Hacker): This is an advanced script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!  
+[OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
