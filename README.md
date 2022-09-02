@@ -4660,4 +4660,5 @@
 [ylva](https://github.com/nrosvall/ylva): Command line password manager for Unix-like operating systems  
 [DotNetNukeEXPLOIT](https://github.com/k8gege/DotNetNukeEXPLOIT): MSF moudle DotNetNuke GetShell & execute exploit  
 [Intrusion-and-anomaly-detection-with-machine-learning](https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning): Machine learning algorithms applied on log analysis to detect intrusions and suspicious activities.  
-[herpaderping](https://github.com/jxy-s/herpaderping): Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
+[herpaderping](https://github.com/jxy-s/herpaderping): Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.  
+[myScripts](https://github.com/1uffyD9/myScripts): Scripts I needed for my Work
