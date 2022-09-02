@@ -4663,4 +4663,5 @@
 [herpaderping](https://github.com/jxy-s/herpaderping): Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.  
 [myScripts](https://github.com/1uffyD9/myScripts): Scripts I needed for my Work  
 [paseto](https://github.com/o1egl/paseto): Platform-Agnostic Security Tokens implementation in GO (Golang)  
-[bopscrk](https://github.com/r3nt0n/bopscrk): Tool to generate smart and powerful wordlists
+[bopscrk](https://github.com/r3nt0n/bopscrk): Tool to generate smart and powerful wordlists  
+[CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE): A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.
