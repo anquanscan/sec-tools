@@ -4655,4 +4655,5 @@
 [PhpStudyDoor](https://github.com/k8gege/PhpStudyDoor): PhpStudy 2016 & 2018 BackDoor Exploit  
 [Awesome-Exploit](https://github.com/Threekiii/Awesome-Exploit): 一个漏洞利用工具仓库  
 [CryptoSystems](https://github.com/maxWN/CryptoSystems): A Python client and server that utilize Caesar Cipher encryption.  
-[Babou.AspNetCore.SecurityExtensions](https://github.com/ajtatum/Babou.AspNetCore.SecurityExtensions): Babou is concerned about security, so I created a .NET Standard 2.0 Security Extensions package for him. Babou is from the TV show Archer and is not affiliated with this package.
+[Babou.AspNetCore.SecurityExtensions](https://github.com/ajtatum/Babou.AspNetCore.SecurityExtensions): Babou is concerned about security, so I created a .NET Standard 2.0 Security Extensions package for him. Babou is from the TV show Archer and is not affiliated with this package.  
+[gcp-iam-collector](https://github.com/marcin-kolda/gcp-iam-collector): Python script for collecting and visualising Google Cloud Platform IAM permissions
