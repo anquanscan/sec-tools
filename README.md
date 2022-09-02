@@ -4673,4 +4673,5 @@
 [ibmtss](https://github.com/kgoldman/ibmtss): This is a user space TSS for TPM 2.0.  It implements the functionality equivalent to (but not API compatible with) the TCG TSS working group's ESAPI, SAPI, and TCTI API's (and perhaps more) but with a hopefully simpler interface.  
 [heartbleed-vuln](https://github.com/roflcer/heartbleed-vuln): executes heartbleed attack on vulnerable SSL 1.0.1 version  
 [flowmeter](https://github.com/alekzandr/flowmeter): A tool for deriving statistical features from PCAP data  
-[aliwaf-phpwaf](https://github.com/alicangnll/aliwaf-phpwaf): AliGuard PHP WAF
+[aliwaf-phpwaf](https://github.com/alicangnll/aliwaf-phpwaf): AliGuard PHP WAF  
+[awesome-evm-security](https://github.com/kareniel/awesome-evm-security): 🕶 A high-level overview of the EVM security ecosystem
