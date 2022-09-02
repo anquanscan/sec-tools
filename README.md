@@ -4676,4 +4676,5 @@
 [aliwaf-phpwaf](https://github.com/alicangnll/aliwaf-phpwaf): AliGuard PHP WAF  
 [awesome-evm-security](https://github.com/kareniel/awesome-evm-security): 🕶 A high-level overview of the EVM security ecosystem  
 [homebrew-penbrew](https://github.com/feffi/homebrew-penbrew): Aye, ye Open PENtesting Brew for ya sailsman Apple device.  
-[SMBploit](https://github.com/d4t4s3c/SMBploit): Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework.
+[SMBploit](https://github.com/d4t4s3c/SMBploit): Offensive tool to scan & exploit vulnerabilities in Microsoft Windows over the Samba protocol (SMB) using the Metasploit Framework.  
+[raptor_waf](https://github.com/CoolerVoid/raptor_waf): Raptor - WAF - Web application firewall using DFA [ Current version ] - Beta
