@@ -4651,4 +4651,5 @@
 [singlefile](https://github.com/exploitmafia/singlefile): featured cs:go internal hack, one file and less than 1000 lines.  
 [vpndemon](https://github.com/primaryobjects/vpndemon): Monitor a VPN connection on Linux and kill a process upon disconnect  
 [Instagram-Hacker](https://github.com/importCTF/Instagram-Hacker): This is an advanced script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!  
-[OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
+[OnionBrowser](https://github.com/OnionBrowser/OnionBrowser): An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network  
+[PhpStudyDoor](https://github.com/k8gege/PhpStudyDoor): PhpStudy 2016 & 2018 BackDoor Exploit
