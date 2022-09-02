@@ -4664,4 +4664,5 @@
 [myScripts](https://github.com/1uffyD9/myScripts): Scripts I needed for my Work  
 [paseto](https://github.com/o1egl/paseto): Platform-Agnostic Security Tokens implementation in GO (Golang)  
 [bopscrk](https://github.com/r3nt0n/bopscrk): Tool to generate smart and powerful wordlists  
-[CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE): A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.
+[CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE): A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.  
+[insider-threat-ttp-kb](https://github.com/center-for-threat-informed-defense/insider-threat-ttp-kb): The principal objective of this project is to develop a knowledge base of the tactics, techniques, and procedures (TTPs) used by insiders in the IT environment. It will establish an Insider Threat TTP Knowledge Base, built upon data collected on insider threat incidents and lessons learned and experience from the ATT&CK knowledge base.
