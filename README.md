@@ -4667,4 +4667,5 @@
 [CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE): A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.  
 [insider-threat-ttp-kb](https://github.com/center-for-threat-informed-defense/insider-threat-ttp-kb): The principal objective of this project is to develop a knowledge base of the tactics, techniques, and procedures (TTPs) used by insiders in the IT environment. It will establish an Insider Threat TTP Knowledge Base, built upon data collected on insider threat incidents and lessons learned and experience from the ATT&CK knowledge base.  
 [Security-DoS-Preventer](https://github.com/suhaamber/Security-DoS-Preventer): Practice School 1 Project  
-[CyberQueens](https://github.com/CyberQueens/CyberQueens): CyberQueens lesson materials - learning resources and exercises for aspiring reverse engineers, exploit developers, and hackers 👩‍💻👨‍💻
+[CyberQueens](https://github.com/CyberQueens/CyberQueens): CyberQueens lesson materials - learning resources and exercises for aspiring reverse engineers, exploit developers, and hackers 👩‍💻👨‍💻  
+[url-abuse](https://github.com/CIRCL/url-abuse): URL Abuse - A Versatile Software for URL review, analysis and black-list reporting
