@@ -4641,4 +4641,5 @@
 [exphub](https://github.com/zhzyker/exphub): Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340  
 [wargames](https://github.com/0x27/wargames): wargame/challenge solutions  
 [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices): A guide to smart contract security best practices  
-[JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus): 50+ Gadgets(17 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.
+[JNDI-Injection-Exploit-Plus](https://github.com/cckuailong/JNDI-Injection-Exploit-Plus): 50+ Gadgets(17 More than ysoserial). JNDI-Injection-Exploit-Plus is a tool for generating workable JNDI links and provide background services by starting RMI server,LDAP server and HTTP server.  
+[Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide): Google Cloud Platform (GCP) Guide
