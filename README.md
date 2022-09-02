@@ -4674,4 +4674,5 @@
 [heartbleed-vuln](https://github.com/roflcer/heartbleed-vuln): executes heartbleed attack on vulnerable SSL 1.0.1 version  
 [flowmeter](https://github.com/alekzandr/flowmeter): A tool for deriving statistical features from PCAP data  
 [aliwaf-phpwaf](https://github.com/alicangnll/aliwaf-phpwaf): AliGuard PHP WAF  
-[awesome-evm-security](https://github.com/kareniel/awesome-evm-security): 🕶 A high-level overview of the EVM security ecosystem
+[awesome-evm-security](https://github.com/kareniel/awesome-evm-security): 🕶 A high-level overview of the EVM security ecosystem  
+[homebrew-penbrew](https://github.com/feffi/homebrew-penbrew): Aye, ye Open PENtesting Brew for ya sailsman Apple device.
