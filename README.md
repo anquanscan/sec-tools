@@ -4658,4 +4658,5 @@
 [Babou.AspNetCore.SecurityExtensions](https://github.com/ajtatum/Babou.AspNetCore.SecurityExtensions): Babou is concerned about security, so I created a .NET Standard 2.0 Security Extensions package for him. Babou is from the TV show Archer and is not affiliated with this package.  
 [gcp-iam-collector](https://github.com/marcin-kolda/gcp-iam-collector): Python script for collecting and visualising Google Cloud Platform IAM permissions  
 [ylva](https://github.com/nrosvall/ylva): Command line password manager for Unix-like operating systems  
-[DotNetNukeEXPLOIT](https://github.com/k8gege/DotNetNukeEXPLOIT): MSF moudle DotNetNuke GetShell & execute exploit
+[DotNetNukeEXPLOIT](https://github.com/k8gege/DotNetNukeEXPLOIT): MSF moudle DotNetNuke GetShell & execute exploit  
+[Intrusion-and-anomaly-detection-with-machine-learning](https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning): Machine learning algorithms applied on log analysis to detect intrusions and suspicious activities.
