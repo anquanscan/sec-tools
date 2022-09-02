@@ -4645,4 +4645,5 @@
 [Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide): Google Cloud Platform (GCP) Guide  
 [PentestDictionary](https://github.com/D3Ext/PentestDictionary): A list of useful resources for pentesting, Bug Bounty, CTF and similars.  
 [Condi-Boatnet](https://github.com/hoaan1995/Condi-Boatnet): Condi Boatnet Ver 1 (old killer)  
-[dceBadBehavior49](https://github.com/PHP-Backoffice/dceBadBehavior49): BadBehavior as Plugin for CONTENIDO 4.9
+[dceBadBehavior49](https://github.com/PHP-Backoffice/dceBadBehavior49): BadBehavior as Plugin for CONTENIDO 4.9  
+[Exe-to-pdf](https://github.com/luci61/Exe-to-pdf): Exe to PDF exploit Builder with 0 detections. Runtime and Scantime
