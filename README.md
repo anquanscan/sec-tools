@@ -4693,4 +4693,5 @@
 [Gemail-BruteForce](https://github.com/AL-AlamySploit/Gemail-BruteForce): Gmail Brute Force Version 1.0  
 [Unalix-nim](https://github.com/AmanoTeam/Unalix-nim): Small, dependency-free, fast Nim package and CLI tool for removing tracking fields from URLs.  
 [mosec-gradle-plugin](https://github.com/momosecurity/mosec-gradle-plugin): 用于检测gradle项目的第三方依赖组件是否存在安全漏洞。  
-[enteletaor](https://github.com/cr0hn/enteletaor): Message Queue & Broker Injection tool
+[enteletaor](https://github.com/cr0hn/enteletaor): Message Queue & Broker Injection tool  
+[bitcoin-wallet-protector](https://github.com/ParmuSingh/bitcoin-wallet-protector): This is a commandline tool to encrypt your bitcoin wallet (or any message) and then hide the encryption key in an image that requires password to decrypt. This can be used to keep your wallet in somewhere unsafe like Google Drive and you'll only have to remember your password.
