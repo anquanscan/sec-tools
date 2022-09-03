@@ -4681,4 +4681,5 @@
 [zap-tutorial](https://github.com/rezen/zap-tutorial): WIP - A tutorial for OWASP ZAP  
 [ossec-hids](https://github.com/ossec/ossec-hids): OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.  
 [ADLES](https://github.com/GhostofGoes/ADLES): Automated Deployment of Lab Environments System (ADLES)  
-[PowerZure](https://github.com/hausec/PowerZure): PowerShell framework to assess Azure security
+[PowerZure](https://github.com/hausec/PowerZure): PowerShell framework to assess Azure security  
+[HackingFinal](https://github.com/d0tplist/HackingFinal): Hacking java final variable
