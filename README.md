@@ -4711,4 +4711,5 @@
 [CivikBooks](https://github.com/smartcitiescommunity/CivikBooks): 📖 Plantillas para proyectos, soluciones a retos, necesidades y problemas comunes en Comunidades Inteligentes, Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible  👪  🍲 🧑‍⚕️  📚   👥  💧  🔆  📈   ⚙️  ↔️ 🏙️  ♾️  🌎  🐟 🌳 🕊️  ⚛️  
 [honeytrap](https://github.com/honeytrap/honeytrap): Advanced Honeypot framework.  
 [V-Scanner](https://github.com/Ehsan-U/V-Scanner): V-Scanner: A tool for web application security testing  
-[Black-Hat-Python](https://github.com/AllGloryToTheHypnotoad/Black-Hat-Python): black hat python
+[Black-Hat-Python](https://github.com/AllGloryToTheHypnotoad/Black-Hat-Python): black hat python  
+[Source2Dictionary](https://github.com/JavierOlmedo/Source2Dictionary): A tool developed in python to convert the source code into a dictionary to perform fuzzing
