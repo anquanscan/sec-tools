@@ -4682,4 +4682,5 @@
 [ossec-hids](https://github.com/ossec/ossec-hids): OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.  
 [ADLES](https://github.com/GhostofGoes/ADLES): Automated Deployment of Lab Environments System (ADLES)  
 [PowerZure](https://github.com/hausec/PowerZure): PowerShell framework to assess Azure security  
-[HackingFinal](https://github.com/d0tplist/HackingFinal): Hacking java final variable
+[HackingFinal](https://github.com/d0tplist/HackingFinal): Hacking java final variable  
+[honeygrove-cim](https://github.com/UHH-ISS/honeygrove-cim): Cyber Incident Monitor (CIM) for the honeygrove honeypot
