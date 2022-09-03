@@ -4727,4 +4727,5 @@
 [ncryptf-swift](https://github.com/ncryptf/ncryptf-swift): ncryptf for Swift 4+ - Secure API authentication and end to end encryption   
 [grapefruit](https://github.com/ChiChou/grapefruit): (WIP) Runtime Application Instruments for iOS. Previously Passionfruit  
 [LDAPHelper](https://github.com/bitai-cs/LDAPHelper): .NET 6.0 library which wraps Novell.Directory.Ldap.NETStandard functionality to make LDAP searches and also authenticate users against a Directory Service.  
-[hackfruit](https://github.com/hideckies/hackfruit): Hackfruit is an easy search tool that finds hacking tools, commands and cheat sheets. It helps cybersecurity learing and trainings, CTFs, bug bounty, ethical hacking. 
+[hackfruit](https://github.com/hideckies/hackfruit): Hackfruit is an easy search tool that finds hacking tools, commands and cheat sheets. It helps cybersecurity learing and trainings, CTFs, bug bounty, ethical hacking.   
+[awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters): Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks 
