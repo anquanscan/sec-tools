@@ -4742,4 +4742,5 @@
 [OpenSSL-OSX](https://github.com/IBM-Swift/OpenSSL-OSX): Swift modulemaps for libSSL and libcrypto for OS X  
 [uashield](https://github.com/opengs/uashield): Voluntary Ukraine security platform to protect us from Russian forces in the Internet  
 [ESD](https://github.com/FeeiCN/ESD): Enumeration sub domains(枚举子域名)  
-[Practical_Malware_Analysis](https://github.com/Wind3x/Practical_Malware_Analysis): Materials for a course based on the Practical Malware Analysis text by Andrew Honig and Michael Sikorski
+[Practical_Malware_Analysis](https://github.com/Wind3x/Practical_Malware_Analysis): Materials for a course based on the Practical Malware Analysis text by Andrew Honig and Michael Sikorski  
+[hash-server](https://github.com/KayvanMazaheri/hash-server): :closed_lock_with_key: Secure Remote Hashing Server - IT Engineering Course @ IUT ( :o: Bonus Project )
