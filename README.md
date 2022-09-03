@@ -4701,4 +4701,5 @@
 [SafePass](https://github.com/shivamsn97/SafePass): Before generating password for anything, make sure the password is unique by searching it in tons of passwords stored by hackers in various Password Dictionaries availablr online. Also you can easily add Password Dictionaries from internet yourself, it is as easy as copy and pasting the file. Be safe from Bruteforce Attacks, and choose a safe password by first verifying it.  
 [P4ssG3nerat0r](https://github.com/OHypen/P4ssG3nerat0r): Your password generator, Generate passwords for your E-mail, Games, Social Networks and etc ... And stay more secure🔑🔒  
 [ANDROLAB](https://github.com/labsbots/ANDROLAB): Mobile Application Vulnerability Tool  
-[go-msgauth](https://github.com/emersion/go-msgauth): A Go library and tools for DKIM, DMARC and Authentication-Results
+[go-msgauth](https://github.com/emersion/go-msgauth): A Go library and tools for DKIM, DMARC and Authentication-Results  
+[AdbNet](https://github.com/0x1CA3/AdbNet): A tool that allows you to search for vulnerable android devices across the world and exploit them.
