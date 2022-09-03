@@ -4733,4 +4733,5 @@
 [FSecurity](https://github.com/stijnmoreels/FSecurity): Security testing library written in F# to make writing security tests more fun.  
 [dedsecurity-framework](https://github.com/dedsecurity/dedsecurity-framework): Ded Security Framework is a tool aimed at security professionals  
 [kryptos](https://github.com/spallas/kryptos): Collection of cryptography and security topics with examples.  
-[python-bruteForce](https://github.com/Antu7/python-bruteForce): Brute Force Attack Tools Using Python
+[python-bruteForce](https://github.com/Antu7/python-bruteForce): Brute Force Attack Tools Using Python  
+[squealer](https://github.com/owenrumney/squealer): Telling tales on you for leaking secrets!
