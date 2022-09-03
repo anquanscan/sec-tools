@@ -4704,4 +4704,5 @@
 [go-msgauth](https://github.com/emersion/go-msgauth): A Go library and tools for DKIM, DMARC and Authentication-Results  
 [AdbNet](https://github.com/0x1CA3/AdbNet): A tool that allows you to search for vulnerable android devices across the world and exploit them.  
 [doenerium](https://github.com/doener2323/doenerium): Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)  
-[THM_Bolt_Write_Up](https://github.com/SlizBinksman/THM_Bolt_Write_Up): A write up on the Bolt room from TryHackMe.com & re-writing of r3m0t3nu11's PoC exploit script
+[THM_Bolt_Write_Up](https://github.com/SlizBinksman/THM_Bolt_Write_Up): A write up on the Bolt room from TryHackMe.com & re-writing of r3m0t3nu11's PoC exploit script  
+[holeysocks](https://github.com/audibleblink/holeysocks): Cross-Platform Reverse Socks Proxy in Go
