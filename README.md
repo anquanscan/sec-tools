@@ -4708,4 +4708,5 @@
 [holeysocks](https://github.com/audibleblink/holeysocks): Cross-Platform Reverse Socks Proxy in Go  
 [vajra](https://github.com/r3curs1v3-pr0xy/vajra): Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.  
 [octovy](https://github.com/m-mizutani/octovy): Trivy based vulnerability management service  
-[CivikBooks](https://github.com/smartcitiescommunity/CivikBooks): 📖 Plantillas para proyectos, soluciones a retos, necesidades y problemas comunes en Comunidades Inteligentes, Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible  👪  🍲 🧑‍⚕️  📚   👥  💧  🔆  📈   ⚙️  ↔️ 🏙️  ♾️  🌎  🐟 🌳 🕊️  ⚛️
+[CivikBooks](https://github.com/smartcitiescommunity/CivikBooks): 📖 Plantillas para proyectos, soluciones a retos, necesidades y problemas comunes en Comunidades Inteligentes, Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible  👪  🍲 🧑‍⚕️  📚   👥  💧  🔆  📈   ⚙️  ↔️ 🏙️  ♾️  🌎  🐟 🌳 🕊️  ⚛️  
+[honeytrap](https://github.com/honeytrap/honeytrap): Advanced Honeypot framework.
