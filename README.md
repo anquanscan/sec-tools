@@ -4746,4 +4746,5 @@
 [hash-server](https://github.com/KayvanMazaheri/hash-server): :closed_lock_with_key: Secure Remote Hashing Server - IT Engineering Course @ IUT ( :o: Bonus Project )  
 [Pentesting-Bugbounty](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty): Briging infosec community, group and leaders together that solve community challenges, problems, create cultural and provide value to Infosec community.                                                                                                                         
 [OpenSK](https://github.com/google/OpenSK): OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.  
-[tools-tbhm](https://github.com/danilabs/tools-tbhm): Tools of "The Bug Hunters Methodology V2 by @jhaddix"
+[tools-tbhm](https://github.com/danilabs/tools-tbhm): Tools of "The Bug Hunters Methodology V2 by @jhaddix"  
+[VBAObfuscator](https://github.com/oriolOrnaque/VBAObfuscator): VBA Macro obfuscator
