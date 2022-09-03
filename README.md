@@ -4713,4 +4713,5 @@
 [V-Scanner](https://github.com/Ehsan-U/V-Scanner): V-Scanner: A tool for web application security testing  
 [Black-Hat-Python](https://github.com/AllGloryToTheHypnotoad/Black-Hat-Python): black hat python  
 [Source2Dictionary](https://github.com/JavierOlmedo/Source2Dictionary): A tool developed in python to convert the source code into a dictionary to perform fuzzing  
-[NoMoreRansom](https://github.com/jamestiotio/NoMoreRansom): All-in-One Ransomware Decryption Tools (Unofficial Mirror)
+[NoMoreRansom](https://github.com/jamestiotio/NoMoreRansom): All-in-One Ransomware Decryption Tools (Unofficial Mirror)  
+[k8s-diagrams](https://github.com/cloudogu/k8s-diagrams): A collection of kubernetes-related diagrams
