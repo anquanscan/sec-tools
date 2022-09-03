@@ -4709,4 +4709,5 @@
 [vajra](https://github.com/r3curs1v3-pr0xy/vajra): Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.  
 [octovy](https://github.com/m-mizutani/octovy): Trivy based vulnerability management service  
 [CivikBooks](https://github.com/smartcitiescommunity/CivikBooks): 📖 Plantillas para proyectos, soluciones a retos, necesidades y problemas comunes en Comunidades Inteligentes, Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible  👪  🍲 🧑‍⚕️  📚   👥  💧  🔆  📈   ⚙️  ↔️ 🏙️  ♾️  🌎  🐟 🌳 🕊️  ⚛️  
-[honeytrap](https://github.com/honeytrap/honeytrap): Advanced Honeypot framework.
+[honeytrap](https://github.com/honeytrap/honeytrap): Advanced Honeypot framework.  
+[V-Scanner](https://github.com/Ehsan-U/V-Scanner): V-Scanner: A tool for web application security testing
