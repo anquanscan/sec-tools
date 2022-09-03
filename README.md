@@ -4685,4 +4685,5 @@
 [HackingFinal](https://github.com/d0tplist/HackingFinal): Hacking java final variable  
 [honeygrove-cim](https://github.com/UHH-ISS/honeygrove-cim): Cyber Incident Monitor (CIM) for the honeygrove honeypot  
 [Rainfall](https://github.com/bnoufel/Rainfall): Ce projet est une introduction à l’exploitation de binaire (type elf).  
-[published_articles_and_research_papers](https://github.com/johnbumgarner/published_articles_and_research_papers): This repository contains some of the articles that I have published on various topics ranging from international cyber conflict to redesigning disaster warning systems for tsunamis. 
+[published_articles_and_research_papers](https://github.com/johnbumgarner/published_articles_and_research_papers): This repository contains some of the articles that I have published on various topics ranging from international cyber conflict to redesigning disaster warning systems for tsunamis.   
+[snuffleupagus](https://github.com/jvoisin/snuffleupagus): Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!
