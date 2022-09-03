@@ -4722,4 +4722,5 @@
 [ElgamalEncryption-using-ECC](https://github.com/Yash0day/ElgamalEncryption-using-ECC): Elgamal Encryption using Elliptic Curve Cryptography in Python 2.7  
 [spring-openid](https://github.com/biswa380/spring-openid): In this spring-boot project, I implemented spring security using oauth 2.0 and open-id-connect through google account sign in.  
 [SCCT-Trainer](https://github.com/0xvpr/SCCT-Trainer): A Splinter Cell Chaos Theory Multi-Hack built with 100% C.  
-[dumb-passwords](https://github.com/kn9ts/dumb-passwords): Don't let your user be a victim of their own action
+[dumb-passwords](https://github.com/kn9ts/dumb-passwords): Don't let your user be a victim of their own action  
+[pentestools](https://github.com/ankit2001/pentestools)
