@@ -4736,4 +4736,5 @@
 [python-bruteForce](https://github.com/Antu7/python-bruteForce): Brute Force Attack Tools Using Python  
 [squealer](https://github.com/owenrumney/squealer): Telling tales on you for leaking secrets!  
 [exploit-CVE-2021-3560](https://github.com/UNICORDev/exploit-CVE-2021-3560): Exploit for CVE-2021-3560 (Polkit) - Local Privilege Escalation  
-[DocParse](https://github.com/gbikram/DocParse): Document/Email parser for IOCs
+[DocParse](https://github.com/gbikram/DocParse): Document/Email parser for IOCs  
+[webr](https://github.com/nikolozsec/webr): Analyze domains from Excel list, save status codes, IP addresses and screenshots.
