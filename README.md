@@ -4697,4 +4697,5 @@
 [bitcoin-wallet-protector](https://github.com/ParmuSingh/bitcoin-wallet-protector): This is a commandline tool to encrypt your bitcoin wallet (or any message) and then hide the encryption key in an image that requires password to decrypt. This can be used to keep your wallet in somewhere unsafe like Google Drive and you'll only have to remember your password.  
 [aws-security-test](https://github.com/mikhailadvani/aws-security-test)  
 [ddos2](https://github.com/Andrewerr/ddos2): Denial of service testing toolkit written in C  
-[jwt-fuzzer](https://github.com/andresriancho/jwt-fuzzer): JWT fuzzer
+[jwt-fuzzer](https://github.com/andresriancho/jwt-fuzzer): JWT fuzzer  
+[SafePass](https://github.com/shivamsn97/SafePass): Before generating password for anything, make sure the password is unique by searching it in tons of passwords stored by hackers in various Password Dictionaries availablr online. Also you can easily add Password Dictionaries from internet yourself, it is as easy as copy and pasting the file. Be safe from Bruteforce Attacks, and choose a safe password by first verifying it.
