@@ -4714,4 +4714,5 @@
 [Black-Hat-Python](https://github.com/AllGloryToTheHypnotoad/Black-Hat-Python): black hat python  
 [Source2Dictionary](https://github.com/JavierOlmedo/Source2Dictionary): A tool developed in python to convert the source code into a dictionary to perform fuzzing  
 [NoMoreRansom](https://github.com/jamestiotio/NoMoreRansom): All-in-One Ransomware Decryption Tools (Unofficial Mirror)  
-[k8s-diagrams](https://github.com/cloudogu/k8s-diagrams): A collection of kubernetes-related diagrams
+[k8s-diagrams](https://github.com/cloudogu/k8s-diagrams): A collection of kubernetes-related diagrams  
+[ReconNote](https://github.com/0xdekster/ReconNote): Web Application Security Automation Framework which recons the target for various assets to maximize the attack surface for security professionals & bug-hunters
