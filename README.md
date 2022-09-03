@@ -4748,4 +4748,5 @@
 [OpenSK](https://github.com/google/OpenSK): OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.  
 [tools-tbhm](https://github.com/danilabs/tools-tbhm): Tools of "The Bug Hunters Methodology V2 by @jhaddix"  
 [VBAObfuscator](https://github.com/oriolOrnaque/VBAObfuscator): VBA Macro obfuscator  
-[RoguePortal](https://github.com/vincenzogianfelice/RoguePortal): A Phishing WIFI Rogue Captive Portal! :smiling_imp:
+[RoguePortal](https://github.com/vincenzogianfelice/RoguePortal): A Phishing WIFI Rogue Captive Portal! :smiling_imp:  
+[foal](https://github.com/FoalTS/foal): Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
