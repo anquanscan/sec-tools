@@ -4707,4 +4707,5 @@
 [THM_Bolt_Write_Up](https://github.com/SlizBinksman/THM_Bolt_Write_Up): A write up on the Bolt room from TryHackMe.com & re-writing of r3m0t3nu11's PoC exploit script  
 [holeysocks](https://github.com/audibleblink/holeysocks): Cross-Platform Reverse Socks Proxy in Go  
 [vajra](https://github.com/r3curs1v3-pr0xy/vajra): Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.  
-[octovy](https://github.com/m-mizutani/octovy): Trivy based vulnerability management service
+[octovy](https://github.com/m-mizutani/octovy): Trivy based vulnerability management service  
+[CivikBooks](https://github.com/smartcitiescommunity/CivikBooks): 📖 Plantillas para proyectos, soluciones a retos, necesidades y problemas comunes en Comunidades Inteligentes, Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible  👪  🍲 🧑‍⚕️  📚   👥  💧  🔆  📈   ⚙️  ↔️ 🏙️  ♾️  🌎  🐟 🌳 🕊️  ⚛️
