@@ -4725,4 +4725,5 @@
 [dumb-passwords](https://github.com/kn9ts/dumb-passwords): Don't let your user be a victim of their own action  
 [pentestools](https://github.com/ankit2001/pentestools)  
 [ncryptf-swift](https://github.com/ncryptf/ncryptf-swift): ncryptf for Swift 4+ - Secure API authentication and end to end encryption   
-[grapefruit](https://github.com/ChiChou/grapefruit): (WIP) Runtime Application Instruments for iOS. Previously Passionfruit
+[grapefruit](https://github.com/ChiChou/grapefruit): (WIP) Runtime Application Instruments for iOS. Previously Passionfruit  
+[LDAPHelper](https://github.com/bitai-cs/LDAPHelper): .NET 6.0 library which wraps Novell.Directory.Ldap.NETStandard functionality to make LDAP searches and also authenticate users against a Directory Service.
