@@ -4717,4 +4717,5 @@
 [k8s-diagrams](https://github.com/cloudogu/k8s-diagrams): A collection of kubernetes-related diagrams  
 [ReconNote](https://github.com/0xdekster/ReconNote): Web Application Security Automation Framework which recons the target for various assets to maximize the attack surface for security professionals & bug-hunters  
 [sqlifinder](https://github.com/americo/sqlifinder): SQL Injection Vulnerability Scanner made with Python  
-[jhack](https://github.com/julienhache/jhack): jhack: a C++ library to take control of your computer !
+[jhack](https://github.com/julienhache/jhack): jhack: a C++ library to take control of your computer !  
+[vMass](https://github.com/c99tn/vMass): vMass Bot :hook: Vulnerability Scanner & Auto Exploiter Tool Written in Perl.
