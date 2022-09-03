@@ -4702,4 +4702,5 @@
 [P4ssG3nerat0r](https://github.com/OHypen/P4ssG3nerat0r): Your password generator, Generate passwords for your E-mail, Games, Social Networks and etc ... And stay more secure🔑🔒  
 [ANDROLAB](https://github.com/labsbots/ANDROLAB): Mobile Application Vulnerability Tool  
 [go-msgauth](https://github.com/emersion/go-msgauth): A Go library and tools for DKIM, DMARC and Authentication-Results  
-[AdbNet](https://github.com/0x1CA3/AdbNet): A tool that allows you to search for vulnerable android devices across the world and exploit them.
+[AdbNet](https://github.com/0x1CA3/AdbNet): A tool that allows you to search for vulnerable android devices across the world and exploit them.  
+[doenerium](https://github.com/doener2323/doenerium): Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
