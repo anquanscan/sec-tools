@@ -4794,4 +4794,5 @@
 [Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank): Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.  
 [backfuzz](https://github.com/localh0t/backfuzz): protocol fuzzing toolkit  
 [sauron](https://github.com/amal-thundiyil/sauron): Open Source Software Security Inspector 🧐  
-[Network-Tools](https://github.com/fer-moreira/Network-Tools): Python Network Tooling for pentest
+[Network-Tools](https://github.com/fer-moreira/Network-Tools): Python Network Tooling for pentest  
+[graylog2-server](https://github.com/Graylog2/graylog2-server): Free and open source log management
