@@ -4770,4 +4770,5 @@
 [Pentesting-Web](https://github.com/MoisesTapia/Pentesting-Web): Este proyecto va enfocado a la seguridad informática y al Hacking Etico, pudiendo desplegar herramientas como Metasplotable, Dradis DVWAP.  
 [RapidFUD](https://github.com/martdev123/RapidFUD): A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature  
 [Node-Serialize-WebServer-Backdoor](https://github.com/Deno-Sandbox/Node-Serialize-WebServer-Backdoor): Use me to create a corrupted cookie capable of creating a backdoor on the webserver node which uses the "serialize" function  
-[webshell-free](https://github.com/rexSurprise/webshell-free): webshell免杀案例
+[webshell-free](https://github.com/rexSurprise/webshell-free): webshell免杀案例  
+[quine](https://github.com/makenowjust/quine): Quine Museum
