@@ -4757,4 +4757,5 @@
 [Cipher-Tools](https://github.com/Squalm/Cipher-Tools): A Codebreaking/Cipherbreaking Toolkit. Currently early in development.  
 [Griefing-Methods](https://github.com/wodxgod/Griefing-Methods): A documentation about how to hack Minecraft servers  
 [Elevator](https://github.com/Kudaes/Elevator): UAC Bypass by abusing RPC and debug objects.  
-[sealdir](https://github.com/mavenor/sealdir): A C++ library & CLI tool 🛠 to seal the state of a directory 📦🔒 (think checksums, but for a directory)
+[sealdir](https://github.com/mavenor/sealdir): A C++ library & CLI tool 🛠 to seal the state of a directory 📦🔒 (think checksums, but for a directory)  
+[061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs](https://github.com/VagnerBellacosa/061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs): Entendendo a Importância da Modelagem e Segurança na Construção de APIs
