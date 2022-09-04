@@ -4779,4 +4779,5 @@
 [GoAT](https://github.com/petercunha/GoAT): :goat: GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server  
 [WEF](https://github.com/D3Ext/WEF): Wi-Fi Exploitation Framework  
 [WiFi-Project](https://github.com/JulienFink/WiFi-Project): Pre-connection attacks, gaining access & post-connection attacks on WEP, WPA & WPA2. 🛰✔️  
-[SWC-registry](https://github.com/SmartContractSecurity/SWC-registry): Smart Contract Weakness Classification and Test Cases
+[SWC-registry](https://github.com/SmartContractSecurity/SWC-registry): Smart Contract Weakness Classification and Test Cases  
+[VolUtility](https://github.com/lprat/VolUtility): Web Interface for Volatility Memory Analysis framework from https://github.com/kevthehermit/VolUtility
