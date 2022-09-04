@@ -4760,4 +4760,5 @@
 [sealdir](https://github.com/mavenor/sealdir): A C++ library & CLI tool 🛠 to seal the state of a directory 📦🔒 (think checksums, but for a directory)  
 [061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs](https://github.com/VagnerBellacosa/061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs): Entendendo a Importância da Modelagem e Segurança na Construção de APIs  
 [TheSniper](https://github.com/karthikraja001/TheSniper): TheSniper (︻デ═一) is a perfect and easy tool to grab the Saved Wi-Fi passwords in any Windows PC.   
-[CHAOS](https://github.com/tiagorlampert/CHAOS): :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
+[CHAOS](https://github.com/tiagorlampert/CHAOS): :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.  
+[ropemporium](https://github.com/soffensive/ropemporium): My solutions for the ROP Emporium challenges (https://ropemporium.com/). For each challenge, a solution based on plain Python (exp_plain.py) and based on Pwntools is provided.
