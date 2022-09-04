@@ -4767,4 +4767,5 @@
 [Talk_on_Vehicle_Security](https://github.com/dineshresearch/Talk_on_Vehicle_Security): Possible Attacks, Exploits and Vulnerabilities of Autonomous vehicles. uploaded the presentation along with images  
 [Psi](https://github.com/Th30neAnd0nly/Psi): Hack Camera and Location through link.  
 [PLtools](https://github.com/Lucifer1993/PLtools): 整理一些内网常用渗透小工具  
-[Pentesting-Web](https://github.com/MoisesTapia/Pentesting-Web): Este proyecto va enfocado a la seguridad informática y al Hacking Etico, pudiendo desplegar herramientas como Metasplotable, Dradis DVWAP.
+[Pentesting-Web](https://github.com/MoisesTapia/Pentesting-Web): Este proyecto va enfocado a la seguridad informática y al Hacking Etico, pudiendo desplegar herramientas como Metasplotable, Dradis DVWAP.  
+[RapidFUD](https://github.com/martdev123/RapidFUD): A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature
