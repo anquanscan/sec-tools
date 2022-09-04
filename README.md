@@ -4789,4 +4789,5 @@
 [Secret-Data-Manager-SDM-](https://github.com/SherazIbrahim/Secret-Data-Manager-SDM-): Its for security purpose .You can secure your Secret data using this.Its code is for non-Commercial Use .Do not  use its code for any Commercial purpose. "Secure you Secrets"!  
 [simple-user-simulation](https://github.com/michaelb/simple-user-simulation): powershell script to simulate activity by a user  
 [deadswitch-linux](https://github.com/dimensionc132/deadswitch-linux): A Dead Man Switch which runs on a your Linux system and is designed to be a security tool to safeguard your secrets. Dead Switch is written in Bash and Python.  
-[winmagic_sd](https://github.com/patois/winmagic_sd): Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520
+[winmagic_sd](https://github.com/patois/winmagic_sd): Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520  
+[header_scan](https://github.com/asce-21/header_scan): Learning Python automation from  Hacking Simplified's video. This script is also result of the video from the Python automation series.
