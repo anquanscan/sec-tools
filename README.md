@@ -4803,4 +4803,5 @@
 [SecureDialogues](https://github.com/sqglobe/SecureDialogues): Приложение обеспечивает дополнительный уровень шифрования сообщений, котрые передаются через сервисы подобные Gmail  
 [kibana-multitenant-proxy](https://github.com/gnuhpc/kibana-multitenant-proxy): A proxy behind nginx while before kibana (4.x, 5.x) to provide data isolation for different users  
 [enlightn](https://github.com/enlightn/enlightn): Your performance & security consultant, an artisan command away.  
-[jsprime](https://github.com/dpnishant/jsprime): a javascript static security analysis tool
+[jsprime](https://github.com/dpnishant/jsprime): a javascript static security analysis tool  
+[X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot): X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
