@@ -4804,4 +4804,5 @@
 [kibana-multitenant-proxy](https://github.com/gnuhpc/kibana-multitenant-proxy): A proxy behind nginx while before kibana (4.x, 5.x) to provide data isolation for different users  
 [enlightn](https://github.com/enlightn/enlightn): Your performance & security consultant, an artisan command away.  
 [jsprime](https://github.com/dpnishant/jsprime): a javascript static security analysis tool  
-[X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot): X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
+[X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot): X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】  
+[Shield.VSIX](https://github.com/dotnetsafer/Shield.VSIX): Extension to protect and obfuscate your .NET applications without leaving visual studio.
