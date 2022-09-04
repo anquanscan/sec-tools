@@ -4791,4 +4791,5 @@
 [deadswitch-linux](https://github.com/dimensionc132/deadswitch-linux): A Dead Man Switch which runs on a your Linux system and is designed to be a security tool to safeguard your secrets. Dead Switch is written in Bash and Python.  
 [winmagic_sd](https://github.com/patois/winmagic_sd): Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520  
 [header_scan](https://github.com/asce-21/header_scan): Learning Python automation from  Hacking Simplified's video. This script is also result of the video from the Python automation series.  
-[Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank): Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.
+[Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank): Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.  
+[backfuzz](https://github.com/localh0t/backfuzz): protocol fuzzing toolkit
