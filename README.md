@@ -4784,4 +4784,5 @@
 [ronin-exploits](https://github.com/ronin-rb/ronin-exploits): A Ruby micro-framework for writing and running exploits  
 [macOS-Cybersecurity-Handbook](https://github.com/johnsoga/macOS-Cybersecurity-Handbook): Guide to Securing a Modern Apple Computer  
 [leap-security](https://github.com/aycanirican/leap-security): Cybersecurity with D-Wave Quantum Leap  
-[MixewayHub](https://github.com/Mixeway/MixewayHub): Mixeway is security orchestrator for vulnerability scanners which enable easy plug in integration with CICD pipelines. MixewayHub project contain one click docker-compose file which configure and run images from docker hub.
+[MixewayHub](https://github.com/Mixeway/MixewayHub): Mixeway is security orchestrator for vulnerability scanners which enable easy plug in integration with CICD pipelines. MixewayHub project contain one click docker-compose file which configure and run images from docker hub.  
+[The-Dark-and-Bright-Side-of-IoT-Dataset](https://github.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset): The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services by A. M. Hussain et al.
