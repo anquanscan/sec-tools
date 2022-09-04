@@ -4778,4 +4778,5 @@
 [simple-buffer-overflow-server](https://github.com/art049/simple-buffer-overflow-server): Challenge/Tutorial aiming to exploit the buffer overflow vulnerability w/ Metasploit plugin implementation  
 [GoAT](https://github.com/petercunha/GoAT): :goat: GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server  
 [WEF](https://github.com/D3Ext/WEF): Wi-Fi Exploitation Framework  
-[WiFi-Project](https://github.com/JulienFink/WiFi-Project): Pre-connection attacks, gaining access & post-connection attacks on WEP, WPA & WPA2. 🛰✔️
+[WiFi-Project](https://github.com/JulienFink/WiFi-Project): Pre-connection attacks, gaining access & post-connection attacks on WEP, WPA & WPA2. 🛰✔️  
+[SWC-registry](https://github.com/SmartContractSecurity/SWC-registry): Smart Contract Weakness Classification and Test Cases
