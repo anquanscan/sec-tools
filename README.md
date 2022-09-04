@@ -4768,4 +4768,5 @@
 [Psi](https://github.com/Th30neAnd0nly/Psi): Hack Camera and Location through link.  
 [PLtools](https://github.com/Lucifer1993/PLtools): 整理一些内网常用渗透小工具  
 [Pentesting-Web](https://github.com/MoisesTapia/Pentesting-Web): Este proyecto va enfocado a la seguridad informática y al Hacking Etico, pudiendo desplegar herramientas como Metasplotable, Dradis DVWAP.  
-[RapidFUD](https://github.com/martdev123/RapidFUD): A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature
+[RapidFUD](https://github.com/martdev123/RapidFUD): A simple runner to generate a spoofed cert for msfvenom payload to bypass all AV's signature  
+[Node-Serialize-WebServer-Backdoor](https://github.com/Deno-Sandbox/Node-Serialize-WebServer-Backdoor): Use me to create a corrupted cookie capable of creating a backdoor on the webserver node which uses the "serialize" function
