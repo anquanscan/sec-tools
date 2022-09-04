@@ -4812,4 +4812,5 @@
 [dailyhack](https://github.com/mddanishyusuf/dailyhack): 🐱‍💻 Tiny Tiny Hacks we use in our daily life.  
 [VulWebaju](https://github.com/Aju100/VulWebaju): VulWebaju is a platform that automates setting up your pen-testing environment for learning purposes.   
 [xss-me](https://github.com/J2TEAM/xss-me): A simple web application to learn about Cross-Site Scripting (XSS)  
-[hacker101-ctf](https://github.com/testert1ng/hacker101-ctf): Hacker101 CTF Writeup
+[hacker101-ctf](https://github.com/testert1ng/hacker101-ctf): Hacker101 CTF Writeup  
+[exchange-penetration-testing](https://github.com/kh4sh3i/exchange-penetration-testing): The great Microsoft exchange hack: A penetration tester’s guide (exchange penetration testing)
