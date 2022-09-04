@@ -4772,4 +4772,5 @@
 [Node-Serialize-WebServer-Backdoor](https://github.com/Deno-Sandbox/Node-Serialize-WebServer-Backdoor): Use me to create a corrupted cookie capable of creating a backdoor on the webserver node which uses the "serialize" function  
 [webshell-free](https://github.com/rexSurprise/webshell-free): webshell免杀案例  
 [quine](https://github.com/makenowjust/quine): Quine Museum  
-[counter-reconnaissance-program](https://github.com/the-aerospace-corporation/counter-reconnaissance-program): Proof-of-concept cyber deception utility emulating Samba and LibSSH
+[counter-reconnaissance-program](https://github.com/the-aerospace-corporation/counter-reconnaissance-program): Proof-of-concept cyber deception utility emulating Samba and LibSSH  
+[MySQL_Fake_Server](https://github.com/fnmsd/MySQL_Fake_Server): MySQL Fake Server use to help MySQL Client File Reading and JDBC Client Java Deserialize
