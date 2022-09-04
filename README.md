@@ -4793,4 +4793,5 @@
 [header_scan](https://github.com/asce-21/header_scan): Learning Python automation from  Hacking Simplified's video. This script is also result of the video from the Python automation series.  
 [Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank): Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.  
 [backfuzz](https://github.com/localh0t/backfuzz): protocol fuzzing toolkit  
-[sauron](https://github.com/amal-thundiyil/sauron): Open Source Software Security Inspector 🧐
+[sauron](https://github.com/amal-thundiyil/sauron): Open Source Software Security Inspector 🧐  
+[Network-Tools](https://github.com/fer-moreira/Network-Tools): Python Network Tooling for pentest
