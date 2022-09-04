@@ -4762,4 +4762,5 @@
 [TheSniper](https://github.com/karthikraja001/TheSniper): TheSniper (︻デ═一) is a perfect and easy tool to grab the Saved Wi-Fi passwords in any Windows PC.   
 [CHAOS](https://github.com/tiagorlampert/CHAOS): :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.  
 [ropemporium](https://github.com/soffensive/ropemporium): My solutions for the ROP Emporium challenges (https://ropemporium.com/). For each challenge, a solution based on plain Python (exp_plain.py) and based on Pwntools is provided.  
-[natas_solutions](https://github.com/not-duckie/natas_solutions): natas sol
+[natas_solutions](https://github.com/not-duckie/natas_solutions): natas sol  
+[rip_raw](https://github.com/cado-security/rip_raw): Rip Raw is a small tool to analyse the memory of compromised Linux systems.
