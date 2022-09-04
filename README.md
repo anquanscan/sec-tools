@@ -4773,4 +4773,5 @@
 [webshell-free](https://github.com/rexSurprise/webshell-free): webshell免杀案例  
 [quine](https://github.com/makenowjust/quine): Quine Museum  
 [counter-reconnaissance-program](https://github.com/the-aerospace-corporation/counter-reconnaissance-program): Proof-of-concept cyber deception utility emulating Samba and LibSSH  
-[MySQL_Fake_Server](https://github.com/fnmsd/MySQL_Fake_Server): MySQL Fake Server use to help MySQL Client File Reading and JDBC Client Java Deserialize
+[MySQL_Fake_Server](https://github.com/fnmsd/MySQL_Fake_Server): MySQL Fake Server use to help MySQL Client File Reading and JDBC Client Java Deserialize  
+[XSS_SQL_Vulnerability_Scanner](https://github.com/HassanMahmood001/XSS_SQL_Vulnerability_Scanner): Python vulnerability scanner to detect XSS and SQL injection in web applications. 
