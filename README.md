@@ -4802,4 +4802,5 @@
 [Titanium](https://github.com/Lucksi/Titanium): A Social Engineering Tool  
 [SecureDialogues](https://github.com/sqglobe/SecureDialogues): Приложение обеспечивает дополнительный уровень шифрования сообщений, котрые передаются через сервисы подобные Gmail  
 [kibana-multitenant-proxy](https://github.com/gnuhpc/kibana-multitenant-proxy): A proxy behind nginx while before kibana (4.x, 5.x) to provide data isolation for different users  
-[enlightn](https://github.com/enlightn/enlightn): Your performance & security consultant, an artisan command away.
+[enlightn](https://github.com/enlightn/enlightn): Your performance & security consultant, an artisan command away.  
+[jsprime](https://github.com/dpnishant/jsprime): a javascript static security analysis tool
