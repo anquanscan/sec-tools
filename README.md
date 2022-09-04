@@ -4763,4 +4763,5 @@
 [CHAOS](https://github.com/tiagorlampert/CHAOS): :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.  
 [ropemporium](https://github.com/soffensive/ropemporium): My solutions for the ROP Emporium challenges (https://ropemporium.com/). For each challenge, a solution based on plain Python (exp_plain.py) and based on Pwntools is provided.  
 [natas_solutions](https://github.com/not-duckie/natas_solutions): natas sol  
-[rip_raw](https://github.com/cado-security/rip_raw): Rip Raw is a small tool to analyse the memory of compromised Linux systems.
+[rip_raw](https://github.com/cado-security/rip_raw): Rip Raw is a small tool to analyse the memory of compromised Linux systems.  
+[Talk_on_Vehicle_Security](https://github.com/dineshresearch/Talk_on_Vehicle_Security): Possible Attacks, Exploits and Vulnerabilities of Autonomous vehicles. uploaded the presentation along with images
