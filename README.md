@@ -4755,4 +4755,5 @@
 [owasp-mastg](https://github.com/OWASP/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).  
 [Packet-Sniffing-Tool](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool): A sniffing attack involves the illegal extraction of unencrypted data by capturing network traffic through packet sniffers. In this tool, the user will be given 4 options such as raw, summary, target, and host. The user can select any option and they can start sniffing the network. The user has to just enter the name of the interface.  
 [Cipher-Tools](https://github.com/Squalm/Cipher-Tools): A Codebreaking/Cipherbreaking Toolkit. Currently early in development.  
-[Griefing-Methods](https://github.com/wodxgod/Griefing-Methods): A documentation about how to hack Minecraft servers
+[Griefing-Methods](https://github.com/wodxgod/Griefing-Methods): A documentation about how to hack Minecraft servers  
+[Elevator](https://github.com/Kudaes/Elevator): UAC Bypass by abusing RPC and debug objects.
