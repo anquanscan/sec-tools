@@ -4800,4 +4800,5 @@
 [fatt](https://github.com/bin3xish477/fatt): fatt (Find All The Things) is a tool written in Go that'll find common strings in a file or HTTP response.  
 [extract_otp_secret_keys](https://github.com/scito/extract_otp_secret_keys): Extract two-factor authentication (2FA, TFA) secret keys from export QR codes of "Google Authenticator" app. The secret and otp values can be printed and exported to json or csv. The QR codes can be printed or saved as PNG images.  
 [Titanium](https://github.com/Lucksi/Titanium): A Social Engineering Tool  
-[SecureDialogues](https://github.com/sqglobe/SecureDialogues): Приложение обеспечивает дополнительный уровень шифрования сообщений, котрые передаются через сервисы подобные Gmail
+[SecureDialogues](https://github.com/sqglobe/SecureDialogues): Приложение обеспечивает дополнительный уровень шифрования сообщений, котрые передаются через сервисы подобные Gmail  
+[kibana-multitenant-proxy](https://github.com/gnuhpc/kibana-multitenant-proxy): A proxy behind nginx while before kibana (4.x, 5.x) to provide data isolation for different users
