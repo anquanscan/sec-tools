@@ -4756,4 +4756,5 @@
 [Packet-Sniffing-Tool](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool): A sniffing attack involves the illegal extraction of unencrypted data by capturing network traffic through packet sniffers. In this tool, the user will be given 4 options such as raw, summary, target, and host. The user can select any option and they can start sniffing the network. The user has to just enter the name of the interface.  
 [Cipher-Tools](https://github.com/Squalm/Cipher-Tools): A Codebreaking/Cipherbreaking Toolkit. Currently early in development.  
 [Griefing-Methods](https://github.com/wodxgod/Griefing-Methods): A documentation about how to hack Minecraft servers  
-[Elevator](https://github.com/Kudaes/Elevator): UAC Bypass by abusing RPC and debug objects.
+[Elevator](https://github.com/Kudaes/Elevator): UAC Bypass by abusing RPC and debug objects.  
+[sealdir](https://github.com/mavenor/sealdir): A C++ library & CLI tool 🛠 to seal the state of a directory 📦🔒 (think checksums, but for a directory)
