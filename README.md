@@ -4806,4 +4806,5 @@
 [jsprime](https://github.com/dpnishant/jsprime): a javascript static security analysis tool  
 [X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot): X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】  
 [Shield.VSIX](https://github.com/dotnetsafer/Shield.VSIX): Extension to protect and obfuscate your .NET applications without leaving visual studio.  
-[e2-setup-private-docker-registry](https://github.com/devteds/e2-setup-private-docker-registry): Setup private docker registry using docker machine - https://devteds.com/episodes/2-setup-private-docker-registry-secure-with-ssl-password
+[e2-setup-private-docker-registry](https://github.com/devteds/e2-setup-private-docker-registry): Setup private docker registry using docker machine - https://devteds.com/episodes/2-setup-private-docker-registry-secure-with-ssl-password  
+[gopass-cheat-sheet](https://github.com/Woile/gopass-cheat-sheet): Cheat Sheet for the awesome gopass
