@@ -4758,4 +4758,5 @@
 [Griefing-Methods](https://github.com/wodxgod/Griefing-Methods): A documentation about how to hack Minecraft servers  
 [Elevator](https://github.com/Kudaes/Elevator): UAC Bypass by abusing RPC and debug objects.  
 [sealdir](https://github.com/mavenor/sealdir): A C++ library & CLI tool 🛠 to seal the state of a directory 📦🔒 (think checksums, but for a directory)  
-[061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs](https://github.com/VagnerBellacosa/061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs): Entendendo a Importância da Modelagem e Segurança na Construção de APIs
+[061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs](https://github.com/VagnerBellacosa/061_EntendendoImportanciaModelagemSegurancaConstrucaoAPIs): Entendendo a Importância da Modelagem e Segurança na Construção de APIs  
+[TheSniper](https://github.com/karthikraja001/TheSniper): TheSniper (︻デ═一) is a perfect and easy tool to grab the Saved Wi-Fi passwords in any Windows PC. 
