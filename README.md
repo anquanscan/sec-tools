@@ -4810,4 +4810,5 @@
 [gopass-cheat-sheet](https://github.com/Woile/gopass-cheat-sheet): Cheat Sheet for the awesome gopass  
 [libpico](https://github.com/mypico/libpico): Pico support library written in C  
 [dailyhack](https://github.com/mddanishyusuf/dailyhack): 🐱‍💻 Tiny Tiny Hacks we use in our daily life.  
-[VulWebaju](https://github.com/Aju100/VulWebaju): VulWebaju is a platform that automates setting up your pen-testing environment for learning purposes. 
+[VulWebaju](https://github.com/Aju100/VulWebaju): VulWebaju is a platform that automates setting up your pen-testing environment for learning purposes.   
+[xss-me](https://github.com/J2TEAM/xss-me): A simple web application to learn about Cross-Site Scripting (XSS)
