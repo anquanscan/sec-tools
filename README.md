@@ -4787,4 +4787,5 @@
 [MixewayHub](https://github.com/Mixeway/MixewayHub): Mixeway is security orchestrator for vulnerability scanners which enable easy plug in integration with CICD pipelines. MixewayHub project contain one click docker-compose file which configure and run images from docker hub.  
 [The-Dark-and-Bright-Side-of-IoT-Dataset](https://github.com/AMHD/The-Dark-and-Bright-Side-of-IoT-Dataset): The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services by A. M. Hussain et al.  
 [Secret-Data-Manager-SDM-](https://github.com/SherazIbrahim/Secret-Data-Manager-SDM-): Its for security purpose .You can secure your Secret data using this.Its code is for non-Commercial Use .Do not  use its code for any Commercial purpose. "Secure you Secrets"!  
-[simple-user-simulation](https://github.com/michaelb/simple-user-simulation): powershell script to simulate activity by a user
+[simple-user-simulation](https://github.com/michaelb/simple-user-simulation): powershell script to simulate activity by a user  
+[deadswitch-linux](https://github.com/dimensionc132/deadswitch-linux): A Dead Man Switch which runs on a your Linux system and is designed to be a security tool to safeguard your secrets. Dead Switch is written in Bash and Python.
