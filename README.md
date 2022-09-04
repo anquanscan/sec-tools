@@ -4781,4 +4781,5 @@
 [WiFi-Project](https://github.com/JulienFink/WiFi-Project): Pre-connection attacks, gaining access & post-connection attacks on WEP, WPA & WPA2. 🛰✔️  
 [SWC-registry](https://github.com/SmartContractSecurity/SWC-registry): Smart Contract Weakness Classification and Test Cases  
 [VolUtility](https://github.com/lprat/VolUtility): Web Interface for Volatility Memory Analysis framework from https://github.com/kevthehermit/VolUtility  
-[ronin-exploits](https://github.com/ronin-rb/ronin-exploits): A Ruby micro-framework for writing and running exploits
+[ronin-exploits](https://github.com/ronin-rb/ronin-exploits): A Ruby micro-framework for writing and running exploits  
+[macOS-Cybersecurity-Handbook](https://github.com/johnsoga/macOS-Cybersecurity-Handbook): Guide to Securing a Modern Apple Computer
