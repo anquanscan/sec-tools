@@ -4797,4 +4797,5 @@
 [Network-Tools](https://github.com/fer-moreira/Network-Tools): Python Network Tooling for pentest  
 [graylog2-server](https://github.com/Graylog2/graylog2-server): Free and open source log management  
 [gitlab-RCE-11.4.7](https://github.com/Algafix/gitlab-RCE-11.4.7): GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585  
-[fatt](https://github.com/bin3xish477/fatt): fatt (Find All The Things) is a tool written in Go that'll find common strings in a file or HTTP response.
+[fatt](https://github.com/bin3xish477/fatt): fatt (Find All The Things) is a tool written in Go that'll find common strings in a file or HTTP response.  
+[extract_otp_secret_keys](https://github.com/scito/extract_otp_secret_keys): Extract two-factor authentication (2FA, TFA) secret keys from export QR codes of "Google Authenticator" app. The secret and otp values can be printed and exported to json or csv. The QR codes can be printed or saved as PNG images.
