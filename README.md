@@ -4776,4 +4776,5 @@
 [MySQL_Fake_Server](https://github.com/fnmsd/MySQL_Fake_Server): MySQL Fake Server use to help MySQL Client File Reading and JDBC Client Java Deserialize  
 [XSS_SQL_Vulnerability_Scanner](https://github.com/HassanMahmood001/XSS_SQL_Vulnerability_Scanner): Python vulnerability scanner to detect XSS and SQL injection in web applications.   
 [simple-buffer-overflow-server](https://github.com/art049/simple-buffer-overflow-server): Challenge/Tutorial aiming to exploit the buffer overflow vulnerability w/ Metasploit plugin implementation  
-[GoAT](https://github.com/petercunha/GoAT): :goat: GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server
+[GoAT](https://github.com/petercunha/GoAT): :goat: GoAT (Golang Advanced Trojan) is a trojan that uses Twitter as a C&C server  
+[WEF](https://github.com/D3Ext/WEF): Wi-Fi Exploitation Framework
