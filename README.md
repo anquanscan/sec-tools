@@ -4845,4 +4845,5 @@
 [awvs_xray](https://github.com/Ovi3/awvs_xray): AWVS13和xray的自动化扫描脚本  
 [linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker): linuxprivchecker.py -- a Linux Privilege Escalation Check Script  
 [terraform-security-scan](https://github.com/triat/terraform-security-scan): Run a security scan on your terraform with the very nice https://github.com/aquasecurity/tfsec  
-[CamHeightChange-1.12.2](https://github.com/Pl0shka/CamHeightChange-1.12.2): CamHeightChange 1.12.2
+[CamHeightChange-1.12.2](https://github.com/Pl0shka/CamHeightChange-1.12.2): CamHeightChange 1.12.2  
+[AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer): Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
