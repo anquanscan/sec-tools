@@ -4847,4 +4847,5 @@
 [terraform-security-scan](https://github.com/triat/terraform-security-scan): Run a security scan on your terraform with the very nice https://github.com/aquasecurity/tfsec  
 [CamHeightChange-1.12.2](https://github.com/Pl0shka/CamHeightChange-1.12.2): CamHeightChange 1.12.2  
 [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer): Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.  
-[php-2HW08](https://github.com/eryshkov/php-2HW08): Home work 8. PHP Stage 2
+[php-2HW08](https://github.com/eryshkov/php-2HW08): Home work 8. PHP Stage 2  
+[cifrar-descifrar-php](https://github.com/parzibyte/cifrar-descifrar-php): Cifrar y descifrar datos con PHP usando la librería php-encryption; cifrar con clave general o con claves generadas por contraseñas de usuarios
