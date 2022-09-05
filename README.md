@@ -4842,4 +4842,5 @@
 [cluster-image-scanner](https://github.com/SDA-SE/cluster-image-scanner): Discover vulnerabilities and container image misconfiguration in production environments.  
 [mzap](https://github.com/hahwul/mzap): ⚡️ Multiple target ZAP Scanning  
 [ReconPi](https://github.com/x1mdev/ReconPi): ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.  
-[awvs_xray](https://github.com/Ovi3/awvs_xray): AWVS13和xray的自动化扫描脚本
+[awvs_xray](https://github.com/Ovi3/awvs_xray): AWVS13和xray的自动化扫描脚本  
+[linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker): linuxprivchecker.py -- a Linux Privilege Escalation Check Script
