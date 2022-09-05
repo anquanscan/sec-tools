@@ -4832,4 +4832,5 @@
 [snowden-archive](https://github.com/iamcryptoki/snowden-archive): 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.  
 [openssh-portable](https://github.com/openssh/openssh-portable): Portable OpenSSH  
 [NGWAF](https://github.com/FA-PengFei/NGWAF): First iteration of ML based Feedback WAF  
-[ProjectHackerium](https://github.com/Ludaxord/ProjectHackerium): Collection of classes/methods helpful in pentesting. Based on book Black Hat Python
+[ProjectHackerium](https://github.com/Ludaxord/ProjectHackerium): Collection of classes/methods helpful in pentesting. Based on book Black Hat Python  
+[RE-helper](https://github.com/R3x/RE-helper): A tool that acts as an assistant for Reverse Engineering challenges in CTFs
