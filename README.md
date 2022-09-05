@@ -4852,4 +4852,5 @@
 [webcr4wl](https://github.com/47hxl-53r/webcr4wl): This tool is used for web penetration testing features like subnet scanning, directory enumeration, port scanning and more  
 [jsAesCrypt](https://github.com/Dead4W/jsAesCrypt): A Javascript library for AES256-CBC encrypt/decrypt files. Format of AesCrypt (version 2)  
 [AqHax-CSGO](https://github.com/krxdev-kaan/AqHax-CSGO): Simple CSGO Hack  
-[serafdev.github.io](https://github.com/serafdev/serafdev.github.io): Personal Blog where I write mostly about Computer Science related subjects.
+[serafdev.github.io](https://github.com/serafdev/serafdev.github.io): Personal Blog where I write mostly about Computer Science related subjects.  
+[mininode](https://github.com/wspr-ncsu/mininode): Mininode is a CLI tool to reduce the attack surface of the Node.js applications by using static analysis.
