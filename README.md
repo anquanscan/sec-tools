@@ -4814,4 +4814,5 @@
 [xss-me](https://github.com/J2TEAM/xss-me): A simple web application to learn about Cross-Site Scripting (XSS)  
 [hacker101-ctf](https://github.com/testert1ng/hacker101-ctf): Hacker101 CTF Writeup  
 [exchange-penetration-testing](https://github.com/kh4sh3i/exchange-penetration-testing): The great Microsoft exchange hack: A penetration tester’s guide (exchange penetration testing)  
-[cexf](https://github.com/MISP/cexf): Common Exercise Format - CEXF 
+[cexf](https://github.com/MISP/cexf): Common Exercise Format - CEXF   
+[Web-Shells](https://github.com/TheBinitGhimire/Web-Shells): Some of the best web shells that you might need!
