@@ -4871,4 +4871,5 @@
 [MobSF-Related-Materials](https://github.com/MobSF/MobSF-Related-Materials): MobSF related Presentations, Slides and Others.  
 [xamfra.github.io](https://github.com/XAMFRA/xamfra.github.io): XAR WebSite  
 [basic-hooking](https://github.com/jayo78/basic-hooking): Examples of basic windows API hooking techniques  
-[SynchNouys](https://github.com/sickog0d/SynchNouys): Tool made to search for admin tab on the site
+[SynchNouys](https://github.com/sickog0d/SynchNouys): Tool made to search for admin tab on the site  
+[dirty_sock](https://github.com/initstring/dirty_sock): Linux privilege escalation exploit via snapd (CVE-2019-7304)
