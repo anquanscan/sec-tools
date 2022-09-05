@@ -4863,4 +4863,5 @@
 [ph-commons](https://github.com/phax/ph-commons): Java 1.8+ Library with tons of utility classes required in all projects  
 [Vigilante-Toolset](https://github.com/MBHudson/Vigilante-Toolset): !!!WORLD'S 🌍 #1🥇 TOR HACKING SUITE!!! Designed to scan and exploit vulnerabilities within Tor hidden services. Vigilante allows most tools to work as normal while resolving .onion   
 [Rage](https://github.com/billythegoat356/Rage): Rage allows you to execute any file in a Microsoft Office document.  
-[GONET-Scanner](https://github.com/luijait/GONET-Scanner): Golang network scanner with arp discovery and own parser 
+[GONET-Scanner](https://github.com/luijait/GONET-Scanner): Golang network scanner with arp discovery and own parser   
+[cod-exploits](https://github.com/momo5502/cod-exploits): ☠️ Call of Duty - Vulnerabilities and proof-of-concepts
