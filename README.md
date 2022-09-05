@@ -4825,4 +4825,5 @@
 [securityguide](https://github.com/mafiaguy/securityguide): A guide to be come a cyber-security researcher  
 [OSCPprep](https://github.com/Scr1ptK1ddie/OSCPprep): OSCP repo with cheat sheets and resources for studying.   
 [BurpAcademyLABs](https://github.com/p1ngul1n0/BurpAcademyLABs)  
-[learn250](https://github.com/AkashHamal0x01/learn250)
+[learn250](https://github.com/AkashHamal0x01/learn250)  
+[RITA-J](https://github.com/Cyb3r-Monk/RITA-J): Implementation of RITA (Real Intelligence Threat Analytics) in Jupyter Notebook with improved scoring algorithm.
