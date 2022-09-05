@@ -4866,4 +4866,5 @@
 [GONET-Scanner](https://github.com/luijait/GONET-Scanner): Golang network scanner with arp discovery and own parser   
 [cod-exploits](https://github.com/momo5502/cod-exploits): ☠️ Call of Duty - Vulnerabilities and proof-of-concepts  
 [pyre-check](https://github.com/facebook/pyre-check): Performant type-checking for python.  
-[EmbedOS](https://github.com/scriptingxss/EmbedOS): EmbedOS - Embedded security testing virtual machine
+[EmbedOS](https://github.com/scriptingxss/EmbedOS): EmbedOS - Embedded security testing virtual machine  
+[TripleCross](https://github.com/h3xduck/TripleCross): A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
