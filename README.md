@@ -4820,4 +4820,5 @@
 [proceedings-2016](https://github.com/shmoocon/proceedings-2016): ShmooCon Proceedings 2016  
 [EclipseWare](https://github.com/EclipsesDev/EclipseWare): Lightweight & Keyless lua level 8 executor made by Eclipse!#6582  
 [windows-defender-remover](https://github.com/jbara2002/windows-defender-remover): A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.  
-[Bers3rk](https://github.com/litchipi/Bers3rk): A simple bruteforcer for little wordlists derivation
+[Bers3rk](https://github.com/litchipi/Bers3rk): A simple bruteforcer for little wordlists derivation  
+[MikrotikExploit](https://github.com/miladdiaz/MikrotikExploit): Scan and Export RouterOS Password
