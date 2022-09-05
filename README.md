@@ -4850,4 +4850,5 @@
 [php-2HW08](https://github.com/eryshkov/php-2HW08): Home work 8. PHP Stage 2  
 [cifrar-descifrar-php](https://github.com/parzibyte/cifrar-descifrar-php): Cifrar y descifrar datos con PHP usando la librería php-encryption; cifrar con clave general o con claves generadas por contraseñas de usuarios  
 [webcr4wl](https://github.com/47hxl-53r/webcr4wl): This tool is used for web penetration testing features like subnet scanning, directory enumeration, port scanning and more  
-[jsAesCrypt](https://github.com/Dead4W/jsAesCrypt): A Javascript library for AES256-CBC encrypt/decrypt files. Format of AesCrypt (version 2)
+[jsAesCrypt](https://github.com/Dead4W/jsAesCrypt): A Javascript library for AES256-CBC encrypt/decrypt files. Format of AesCrypt (version 2)  
+[AqHax-CSGO](https://github.com/krxdev-kaan/AqHax-CSGO): Simple CSGO Hack
