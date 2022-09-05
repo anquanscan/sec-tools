@@ -4855,4 +4855,5 @@
 [serafdev.github.io](https://github.com/serafdev/serafdev.github.io): Personal Blog where I write mostly about Computer Science related subjects.  
 [mininode](https://github.com/wspr-ncsu/mininode): Mininode is a CLI tool to reduce the attack surface of the Node.js applications by using static analysis.  
 [CVE-2019-7192_QNAP_Exploit](https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit): QNAP pre-auth root RCE Exploit (CVE-2019-7192 ~ CVE-2019-7195)  
-[exploit-CVE-2022-0482](https://github.com/Acceis/exploit-CVE-2022-0482): Easy!Appointments < 1.4.3 - Unauthenticated PII (events) disclosure
+[exploit-CVE-2022-0482](https://github.com/Acceis/exploit-CVE-2022-0482): Easy!Appointments < 1.4.3 - Unauthenticated PII (events) disclosure  
+[Stealing-sounds](https://github.com/0x802/Stealing-sounds): The script turns on the microphone to record audio from the victim's device and sends it to the MEGA website in an audio document format.
