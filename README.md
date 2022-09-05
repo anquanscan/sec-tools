@@ -4834,4 +4834,5 @@
 [NGWAF](https://github.com/FA-PengFei/NGWAF): First iteration of ML based Feedback WAF  
 [ProjectHackerium](https://github.com/Ludaxord/ProjectHackerium): Collection of classes/methods helpful in pentesting. Based on book Black Hat Python  
 [RE-helper](https://github.com/R3x/RE-helper): A tool that acts as an assistant for Reverse Engineering challenges in CTFs  
-[laravel-ctf-exercise](https://github.com/appelsiini/laravel-ctf-exercise): Intentionally vulnerable Laravel CTF Style pentesting exercise application used in Laracon Madrid 2019 presentation
+[laravel-ctf-exercise](https://github.com/appelsiini/laravel-ctf-exercise): Intentionally vulnerable Laravel CTF Style pentesting exercise application used in Laracon Madrid 2019 presentation  
+[PowerShdll](https://github.com/p3nt4/PowerShdll): Run PowerShell with rundll32. Bypass software restrictions.
