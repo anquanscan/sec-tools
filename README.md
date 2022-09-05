@@ -4841,4 +4841,5 @@
 [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist): Passphrase wordlist and hashcat rules for offline cracking of long, complex passwords  
 [cluster-image-scanner](https://github.com/SDA-SE/cluster-image-scanner): Discover vulnerabilities and container image misconfiguration in production environments.  
 [mzap](https://github.com/hahwul/mzap): ⚡️ Multiple target ZAP Scanning  
-[ReconPi](https://github.com/x1mdev/ReconPi): ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
+[ReconPi](https://github.com/x1mdev/ReconPi): ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.  
+[awvs_xray](https://github.com/Ovi3/awvs_xray): AWVS13和xray的自动化扫描脚本
