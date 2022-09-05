@@ -4865,4 +4865,5 @@
 [Rage](https://github.com/billythegoat356/Rage): Rage allows you to execute any file in a Microsoft Office document.  
 [GONET-Scanner](https://github.com/luijait/GONET-Scanner): Golang network scanner with arp discovery and own parser   
 [cod-exploits](https://github.com/momo5502/cod-exploits): ☠️ Call of Duty - Vulnerabilities and proof-of-concepts  
-[pyre-check](https://github.com/facebook/pyre-check): Performant type-checking for python.
+[pyre-check](https://github.com/facebook/pyre-check): Performant type-checking for python.  
+[EmbedOS](https://github.com/scriptingxss/EmbedOS): EmbedOS - Embedded security testing virtual machine
