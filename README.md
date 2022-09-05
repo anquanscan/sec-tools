@@ -4857,4 +4857,5 @@
 [CVE-2019-7192_QNAP_Exploit](https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit): QNAP pre-auth root RCE Exploit (CVE-2019-7192 ~ CVE-2019-7195)  
 [exploit-CVE-2022-0482](https://github.com/Acceis/exploit-CVE-2022-0482): Easy!Appointments < 1.4.3 - Unauthenticated PII (events) disclosure  
 [Stealing-sounds](https://github.com/0x802/Stealing-sounds): The script turns on the microphone to record audio from the victim's device and sends it to the MEGA website in an audio document format.  
-[LogESP](https://github.com/dogoncouch/LogESP): Open Source SIEM (Security Information and Event Management system).
+[LogESP](https://github.com/dogoncouch/LogESP): Open Source SIEM (Security Information and Event Management system).  
+[gophish-notifier](https://github.com/t94j0/gophish-notifier): Notification webhook for GoPhish
