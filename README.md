@@ -4869,4 +4869,5 @@
 [EmbedOS](https://github.com/scriptingxss/EmbedOS): EmbedOS - Embedded security testing virtual machine  
 [TripleCross](https://github.com/h3xduck/TripleCross): A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.  
 [MobSF-Related-Materials](https://github.com/MobSF/MobSF-Related-Materials): MobSF related Presentations, Slides and Others.  
-[xamfra.github.io](https://github.com/XAMFRA/xamfra.github.io): XAR WebSite
+[xamfra.github.io](https://github.com/XAMFRA/xamfra.github.io): XAR WebSite  
+[basic-hooking](https://github.com/jayo78/basic-hooking): Examples of basic windows API hooking techniques
