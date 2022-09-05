@@ -4867,4 +4867,5 @@
 [cod-exploits](https://github.com/momo5502/cod-exploits): ☠️ Call of Duty - Vulnerabilities and proof-of-concepts  
 [pyre-check](https://github.com/facebook/pyre-check): Performant type-checking for python.  
 [EmbedOS](https://github.com/scriptingxss/EmbedOS): EmbedOS - Embedded security testing virtual machine  
-[TripleCross](https://github.com/h3xduck/TripleCross): A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
+[TripleCross](https://github.com/h3xduck/TripleCross): A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.  
+[MobSF-Related-Materials](https://github.com/MobSF/MobSF-Related-Materials): MobSF related Presentations, Slides and Others.
