@@ -4822,4 +4822,5 @@
 [windows-defender-remover](https://github.com/jbara2002/windows-defender-remover): A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.  
 [Bers3rk](https://github.com/litchipi/Bers3rk): A simple bruteforcer for little wordlists derivation  
 [MikrotikExploit](https://github.com/miladdiaz/MikrotikExploit): Scan and Export RouterOS Password  
-[securityguide](https://github.com/mafiaguy/securityguide): A guide to be come a cyber-security researcher
+[securityguide](https://github.com/mafiaguy/securityguide): A guide to be come a cyber-security researcher  
+[OSCPprep](https://github.com/Scr1ptK1ddie/OSCPprep): OSCP repo with cheat sheets and resources for studying. 
