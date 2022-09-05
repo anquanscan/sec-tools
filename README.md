@@ -4840,4 +4840,5 @@
 [Nuclei-Template-Exploit-F5-BIG-IP-iControl-REST-Auth-Bypass-RCE-Command-Parameter](https://github.com/MrCl0wnLab/Nuclei-Template-Exploit-F5-BIG-IP-iControl-REST-Auth-Bypass-RCE-Command-Parameter): CVE-2022-1388 is an authentication bypass vulnerability in the REST      component of BIG-IP’s iControl API that was assigned a CVSSv3      score of 9.8. The iControl REST API is used for the management and      configuration of BIG-IP devices. CVE-2022-1388 could be exploited      by an unauthenticated attacker with network access to the management      port or self IP addresses of devices that use BIG-IP. Exploitation would      allow the attacker to execute arbitrary system commands, create and      delete files and disable services.  
 [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist): Passphrase wordlist and hashcat rules for offline cracking of long, complex passwords  
 [cluster-image-scanner](https://github.com/SDA-SE/cluster-image-scanner): Discover vulnerabilities and container image misconfiguration in production environments.  
-[mzap](https://github.com/hahwul/mzap): ⚡️ Multiple target ZAP Scanning
+[mzap](https://github.com/hahwul/mzap): ⚡️ Multiple target ZAP Scanning  
+[ReconPi](https://github.com/x1mdev/ReconPi): ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
