@@ -4824,4 +4824,5 @@
 [MikrotikExploit](https://github.com/miladdiaz/MikrotikExploit): Scan and Export RouterOS Password  
 [securityguide](https://github.com/mafiaguy/securityguide): A guide to be come a cyber-security researcher  
 [OSCPprep](https://github.com/Scr1ptK1ddie/OSCPprep): OSCP repo with cheat sheets and resources for studying.   
-[BurpAcademyLABs](https://github.com/p1ngul1n0/BurpAcademyLABs)
+[BurpAcademyLABs](https://github.com/p1ngul1n0/BurpAcademyLABs)  
+[learn250](https://github.com/AkashHamal0x01/learn250)
