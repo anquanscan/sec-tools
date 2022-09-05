@@ -4827,4 +4827,5 @@
 [BurpAcademyLABs](https://github.com/p1ngul1n0/BurpAcademyLABs)  
 [learn250](https://github.com/AkashHamal0x01/learn250)  
 [RITA-J](https://github.com/Cyb3r-Monk/RITA-J): Implementation of RITA (Real Intelligence Threat Analytics) in Jupyter Notebook with improved scoring algorithm.  
-[Hacking-Study](https://github.com/itemgiver/Hacking-Study): I studied basic knowledge about hacking. Also, I learned how to find and exploit vulnerabilities in the system by solving hacking problems.
+[Hacking-Study](https://github.com/itemgiver/Hacking-Study): I studied basic knowledge about hacking. Also, I learned how to find and exploit vulnerabilities in the system by solving hacking problems.  
+[CVE-2022-1388](https://github.com/Zeyad-Azima/CVE-2022-1388): F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB
