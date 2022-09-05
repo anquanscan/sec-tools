@@ -4872,4 +4872,5 @@
 [xamfra.github.io](https://github.com/XAMFRA/xamfra.github.io): XAR WebSite  
 [basic-hooking](https://github.com/jayo78/basic-hooking): Examples of basic windows API hooking techniques  
 [SynchNouys](https://github.com/sickog0d/SynchNouys): Tool made to search for admin tab on the site  
-[dirty_sock](https://github.com/initstring/dirty_sock): Linux privilege escalation exploit via snapd (CVE-2019-7304)
+[dirty_sock](https://github.com/initstring/dirty_sock): Linux privilege escalation exploit via snapd (CVE-2019-7304)  
+[hoaxshell](https://github.com/t3l3machus/hoaxshell): An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic. 
