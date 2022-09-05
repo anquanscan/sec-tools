@@ -4826,4 +4826,5 @@
 [OSCPprep](https://github.com/Scr1ptK1ddie/OSCPprep): OSCP repo with cheat sheets and resources for studying.   
 [BurpAcademyLABs](https://github.com/p1ngul1n0/BurpAcademyLABs)  
 [learn250](https://github.com/AkashHamal0x01/learn250)  
-[RITA-J](https://github.com/Cyb3r-Monk/RITA-J): Implementation of RITA (Real Intelligence Threat Analytics) in Jupyter Notebook with improved scoring algorithm.
+[RITA-J](https://github.com/Cyb3r-Monk/RITA-J): Implementation of RITA (Real Intelligence Threat Analytics) in Jupyter Notebook with improved scoring algorithm.  
+[Hacking-Study](https://github.com/itemgiver/Hacking-Study): I studied basic knowledge about hacking. Also, I learned how to find and exploit vulnerabilities in the system by solving hacking problems.
