@@ -4818,4 +4818,5 @@
 [Web-Shells](https://github.com/TheBinitGhimire/Web-Shells): Some of the best web shells that you might need!  
 [missile-vs-melee-take-three](https://github.com/shlomif/missile-vs-melee-take-three): "Queen Amidala vs. The Klingon Warriors" - an enhanced/modernised version of the David and Goliath story set in a fanfic crossoverred Star Trek and Star Wars universe. "Why can't we have both?" (CC-by)  
 [proceedings-2016](https://github.com/shmoocon/proceedings-2016): ShmooCon Proceedings 2016  
-[EclipseWare](https://github.com/EclipsesDev/EclipseWare): Lightweight & Keyless lua level 8 executor made by Eclipse!#6582
+[EclipseWare](https://github.com/EclipsesDev/EclipseWare): Lightweight & Keyless lua level 8 executor made by Eclipse!#6582  
+[windows-defender-remover](https://github.com/jbara2002/windows-defender-remover): A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
