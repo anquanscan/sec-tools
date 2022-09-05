@@ -4816,4 +4816,5 @@
 [exchange-penetration-testing](https://github.com/kh4sh3i/exchange-penetration-testing): The great Microsoft exchange hack: A penetration tester’s guide (exchange penetration testing)  
 [cexf](https://github.com/MISP/cexf): Common Exercise Format - CEXF   
 [Web-Shells](https://github.com/TheBinitGhimire/Web-Shells): Some of the best web shells that you might need!  
-[missile-vs-melee-take-three](https://github.com/shlomif/missile-vs-melee-take-three): "Queen Amidala vs. The Klingon Warriors" - an enhanced/modernised version of the David and Goliath story set in a fanfic crossoverred Star Trek and Star Wars universe. "Why can't we have both?" (CC-by)
+[missile-vs-melee-take-three](https://github.com/shlomif/missile-vs-melee-take-three): "Queen Amidala vs. The Klingon Warriors" - an enhanced/modernised version of the David and Goliath story set in a fanfic crossoverred Star Trek and Star Wars universe. "Why can't we have both?" (CC-by)  
+[proceedings-2016](https://github.com/shmoocon/proceedings-2016): ShmooCon Proceedings 2016
