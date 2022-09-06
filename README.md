@@ -4918,4 +4918,5 @@
 [mendmix](https://github.com/dromara/mendmix): Mendmix定位是一站式分布式开发架构开源解决方案及云原生架构技术底座。Mendmix提供了数据库、缓存、消息中间件、分布式定时任务、安全框架、网关以及主流产商云服务快速集成能力。基于Mendmix可以不用关注技术细节快速搭建高并发高可用基于微服务的分布式架构。  
 [OpenGost](https://github.com/sergezhigunov/OpenGost): An open-source .NET library providing the modern Russian national standard cryptographic algorithms  
 [RetroFreak_Toolkit](https://github.com/GoobyCorp/RetroFreak_Toolkit): A toolkit designed to help root the RetroFreak emulator console.  
-[echidna](https://github.com/crytic/echidna): Ethereum smart contract fuzzer
+[echidna](https://github.com/crytic/echidna): Ethereum smart contract fuzzer  
+[ArmorLib](https://github.com/milesmcc/ArmorLib): Easily scan files for threats to security and privacy. A Rust library and command line tool. WIP.
