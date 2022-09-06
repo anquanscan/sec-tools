@@ -4887,4 +4887,5 @@
 [JPG-PNG-EXPLOIT](https://github.com/trewisscotch/JPG-PNG-EXPLOIT)  
 [Hostname-Polluter](https://github.com/ignis-sec/Hostname-Polluter): Minimalistic extension to quickly check hostname pollution  
 [evildork](https://github.com/Fricciolosa-Red-Team/evildork): Evildork targeting your fiancee👁️  
-[like-dbg](https://github.com/0xricksanchez/like-dbg): Fully dockerized Linux kernel debugging environment
+[like-dbg](https://github.com/0xricksanchez/like-dbg): Fully dockerized Linux kernel debugging environment  
+[demo-spring-cloud-vault](https://github.com/gmarziou/demo-spring-cloud-vault): Shows how to use Spring Cloud Vault Config to retrieve database username/password from Vault
