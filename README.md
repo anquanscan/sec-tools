@@ -4876,4 +4876,5 @@
 [hoaxshell](https://github.com/t3l3machus/hoaxshell): An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.   
 [cnfuzz](https://github.com/suecodelabs/cnfuzz): Breaking Cloud Native Web APIs in their natural habitat.  
 [sample-micronaut-applications](https://github.com/piomin/sample-micronaut-applications): sample application illustarting usage of micronaut framework  
-[foozzer](https://github.com/tickelton/foozzer): A quick and dirty, cross-platform fuzzing framework
+[foozzer](https://github.com/tickelton/foozzer): A quick and dirty, cross-platform fuzzing framework  
+[Dolphin.Memory.Access](https://github.com/Sewer56/Dolphin.Memory.Access): Tiny 9KB barebones library used to access the memory of Dolphin emulator on Windows.
