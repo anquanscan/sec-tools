@@ -4877,4 +4877,5 @@
 [cnfuzz](https://github.com/suecodelabs/cnfuzz): Breaking Cloud Native Web APIs in their natural habitat.  
 [sample-micronaut-applications](https://github.com/piomin/sample-micronaut-applications): sample application illustarting usage of micronaut framework  
 [foozzer](https://github.com/tickelton/foozzer): A quick and dirty, cross-platform fuzzing framework  
-[Dolphin.Memory.Access](https://github.com/Sewer56/Dolphin.Memory.Access): Tiny 9KB barebones library used to access the memory of Dolphin emulator on Windows.
+[Dolphin.Memory.Access](https://github.com/Sewer56/Dolphin.Memory.Access): Tiny 9KB barebones library used to access the memory of Dolphin emulator on Windows.  
+[YAWNING-TITAN](https://github.com/dstl/YAWNING-TITAN): YAWNING TITAN is an abstract, graph based cyber-security simulation environment that supports the training of intelligent agents for autonomous cyber operations.
