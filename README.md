@@ -4902,4 +4902,5 @@
 [cylms](https://github.com/crond-jaist/cylms): CyLMS: Cybersecurity Training Support for LMS  
 [WinGroupBrute](https://github.com/OGDeguy/WinGroupBrute): A short vbscript that adds the supplied user to all domain and local groups if the current user has the correct privileges.  
 [Moodle-Hacking](https://github.com/fawazahmed0/Moodle-Hacking): Hack Moodle Exam. Sponsored by https://sendletter.org, the Cheapest way to Send Letters   
-[riteshpuvvada.github.io](https://github.com/RiteshPuvvada/riteshpuvvada.github.io): Vulnerability Walkthrough
+[riteshpuvvada.github.io](https://github.com/RiteshPuvvada/riteshpuvvada.github.io): Vulnerability Walkthrough  
+[fastgate-python](https://github.com/Depau/fastgate-python): Python tools for Fastweb FastGATE exploits
