@@ -4908,4 +4908,5 @@
 [laravel-welcome-notification](https://github.com/spatie/laravel-welcome-notification): Send a welcome notification to new users  
 [Stegencry](https://github.com/jclge/Stegencry): Stegencry is an image encryption library.  
 [gargoyle](https://github.com/JLospinoso/gargoyle): A memory scanning evasion technique  
-[GRFICSv2](https://github.com/Fortiphyd/GRFICSv2): Version 2 of the Graphical Realism Framework for Industrial Control Simulation (GRFICS)
+[GRFICSv2](https://github.com/Fortiphyd/GRFICSv2): Version 2 of the Graphical Realism Framework for Industrial Control Simulation (GRFICS)  
+[trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
