@@ -4921,4 +4921,5 @@
 [echidna](https://github.com/crytic/echidna): Ethereum smart contract fuzzer  
 [ArmorLib](https://github.com/milesmcc/ArmorLib): Easily scan files for threats to security and privacy. A Rust library and command line tool. WIP.  
 [ipsum](https://github.com/stamparm/ipsum): Daily feed of bad IPs (with blacklist hit scores)  
-[Fivem-Source](https://github.com/Fnoberz/Fivem-Source): 💉 : source for creating lua executor
+[Fivem-Source](https://github.com/Fnoberz/Fivem-Source): 💉 : source for creating lua executor  
+[Horn3t](https://github.com/JannisKirschner/Horn3t): Powerful Visual Subdomain Enumeration at the Click of a Mouse
