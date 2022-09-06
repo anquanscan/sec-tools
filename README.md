@@ -4914,4 +4914,5 @@
 [bug-bounty](https://github.com/JakobTheDev/bug-bounty): My personal bug bounty toolkit.  
 [Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening): My Windows 11 x64 security hardening guide  
 [WixsharpSysmon](https://github.com/1Dimitri/WixsharpSysmon): Wixsharp based installed MSI for Sysmon and rules from the SwiftOnSecurity project  
-[ArduinoQuacking](https://github.com/User1391/ArduinoQuacking): A script that turns an Arduino Micro into a rubber ducky.
+[ArduinoQuacking](https://github.com/User1391/ArduinoQuacking): A script that turns an Arduino Micro into a rubber ducky.  
+[mendmix](https://github.com/dromara/mendmix): Mendmix定位是一站式分布式开发架构开源解决方案及云原生架构技术底座。Mendmix提供了数据库、缓存、消息中间件、分布式定时任务、安全框架、网关以及主流产商云服务快速集成能力。基于Mendmix可以不用关注技术细节快速搭建高并发高可用基于微服务的分布式架构。
