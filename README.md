@@ -4913,4 +4913,5 @@
 [hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud): An encyclopedia for offensive and defensive security knowledge in cloud native technologies.  
 [bug-bounty](https://github.com/JakobTheDev/bug-bounty): My personal bug bounty toolkit.  
 [Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening): My Windows 11 x64 security hardening guide  
-[WixsharpSysmon](https://github.com/1Dimitri/WixsharpSysmon): Wixsharp based installed MSI for Sysmon and rules from the SwiftOnSecurity project
+[WixsharpSysmon](https://github.com/1Dimitri/WixsharpSysmon): Wixsharp based installed MSI for Sysmon and rules from the SwiftOnSecurity project  
+[ArduinoQuacking](https://github.com/User1391/ArduinoQuacking): A script that turns an Arduino Micro into a rubber ducky.
