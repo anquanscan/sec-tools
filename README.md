@@ -4909,4 +4909,5 @@
 [Stegencry](https://github.com/jclge/Stegencry): Stegencry is an image encryption library.  
 [gargoyle](https://github.com/JLospinoso/gargoyle): A memory scanning evasion technique  
 [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2): Version 2 of the Graphical Realism Framework for Industrial Control Simulation (GRFICS)  
-[trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
+[trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking  
+[hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud): An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
