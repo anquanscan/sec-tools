@@ -4895,4 +4895,5 @@
 [twostep](https://github.com/marcoonroad/twostep): HOTP and TOTP algorithms for 2-step verification (for OCaml). :clock10: :closed_lock_with_key: :1234: :camel:  
 [xeonCAPTCHA](https://github.com/neto737/xeonCAPTCHA): A simple CAPTCHA system written in PHP  
 [DWG](https://github.com/FooqX/DWG): Generates fake discord webhooks  
-[MS-Thesis](https://github.com/ozzgural/MS-Thesis): My Master of Science Thesis Project related researches, projects and documents.
+[MS-Thesis](https://github.com/ozzgural/MS-Thesis): My Master of Science Thesis Project related researches, projects and documents.  
+[When-Deep-Learning-Meets-Differential-Privacy-Privacy-Security-and-More](https://github.com/saaries/When-Deep-Learning-Meets-Differential-Privacy-Privacy-Security-and-More): Li X, Chen Y, Wang C, Shen C. When Deep Learning Meets Differential Privacy: Privacy, Security, and More. IEEE Network. 2021 Nov;35(6):148-55.
