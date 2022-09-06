@@ -4883,4 +4883,5 @@
 [T-Remix](https://github.com/Arij-arman/T-Remix): An advanced TERMUX customisation tool. It will give your TERMUX a  new look.I will not tell you anything just try THIS TOOL,T-REMIX.:)   
 [STRIDE-vs-ASVS](https://github.com/mllamazares/STRIDE-vs-ASVS): 🔦 STRIDE vs ASVS equivalence table  
 [HummerRisk](https://github.com/HummerRisk/HummerRisk): HummerRisk 是云原生安全检测平台，提供三个方面的能力：混合云安全合规，K8S容器云安全和软件安全  
-[iDoka.github.io](https://github.com/iDoka/iDoka.github.io): iDoka's web page on Github
+[iDoka.github.io](https://github.com/iDoka/iDoka.github.io): iDoka's web page on Github  
+[JPG-PNG-EXPLOIT](https://github.com/trewisscotch/JPG-PNG-EXPLOIT)
