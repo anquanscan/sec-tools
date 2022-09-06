@@ -4886,4 +4886,5 @@
 [iDoka.github.io](https://github.com/iDoka/iDoka.github.io): iDoka's web page on Github  
 [JPG-PNG-EXPLOIT](https://github.com/trewisscotch/JPG-PNG-EXPLOIT)  
 [Hostname-Polluter](https://github.com/ignis-sec/Hostname-Polluter): Minimalistic extension to quickly check hostname pollution  
-[evildork](https://github.com/Fricciolosa-Red-Team/evildork): Evildork targeting your fiancee👁️
+[evildork](https://github.com/Fricciolosa-Red-Team/evildork): Evildork targeting your fiancee👁️  
+[like-dbg](https://github.com/0xricksanchez/like-dbg): Fully dockerized Linux kernel debugging environment
