@@ -4911,4 +4911,5 @@
 [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2): Version 2 of the Graphical Realism Framework for Industrial Control Simulation (GRFICS)  
 [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking  
 [hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud): An encyclopedia for offensive and defensive security knowledge in cloud native technologies.  
-[bug-bounty](https://github.com/JakobTheDev/bug-bounty): My personal bug bounty toolkit.
+[bug-bounty](https://github.com/JakobTheDev/bug-bounty): My personal bug bounty toolkit.  
+[Windows11_Hardening](https://github.com/beerisgood/Windows11_Hardening): My Windows 11 x64 security hardening guide
