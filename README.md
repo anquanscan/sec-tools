@@ -4905,4 +4905,5 @@
 [riteshpuvvada.github.io](https://github.com/RiteshPuvvada/riteshpuvvada.github.io): Vulnerability Walkthrough  
 [fastgate-python](https://github.com/Depau/fastgate-python): Python tools for Fastweb FastGATE exploits  
 [OpenCircle](https://github.com/guardianproject/OpenCircle): Open-source Circle of 6 with improved security and privacy features. PLEASE NOTE: For the new Circulo app please visit: https://gitlab.com/circuloapp/circulo-android  
-[laravel-welcome-notification](https://github.com/spatie/laravel-welcome-notification): Send a welcome notification to new users
+[laravel-welcome-notification](https://github.com/spatie/laravel-welcome-notification): Send a welcome notification to new users  
+[Stegencry](https://github.com/jclge/Stegencry): Stegencry is an image encryption library.
