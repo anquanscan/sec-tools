@@ -4919,4 +4919,5 @@
 [OpenGost](https://github.com/sergezhigunov/OpenGost): An open-source .NET library providing the modern Russian national standard cryptographic algorithms  
 [RetroFreak_Toolkit](https://github.com/GoobyCorp/RetroFreak_Toolkit): A toolkit designed to help root the RetroFreak emulator console.  
 [echidna](https://github.com/crytic/echidna): Ethereum smart contract fuzzer  
-[ArmorLib](https://github.com/milesmcc/ArmorLib): Easily scan files for threats to security and privacy. A Rust library and command line tool. WIP.
+[ArmorLib](https://github.com/milesmcc/ArmorLib): Easily scan files for threats to security and privacy. A Rust library and command line tool. WIP.  
+[ipsum](https://github.com/stamparm/ipsum): Daily feed of bad IPs (with blacklist hit scores)
