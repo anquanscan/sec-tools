@@ -4937,4 +4937,5 @@
 [BugBountyScanner](https://github.com/chvancooten/BugBountyScanner): A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.  
 [cryptography-misc-tools](https://github.com/Latonis/cryptography-misc-tools): Miscellaneous Cryptography Scripts I have Written or Acquired . Please feel free to fork/pull/whatever to increase the content.  
 [Cybersecurity-gadgets](https://github.com/tsnsoft/Cybersecurity-gadgets): Кибербезопасность и мобильные устройства  
-[Domain-generation-algorithms](https://github.com/vinayakumarr/Domain-generation-algorithms): Domain Generation Algorithms (DGAs) using traitional machine learning and deep learning
+[Domain-generation-algorithms](https://github.com/vinayakumarr/Domain-generation-algorithms): Domain Generation Algorithms (DGAs) using traitional machine learning and deep learning  
+[Toroxy](https://github.com/Postuf/Toroxy): Tor-based proxy for linux
