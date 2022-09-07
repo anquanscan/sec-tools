@@ -4941,4 +4941,5 @@
 [Toroxy](https://github.com/Postuf/Toroxy): Tor-based proxy for linux  
 [Skiddie](https://github.com/Aviral14/Skiddie): A collection of Web Capture the Flag challenges that I created for various CTFs at BPHC  
 [Vulnerability_Manager](https://github.com/GermanoFLeite/Vulnerability_Manager): 💻  É uma plataforma desenvolvida com a a finalidade de mostrar métricas e análises de fatores de riscos e vulnerabilidades em ativos para melhor produtividade  
-[YoutubeVideoHack](https://github.com/mishakorzik/YoutubeVideoHack): Install video in youtube for free
+[YoutubeVideoHack](https://github.com/mishakorzik/YoutubeVideoHack): Install video in youtube for free  
+[linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester): Search Exploitable Software on Linux
