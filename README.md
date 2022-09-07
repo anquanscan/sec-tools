@@ -4926,4 +4926,5 @@
 [misp-grafana](https://github.com/MISP/misp-grafana): A real-time Grafana dashboard using MISP ZeroMQ message queue and InfluxDB  
 [vncperlbot](https://github.com/ind3p3nd3nt/vncperlbot): Perl IRC Bot for scanning and exploiting VNC servers on several ports using Mojo::IRC module.  
 [Cabinet_of_Curiosities](https://github.com/ianliu-johnston/Cabinet_of_Curiosities): A Collection of Captured Malware.  
-[rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload): Upload files securely
+[rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload): Upload files securely  
+[D0x-K1t-v2](https://github.com/Roo7K1d/D0x-K1t-v2): Active reconaissance, information gathering and OSINT built in a portable web application test.
