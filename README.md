@@ -4935,4 +4935,5 @@
 [C2Break](https://github.com/AgainstTheWest/C2Break): C2Break database management exploit 04/11/2022  
 [Shellcode-Injector](https://github.com/chrispetrou/Shellcode-Injector): 💉 A tool that allows shellcode injection into another process's memory space. It works for both Windows x64 and x86 systems.  
 [BugBountyScanner](https://github.com/chvancooten/BugBountyScanner): A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.  
-[cryptography-misc-tools](https://github.com/Latonis/cryptography-misc-tools): Miscellaneous Cryptography Scripts I have Written or Acquired . Please feel free to fork/pull/whatever to increase the content.
+[cryptography-misc-tools](https://github.com/Latonis/cryptography-misc-tools): Miscellaneous Cryptography Scripts I have Written or Acquired . Please feel free to fork/pull/whatever to increase the content.  
+[Cybersecurity-gadgets](https://github.com/tsnsoft/Cybersecurity-gadgets): Кибербезопасность и мобильные устройства
