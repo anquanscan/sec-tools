@@ -4948,4 +4948,5 @@
 [rsa-breaker](https://github.com/fengtan/rsa-breaker): Command line tool to break weak RSA keys using Wiener's attack  
 [wordlist.rb](https://github.com/postmodern/wordlist.rb): A Ruby library and CLI for generating and working with wordlists.  
 [Oracle-BI-bugs](https://github.com/vah13/Oracle-BI-bugs)  
-[urlRecon](https://github.com/Srinivas11789/urlRecon): :pencil: urlRecon - Info Gathering or Recon tool for Urls  -> Retrieves  * Whois information of the domain   * DNS Details of the domain  * Server Fingerprint    * IP geolocation of the server
+[urlRecon](https://github.com/Srinivas11789/urlRecon): :pencil: urlRecon - Info Gathering or Recon tool for Urls  -> Retrieves  * Whois information of the domain   * DNS Details of the domain  * Server Fingerprint    * IP geolocation of the server  
+[MinerInTheMiddle](https://github.com/DotNetRussell/MinerInTheMiddle): This application was created as a POC for how to scan your local network traffic for HTTP requests and then inject various javascript cryptocurrency miners into the response payloads
