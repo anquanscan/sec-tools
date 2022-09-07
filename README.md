@@ -4938,4 +4938,5 @@
 [cryptography-misc-tools](https://github.com/Latonis/cryptography-misc-tools): Miscellaneous Cryptography Scripts I have Written or Acquired . Please feel free to fork/pull/whatever to increase the content.  
 [Cybersecurity-gadgets](https://github.com/tsnsoft/Cybersecurity-gadgets): Кибербезопасность и мобильные устройства  
 [Domain-generation-algorithms](https://github.com/vinayakumarr/Domain-generation-algorithms): Domain Generation Algorithms (DGAs) using traitional machine learning and deep learning  
-[Toroxy](https://github.com/Postuf/Toroxy): Tor-based proxy for linux
+[Toroxy](https://github.com/Postuf/Toroxy): Tor-based proxy for linux  
+[Skiddie](https://github.com/Aviral14/Skiddie): A collection of Web Capture the Flag challenges that I created for various CTFs at BPHC
