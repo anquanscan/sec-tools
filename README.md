@@ -4944,4 +4944,5 @@
 [YoutubeVideoHack](https://github.com/mishakorzik/YoutubeVideoHack): Install video in youtube for free  
 [linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester): Search Exploitable Software on Linux  
 [gen1cpu](https://github.com/ZYSF/gen1cpu): Finally, a CPU that isn't mind-numbingly complex. Batteries sold separately.  
-[avain](https://github.com/ra1nb0rn/avain): A Modular Framework for the Automated Vulnerability Analysis in IP-based Networks
+[avain](https://github.com/ra1nb0rn/avain): A Modular Framework for the Automated Vulnerability Analysis in IP-based Networks  
+[rsa-breaker](https://github.com/fengtan/rsa-breaker): Command line tool to break weak RSA keys using Wiener's attack
