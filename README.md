@@ -4924,4 +4924,5 @@
 [Fivem-Source](https://github.com/Fnoberz/Fivem-Source): 💉 : source for creating lua executor  
 [Horn3t](https://github.com/JannisKirschner/Horn3t): Powerful Visual Subdomain Enumeration at the Click of a Mouse  
 [misp-grafana](https://github.com/MISP/misp-grafana): A real-time Grafana dashboard using MISP ZeroMQ message queue and InfluxDB  
-[vncperlbot](https://github.com/ind3p3nd3nt/vncperlbot): Perl IRC Bot for scanning and exploiting VNC servers on several ports using Mojo::IRC module.
+[vncperlbot](https://github.com/ind3p3nd3nt/vncperlbot): Perl IRC Bot for scanning and exploiting VNC servers on several ports using Mojo::IRC module.  
+[Cabinet_of_Curiosities](https://github.com/ianliu-johnston/Cabinet_of_Curiosities): A Collection of Captured Malware.
