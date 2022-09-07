@@ -4943,4 +4943,5 @@
 [Vulnerability_Manager](https://github.com/GermanoFLeite/Vulnerability_Manager): 💻  É uma plataforma desenvolvida com a a finalidade de mostrar métricas e análises de fatores de riscos e vulnerabilidades em ativos para melhor produtividade  
 [YoutubeVideoHack](https://github.com/mishakorzik/YoutubeVideoHack): Install video in youtube for free  
 [linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester): Search Exploitable Software on Linux  
-[gen1cpu](https://github.com/ZYSF/gen1cpu): Finally, a CPU that isn't mind-numbingly complex. Batteries sold separately.
+[gen1cpu](https://github.com/ZYSF/gen1cpu): Finally, a CPU that isn't mind-numbingly complex. Batteries sold separately.  
+[avain](https://github.com/ra1nb0rn/avain): A Modular Framework for the Automated Vulnerability Analysis in IP-based Networks
