@@ -4953,4 +4953,5 @@
 [d7ead.github.io](https://github.com/D7EAD/d7ead.github.io)  
 [gomalshare](https://github.com/MonaxGT/gomalshare): Go library MalShare API  
 [blackeye](https://github.com/EricksonAtHome/blackeye): BLACKEYE v2.0 | New Phishing tool with localtunnel  
-[diffence](https://github.com/techjacker/diffence): Checks a git diff for offensive content
+[diffence](https://github.com/techjacker/diffence): Checks a git diff for offensive content  
+[dnsgo](https://github.com/grt1st/dnsgo): A dns server, small and cute. Use it to test web security such as dnslog and dns rebinding. it's kind of like ceye.io
