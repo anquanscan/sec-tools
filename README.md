@@ -4934,4 +4934,5 @@
 [Elkeid](https://github.com/bytedance/Elkeid): Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.   
 [C2Break](https://github.com/AgainstTheWest/C2Break): C2Break database management exploit 04/11/2022  
 [Shellcode-Injector](https://github.com/chrispetrou/Shellcode-Injector): 💉 A tool that allows shellcode injection into another process's memory space. It works for both Windows x64 and x86 systems.  
-[BugBountyScanner](https://github.com/chvancooten/BugBountyScanner): A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.
+[BugBountyScanner](https://github.com/chvancooten/BugBountyScanner): A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.  
+[cryptography-misc-tools](https://github.com/Latonis/cryptography-misc-tools): Miscellaneous Cryptography Scripts I have Written or Acquired . Please feel free to fork/pull/whatever to increase the content.
