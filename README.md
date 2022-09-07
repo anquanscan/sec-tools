@@ -4946,4 +4946,5 @@
 [gen1cpu](https://github.com/ZYSF/gen1cpu): Finally, a CPU that isn't mind-numbingly complex. Batteries sold separately.  
 [avain](https://github.com/ra1nb0rn/avain): A Modular Framework for the Automated Vulnerability Analysis in IP-based Networks  
 [rsa-breaker](https://github.com/fengtan/rsa-breaker): Command line tool to break weak RSA keys using Wiener's attack  
-[wordlist.rb](https://github.com/postmodern/wordlist.rb): A Ruby library and CLI for generating and working with wordlists.
+[wordlist.rb](https://github.com/postmodern/wordlist.rb): A Ruby library and CLI for generating and working with wordlists.  
+[Oracle-BI-bugs](https://github.com/vah13/Oracle-BI-bugs)
