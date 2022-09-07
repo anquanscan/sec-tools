@@ -4950,4 +4950,5 @@
 [Oracle-BI-bugs](https://github.com/vah13/Oracle-BI-bugs)  
 [urlRecon](https://github.com/Srinivas11789/urlRecon): :pencil: urlRecon - Info Gathering or Recon tool for Urls  -> Retrieves  * Whois information of the domain   * DNS Details of the domain  * Server Fingerprint    * IP geolocation of the server  
 [MinerInTheMiddle](https://github.com/DotNetRussell/MinerInTheMiddle): This application was created as a POC for how to scan your local network traffic for HTTP requests and then inject various javascript cryptocurrency miners into the response payloads  
-[d7ead.github.io](https://github.com/D7EAD/d7ead.github.io)
+[d7ead.github.io](https://github.com/D7EAD/d7ead.github.io)  
+[gomalshare](https://github.com/MonaxGT/gomalshare): Go library MalShare API
