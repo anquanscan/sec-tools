@@ -4930,4 +4930,5 @@
 [D0x-K1t-v2](https://github.com/Roo7K1d/D0x-K1t-v2): Active reconaissance, information gathering and OSINT built in a portable web application test.  
 [TH3KEN-EDITION](https://github.com/th3ken-dev/TH3KEN-EDITION)  
 [SafetyBackupSystem](https://github.com/nicholasmarasco95/SafetyBackupSystem): Safety Backup System is a project complete of Client, Server and Remote Access software, developed to improve security of users. It's extremely useful to prevent data loss in case of cyberattack or hardware malfunction. SBS can backup computer files and send them to a remote server or store them in an external device.  
-[Cyber-Security-Blog](https://github.com/LasCC/Cyber-Security-Blog): Personal blog about cyber security and challenges
+[Cyber-Security-Blog](https://github.com/LasCC/Cyber-Security-Blog): Personal blog about cyber security and challenges  
+[Elkeid](https://github.com/bytedance/Elkeid): Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
