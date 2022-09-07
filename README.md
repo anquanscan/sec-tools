@@ -4952,4 +4952,5 @@
 [MinerInTheMiddle](https://github.com/DotNetRussell/MinerInTheMiddle): This application was created as a POC for how to scan your local network traffic for HTTP requests and then inject various javascript cryptocurrency miners into the response payloads  
 [d7ead.github.io](https://github.com/D7EAD/d7ead.github.io)  
 [gomalshare](https://github.com/MonaxGT/gomalshare): Go library MalShare API  
-[blackeye](https://github.com/EricksonAtHome/blackeye): BLACKEYE v2.0 | New Phishing tool with localtunnel
+[blackeye](https://github.com/EricksonAtHome/blackeye): BLACKEYE v2.0 | New Phishing tool with localtunnel  
+[diffence](https://github.com/techjacker/diffence): Checks a git diff for offensive content
