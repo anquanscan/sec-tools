@@ -4955,4 +4955,5 @@
 [blackeye](https://github.com/EricksonAtHome/blackeye): BLACKEYE v2.0 | New Phishing tool with localtunnel  
 [diffence](https://github.com/techjacker/diffence): Checks a git diff for offensive content  
 [dnsgo](https://github.com/grt1st/dnsgo): A dns server, small and cute. Use it to test web security such as dnslog and dns rebinding. it's kind of like ceye.io  
-[TAIK](https://github.com/TERMUXID3/TAIK): Tool hack Dark FB tanpa lisensi
+[TAIK](https://github.com/TERMUXID3/TAIK): Tool hack Dark FB tanpa lisensi  
+[datree](https://github.com/datreeio/datree): Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io
