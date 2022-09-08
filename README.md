@@ -5000,4 +5000,5 @@
 [2FAtoTray](https://github.com/artginzburg/2FAtoTray):  Copy 2FA tokens in a click (macOS)  
 [8level-WRT-1200AC-firmware-tools](https://github.com/krzys-h/8level-WRT-1200AC-firmware-tools): Some tools for hacking 8level WRT-1200AC router firmware  
 [AutoRepeater](https://github.com/nccgroup/AutoRepeater): Automated HTTP Request Repeating With Burp Suite  
-[magic-qradar](https://github.com/tacosaure/magic-qradar): Powershell script to query IBM Qradar SIEM and to generate KPI
+[magic-qradar](https://github.com/tacosaure/magic-qradar): Powershell script to query IBM Qradar SIEM and to generate KPI  
+[pypentesting](https://github.com/chrispetrou/pypentesting): python tools to assist in penetration testing
