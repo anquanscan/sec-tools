@@ -4968,4 +4968,5 @@
 [Flask-Unsign-Wordlist](https://github.com/Paradoxis/Flask-Unsign-Wordlist): The following package is the standalone wordlist-only component to flask-unsign.  
 [ics-scada](https://github.com/clizSec/ics-scada): ICS and SCADA tools and exploits  
 [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets): Collection of the cheat sheets useful for pentesting  
-[icestick-glitcher](https://github.com/SySS-Research/icestick-glitcher): Simple voltage glitcher implementation for the Lattice iCEstick Evaluation Kit
+[icestick-glitcher](https://github.com/SySS-Research/icestick-glitcher): Simple voltage glitcher implementation for the Lattice iCEstick Evaluation Kit  
+[DuckyKiller](https://github.com/LandonPowell/DuckyKiller): Short Python script that attempts to neuter USB Rubber Duckies.
