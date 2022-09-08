@@ -4970,4 +4970,5 @@
 [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets): Collection of the cheat sheets useful for pentesting  
 [icestick-glitcher](https://github.com/SySS-Research/icestick-glitcher): Simple voltage glitcher implementation for the Lattice iCEstick Evaluation Kit  
 [DuckyKiller](https://github.com/LandonPowell/DuckyKiller): Short Python script that attempts to neuter USB Rubber Duckies.  
-[windows-malware-exe-blocker](https://github.com/y0g3sh-99/windows-malware-exe-blocker): This tool blocks well known exe, bat, com launchers / executables of malwares (Trojans, ransomwares, worms etc)
+[windows-malware-exe-blocker](https://github.com/y0g3sh-99/windows-malware-exe-blocker): This tool blocks well known exe, bat, com launchers / executables of malwares (Trojans, ransomwares, worms etc)  
+[dlint](https://github.com/dlint-py/dlint): Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.
