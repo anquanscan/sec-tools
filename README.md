@@ -4981,4 +4981,5 @@
 [CVE-2019-1458](https://github.com/unamer/CVE-2019-1458): CVE-2019-1458 Windows LPE Exploit  
 [Python-Ransomware](https://github.com/ncorbuk/Python-Ransomware): Python Ransomware Tutorial - YouTube tutorial explaining code + showcasing the ransomware with victim/target roles  
 [faraday_plugins](https://github.com/infobyte/faraday_plugins): Security tools report parsers for FaradaySEC  
-[zombiegang](https://github.com/r3nt0n/zombiegang): Botnet framework with modular and extensible architecture, task scheduler, remote shell live sessions and a retro look-feeling interface which makes it funny to use. By now, it includes keylogger, DDoS and bruteforce attacks. The project is still under development phase, I appreciate any contribution :)
+[zombiegang](https://github.com/r3nt0n/zombiegang): Botnet framework with modular and extensible architecture, task scheduler, remote shell live sessions and a retro look-feeling interface which makes it funny to use. By now, it includes keylogger, DDoS and bruteforce attacks. The project is still under development phase, I appreciate any contribution :)  
+[_petusawo_](https://github.com/Akoraye/_petusawo_): A tool to remove clutter from vulnerability scans 
