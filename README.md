@@ -4964,4 +4964,5 @@
 [depseeker](https://github.com/projectpandora/depseeker): depseeker is a fast and multi-purpose toolkit for finding npm dependencies in web applications, it is designed to maintain the result reliability with increased threads.  
 [PE-Miner](https://github.com/justalghamdi/PE-Miner): Code Cave Finder And Injector  
 [dvna](https://github.com/appsecco/dvna): Damn Vulnerable NodeJS Application  
-[virity](https://github.com/sharenowTech/virity): Automated Vulnerability Analysis and Disclosure of Docker Containers
+[virity](https://github.com/sharenowTech/virity): Automated Vulnerability Analysis and Disclosure of Docker Containers  
+[Flask-Unsign-Wordlist](https://github.com/Paradoxis/Flask-Unsign-Wordlist): The following package is the standalone wordlist-only component to flask-unsign.
