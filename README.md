@@ -4960,4 +4960,5 @@
 [Aaia](https://github.com/rams3sh/Aaia): AWS Identity and Access Management Visualizer and Anomaly Finder  
 [DevelopersSecurityBestPractices](https://github.com/sqreen/DevelopersSecurityBestPractices)  
 [tuersteher](https://github.com/hazelfazel/tuersteher): Türsteher is a free powerful Windows kernel driver for comprehensive application control a.k.a. executable white- and blacklisting.  
-[Capture-The-Flag](https://github.com/LeKSuS-04/Capture-The-Flag): :triangular_flag_on_post: Scripts, files, logs and everything else I have left after participating in different CTFs
+[Capture-The-Flag](https://github.com/LeKSuS-04/Capture-The-Flag): :triangular_flag_on_post: Scripts, files, logs and everything else I have left after participating in different CTFs  
+[depseeker](https://github.com/projectpandora/depseeker): depseeker is a fast and multi-purpose toolkit for finding npm dependencies in web applications, it is designed to maintain the result reliability with increased threads.
