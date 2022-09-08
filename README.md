@@ -4958,4 +4958,5 @@
 [TAIK](https://github.com/TERMUXID3/TAIK): Tool hack Dark FB tanpa lisensi  
 [datree](https://github.com/datreeio/datree): Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io  
 [Aaia](https://github.com/rams3sh/Aaia): AWS Identity and Access Management Visualizer and Anomaly Finder  
-[DevelopersSecurityBestPractices](https://github.com/sqreen/DevelopersSecurityBestPractices)
+[DevelopersSecurityBestPractices](https://github.com/sqreen/DevelopersSecurityBestPractices)  
+[tuersteher](https://github.com/hazelfazel/tuersteher): Türsteher is a free powerful Windows kernel driver for comprehensive application control a.k.a. executable white- and blacklisting.
