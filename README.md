@@ -4979,4 +4979,5 @@
 [windows_hardening](https://github.com/0x6d69636b/windows_hardening): HardeningKitty and Windows Hardening settings and configurations  
 [boomerang](https://github.com/EmersonElectricCo/boomerang): A tool designed for consistent and safe capture of off network web resources.  
 [CVE-2019-1458](https://github.com/unamer/CVE-2019-1458): CVE-2019-1458 Windows LPE Exploit  
-[Python-Ransomware](https://github.com/ncorbuk/Python-Ransomware): Python Ransomware Tutorial - YouTube tutorial explaining code + showcasing the ransomware with victim/target roles
+[Python-Ransomware](https://github.com/ncorbuk/Python-Ransomware): Python Ransomware Tutorial - YouTube tutorial explaining code + showcasing the ransomware with victim/target roles  
+[faraday_plugins](https://github.com/infobyte/faraday_plugins): Security tools report parsers for FaradaySEC
