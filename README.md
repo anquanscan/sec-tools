@@ -4985,4 +4985,5 @@
 [_petusawo_](https://github.com/Akoraye/_petusawo_): A tool to remove clutter from vulnerability scans   
 [firezone](https://github.com/firezone/firezone): WireGuard®-based VPN server and firewall  
 [kingfisher](https://github.com/artem94m/kingfisher): Simple Python 3 static code analyzer.  
-[layer-zero-unlv.github.io](https://github.com/layer-zero-unlv/layer-zero-unlv.github.io): layer-zero's webpage
+[layer-zero-unlv.github.io](https://github.com/layer-zero-unlv/layer-zero-unlv.github.io): layer-zero's webpage  
+[OpenVAS-Docker](https://github.com/Secure-Compliance-Solutions-LLC/OpenVAS-Docker): A Docker Image For the Open Vulnerability Assessment Scanner (OpenVAS)
