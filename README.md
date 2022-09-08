@@ -4975,4 +4975,5 @@
 [zeek-otx](https://github.com/SackOfHacks/zeek-otx): Repository of scripts to add AlienVault's OTX intel feed to Zeek and Security Onion 2  
 [revshfuzz](https://github.com/PinkP4nther/revshfuzz): A tool for fuzzing for ports that allow outgoing connections  
 [heimdall-lite](https://github.com/mitre/heimdall-lite): Heimdall Lite 2.0 is a JavaScript based security results viewer and review tool supporting multiple security results formats, such as: InSpec, SonarQube, OWASP-Zap and Fortify which you can load locally, from S3 and other data sources.  
-[pyup-django](https://github.com/pyupio/pyup-django): Displays a red warning banner if you are running an insecure Django release.
+[pyup-django](https://github.com/pyupio/pyup-django): Displays a red warning banner if you are running an insecure Django release.  
+[windows_hardening](https://github.com/0x6d69636b/windows_hardening): HardeningKitty and Windows Hardening settings and configurations
