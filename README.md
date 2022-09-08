@@ -4966,4 +4966,5 @@
 [dvna](https://github.com/appsecco/dvna): Damn Vulnerable NodeJS Application  
 [virity](https://github.com/sharenowTech/virity): Automated Vulnerability Analysis and Disclosure of Docker Containers  
 [Flask-Unsign-Wordlist](https://github.com/Paradoxis/Flask-Unsign-Wordlist): The following package is the standalone wordlist-only component to flask-unsign.  
-[ics-scada](https://github.com/clizSec/ics-scada): ICS and SCADA tools and exploits
+[ics-scada](https://github.com/clizSec/ics-scada): ICS and SCADA tools and exploits  
+[awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets): Collection of the cheat sheets useful for pentesting
