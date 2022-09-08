@@ -4983,4 +4983,5 @@
 [faraday_plugins](https://github.com/infobyte/faraday_plugins): Security tools report parsers for FaradaySEC  
 [zombiegang](https://github.com/r3nt0n/zombiegang): Botnet framework with modular and extensible architecture, task scheduler, remote shell live sessions and a retro look-feeling interface which makes it funny to use. By now, it includes keylogger, DDoS and bruteforce attacks. The project is still under development phase, I appreciate any contribution :)  
 [_petusawo_](https://github.com/Akoraye/_petusawo_): A tool to remove clutter from vulnerability scans   
-[firezone](https://github.com/firezone/firezone): WireGuard®-based VPN server and firewall
+[firezone](https://github.com/firezone/firezone): WireGuard®-based VPN server and firewall  
+[kingfisher](https://github.com/artem94m/kingfisher): Simple Python 3 static code analyzer.
