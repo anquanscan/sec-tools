@@ -4977,4 +4977,5 @@
 [heimdall-lite](https://github.com/mitre/heimdall-lite): Heimdall Lite 2.0 is a JavaScript based security results viewer and review tool supporting multiple security results formats, such as: InSpec, SonarQube, OWASP-Zap and Fortify which you can load locally, from S3 and other data sources.  
 [pyup-django](https://github.com/pyupio/pyup-django): Displays a red warning banner if you are running an insecure Django release.  
 [windows_hardening](https://github.com/0x6d69636b/windows_hardening): HardeningKitty and Windows Hardening settings and configurations  
-[boomerang](https://github.com/EmersonElectricCo/boomerang): A tool designed for consistent and safe capture of off network web resources.
+[boomerang](https://github.com/EmersonElectricCo/boomerang): A tool designed for consistent and safe capture of off network web resources.  
+[CVE-2019-1458](https://github.com/unamer/CVE-2019-1458): CVE-2019-1458 Windows LPE Exploit
