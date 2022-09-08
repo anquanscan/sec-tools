@@ -4957,4 +4957,5 @@
 [dnsgo](https://github.com/grt1st/dnsgo): A dns server, small and cute. Use it to test web security such as dnslog and dns rebinding. it's kind of like ceye.io  
 [TAIK](https://github.com/TERMUXID3/TAIK): Tool hack Dark FB tanpa lisensi  
 [datree](https://github.com/datreeio/datree): Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io  
-[Aaia](https://github.com/rams3sh/Aaia): AWS Identity and Access Management Visualizer and Anomaly Finder
+[Aaia](https://github.com/rams3sh/Aaia): AWS Identity and Access Management Visualizer and Anomaly Finder  
+[DevelopersSecurityBestPractices](https://github.com/sqreen/DevelopersSecurityBestPractices)
