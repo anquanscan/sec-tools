@@ -4988,4 +4988,5 @@
 [layer-zero-unlv.github.io](https://github.com/layer-zero-unlv/layer-zero-unlv.github.io): layer-zero's webpage  
 [OpenVAS-Docker](https://github.com/Secure-Compliance-Solutions-LLC/OpenVAS-Docker): A Docker Image For the Open Vulnerability Assessment Scanner (OpenVAS)  
 [FastDork](https://github.com/SKVNDR/FastDork): ⚡Chrome extension allows you to create lists of Google and Github dork to open multiple tabs with one click, import "scope/out of scope" from #HackerOne #Bugcrowd #Intigriti ...  
-[mumble-selinux](https://github.com/georou/mumble-selinux): Mumble/mumur daemon server SELinux policy module for CentOS 7 & RHEL 7 systems
+[mumble-selinux](https://github.com/georou/mumble-selinux): Mumble/mumur daemon server SELinux policy module for CentOS 7 & RHEL 7 systems  
+[noscan](https://github.com/puerco/noscan): the simplest vulnerability scanner available
