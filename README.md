@@ -4972,4 +4972,5 @@
 [DuckyKiller](https://github.com/LandonPowell/DuckyKiller): Short Python script that attempts to neuter USB Rubber Duckies.  
 [windows-malware-exe-blocker](https://github.com/y0g3sh-99/windows-malware-exe-blocker): This tool blocks well known exe, bat, com launchers / executables of malwares (Trojans, ransomwares, worms etc)  
 [dlint](https://github.com/dlint-py/dlint): Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.  
-[zeek-otx](https://github.com/SackOfHacks/zeek-otx): Repository of scripts to add AlienVault's OTX intel feed to Zeek and Security Onion 2
+[zeek-otx](https://github.com/SackOfHacks/zeek-otx): Repository of scripts to add AlienVault's OTX intel feed to Zeek and Security Onion 2  
+[revshfuzz](https://github.com/PinkP4nther/revshfuzz): A tool for fuzzing for ports that allow outgoing connections
