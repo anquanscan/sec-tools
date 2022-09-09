@@ -5010,4 +5010,5 @@
 [incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template): A concise, directive, specific, flexible, and free incident response plan template  
 [huskyCI-dashboard](https://github.com/globocom/huskyCI-dashboard): Frontend to display data from huskyCI analyses  
 [back-end-api-music-player](https://github.com/rodri-oliveira-dev/back-end-api-music-player): Sistema de Playlist de músicas com o objetivo de treinamento em Micro Serviços, Redis e DotNet Core  
-[antiprop_basic](https://github.com/Anti-Prop/antiprop_basic): If you don't know how to run the code, read the README.md file.
+[antiprop_basic](https://github.com/Anti-Prop/antiprop_basic): If you don't know how to run the code, read the README.md file.  
+[OtpForwarder](https://github.com/mistarA/OtpForwarder): An application used to forward OTP, to a specific number. Only those SMS’s are considered which gets generated from the mentioned service provider.  Needs SMS Permission.
