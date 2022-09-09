@@ -5014,4 +5014,5 @@
 [OtpForwarder](https://github.com/mistarA/OtpForwarder): An application used to forward OTP, to a specific number. Only those SMS’s are considered which gets generated from the mentioned service provider.  Needs SMS Permission.  
 [atlant-api](https://github.com/F-Secure/atlant-api): F-Secure Atlant API Examples  
 [BobEXP-Security](https://github.com/BobEXP/BobEXP-Security): Advance Windows Cyber Security Suite  
-[HatSploit](https://github.com/EntySec/HatSploit): Modular penetration testing platform that enables you to write, test, and execute exploit code.
+[HatSploit](https://github.com/EntySec/HatSploit): Modular penetration testing platform that enables you to write, test, and execute exploit code.  
+[Bark](https://github.com/Sloobot/Bark): Bark Toolkit is a toolkit wich provides Denial-of-service attacks, SMS attacks and more.
