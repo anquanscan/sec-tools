@@ -5019,4 +5019,5 @@
 [Vutils](https://github.com/vic4key/Vutils): Vutils or Vic Utilities is an utility library written in Modern C++ and for Modern C++. It helps your programming go easier, faster, and simpler.  
 [dircat](https://github.com/momos1337/dircat): simple code directory brute   
 [FormationVideo](https://github.com/jasonchampagne/FormationVideo): Contenus et ressources de la chaîne FormationVidéo (YouTube)  
-[S-DES-simulator](https://github.com/zi-gae/S-DES-simulator): its S-DES simulator for college students
+[S-DES-simulator](https://github.com/zi-gae/S-DES-simulator): its S-DES simulator for college students  
+[learnMorePython3TheHardWay](https://github.com/kei01138/learnMorePython3TheHardWay): 더 탄탄하게 배우는 파이썬 3 - 초짜 파이썬 프로그래머가 다음 단계로 가는 책
