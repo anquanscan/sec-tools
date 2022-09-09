@@ -5035,4 +5035,5 @@
 [autoscan](https://github.com/Shad0wMazt3r/autoscan): It is a simple scanner for Penetration testing and it automates the reconnaissance project.   
 [password-compiler](https://github.com/alfanoandrea/password-compiler): password generator  
 [FilterDriver](https://github.com/EaseFilter/FilterDriver): A File System Filter Driver for file I/O monitors, file access control, transparent file encryption.  
-[Flipd-Hacker](https://github.com/avdaredevil/Flipd-Hacker): Automated Web-Bot that solves all Flipd Tests for you [Late/Current]. Gives you full control over what tests/assignments to solve. Intuitive GUI. Uses hybrid of web-content-scraping, Com objects, and web-requests.
+[Flipd-Hacker](https://github.com/avdaredevil/Flipd-Hacker): Automated Web-Bot that solves all Flipd Tests for you [Late/Current]. Gives you full control over what tests/assignments to solve. Intuitive GUI. Uses hybrid of web-content-scraping, Com objects, and web-requests.  
+[fleex](https://github.com/FleexSecurity/fleex): Fleex allows you to create multiple VPS on cloud providers and use them to distribute your workload.
