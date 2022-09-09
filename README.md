@@ -5007,4 +5007,5 @@
 [openc2-json-schema](https://github.com/bberliner/openc2-json-schema): An open-source JSON-Schema validator test suite and command-line tool for OpenC2  
 [nyxgeek-readinglist](https://github.com/nyxgeek/nyxgeek-readinglist): hacker folklore, history, and culture  
 [corsair_scan](https://github.com/Santandersecurityresearch/corsair_scan): Corsair_scan is a security tool to test Cross-Origin Resource Sharing (CORS).  
-[incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template): A concise, directive, specific, flexible, and free incident response plan template
+[incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template): A concise, directive, specific, flexible, and free incident response plan template  
+[huskyCI-dashboard](https://github.com/globocom/huskyCI-dashboard): Frontend to display data from huskyCI analyses
