@@ -5031,4 +5031,5 @@
 [OneListForAll](https://github.com/six2dez/OneListForAll): Rockyou for web fuzzing  
 [cyber-security-reading](https://github.com/ruxiz2020/cyber-security-reading)  
 [IncidentsMindMaps](https://github.com/jipegit/IncidentsMindMaps): Cybersecurity Incidents Mind Maps  
-[bbot](https://github.com/blacklanternsecurity/bbot): OSINT automation for hackers.
+[bbot](https://github.com/blacklanternsecurity/bbot): OSINT automation for hackers.  
+[autoscan](https://github.com/Shad0wMazt3r/autoscan): It is a simple scanner for Penetration testing and it automates the reconnaissance project. 
