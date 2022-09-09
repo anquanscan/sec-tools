@@ -5026,4 +5026,5 @@
 [Gamehacking-PlayBook](https://github.com/rhshattered/Gamehacking-PlayBook): This is basically just a guide with some code snippets that are very commonly used amongst the game hacking community.  
 [misp-dashboard](https://github.com/MISP/misp-dashboard): A dashboard for a real-time overview of threat intelligence from MISP instances  
 [WireCrack](https://github.com/proxyanon/WireCrack): Pentest tool com foco em teste de intrusão em redes wireless para Windows  
-[renovate-docker](https://github.com/GregorLaber/renovate-docker): PoC Renovate updates Docker images (e.g. Dockerfile, Docker-Compose, K8s Manifest)
+[renovate-docker](https://github.com/GregorLaber/renovate-docker): PoC Renovate updates Docker images (e.g. Dockerfile, Docker-Compose, K8s Manifest)  
+[Secure-File-Upload](https://github.com/rudypalacios/Secure-File-Upload): Cargar imágenes de forma segura y crear miniaturas – Secure image upload and thumbnail creation
