@@ -5023,4 +5023,5 @@
 [learnMorePython3TheHardWay](https://github.com/kei01138/learnMorePython3TheHardWay): 더 탄탄하게 배우는 파이썬 3 - 초짜 파이썬 프로그래머가 다음 단계로 가는 책  
 [lldap](https://github.com/nitnelave/lldap): Light LDAP implementation  
 [rstthreats](https://github.com/rstcloud/rstthreats): Aggregated Indicators of Compromise collected and cross-verified from multiple open and community-supported sources, enriched and ranked using our intelligence platform for you. Threat Intelligence, Threat feed, Open source feed.  
-[Gamehacking-PlayBook](https://github.com/rhshattered/Gamehacking-PlayBook): This is basically just a guide with some code snippets that are very commonly used amongst the game hacking community.
+[Gamehacking-PlayBook](https://github.com/rhshattered/Gamehacking-PlayBook): This is basically just a guide with some code snippets that are very commonly used amongst the game hacking community.  
+[misp-dashboard](https://github.com/MISP/misp-dashboard): A dashboard for a real-time overview of threat intelligence from MISP instances
