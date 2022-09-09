@@ -5015,4 +5015,5 @@
 [atlant-api](https://github.com/F-Secure/atlant-api): F-Secure Atlant API Examples  
 [BobEXP-Security](https://github.com/BobEXP/BobEXP-Security): Advance Windows Cyber Security Suite  
 [HatSploit](https://github.com/EntySec/HatSploit): Modular penetration testing platform that enables you to write, test, and execute exploit code.  
-[Bark](https://github.com/Sloobot/Bark): Bark Toolkit is a toolkit wich provides Denial-of-service attacks, SMS attacks and more.
+[Bark](https://github.com/Sloobot/Bark): Bark Toolkit is a toolkit wich provides Denial-of-service attacks, SMS attacks and more.  
+[Vutils](https://github.com/vic4key/Vutils): Vutils or Vic Utilities is an utility library written in Modern C++ and for Modern C++. It helps your programming go easier, faster, and simpler.
