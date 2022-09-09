@@ -5033,4 +5033,5 @@
 [IncidentsMindMaps](https://github.com/jipegit/IncidentsMindMaps): Cybersecurity Incidents Mind Maps  
 [bbot](https://github.com/blacklanternsecurity/bbot): OSINT automation for hackers.  
 [autoscan](https://github.com/Shad0wMazt3r/autoscan): It is a simple scanner for Penetration testing and it automates the reconnaissance project.   
-[password-compiler](https://github.com/alfanoandrea/password-compiler): password generator
+[password-compiler](https://github.com/alfanoandrea/password-compiler): password generator  
+[FilterDriver](https://github.com/EaseFilter/FilterDriver): A File System Filter Driver for file I/O monitors, file access control, transparent file encryption.
