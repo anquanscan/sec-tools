@@ -5051,4 +5051,5 @@
 [minemu](https://github.com/brainsmoke/minemu): Minemu is a minimal emulator for dynamic taint analysis ( this is a mirror of https://minemu.org/code/minemu.git )  
 [permify](https://github.com/Permify/permify): Permify is an open-source authorization service & policy engine based on Google Zanzibar.  
 [All-In-One-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources): List of CyberSecurity Resources and some different Sub-Sets of CyberSecurity   
-[hijackgan](https://github.com/a514514772/hijackgan): [CVPR 2021] Pytorch implementation of Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs
+[hijackgan](https://github.com/a514514772/hijackgan): [CVPR 2021] Pytorch implementation of Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs  
+[dumptask](https://github.com/cyring/dumptask): A simple kernel module to dump the tasks
