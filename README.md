@@ -5063,4 +5063,5 @@
 [The-Edge](https://github.com/Rhi7/The-Edge): The Edge - Simple find Admin Login Website with Multithreading  
 [nats-account-server](https://github.com/nats-io/nats-account-server): A simple HTTP/NATS server to host JWTs for nats-server 2.0 account authentication.  
 [JourneyToLowCode-NoCodeApplicationSecurity](https://github.com/IBMDeveloperMEA/JourneyToLowCode-NoCodeApplicationSecurity): This series will focus on how to easily add authentication to web apps with zero code changes and no redeploy, how to secure a Spring boot Application and lastly how to Ensure that the correct people have the approved access to sensitive data of an application.   
-[WebRTC-Leak](https://github.com/VoidSec/WebRTC-Leak): Check if your VPN leaks your IP address via the WebRTC technology
+[WebRTC-Leak](https://github.com/VoidSec/WebRTC-Leak): Check if your VPN leaks your IP address via the WebRTC technology  
+[MyJWT](https://github.com/tyki6/MyJWT): A cli for cracking, testing vulnerabilities on Json Web Token(JWT)
