@@ -5041,4 +5041,5 @@
 [wwwtf](https://github.com/AnikHasibul/wwwtf): Basic forensic script for hacking the world wide web. Nothing special but a tool to get the initial idea about your target.  
 [Network-Hacking-Toolkit](https://github.com/ParikhKadam/Network-Hacking-Toolkit): This toolkit is built with an aim of easily being used by beginners in hacking networks. It is written in Python3 and hence the begineers don't need to use special OS like Kali or Parrot. Learn Hacking the easy way..  
 [Inquisition](https://github.com/magneticstain/Inquisition): An advanced and versatile open-source network anomaly detection platform  
-[GimKit-Hacks](https://github.com/rxzyx/GimKit-Hacks): The best hack for Gimkit.com you can find!
+[GimKit-Hacks](https://github.com/rxzyx/GimKit-Hacks): The best hack for Gimkit.com you can find!  
+[UGFraud](https://github.com/safe-graph/UGFraud): An Unsupervised Graph-based Toolbox for Fraud Detection
