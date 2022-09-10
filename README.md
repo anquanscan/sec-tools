@@ -5039,4 +5039,5 @@
 [fleex](https://github.com/FleexSecurity/fleex): Fleex allows you to create multiple VPS on cloud providers and use them to distribute your workload.  
 [Password-Locker](https://github.com/vaithak/Password-Locker): A cli password storer and manager.  
 [wwwtf](https://github.com/AnikHasibul/wwwtf): Basic forensic script for hacking the world wide web. Nothing special but a tool to get the initial idea about your target.  
-[Network-Hacking-Toolkit](https://github.com/ParikhKadam/Network-Hacking-Toolkit): This toolkit is built with an aim of easily being used by beginners in hacking networks. It is written in Python3 and hence the begineers don't need to use special OS like Kali or Parrot. Learn Hacking the easy way..
+[Network-Hacking-Toolkit](https://github.com/ParikhKadam/Network-Hacking-Toolkit): This toolkit is built with an aim of easily being used by beginners in hacking networks. It is written in Python3 and hence the begineers don't need to use special OS like Kali or Parrot. Learn Hacking the easy way..  
+[Inquisition](https://github.com/magneticstain/Inquisition): An advanced and versatile open-source network anomaly detection platform
