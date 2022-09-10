@@ -5047,4 +5047,5 @@
 [MifareClassicTool](https://github.com/ikarus23/MifareClassicTool): An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.  
 [modernhacker](https://github.com/LOZORD/modernhacker): A hacker typer for the modern era  
 [cehv9](https://github.com/yeahhub/cehv9): CEHv9 - Practice Exam Questions with Answers  
-[Wordpress-Augmented-Reality-Plugin-RCE-Unauthenticated](https://github.com/unCodeBoss/Wordpress-Augmented-Reality-Plugin-RCE-Unauthenticated): Coded By CodeBoss - Our Channel - t.me/codeb0ss
+[Wordpress-Augmented-Reality-Plugin-RCE-Unauthenticated](https://github.com/unCodeBoss/Wordpress-Augmented-Reality-Plugin-RCE-Unauthenticated): Coded By CodeBoss - Our Channel - t.me/codeb0ss  
+[minemu](https://github.com/brainsmoke/minemu): Minemu is a minimal emulator for dynamic taint analysis ( this is a mirror of https://minemu.org/code/minemu.git )
