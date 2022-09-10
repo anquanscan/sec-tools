@@ -5057,4 +5057,5 @@
 [wp-audit](https://github.com/m3nu/wp-audit): Audit the versions of your Wordpress sites to find old, vulnerable versions.  
 [Hconsole-Public](https://github.com/Copy05/Hconsole-Public): Hconsole is a terminal  
 [mod0BurpUploadScanner](https://github.com/modzero/mod0BurpUploadScanner): HTTP file upload scanner for Burp Proxy  
-[AVCDL](https://github.com/nutonomy/AVCDL): This repository contains material related to the Autonomous Vehicle Cybersecurity Development Lifecycle (AVCDL)
+[AVCDL](https://github.com/nutonomy/AVCDL): This repository contains material related to the Autonomous Vehicle Cybersecurity Development Lifecycle (AVCDL)  
+[terraform-incapsula-sites](https://github.com/joeymoore/terraform-incapsula-sites): This module can be used to create protected web-site(s) in Imperva CWAF. Default settings can be overridden when inheriting the module in your project.
