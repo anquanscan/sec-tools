@@ -5067,4 +5067,5 @@
 [MyJWT](https://github.com/tyki6/MyJWT): A cli for cracking, testing vulnerabilities on Json Web Token(JWT)  
 [Bot-Bounty](https://github.com/Drayko/Bot-Bounty): Python Script for Telegram Bot is specially built for pentest & bug bounty. It's like a telegram shell.  
 [shellcode-analysis](https://github.com/dc401/shellcode-analysis): This repo hosts basic win32 compatible and visual studio C based shell code for an article on analysis  
-[FileChanger](https://github.com/NoahGWood/FileChanger): FileChanger is a script designed for Linux systems to demonstrate the unreliability of data-forensics by manipulating file timestamps on the EXT-4 filesystem
+[FileChanger](https://github.com/NoahGWood/FileChanger): FileChanger is a script designed for Linux systems to demonstrate the unreliability of data-forensics by manipulating file timestamps on the EXT-4 filesystem  
+[Exploit_Finder](https://github.com/B4rC0d/Exploit_Finder): This is a Script for Exploit Search
