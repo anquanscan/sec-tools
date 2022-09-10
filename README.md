@@ -5055,4 +5055,5 @@
 [dumptask](https://github.com/cyring/dumptask): A simple kernel module to dump the tasks  
 [theway](https://github.com/jbaines-r7/theway): A tool for extracting, modifying, and crafting ASDM binary packages (CVE-2022-20829)  
 [wp-audit](https://github.com/m3nu/wp-audit): Audit the versions of your Wordpress sites to find old, vulnerable versions.  
-[Hconsole-Public](https://github.com/Copy05/Hconsole-Public): Hconsole is a terminal
+[Hconsole-Public](https://github.com/Copy05/Hconsole-Public): Hconsole is a terminal  
+[mod0BurpUploadScanner](https://github.com/modzero/mod0BurpUploadScanner): HTTP file upload scanner for Burp Proxy
