@@ -5044,4 +5044,5 @@
 [GimKit-Hacks](https://github.com/rxzyx/GimKit-Hacks): The best hack for Gimkit.com you can find!  
 [UGFraud](https://github.com/safe-graph/UGFraud): An Unsupervised Graph-based Toolbox for Fraud Detection  
 [PortScanner-Syn-Flood](https://github.com/22Bassel/PortScanner-Syn-Flood): in the first code (porstScanner) ,it builds tcp packet using c. the flag in the packet will be syn ( the first step of handshake in tcp) .then send it , if it gets ACK replay that means the port is open. After that it sends nothing . that makes an open connection. another file ( synflood ) to do syn flood attack .in simple words, it sends a lot of packets to open port until it's flood  
-[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool): An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
+[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool): An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.  
+[modernhacker](https://github.com/LOZORD/modernhacker): A hacker typer for the modern era
