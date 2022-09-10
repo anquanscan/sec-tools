@@ -5061,4 +5061,5 @@
 [terraform-incapsula-sites](https://github.com/joeymoore/terraform-incapsula-sites): This module can be used to create protected web-site(s) in Imperva CWAF. Default settings can be overridden when inheriting the module in your project.  
 [Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide): Digital Forensics Guide  
 [The-Edge](https://github.com/Rhi7/The-Edge): The Edge - Simple find Admin Login Website with Multithreading  
-[nats-account-server](https://github.com/nats-io/nats-account-server): A simple HTTP/NATS server to host JWTs for nats-server 2.0 account authentication.
+[nats-account-server](https://github.com/nats-io/nats-account-server): A simple HTTP/NATS server to host JWTs for nats-server 2.0 account authentication.  
+[JourneyToLowCode-NoCodeApplicationSecurity](https://github.com/IBMDeveloperMEA/JourneyToLowCode-NoCodeApplicationSecurity): This series will focus on how to easily add authentication to web apps with zero code changes and no redeploy, how to secure a Spring boot Application and lastly how to Ensure that the correct people have the approved access to sensitive data of an application. 
