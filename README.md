@@ -5080,4 +5080,5 @@
 [gastori.github.io](https://github.com/gastori/gastori.github.io)  
 [MALWARE-DETECTION-FINAL-YEAR-PROJECT](https://github.com/Vatshayan/MALWARE-DETECTION-FINAL-YEAR-PROJECT): Final Year Malware Detection Project with PPT, Research Paper, code and Synopsis. Malware detection project by Machine Learning ALgorithms.  
 [logfishh](https://github.com/SVelizDonoso/logfishh): Logs Forensic Investigator SSH  
-[ntlm-directory-finder](https://github.com/aniketpr/ntlm-directory-finder)
+[ntlm-directory-finder](https://github.com/aniketpr/ntlm-directory-finder)  
+[Custom-Kernel-Exploit](https://github.com/nishantparhi/Custom-Kernel-Exploit): Custom Linux Kernel exploited by custom exploit
