@@ -5071,4 +5071,5 @@
 [Exploit_Finder](https://github.com/B4rC0d/Exploit_Finder): This is a Script for Exploit Search  
 [Secure-Password-Generator](https://github.com/pH7Software/Secure-Password-Generator): 🔐 A simple way to generate random passwords. Compatible with PHP 5.6+  
 [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit): A framework like a metasploit containg a variety of modules for pentesting or ethical hacking. This repo willl be updated and new modules will be added time to time.  
-[A2-BadIPs](https://github.com/polynamaude/A2-BadIPs): A2-BadIPs Apache 2 .htaccess file generator for blocking black-listed IPs.
+[A2-BadIPs](https://github.com/polynamaude/A2-BadIPs): A2-BadIPs Apache 2 .htaccess file generator for blocking black-listed IPs.  
+[stanford-engineering-computer-science](https://github.com/shawna-tuli-uci-kellogg/stanford-engineering-computer-science): [Computer Science] S15 Stanford Engineering | I graduated with a Certificate in Engineering in Computer Science from Stanford University for top Math and CS high school students in Silicon Valley.
