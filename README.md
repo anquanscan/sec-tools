@@ -5073,4 +5073,5 @@
 [Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit): A framework like a metasploit containg a variety of modules for pentesting or ethical hacking. This repo willl be updated and new modules will be added time to time.  
 [A2-BadIPs](https://github.com/polynamaude/A2-BadIPs): A2-BadIPs Apache 2 .htaccess file generator for blocking black-listed IPs.  
 [stanford-engineering-computer-science](https://github.com/shawna-tuli-uci-kellogg/stanford-engineering-computer-science): [Computer Science] S15 Stanford Engineering | I graduated with a Certificate in Engineering in Computer Science from Stanford University for top Math and CS high school students in Silicon Valley.  
-[candyCBT-Exploit-Scanner](https://github.com/0xtbug/candyCBT-Exploit-Scanner): A tool to scan websites that use candyCBT
+[candyCBT-Exploit-Scanner](https://github.com/0xtbug/candyCBT-Exploit-Scanner): A tool to scan websites that use candyCBT  
+[RTSPiOS](https://github.com/RyanBalfanz/RTSPiOS): A Raspberry Pi distribution that turns your Pi in to an RTSP server (e.g. security camera)
