@@ -5069,4 +5069,5 @@
 [shellcode-analysis](https://github.com/dc401/shellcode-analysis): This repo hosts basic win32 compatible and visual studio C based shell code for an article on analysis  
 [FileChanger](https://github.com/NoahGWood/FileChanger): FileChanger is a script designed for Linux systems to demonstrate the unreliability of data-forensics by manipulating file timestamps on the EXT-4 filesystem  
 [Exploit_Finder](https://github.com/B4rC0d/Exploit_Finder): This is a Script for Exploit Search  
-[Secure-Password-Generator](https://github.com/pH7Software/Secure-Password-Generator): 🔐 A simple way to generate random passwords. Compatible with PHP 5.6+
+[Secure-Password-Generator](https://github.com/pH7Software/Secure-Password-Generator): 🔐 A simple way to generate random passwords. Compatible with PHP 5.6+  
+[Cyber-Sploit](https://github.com/Cyber-Dioxide/Cyber-Sploit): A framework like a metasploit containg a variety of modules for pentesting or ethical hacking. This repo willl be updated and new modules will be added time to time.
