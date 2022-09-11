@@ -5076,4 +5076,5 @@
 [candyCBT-Exploit-Scanner](https://github.com/0xtbug/candyCBT-Exploit-Scanner): A tool to scan websites that use candyCBT  
 [RTSPiOS](https://github.com/RyanBalfanz/RTSPiOS): A Raspberry Pi distribution that turns your Pi in to an RTSP server (e.g. security camera)  
 [AIRMASTER](https://github.com/t94j0/AIRMASTER): Use ExpiredDomains.net and BlueCoat to find useful domains for red team.  
-[RedPython](https://github.com/sucyfer/RedPython): All cybersecurity-oriented python3 libraries at one place
+[RedPython](https://github.com/sucyfer/RedPython): All cybersecurity-oriented python3 libraries at one place  
+[gastori.github.io](https://github.com/gastori/gastori.github.io)
