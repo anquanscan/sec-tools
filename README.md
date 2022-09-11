@@ -5078,4 +5078,5 @@
 [AIRMASTER](https://github.com/t94j0/AIRMASTER): Use ExpiredDomains.net and BlueCoat to find useful domains for red team.  
 [RedPython](https://github.com/sucyfer/RedPython): All cybersecurity-oriented python3 libraries at one place  
 [gastori.github.io](https://github.com/gastori/gastori.github.io)  
-[MALWARE-DETECTION-FINAL-YEAR-PROJECT](https://github.com/Vatshayan/MALWARE-DETECTION-FINAL-YEAR-PROJECT): Final Year Malware Detection Project with PPT, Research Paper, code and Synopsis. Malware detection project by Machine Learning ALgorithms.
+[MALWARE-DETECTION-FINAL-YEAR-PROJECT](https://github.com/Vatshayan/MALWARE-DETECTION-FINAL-YEAR-PROJECT): Final Year Malware Detection Project with PPT, Research Paper, code and Synopsis. Malware detection project by Machine Learning ALgorithms.  
+[logfishh](https://github.com/SVelizDonoso/logfishh): Logs Forensic Investigator SSH
