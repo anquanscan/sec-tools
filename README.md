@@ -5097,4 +5097,5 @@
 [secretive](https://github.com/maxgoedjen/secretive): Store SSH keys in the Secure Enclave  
 [CVE-2019-0708-poc](https://github.com/hook-s3c/CVE-2019-0708-poc): proof of concept exploit for Microsoft Windows 7 and Server 2008 RDP vulnerability  
 [CVE-2018-4407-IOS](https://github.com/zteeed/CVE-2018-4407-IOS): POC: Heap buffer overflow in the networking code in the XNU operating system kernel  
-[py-linux-ports](https://github.com/sujitmandal/py-linux-ports): Check Linux System Port's Status
+[py-linux-ports](https://github.com/sujitmandal/py-linux-ports): Check Linux System Port's Status  
+[Secret-File-Store](https://github.com/SkyThonk/Secret-File-Store): This is an automation script that can create 100 x 100 x 10 nested folders in your pc and randomly it stores your important file which makes it very hard to find that files and to get the location of your stored file you require a password.
