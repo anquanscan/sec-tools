@@ -5094,4 +5094,5 @@
 [karton-classifier](https://github.com/CERT-Polska/karton-classifier): File type classifier for the Karton framework.  
 [postExploitTool](https://github.com/Daymorelah/postExploitTool): A simple information gathering script used during the post-exploitation phase during a pentest.  
 [Pentesting-Toolkit](https://github.com/p1r-a-t3/Pentesting-Toolkit): 🏴‍☠️ Tools for pen-testing, CTFs & wargames. 🏴‍☠️  
-[secretive](https://github.com/maxgoedjen/secretive): Store SSH keys in the Secure Enclave
+[secretive](https://github.com/maxgoedjen/secretive): Store SSH keys in the Secure Enclave  
+[CVE-2019-0708-poc](https://github.com/hook-s3c/CVE-2019-0708-poc): proof of concept exploit for Microsoft Windows 7 and Server 2008 RDP vulnerability
