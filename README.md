@@ -5085,4 +5085,5 @@
 [Open_Redirect_Payload_List](https://github.com/omurugur/Open_Redirect_Payload_List): Open Redirect Vulnerability Payload List  
 [Dll-Injector](https://github.com/Zhuagenborn/Dll-Injector): 💉 A Windows dynamic-link library injection tool written in C++20. It can inject a dynamic-link library into a running process by its window title or create a new process with an injection.  
 [CTF-Journey](https://github.com/Mini-Ware/CTF-Journey): Some useful tips for various types of CTF challenges  
-[slowlorust](https://github.com/MJVL/slowlorust): Lightweight slowloris (HTTP DoS) implementation in Rust.
+[slowlorust](https://github.com/MJVL/slowlorust): Lightweight slowloris (HTTP DoS) implementation in Rust.  
+[carhacking](https://github.com/daedalus/carhacking): car hacking tools
