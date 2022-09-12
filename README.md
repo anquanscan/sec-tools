@@ -5087,4 +5087,5 @@
 [CTF-Journey](https://github.com/Mini-Ware/CTF-Journey): Some useful tips for various types of CTF challenges  
 [slowlorust](https://github.com/MJVL/slowlorust): Lightweight slowloris (HTTP DoS) implementation in Rust.  
 [carhacking](https://github.com/daedalus/carhacking): car hacking tools  
-[XSHOCK](https://github.com/capture0x/XSHOCK): XSHOCK Shellshock Exploit 
+[XSHOCK](https://github.com/capture0x/XSHOCK): XSHOCK Shellshock Exploit   
+[grafana-selinux](https://github.com/georou/grafana-selinux): Grafana SELinux policy module for CentOS 7 & RHEL 7
