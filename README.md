@@ -5110,4 +5110,5 @@
 [gohashID](https://github.com/patflanigan/gohashID): Command line tool to Identify a hash type  
 [Facebook-phishing](https://github.com/IAmBlackHacker/Facebook-phishing): Phishing Facebook Page in Django Code(Python Based)  
 [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc): A Proof-Of-Concept for the CVE-2021-44228 vulnerability.   
-[AndroidSDK](https://github.com/thyrlian/AndroidSDK): 🐳 Full-fledged Android SDK Docker Image
+[AndroidSDK](https://github.com/thyrlian/AndroidSDK): 🐳 Full-fledged Android SDK Docker Image  
+[MemoryManipulator](https://github.com/mullak99/MemoryManipulator): A C# Library used to manipulate memory of a process.
