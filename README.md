@@ -5106,4 +5106,5 @@
 [sandboxed-api](https://github.com/google/sandboxed-api): Generates sandboxes for C/C++ libraries automatically  
 [linsetmv1-2](https://github.com/chunkingz/linsetmv1-2): Linset is a WPA/WPA2 phishing tool (evil twin)  
 [dvRAT](https://github.com/justalghamdi/dvRAT): . مشروع يهدف لصنع برمجية خبيثة متكاملة   
-[veinmind-tools](https://github.com/chaitin/veinmind-tools): veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集
+[veinmind-tools](https://github.com/chaitin/veinmind-tools): veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集  
+[gohashID](https://github.com/patflanigan/gohashID): Command line tool to Identify a hash type
