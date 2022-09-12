@@ -5090,4 +5090,5 @@
 [XSHOCK](https://github.com/capture0x/XSHOCK): XSHOCK Shellshock Exploit   
 [grafana-selinux](https://github.com/georou/grafana-selinux): Grafana SELinux policy module for CentOS 7 & RHEL 7  
 [offensive-cybersec-toolkit](https://github.com/tid4l/offensive-cybersec-toolkit): A central place for offensive (and sometimes not) cybersecurity tools and resources.   
-[cve-bin-tool](https://github.com/intel/cve-bin-tool): The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 100 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with a list of components and versions.
+[cve-bin-tool](https://github.com/intel/cve-bin-tool): The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 100 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with a list of components and versions.  
+[karton-classifier](https://github.com/CERT-Polska/karton-classifier): File type classifier for the Karton framework.
