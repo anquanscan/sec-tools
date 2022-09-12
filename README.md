@@ -5088,4 +5088,5 @@
 [slowlorust](https://github.com/MJVL/slowlorust): Lightweight slowloris (HTTP DoS) implementation in Rust.  
 [carhacking](https://github.com/daedalus/carhacking): car hacking tools  
 [XSHOCK](https://github.com/capture0x/XSHOCK): XSHOCK Shellshock Exploit   
-[grafana-selinux](https://github.com/georou/grafana-selinux): Grafana SELinux policy module for CentOS 7 & RHEL 7
+[grafana-selinux](https://github.com/georou/grafana-selinux): Grafana SELinux policy module for CentOS 7 & RHEL 7  
+[offensive-cybersec-toolkit](https://github.com/tid4l/offensive-cybersec-toolkit): A central place for offensive (and sometimes not) cybersecurity tools and resources. 
