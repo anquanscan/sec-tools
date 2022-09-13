@@ -5113,4 +5113,5 @@
 [AndroidSDK](https://github.com/thyrlian/AndroidSDK): 🐳 Full-fledged Android SDK Docker Image  
 [MemoryManipulator](https://github.com/mullak99/MemoryManipulator): A C# Library used to manipulate memory of a process.  
 [evilJ](https://github.com/localh0t/evilJ): find common vulnerabilities in browser's extensions  
-[edgedns](https://github.com/jedisct1/edgedns): A high performance DNS cache designed for Content Delivery Networks
+[edgedns](https://github.com/jedisct1/edgedns): A high performance DNS cache designed for Content Delivery Networks  
+[Fortnite-External](https://github.com/Fnoberz/Fortnite-External): C++ For Creating Powerful Cheating Fortnite
