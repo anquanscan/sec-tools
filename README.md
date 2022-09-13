@@ -5118,4 +5118,5 @@
 [Hta-Exploit-Downloader-Malware-Builder](https://github.com/lmdelm/Hta-Exploit-Downloader-Malware-Builder): Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there's no macro support) -Startup -base64 encode  
 [adminFinder](https://github.com/kangnglk/adminFinder): Simple tool used to find admin login page url of a website, written in bash language.  
 [network-security-probe](https://github.com/Gui774ume/network-security-probe): A process level network security monitoring and enforcement project for Kubernetes, using eBPF  
-[D3FACE](https://github.com/TheNightSec/D3FACE): 😈D3FACER is an auto-defacer used for defacing a lot of website in no time.
+[D3FACE](https://github.com/TheNightSec/D3FACE): 😈D3FACER is an auto-defacer used for defacing a lot of website in no time.  
+[openid-workshop](https://github.com/danielwagn3r/openid-workshop): Authentifizierung mit OpenID Connect & OAuth 2.0
