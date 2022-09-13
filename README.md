@@ -5130,4 +5130,5 @@
 [Kubernetes1.6.1-CIS](https://github.com/ansible-lockdown/Kubernetes1.6.1-CIS): CIS Baseline Ansible Role for Kubernetes 1.6.1  
 [graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis): A Graphql query cost analyzer.  
 [toxssin](https://github.com/t3l3machus/toxssin): An XSS exploitation command-line interface and payload generator.  
-[ssti-flask-hacking-playground](https://github.com/filipkarc/ssti-flask-hacking-playground): App with Server Side Template Injection (SSTI) vulnerability - in Flask. For web penetration testing / ethical hacking. Possible RCE :)
+[ssti-flask-hacking-playground](https://github.com/filipkarc/ssti-flask-hacking-playground): App with Server Side Template Injection (SSTI) vulnerability - in Flask. For web penetration testing / ethical hacking. Possible RCE :)  
+[SecureStorage](https://github.com/dispatchMain/SecureStorage): A lightweight library that lets you store any swift type with AES 256 encryption.
