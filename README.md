@@ -5114,4 +5114,5 @@
 [MemoryManipulator](https://github.com/mullak99/MemoryManipulator): A C# Library used to manipulate memory of a process.  
 [evilJ](https://github.com/localh0t/evilJ): find common vulnerabilities in browser's extensions  
 [edgedns](https://github.com/jedisct1/edgedns): A high performance DNS cache designed for Content Delivery Networks  
-[Fortnite-External](https://github.com/Fnoberz/Fortnite-External): C++ For Creating Powerful Cheating Fortnite
+[Fortnite-External](https://github.com/Fnoberz/Fortnite-External): C++ For Creating Powerful Cheating Fortnite  
+[Hta-Exploit-Downloader-Malware-Builder](https://github.com/lmdelm/Hta-Exploit-Downloader-Malware-Builder): Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there's no macro support) -Startup -base64 encode
