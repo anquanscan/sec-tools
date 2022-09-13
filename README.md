@@ -5128,4 +5128,5 @@
 [thanos](https://github.com/thesaderror/thanos): Thanos is cli based website vulnerability scanner. It includes recording to record all traffic on website to extract hidden links,databases etc.. Also Thanso includes other tools. See ToDo and README.md.  
 [python-keylogger](https://github.com/Kalebu/python-keylogger): A minimal keylogger that accurately tracks keyboard strokes made in Python   
 [Kubernetes1.6.1-CIS](https://github.com/ansible-lockdown/Kubernetes1.6.1-CIS): CIS Baseline Ansible Role for Kubernetes 1.6.1  
-[graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis): A Graphql query cost analyzer.
+[graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis): A Graphql query cost analyzer.  
+[toxssin](https://github.com/t3l3machus/toxssin): An XSS exploitation command-line interface and payload generator.
