@@ -5111,4 +5111,5 @@
 [Facebook-phishing](https://github.com/IAmBlackHacker/Facebook-phishing): Phishing Facebook Page in Django Code(Python Based)  
 [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc): A Proof-Of-Concept for the CVE-2021-44228 vulnerability.   
 [AndroidSDK](https://github.com/thyrlian/AndroidSDK): 🐳 Full-fledged Android SDK Docker Image  
-[MemoryManipulator](https://github.com/mullak99/MemoryManipulator): A C# Library used to manipulate memory of a process.
+[MemoryManipulator](https://github.com/mullak99/MemoryManipulator): A C# Library used to manipulate memory of a process.  
+[evilJ](https://github.com/localh0t/evilJ): find common vulnerabilities in browser's extensions
