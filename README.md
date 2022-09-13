@@ -5112,4 +5112,5 @@
 [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc): A Proof-Of-Concept for the CVE-2021-44228 vulnerability.   
 [AndroidSDK](https://github.com/thyrlian/AndroidSDK): 🐳 Full-fledged Android SDK Docker Image  
 [MemoryManipulator](https://github.com/mullak99/MemoryManipulator): A C# Library used to manipulate memory of a process.  
-[evilJ](https://github.com/localh0t/evilJ): find common vulnerabilities in browser's extensions
+[evilJ](https://github.com/localh0t/evilJ): find common vulnerabilities in browser's extensions  
+[edgedns](https://github.com/jedisct1/edgedns): A high performance DNS cache designed for Content Delivery Networks
