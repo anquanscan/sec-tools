@@ -5149,4 +5149,5 @@
 [infosec-py-scripts](https://github.com/Omnitheorist/infosec-py-scripts): A collection of Python scripts useful for information security and penetration testing.  
 [hulk](https://github.com/grafov/hulk): HULK DoS tool ported to Go with some additional features.  
 [android-pico](https://github.com/mypico/android-pico): Android version of the Pico app  
-[clair-client](https://github.com/indece-official/clair-client): Command line client for quay/clair v4.x.x
+[clair-client](https://github.com/indece-official/clair-client): Command line client for quay/clair v4.x.x  
+[window.opener](https://github.com/Arinerron/window.opener): A window.opener exploit PoC
