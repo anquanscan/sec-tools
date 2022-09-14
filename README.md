@@ -5151,4 +5151,5 @@
 [android-pico](https://github.com/mypico/android-pico): Android version of the Pico app  
 [clair-client](https://github.com/indece-official/clair-client): Command line client for quay/clair v4.x.x  
 [window.opener](https://github.com/Arinerron/window.opener): A window.opener exploit PoC  
-[EMVerify](https://github.com/EMVrace/EMVerify): A Tamarin model and analysis of EMV
+[EMVerify](https://github.com/EMVrace/EMVerify): A Tamarin model and analysis of EMV  
+[htrace.sh](https://github.com/trimstray/htrace.sh): My simple Swiss Army knife for http/https troubleshooting and profiling.
