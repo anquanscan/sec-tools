@@ -5146,4 +5146,5 @@
 [cyberlog](https://github.com/byronbytes/cyberlog): Main repository for cybersecurity tools and stuff, I will plan on making videos for these.  
 [gonids](https://github.com/google/gonids): gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility. There is a discussion forum available that you can join on Google Groups: https://groups.google.com/forum/#!topic/gonids/  
 [Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes): My Markdown notes for all things cybersecurity  
-[infosec-py-scripts](https://github.com/Omnitheorist/infosec-py-scripts): A collection of Python scripts useful for information security and penetration testing.
+[infosec-py-scripts](https://github.com/Omnitheorist/infosec-py-scripts): A collection of Python scripts useful for information security and penetration testing.  
+[hulk](https://github.com/grafov/hulk): HULK DoS tool ported to Go with some additional features.
