@@ -5141,4 +5141,5 @@
 [qradar_usom](https://github.com/semsaksoy/qradar_usom): USOM cyber intelligence integration with Qradar  
 [jira-mobile-ssrf-exploit](https://github.com/assetnote/jira-mobile-ssrf-exploit): Exploit code for Jira Mobile Rest Plugin SSRF (CVE-2022-26135)  
 [Hackference-India-2018](https://github.com/nomadicmehul/Hackference-India-2018): Hackference India 2018  
-[eraser](https://github.com/Azure/eraser): 🧹 Cleaning up images from Kubernetes nodes
+[eraser](https://github.com/Azure/eraser): 🧹 Cleaning up images from Kubernetes nodes  
+[PhishingPost](https://github.com/mgeeky/PhishingPost): PHP Script intdended to be used during Phishing campaigns as a credentials collector linked to backdoored HTML <form> action parameter
