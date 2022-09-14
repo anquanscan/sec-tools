@@ -5143,4 +5143,5 @@
 [Hackference-India-2018](https://github.com/nomadicmehul/Hackference-India-2018): Hackference India 2018  
 [eraser](https://github.com/Azure/eraser): 🧹 Cleaning up images from Kubernetes nodes  
 [PhishingPost](https://github.com/mgeeky/PhishingPost): PHP Script intdended to be used during Phishing campaigns as a credentials collector linked to backdoored HTML <form> action parameter  
-[cyberlog](https://github.com/byronbytes/cyberlog): Main repository for cybersecurity tools and stuff, I will plan on making videos for these.
+[cyberlog](https://github.com/byronbytes/cyberlog): Main repository for cybersecurity tools and stuff, I will plan on making videos for these.  
+[gonids](https://github.com/google/gonids): gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility. There is a discussion forum available that you can join on Google Groups: https://groups.google.com/forum/#!topic/gonids/
