@@ -5153,4 +5153,5 @@
 [window.opener](https://github.com/Arinerron/window.opener): A window.opener exploit PoC  
 [EMVerify](https://github.com/EMVrace/EMVerify): A Tamarin model and analysis of EMV  
 [htrace.sh](https://github.com/trimstray/htrace.sh): My simple Swiss Army knife for http/https troubleshooting and profiling.  
-[Linux2.6.39LocalExploit](https://github.com/cansofficall/Linux2.6.39LocalExploit): Linux 2.6.39 Sürümüne Göre Uygun Olan Bir Exploit
+[Linux2.6.39LocalExploit](https://github.com/cansofficall/Linux2.6.39LocalExploit): Linux 2.6.39 Sürümüne Göre Uygun Olan Bir Exploit  
+[ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening): Linux Security Hardening for Confidential Compute
