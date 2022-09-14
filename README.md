@@ -5140,4 +5140,5 @@
 [apeslapslion](https://github.com/idiidk/apeslapslion): A poc WebKit exploit for older devices based on the Phoenhex team exploit.  
 [qradar_usom](https://github.com/semsaksoy/qradar_usom): USOM cyber intelligence integration with Qradar  
 [jira-mobile-ssrf-exploit](https://github.com/assetnote/jira-mobile-ssrf-exploit): Exploit code for Jira Mobile Rest Plugin SSRF (CVE-2022-26135)  
-[Hackference-India-2018](https://github.com/nomadicmehul/Hackference-India-2018): Hackference India 2018
+[Hackference-India-2018](https://github.com/nomadicmehul/Hackference-India-2018): Hackference India 2018  
+[eraser](https://github.com/Azure/eraser): 🧹 Cleaning up images from Kubernetes nodes
