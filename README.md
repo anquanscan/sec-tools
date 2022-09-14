@@ -5139,4 +5139,5 @@
 [osx-for-frontend-developers](https://github.com/josemanuelguzman/osx-for-frontend-developers): A minimum (IMO) setup we'll need to get up and running our Mac and a checklist to set up our ✨ OS X for front-end development.   
 [apeslapslion](https://github.com/idiidk/apeslapslion): A poc WebKit exploit for older devices based on the Phoenhex team exploit.  
 [qradar_usom](https://github.com/semsaksoy/qradar_usom): USOM cyber intelligence integration with Qradar  
-[jira-mobile-ssrf-exploit](https://github.com/assetnote/jira-mobile-ssrf-exploit): Exploit code for Jira Mobile Rest Plugin SSRF (CVE-2022-26135)
+[jira-mobile-ssrf-exploit](https://github.com/assetnote/jira-mobile-ssrf-exploit): Exploit code for Jira Mobile Rest Plugin SSRF (CVE-2022-26135)  
+[Hackference-India-2018](https://github.com/nomadicmehul/Hackference-India-2018): Hackference India 2018
