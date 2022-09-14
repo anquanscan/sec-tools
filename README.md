@@ -5135,4 +5135,5 @@
 [ctfpwn](https://github.com/bl4de/ctfpwn): Framework for making CTFs, bug bounty and pentesting Python scripting easier  
 [Parad1seBomb](https://github.com/K1ngSoul/Parad1seBomb): 💣 Sms Bomber for Russia and Ukraine   
 [cpp-jwt](https://github.com/arun11299/cpp-jwt): JSON Web Token library for C++  
-[G3nius-Tools-Sploit](https://github.com/witblack/G3nius-Tools-Sploit): G3nius-Tools Sploit is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We've online support and updates.
+[G3nius-Tools-Sploit](https://github.com/witblack/G3nius-Tools-Sploit): G3nius-Tools Sploit is a powerfully user-friendly to Server, Client, Network, Signal exploitation tool. We've online support and updates.  
+[osx-for-frontend-developers](https://github.com/josemanuelguzman/osx-for-frontend-developers): A minimum (IMO) setup we'll need to get up and running our Mac and a checklist to set up our ✨ OS X for front-end development. 
