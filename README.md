@@ -5147,4 +5147,5 @@
 [gonids](https://github.com/google/gonids): gonids is a library to parse IDS rules, with a focus primarily on Suricata rule compatibility. There is a discussion forum available that you can join on Google Groups: https://groups.google.com/forum/#!topic/gonids/  
 [Cybersecurity-Notes](https://github.com/Twigonometry/Cybersecurity-Notes): My Markdown notes for all things cybersecurity  
 [infosec-py-scripts](https://github.com/Omnitheorist/infosec-py-scripts): A collection of Python scripts useful for information security and penetration testing.  
-[hulk](https://github.com/grafov/hulk): HULK DoS tool ported to Go with some additional features.
+[hulk](https://github.com/grafov/hulk): HULK DoS tool ported to Go with some additional features.  
+[android-pico](https://github.com/mypico/android-pico): Android version of the Pico app
