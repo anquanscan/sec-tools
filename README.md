@@ -5132,4 +5132,5 @@
 [toxssin](https://github.com/t3l3machus/toxssin): An XSS exploitation command-line interface and payload generator.  
 [ssti-flask-hacking-playground](https://github.com/filipkarc/ssti-flask-hacking-playground): App with Server Side Template Injection (SSTI) vulnerability - in Flask. For web penetration testing / ethical hacking. Possible RCE :)  
 [SecureStorage](https://github.com/dispatchMain/SecureStorage): A lightweight library that lets you store any swift type with AES 256 encryption.  
-[ctfpwn](https://github.com/bl4de/ctfpwn): Framework for making CTFs, bug bounty and pentesting Python scripting easier
+[ctfpwn](https://github.com/bl4de/ctfpwn): Framework for making CTFs, bug bounty and pentesting Python scripting easier  
+[Parad1seBomb](https://github.com/K1ngSoul/Parad1seBomb): 💣 Sms Bomber for Russia and Ukraine 
