@@ -5161,4 +5161,5 @@
 [giottachou](https://github.com/giottachou/giottachou): I am Panagiota Chouliaraki a soon-to-be graduate of department of Informatics at Ionian University.  
 [ARS_SHELL_CRYPT](https://github.com/4m4Sec/ARS_SHELL_CRYPT): ARS_SHELL_CRYPT is a modified caesar's-cipher-based encrypt system written in C++.  
 [Passhunt](https://github.com/Viralmaniar/Passhunt): Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.  
-[Discord-Logger-](https://github.com/Empire565/Discord-Logger-): THIS IS FOR EDUCATINAL PURPOSES OLNY.I am not responsible for anything you decide to do with this.By downloading this you agree that you are responsible for anything you do with this.
+[Discord-Logger-](https://github.com/Empire565/Discord-Logger-): THIS IS FOR EDUCATINAL PURPOSES OLNY.I am not responsible for anything you decide to do with this.By downloading this you agree that you are responsible for anything you do with this.  
+[lambdatotp](https://github.com/Marcelo-Theodoro/lambdatotp): lambdatotp is an application to implement TOTP authentication using Amazon Lambda e DynamoDB.
