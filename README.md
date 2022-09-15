@@ -5178,4 +5178,5 @@
 [dnstricker](https://github.com/LandGrey/dnstricker): A simple dns resolver of dns-record and web-record log server for pentesting  
 [P6_OC](https://github.com/matteo-d/P6_OC): Projet 6 OpenClassroom - Construire une API sécurisée   
 [LinuxCheatSheet](https://github.com/ImStillDeadinside/LinuxCheatSheet): Linux Cheat Sheet  
-[secprac-client](https://github.com/tteeoo/secprac-client): 👨‍💻 A platform to create cyber security practice games for Linux, similar to the CyberPatriot competition—This is the vulnerability-checking client.
+[secprac-client](https://github.com/tteeoo/secprac-client): 👨‍💻 A platform to create cyber security practice games for Linux, similar to the CyberPatriot competition—This is the vulnerability-checking client.  
+[Gorsair](https://github.com/Ullaakut/Gorsair): Gorsair hacks its way into remote docker containers that expose their APIs
