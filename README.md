@@ -5172,4 +5172,5 @@
 [Narthex](https://github.com/MichaelDim02/Narthex): Modular personalized dictionary generator.  
 [phishing-domain-detection](https://github.com/incogGod/phishing-domain-detection): 💀 Phishing Domain Detection Using ML  
 [WWDC](https://github.com/Blackjacx/WWDC): You don't have the time to watch all the WWDC session videos yourself? No problem me and many contributors extracted the gist for you 🥳  
-[cam-virus](https://github.com/SiddhantOffl/cam-virus): Cam VIrus shoots from the target's phone front camera or PC webcam just sending a link.
+[cam-virus](https://github.com/SiddhantOffl/cam-virus): Cam VIrus shoots from the target's phone front camera or PC webcam just sending a link.  
+[authenticated-data-structures](https://github.com/zTehRyaN/authenticated-data-structures): Bachelor's Thesis project on Authenticated (and Persistent) Data Structures Analysis and Design for Cloud Integrity.
