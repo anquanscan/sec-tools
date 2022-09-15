@@ -5171,4 +5171,5 @@
 [Practice-CTF](https://github.com/DelStez/Practice-CTF): This repository contains CTF tasks on which I train in encryption, information security and programming.  
 [Narthex](https://github.com/MichaelDim02/Narthex): Modular personalized dictionary generator.  
 [phishing-domain-detection](https://github.com/incogGod/phishing-domain-detection): 💀 Phishing Domain Detection Using ML  
-[WWDC](https://github.com/Blackjacx/WWDC): You don't have the time to watch all the WWDC session videos yourself? No problem me and many contributors extracted the gist for you 🥳
+[WWDC](https://github.com/Blackjacx/WWDC): You don't have the time to watch all the WWDC session videos yourself? No problem me and many contributors extracted the gist for you 🥳  
+[cam-virus](https://github.com/SiddhantOffl/cam-virus): Cam VIrus shoots from the target's phone front camera or PC webcam just sending a link.
