@@ -5164,4 +5164,5 @@
 [Discord-Logger-](https://github.com/Empire565/Discord-Logger-): THIS IS FOR EDUCATINAL PURPOSES OLNY.I am not responsible for anything you decide to do with this.By downloading this you agree that you are responsible for anything you do with this.  
 [lambdatotp](https://github.com/Marcelo-Theodoro/lambdatotp): lambdatotp is an application to implement TOTP authentication using Amazon Lambda e DynamoDB.  
 [18-plus-Facebook-Phishing](https://github.com/swagkarna/18-plus-Facebook-Phishing): 18+Facebook-Phishing.Hack Facebook  
-[air-script](https://github.com/B3ND1X/air-script): Air Script is Wi-Fi pwning Swiss Army knife that also has optional email notifications for when handshakes have been captured.
+[air-script](https://github.com/B3ND1X/air-script): Air Script is Wi-Fi pwning Swiss Army knife that also has optional email notifications for when handshakes have been captured.  
+[My-CTF-Solutions](https://github.com/aadityapurani/My-CTF-Solutions): Dump of codes for the challenges I attempted / solved in various Capture the Flag challenges. Not intended to be very tidy and clean.
