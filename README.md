@@ -5175,4 +5175,5 @@
 [cam-virus](https://github.com/SiddhantOffl/cam-virus): Cam VIrus shoots from the target's phone front camera or PC webcam just sending a link.  
 [authenticated-data-structures](https://github.com/zTehRyaN/authenticated-data-structures): Bachelor's Thesis project on Authenticated (and Persistent) Data Structures Analysis and Design for Cloud Integrity.  
 [robust-adv-malware-detection](https://github.com/ALFA-group/robust-adv-malware-detection): Code repository for the paper "Adversarial Deep Learning for Robust Detection of Binary Encoded Malware"  
-[dnstricker](https://github.com/LandGrey/dnstricker): A simple dns resolver of dns-record and web-record log server for pentesting
+[dnstricker](https://github.com/LandGrey/dnstricker): A simple dns resolver of dns-record and web-record log server for pentesting  
+[P6_OC](https://github.com/matteo-d/P6_OC): Projet 6 OpenClassroom - Construire une API sécurisée 
