@@ -5168,4 +5168,5 @@
 [My-CTF-Solutions](https://github.com/aadityapurani/My-CTF-Solutions): Dump of codes for the challenges I attempted / solved in various Capture the Flag challenges. Not intended to be very tidy and clean.  
 [ReverseAPK](https://github.com/1N3/ReverseAPK): Quickly analyze and reverse engineer Android packages  
 [WikiSec](https://github.com/americo/WikiSec): Fontes de conteúdo sobre segurança da informação e hacking.  
-[Practice-CTF](https://github.com/DelStez/Practice-CTF): This repository contains CTF tasks on which I train in encryption, information security and programming.
+[Practice-CTF](https://github.com/DelStez/Practice-CTF): This repository contains CTF tasks on which I train in encryption, information security and programming.  
+[Narthex](https://github.com/MichaelDim02/Narthex): Modular personalized dictionary generator.
