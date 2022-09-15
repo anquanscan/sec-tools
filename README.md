@@ -5169,4 +5169,5 @@
 [ReverseAPK](https://github.com/1N3/ReverseAPK): Quickly analyze and reverse engineer Android packages  
 [WikiSec](https://github.com/americo/WikiSec): Fontes de conteúdo sobre segurança da informação e hacking.  
 [Practice-CTF](https://github.com/DelStez/Practice-CTF): This repository contains CTF tasks on which I train in encryption, information security and programming.  
-[Narthex](https://github.com/MichaelDim02/Narthex): Modular personalized dictionary generator.
+[Narthex](https://github.com/MichaelDim02/Narthex): Modular personalized dictionary generator.  
+[phishing-domain-detection](https://github.com/incogGod/phishing-domain-detection): 💀 Phishing Domain Detection Using ML
