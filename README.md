@@ -5192,4 +5192,5 @@
 [AWS-VPN-Server-Setup](https://github.com/webdigi/AWS-VPN-Server-Setup): Setup your own private, secure, free* VPN on the Amazon AWS Cloud in 10 minutes. CloudFormation  
 [Prot1ntelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence): Protintelligence is a Python script for the OSINT & Cyber Community. Protintelligence will provide you with intelligence on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users PGP Keys, Digital Footprints left by the ProtonMail user on the Clear and Dark Web   
 [Tandra](https://github.com/un1n0wn/Tandra): Tundra is a word-list generator that can be used to crack weak passwords,  have fun!  
-[Infomation_Security_BMSTU](https://github.com/solnishko-pvs/Infomation_Security_BMSTU): Защита информации (2021), ИУ7-7, МГТУ
+[Infomation_Security_BMSTU](https://github.com/solnishko-pvs/Infomation_Security_BMSTU): Защита информации (2021), ИУ7-7, МГТУ  
+[be-eac-injector](https://github.com/Skengdoo/be-eac-injector): Safe and easy to use Windows dll injector EAC + BE
