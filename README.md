@@ -5180,4 +5180,5 @@
 [LinuxCheatSheet](https://github.com/ImStillDeadinside/LinuxCheatSheet): Linux Cheat Sheet  
 [secprac-client](https://github.com/tteeoo/secprac-client): 👨‍💻 A platform to create cyber security practice games for Linux, similar to the CyberPatriot competition—This is the vulnerability-checking client.  
 [Gorsair](https://github.com/Ullaakut/Gorsair): Gorsair hacks its way into remote docker containers that expose their APIs  
-[Bugs-feed](https://github.com/PwnedShell/Bugs-feed): Bug's feed is a local hosted portal where you can search for the latest news, videos, CVEs, vulnerabilities...
+[Bugs-feed](https://github.com/PwnedShell/Bugs-feed): Bug's feed is a local hosted portal where you can search for the latest news, videos, CVEs, vulnerabilities...  
+[lock-laravel](https://github.com/BeatSwitch/lock-laravel): This package is a Laravel 5 driver for Lock
