@@ -5160,4 +5160,5 @@
 [tufhub](https://github.com/unkn0wnh4ckr/tufhub): i will post updates on my instagram @unkn0wn_bali     tufhub - a hacking framework with all kinds of bruteforce, info gather, dos attack, etc  tools in it that you use directly in the script              the twitter bruteforce does not work sadly  
 [giottachou](https://github.com/giottachou/giottachou): I am Panagiota Chouliaraki a soon-to-be graduate of department of Informatics at Ionian University.  
 [ARS_SHELL_CRYPT](https://github.com/4m4Sec/ARS_SHELL_CRYPT): ARS_SHELL_CRYPT is a modified caesar's-cipher-based encrypt system written in C++.  
-[Passhunt](https://github.com/Viralmaniar/Passhunt): Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.
+[Passhunt](https://github.com/Viralmaniar/Passhunt): Passhunt is a simple tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords.  
+[Discord-Logger-](https://github.com/Empire565/Discord-Logger-): THIS IS FOR EDUCATINAL PURPOSES OLNY.I am not responsible for anything you decide to do with this.By downloading this you agree that you are responsible for anything you do with this.
