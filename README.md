@@ -5238,4 +5238,5 @@
 [password_generator](https://github.com/d3lshad/password_generator): A simple application programmed with c sharp to generate passwords easly  
 [discord-token-gen](https://github.com/0x44F/discord-token-gen): 💬 Discord token generator, automatically generate auth tokens for Discord in your PC background.  
 [FE-Notes](https://github.com/Linjiayu6/FE-Notes): [2020] Front-End Notebook  
-[NLP4CyberSecurity](https://github.com/jackaduma/NLP4CyberSecurity): NLP  model and tech  for cyber security tasks
+[NLP4CyberSecurity](https://github.com/jackaduma/NLP4CyberSecurity): NLP  model and tech  for cyber security tasks  
+[privalise-network](https://github.com/fuckhumanity12/privalise-network): A Privacy-Focused Platform With An Anonymous Social Media, E2EE Notes And Messages. It's Focus Is On Data Security And Being A Community Driven Web App
