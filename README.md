@@ -5234,4 +5234,5 @@
 [i2pd](https://github.com/PurpleI2P/i2pd):  🛡 I2P: End-to-End encrypted and anonymous Internet  
 [TOP](https://github.com/hktalent/TOP): TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things  
 [eslinter](https://github.com/parsiya/eslinter): Manual JavaScript Linting is a Bug  
-[genuine-fake](https://github.com/xeroxzen/genuine-fake): Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical. Literally genuine fake means something that is real but not real at the same time. Take it like this, it's more of a perfect replica of the original.
+[genuine-fake](https://github.com/xeroxzen/genuine-fake): Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical. Literally genuine fake means something that is real but not real at the same time. Take it like this, it's more of a perfect replica of the original.  
+[password_generator](https://github.com/d3lshad/password_generator): A simple application programmed with c sharp to generate passwords easly
