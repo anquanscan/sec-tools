@@ -5203,4 +5203,5 @@
 [awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec): An awesome list of OSS developer-first security tools  
 [Free-RASP-Community](https://github.com/talsec/Free-RASP-Community): SDK providing app protection and threat monitoring for mobile devices, available for Flutter, Android and iOS.  
 [sheepwall](https://github.com/chiehmin/sheepwall): Sniff plaintext account/password/cookie on router  
-[rekono](https://github.com/pablosnt/rekono): Execute full pentesting processes combining multiple hacking tools automatically
+[rekono](https://github.com/pablosnt/rekono): Execute full pentesting processes combining multiple hacking tools automatically  
+[ctftool](https://github.com/taviso/ctftool): Interactive CTF Exploration Tool
