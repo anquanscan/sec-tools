@@ -5206,4 +5206,5 @@
 [rekono](https://github.com/pablosnt/rekono): Execute full pentesting processes combining multiple hacking tools automatically  
 [ctftool](https://github.com/taviso/ctftool): Interactive CTF Exploration Tool  
 [SimpleBruteforce](https://github.com/raghunandhanvr/SimpleBruteforce): This is a Simple Python Program to Brute-force set of 5 strings  
-[w3af](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.
+[w3af](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.  
+[Nuclei-and-Subfinder-API](https://github.com/h33tlit/Nuclei-and-Subfinder-API): Web API for nuclei and subfinder will help you automate your entire security testing workflow since you can host it anywhere and make it accessible.
