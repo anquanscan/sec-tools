@@ -5227,4 +5227,5 @@
 [lazytrivy](https://github.com/owenrumney/lazytrivy): Vulnerability scanning just got lazier  
 [Saturn](https://github.com/psychose-club/Saturn): A tool to analyze the log files from minecraft to scan potential security risks from the CVE-2021-44228 Log4J library exploit.   
 [PasswordGenerator](https://github.com/cryptosbyte/PasswordGenerator): 🔑 4 Settings Password Generator in C#  
-[SANS-Security-Policy-Templates](https://github.com/deepanshusood/SANS-Security-Policy-Templates): SANS has developed a set of information security policy templates. These are free to use and fully customizable to your company's IT security practices.
+[SANS-Security-Policy-Templates](https://github.com/deepanshusood/SANS-Security-Policy-Templates): SANS has developed a set of information security policy templates. These are free to use and fully customizable to your company's IT security practices.  
+[privacyresources](https://github.com/henryistaken/privacyresources): A list of resources to help me keep track of important news/studies/projects/etc. in the privacy & security world.
