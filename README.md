@@ -5210,4 +5210,5 @@
 [Nuclei-and-Subfinder-API](https://github.com/h33tlit/Nuclei-and-Subfinder-API): Web API for nuclei and subfinder will help you automate your entire security testing workflow since you can host it anywhere and make it accessible.  
 [DPP-guides](https://github.com/mercycorps/DPP-guides): Unbranded content for Mercy Corps' Data Protection & Privacy Guides. For more info see https://www.mercycorps.org/research-resources/data-protection-privacy-guides  
 [inntinn](https://github.com/BlackburnHax/inntinn): Meta risk analysis and scoring system based on open-source fully automated intelligence gathering  
-[docs.tryhackme.com](https://github.com/tryhackmeltd/docs.tryhackme.com): TryHackMe documentation site source code
+[docs.tryhackme.com](https://github.com/tryhackmeltd/docs.tryhackme.com): TryHackMe documentation site source code  
+[digipyexec](https://github.com/seksea/digipyexec): Make a Digispark (or teensy) run a python script in the background on any "victim" windows computer you plug it into with python installed
