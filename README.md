@@ -5216,4 +5216,5 @@
 [pentesting-framework](https://github.com/abhackerofficial/pentesting-framework): Pentesting Framework is a bundle of penetration testing tools, Includes - security, pentesting, hacking and many more.  
 [ChameleonMiniLiveDebugger](https://github.com/maxieds/ChameleonMiniLiveDebugger): Live logger and GUI tool for the Chameleon Mini developed for Android OS in Java.  
 [detection-as-code](https://github.com/infosecB/detection-as-code): An example of how to deploy a Detection as Code pipeline using Sigma Rules, Sigmac, Gitlab CI, and Splunk.  
-[TOR-Everything](https://github.com/mytechnotalent/TOR-Everything): Simple FREE guide to set up TOR stealth and persistence with complete anonymity.
+[TOR-Everything](https://github.com/mytechnotalent/TOR-Everything): Simple FREE guide to set up TOR stealth and persistence with complete anonymity.  
+[encpipe](https://github.com/jedisct1/encpipe): The dum^H^H^Hsimplest encryption tool in the world.
