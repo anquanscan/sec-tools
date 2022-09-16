@@ -5236,4 +5236,5 @@
 [eslinter](https://github.com/parsiya/eslinter): Manual JavaScript Linting is a Bug  
 [genuine-fake](https://github.com/xeroxzen/genuine-fake): Genuine Fake means an imitation of a (usually) valuable object that is so good that it is, to all intents and purposes, identical. Literally genuine fake means something that is real but not real at the same time. Take it like this, it's more of a perfect replica of the original.  
 [password_generator](https://github.com/d3lshad/password_generator): A simple application programmed with c sharp to generate passwords easly  
-[discord-token-gen](https://github.com/0x44F/discord-token-gen): 💬 Discord token generator, automatically generate auth tokens for Discord in your PC background.
+[discord-token-gen](https://github.com/0x44F/discord-token-gen): 💬 Discord token generator, automatically generate auth tokens for Discord in your PC background.  
+[FE-Notes](https://github.com/Linjiayu6/FE-Notes): [2020] Front-End Notebook
