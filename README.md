@@ -5217,4 +5217,5 @@
 [ChameleonMiniLiveDebugger](https://github.com/maxieds/ChameleonMiniLiveDebugger): Live logger and GUI tool for the Chameleon Mini developed for Android OS in Java.  
 [detection-as-code](https://github.com/infosecB/detection-as-code): An example of how to deploy a Detection as Code pipeline using Sigma Rules, Sigmac, Gitlab CI, and Splunk.  
 [TOR-Everything](https://github.com/mytechnotalent/TOR-Everything): Simple FREE guide to set up TOR stealth and persistence with complete anonymity.  
-[encpipe](https://github.com/jedisct1/encpipe): The dum^H^H^Hsimplest encryption tool in the world.
+[encpipe](https://github.com/jedisct1/encpipe): The dum^H^H^Hsimplest encryption tool in the world.  
+[websploit-ubuntu](https://github.com/start-the-hammond/websploit-ubuntu)
