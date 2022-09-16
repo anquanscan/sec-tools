@@ -5199,4 +5199,5 @@
 [NessusV7-Report-Export-PowerShell](https://github.com/Pwd9000-ML/NessusV7-Report-Export-PowerShell): Automated Powershell Script to export NessusPro V7 or Nessus IO Scanner Reports - Nessus API  
 [libpicobt](https://github.com/mypico/libpicobt): Bluetooth support library written in C  
 [mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.  
-[Extract_password](https://github.com/Satyavart/Extract_password): Fetch Chrome, Firefox, WiFi password and system info
+[Extract_password](https://github.com/Satyavart/Extract_password): Fetch Chrome, Firefox, WiFi password and system info  
+[awesome-oss-devsec](https://github.com/boxyhq/awesome-oss-devsec): An awesome list of OSS developer-first security tools
