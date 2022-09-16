@@ -5223,4 +5223,5 @@
 [CVE-2019-9193](https://github.com/b4keSn4ke/CVE-2019-9193): CVE-2019–9193 - PostgreSQL 9.3-12.3 Authenticated Remote Code Execution  
 [shellshock-attack](https://github.com/roflcer/shellshock-attack): On September 24, 2014, a severe vulnerability in Bash was identified. Nicknamed Shellshock, this vulner- ability can exploit many systems and be launched either remotely or from a local machine. In this lab, you  will work on this attack, so you can understand the Shellshock vulnerability. The learning objective of this lab is for you to get a first-hand experience on this interesting attack, understand how it works, and think about the lessons that we can get out of this attack.  
 [sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list): 🎯 SQL Injection Payload List  
-[growlnx.github.io](https://github.com/growlnx/growlnx.github.io): Blog que uso para falar merdas aleatoriamente
+[growlnx.github.io](https://github.com/growlnx/growlnx.github.io): Blog que uso para falar merdas aleatoriamente  
+[lazytrivy](https://github.com/owenrumney/lazytrivy): Vulnerability scanning just got lazier
