@@ -5208,4 +5208,5 @@
 [SimpleBruteforce](https://github.com/raghunandhanvr/SimpleBruteforce): This is a Simple Python Program to Brute-force set of 5 strings  
 [w3af](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.  
 [Nuclei-and-Subfinder-API](https://github.com/h33tlit/Nuclei-and-Subfinder-API): Web API for nuclei and subfinder will help you automate your entire security testing workflow since you can host it anywhere and make it accessible.  
-[DPP-guides](https://github.com/mercycorps/DPP-guides): Unbranded content for Mercy Corps' Data Protection & Privacy Guides. For more info see https://www.mercycorps.org/research-resources/data-protection-privacy-guides
+[DPP-guides](https://github.com/mercycorps/DPP-guides): Unbranded content for Mercy Corps' Data Protection & Privacy Guides. For more info see https://www.mercycorps.org/research-resources/data-protection-privacy-guides  
+[inntinn](https://github.com/BlackburnHax/inntinn): Meta risk analysis and scoring system based on open-source fully automated intelligence gathering
