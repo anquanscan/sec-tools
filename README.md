@@ -5218,4 +5218,5 @@
 [detection-as-code](https://github.com/infosecB/detection-as-code): An example of how to deploy a Detection as Code pipeline using Sigma Rules, Sigmac, Gitlab CI, and Splunk.  
 [TOR-Everything](https://github.com/mytechnotalent/TOR-Everything): Simple FREE guide to set up TOR stealth and persistence with complete anonymity.  
 [encpipe](https://github.com/jedisct1/encpipe): The dum^H^H^Hsimplest encryption tool in the world.  
-[websploit-ubuntu](https://github.com/start-the-hammond/websploit-ubuntu)
+[websploit-ubuntu](https://github.com/start-the-hammond/websploit-ubuntu)  
+[Dec-Safe-Linking](https://github.com/n132/Dec-Safe-Linking): A general way to Recover Safe linking protected value/pointer
