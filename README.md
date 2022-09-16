@@ -5195,4 +5195,5 @@
 [Infomation_Security_BMSTU](https://github.com/solnishko-pvs/Infomation_Security_BMSTU): Защита информации (2021), ИУ7-7, МГТУ  
 [be-eac-injector](https://github.com/Skengdoo/be-eac-injector): Safe and easy to use Windows dll injector EAC + BE  
 [Exploit-Collector](https://github.com/Mr-TechX/Exploit-Collector): Exploit Collector  
-[blockchain-threat-intelligence](https://github.com/slowmist/blockchain-threat-intelligence): Blockchain Threat Intelligence Sharing Platform（区块链威胁情报共享平台）
+[blockchain-threat-intelligence](https://github.com/slowmist/blockchain-threat-intelligence): Blockchain Threat Intelligence Sharing Platform（区块链威胁情报共享平台）  
+[NessusV7-Report-Export-PowerShell](https://github.com/Pwd9000-ML/NessusV7-Report-Export-PowerShell): Automated Powershell Script to export NessusPro V7 or Nessus IO Scanner Reports - Nessus API
