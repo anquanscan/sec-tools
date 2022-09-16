@@ -5205,4 +5205,5 @@
 [sheepwall](https://github.com/chiehmin/sheepwall): Sniff plaintext account/password/cookie on router  
 [rekono](https://github.com/pablosnt/rekono): Execute full pentesting processes combining multiple hacking tools automatically  
 [ctftool](https://github.com/taviso/ctftool): Interactive CTF Exploration Tool  
-[SimpleBruteforce](https://github.com/raghunandhanvr/SimpleBruteforce): This is a Simple Python Program to Brute-force set of 5 strings
+[SimpleBruteforce](https://github.com/raghunandhanvr/SimpleBruteforce): This is a Simple Python Program to Brute-force set of 5 strings  
+[w3af](https://github.com/andresriancho/w3af): w3af: web application attack and audit framework, the open source web vulnerability scanner.
