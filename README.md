@@ -5232,4 +5232,5 @@
 [Secure-Headers](https://github.com/benyaminsalimi/Secure-Headers):  secure header report and best practices config for Apache, Nginx, lighttpd, Cloudflare, netlify  
 [protect-yourself](https://github.com/brndnmtthws/protect-yourself): A guide on how to protect your digital assets  
 [i2pd](https://github.com/PurpleI2P/i2pd):  🛡 I2P: End-to-End encrypted and anonymous Internet  
-[TOP](https://github.com/hktalent/TOP): TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things
+[TOP](https://github.com/hktalent/TOP): TOP All bugbounty pentesting CVE-2022- POC Exp  RCE example payload  Things  
+[eslinter](https://github.com/parsiya/eslinter): Manual JavaScript Linting is a Bug
