@@ -5213,4 +5213,5 @@
 [docs.tryhackme.com](https://github.com/tryhackmeltd/docs.tryhackme.com): TryHackMe documentation site source code  
 [digipyexec](https://github.com/seksea/digipyexec): Make a Digispark (or teensy) run a python script in the background on any "victim" windows computer you plug it into with python installed  
 [FYI](https://github.com/iamthefrogy/FYI): My last 10 year's material collection on offensive & defensive security, GRC, risk management, technical security guidelines and much more.  
-[pentesting-framework](https://github.com/abhackerofficial/pentesting-framework): Pentesting Framework is a bundle of penetration testing tools, Includes - security, pentesting, hacking and many more.
+[pentesting-framework](https://github.com/abhackerofficial/pentesting-framework): Pentesting Framework is a bundle of penetration testing tools, Includes - security, pentesting, hacking and many more.  
+[ChameleonMiniLiveDebugger](https://github.com/maxieds/ChameleonMiniLiveDebugger): Live logger and GUI tool for the Chameleon Mini developed for Android OS in Java.
