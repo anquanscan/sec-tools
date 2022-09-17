@@ -5251,4 +5251,5 @@
 [Viridae](https://github.com/Err0r-ICA/Viridae): Virus - Trojans - Worms - Malwares  
 [Roblox-Cheat-Script](https://github.com/MJMODZZ/Roblox-Cheat-Script): ✅ a very simple roblox executor for lua scripts (roblox executor, roblox exploit, roblox cheat, roblox mods) using WeAreDevsAPI ✅  
 [training-sessions](https://github.com/layer-zero-unlv/training-sessions): Workshop and Capture the Flag Presentations  
-[nim_packages_security_audit](https://github.com/juancarlospaco/nim_packages_security_audit): Fully Automated Nim Packages Security Audit
+[nim_packages_security_audit](https://github.com/juancarlospaco/nim_packages_security_audit): Fully Automated Nim Packages Security Audit  
+[PacketSniffer](https://github.com/Oussama1403/PacketSniffer): Arp spoofing tool for linux
