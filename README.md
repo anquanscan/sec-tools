@@ -5262,4 +5262,5 @@
 [capture-the-ether-solutions-foundry](https://github.com/iczc/capture-the-ether-solutions-foundry): Capture the Ether Solutions with Foundry Script  
 [OSCAL-18](https://github.com/nomadicmehul/OSCAL-18): OSCAL (Open Source Conference Albania) is the first annual conference in Albania.  
 [Exploit-tech](https://github.com/Lazenca/Exploit-tech): Example files to experience basic exploit techniques.  
-[CloudBrute](https://github.com/0xsha/CloudBrute): Awesome cloud enumerator 
+[CloudBrute](https://github.com/0xsha/CloudBrute): Awesome cloud enumerator   
+[Teve-hack](https://github.com/l-Fingon-l/Teve-hack): let's hack the TeveF!
