@@ -5260,4 +5260,5 @@
 [Arduino_Hash_Cracker](https://github.com/UEFI-code/Arduino_Hash_Cracker): High Efficacy Arduino Hash Cracker in C/C++  
 [SPYBOMB](https://github.com/BYTEHACKING-CREATIVE/SPYBOMB): SPY BOMB  is a tool used to generate various payloads for android,windows,ios,mac and many more it is very user friendly tool.  
 [capture-the-ether-solutions-foundry](https://github.com/iczc/capture-the-ether-solutions-foundry): Capture the Ether Solutions with Foundry Script  
-[OSCAL-18](https://github.com/nomadicmehul/OSCAL-18): OSCAL (Open Source Conference Albania) is the first annual conference in Albania.
+[OSCAL-18](https://github.com/nomadicmehul/OSCAL-18): OSCAL (Open Source Conference Albania) is the first annual conference in Albania.  
+[Exploit-tech](https://github.com/Lazenca/Exploit-tech): Example files to experience basic exploit techniques.
