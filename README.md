@@ -5244,4 +5244,5 @@
 [Scylla](https://github.com/MandConsultingGroup/Scylla): The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.  
 [CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE): Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527  
 [xfox](https://github.com/d3v4s/xfox): Bypass CSP nonce on Mozilla Firefox from Javascript  
-[jyny](https://github.com/Jyny/jyny)
+[jyny](https://github.com/Jyny/jyny)  
+[xuxiaowei-cloud](https://github.com/xuxiaowei-cloud/xuxiaowei-cloud): 基于 JDK 8/11、Spring Boot 2.7.x、OAuth 2.1、Vite 3、Vue 3、Element Plus 的微服务
