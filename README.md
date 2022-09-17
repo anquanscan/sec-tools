@@ -5240,4 +5240,5 @@
 [FE-Notes](https://github.com/Linjiayu6/FE-Notes): [2020] Front-End Notebook  
 [NLP4CyberSecurity](https://github.com/jackaduma/NLP4CyberSecurity): NLP  model and tech  for cyber security tasks  
 [privalise-network](https://github.com/fuckhumanity12/privalise-network): A Privacy-Focused Platform With An Anonymous Social Media, E2EE Notes And Messages. It's Focus Is On Data Security And Being A Community Driven Web App  
-[Soteria](https://github.com/leobenkel/Soteria): Plugin to block compilation when unapproved dependencies are used or code styling does not comply.
+[Soteria](https://github.com/leobenkel/Soteria): Plugin to block compilation when unapproved dependencies are used or code styling does not comply.  
+[Scylla](https://github.com/MandConsultingGroup/Scylla): The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.
