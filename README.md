@@ -5273,4 +5273,5 @@
 [Secure-Scanner-Application](https://github.com/jerrinss5/Secure-Scanner-Application): Secure Scanner Application to scan C, C++, Python, Perl and PHP using Rats and Flawfinder  
 [httpfy](https://github.com/devXprite/httpfy): A fast and powerful http toolkit that take a list of domains to find active domains and other information such as status-code, title, response-time , server, content-type and many other  
 [cypherpunks-ctf](https://github.com/cypherpunks-core/cypherpunks-ctf): Cypherpunks CTF 智能合約漏洞攻擊  
-[safely-set-inner-html](https://github.com/baptooo/safely-set-inner-html): Keep calm and don't use dangerouslySetInnerHTML anymore
+[safely-set-inner-html](https://github.com/baptooo/safely-set-inner-html): Keep calm and don't use dangerouslySetInnerHTML anymore  
+[RVSS](https://github.com/aliasrobotics/RVSS): Robot Vulnerability Scoring System (RVSS) Python 3 reference implementation.
