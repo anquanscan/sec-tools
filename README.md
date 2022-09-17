@@ -5256,4 +5256,5 @@
 [eKazouFormations](https://github.com/randrin/eKazouFormations): Plateforme de réservation d'une formation informatique online dans une ville.   
 [awesome-iam](https://github.com/kdeldycke/awesome-iam): 👤 Identity and Access Management Knowledge for Cloud Platforms  
 [mythos](https://github.com/cleanunicorn/mythos): CLI client for the MythX API  
-[mass-mail](https://github.com/poisonhack/mass-mail): simple mass mailer attacking script,,written and tested by Akshay and ethical hacker and pentester.
+[mass-mail](https://github.com/poisonhack/mass-mail): simple mass mailer attacking script,,written and tested by Akshay and ethical hacker and pentester.  
+[Arduino_Hash_Cracker](https://github.com/UEFI-code/Arduino_Hash_Cracker): High Efficacy Arduino Hash Cracker in C/C++
