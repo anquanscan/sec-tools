@@ -5247,4 +5247,5 @@
 [jyny](https://github.com/Jyny/jyny)  
 [xuxiaowei-cloud](https://github.com/xuxiaowei-cloud/xuxiaowei-cloud): 基于 JDK 8/11、Spring Boot 2.7.x、OAuth 2.1、Vite 3、Vue 3、Element Plus 的微服务  
 [devops-resources](https://github.com/bregman-arie/devops-resources): DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP  
-[puredns](https://github.com/d3mondev/puredns): Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
+[puredns](https://github.com/d3mondev/puredns): Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.  
+[Viridae](https://github.com/Err0r-ICA/Viridae): Virus - Trojans - Worms - Malwares
