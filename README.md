@@ -5250,4 +5250,5 @@
 [puredns](https://github.com/d3mondev/puredns): Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.  
 [Viridae](https://github.com/Err0r-ICA/Viridae): Virus - Trojans - Worms - Malwares  
 [Roblox-Cheat-Script](https://github.com/MJMODZZ/Roblox-Cheat-Script): ✅ a very simple roblox executor for lua scripts (roblox executor, roblox exploit, roblox cheat, roblox mods) using WeAreDevsAPI ✅  
-[training-sessions](https://github.com/layer-zero-unlv/training-sessions): Workshop and Capture the Flag Presentations
+[training-sessions](https://github.com/layer-zero-unlv/training-sessions): Workshop and Capture the Flag Presentations  
+[nim_packages_security_audit](https://github.com/juancarlospaco/nim_packages_security_audit): Fully Automated Nim Packages Security Audit
