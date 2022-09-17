@@ -5241,4 +5241,5 @@
 [NLP4CyberSecurity](https://github.com/jackaduma/NLP4CyberSecurity): NLP  model and tech  for cyber security tasks  
 [privalise-network](https://github.com/fuckhumanity12/privalise-network): A Privacy-Focused Platform With An Anonymous Social Media, E2EE Notes And Messages. It's Focus Is On Data Security And Being A Community Driven Web App  
 [Soteria](https://github.com/leobenkel/Soteria): Plugin to block compilation when unapproved dependencies are used or code styling does not comply.  
-[Scylla](https://github.com/MandConsultingGroup/Scylla): The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.
+[Scylla](https://github.com/MandConsultingGroup/Scylla): The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc.  
+[CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE): Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527
