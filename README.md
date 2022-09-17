@@ -5269,4 +5269,5 @@
 [clone-cert](https://github.com/SySS-Research/clone-cert): Simple shell script to "clone" X.509 certificates  
 [google.tld](https://github.com/Import-External-Sources/google.tld): This is the travisCI workhorse for google.tld on gitlab  
 [Presentations-and-Papers](https://github.com/Tuanp703/Presentations-and-Papers): Governance, Risk and Compliance (GRC), Information Security, Blockchain Security, Blockchain Forensics  
-[Wifi-Pineapple-Wardriving](https://github.com/ozzzozo/Wifi-Pineapple-Wardriving): Wardriving with iOS and Android for Wifi Pineapple
+[Wifi-Pineapple-Wardriving](https://github.com/ozzzozo/Wifi-Pineapple-Wardriving): Wardriving with iOS and Android for Wifi Pineapple  
+[Secure-Scanner-Application](https://github.com/jerrinss5/Secure-Scanner-Application): Secure Scanner Application to scan C, C++, Python, Perl and PHP using Rats and Flawfinder
