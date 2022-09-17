@@ -5255,4 +5255,5 @@
 [PacketSniffer](https://github.com/Oussama1403/PacketSniffer): Arp spoofing tool for linux  
 [eKazouFormations](https://github.com/randrin/eKazouFormations): Plateforme de réservation d'une formation informatique online dans une ville.   
 [awesome-iam](https://github.com/kdeldycke/awesome-iam): 👤 Identity and Access Management Knowledge for Cloud Platforms  
-[mythos](https://github.com/cleanunicorn/mythos): CLI client for the MythX API
+[mythos](https://github.com/cleanunicorn/mythos): CLI client for the MythX API  
+[mass-mail](https://github.com/poisonhack/mass-mail): simple mass mailer attacking script,,written and tested by Akshay and ethical hacker and pentester.
