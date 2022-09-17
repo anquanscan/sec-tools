@@ -5278,4 +5278,5 @@
 [invisible_captcha](https://github.com/markets/invisible_captcha): :honey_pot: Unobtrusive and flexible spam protection for Rails apps  
 [binaryexploitation](https://github.com/p0dalirius/binaryexploitation): A massive documentation about binary protections, exploitation techniques, and computer architecture concepts.  
 [eBPF-Guide](https://github.com/mikeroyal/eBPF-Guide): eBPF (extended Berkeley Packet Filter) Guide  
-[richard-slater.co.uk](https://github.com/RichardSlater/richard-slater.co.uk): Richard Slater's Personal Website and Blog
+[richard-slater.co.uk](https://github.com/RichardSlater/richard-slater.co.uk): Richard Slater's Personal Website and Blog  
+[CyberSpaceSearchEngine-Research](https://github.com/EXHades/CyberSpaceSearchEngine-Research): 网络空间测绘/搜索引擎相关的资料
