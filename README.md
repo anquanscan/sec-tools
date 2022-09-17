@@ -5264,4 +5264,5 @@
 [Exploit-tech](https://github.com/Lazenca/Exploit-tech): Example files to experience basic exploit techniques.  
 [CloudBrute](https://github.com/0xsha/CloudBrute): Awesome cloud enumerator   
 [Teve-hack](https://github.com/l-Fingon-l/Teve-hack): let's hack the TeveF!  
-[Bypass-PHP-GD-Process-To-RCE](https://github.com/RickGray/Bypass-PHP-GD-Process-To-RCE): Reference: http://www.secgeek.net/bookfresh-vulnerability/
+[Bypass-PHP-GD-Process-To-RCE](https://github.com/RickGray/Bypass-PHP-GD-Process-To-RCE): Reference: http://www.secgeek.net/bookfresh-vulnerability/  
+[69phisher](https://github.com/Akshay-Arjun/69phisher): 🔱 [ Phishing Made Easy ] 🔱. Simple and beginner friendly automated phishing page creator.
