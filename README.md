@@ -5275,4 +5275,5 @@
 [cypherpunks-ctf](https://github.com/cypherpunks-core/cypherpunks-ctf): Cypherpunks CTF 智能合約漏洞攻擊  
 [safely-set-inner-html](https://github.com/baptooo/safely-set-inner-html): Keep calm and don't use dangerouslySetInnerHTML anymore  
 [RVSS](https://github.com/aliasrobotics/RVSS): Robot Vulnerability Scoring System (RVSS) Python 3 reference implementation.  
-[invisible_captcha](https://github.com/markets/invisible_captcha): :honey_pot: Unobtrusive and flexible spam protection for Rails apps
+[invisible_captcha](https://github.com/markets/invisible_captcha): :honey_pot: Unobtrusive and flexible spam protection for Rails apps  
+[binaryexploitation](https://github.com/p0dalirius/binaryexploitation): A massive documentation about binary protections, exploitation techniques, and computer architecture concepts.
