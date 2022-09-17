@@ -5267,4 +5267,5 @@
 [Bypass-PHP-GD-Process-To-RCE](https://github.com/RickGray/Bypass-PHP-GD-Process-To-RCE): Reference: http://www.secgeek.net/bookfresh-vulnerability/  
 [69phisher](https://github.com/Akshay-Arjun/69phisher): 🔱 [ Phishing Made Easy ] 🔱. Simple and beginner friendly automated phishing page creator.  
 [clone-cert](https://github.com/SySS-Research/clone-cert): Simple shell script to "clone" X.509 certificates  
-[google.tld](https://github.com/Import-External-Sources/google.tld): This is the travisCI workhorse for google.tld on gitlab
+[google.tld](https://github.com/Import-External-Sources/google.tld): This is the travisCI workhorse for google.tld on gitlab  
+[Presentations-and-Papers](https://github.com/Tuanp703/Presentations-and-Papers): Governance, Risk and Compliance (GRC), Information Security, Blockchain Security, Blockchain Forensics
