@@ -5312,4 +5312,5 @@
 [academics](https://github.com/shubh401/academics): Course-based project work & seminar presentations during graduate studies  
 [sqli-postgres-rce-privesc-hacking-playground](https://github.com/filipkarc/sqli-postgres-rce-privesc-hacking-playground): Application with SQL Injection vulnerability and possible privilege escalation. Free vulnerable app for ethical hacking / penetration testing training.   
 [SYNwall](https://github.com/SYNwall/SYNwall): A zero-configuration (IoT) firewall  
-[uwavm](https://github.com/tylerztl/uwavm): uwavm, decode wasm binary files that compiled by golang, c/c++, rust, java
+[uwavm](https://github.com/tylerztl/uwavm): uwavm, decode wasm binary files that compiled by golang, c/c++, rust, java  
+[CSCE-465-Honor-Project](https://github.com/hongsolos/CSCE-465-Honor-Project): CSCE 465 - Computer and Network Security
