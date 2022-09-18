@@ -5302,4 +5302,5 @@
 [sony-ak-knowledge-center](https://github.com/sonyarianto/sony-ak-knowledge-center): Sony AK Knowledge Center  
 [tip-frontend](https://github.com/reiosantos/tip-frontend)  
 [HackTheBox_Tier0_StartingPoint_4FreeMachine_Pentest](https://github.com/junxian428/HackTheBox_Tier0_StartingPoint_4FreeMachine_Pentest): Hack The Box Starting Point CTF Tier 0 4 Free Machine Flags Screenshot (Meow, Fawn, Dancing & Redeemer)   
-[UltimateCMSWordlists](https://github.com/JavierOlmedo/UltimateCMSWordlists): 📚 An ultimate collection wordlists of the best-known CMS
+[UltimateCMSWordlists](https://github.com/JavierOlmedo/UltimateCMSWordlists): 📚 An ultimate collection wordlists of the best-known CMS  
+[IDS4.Samples](https://github.com/frankodoom/IDS4.Samples): Updated Identity Server 4 Samples
