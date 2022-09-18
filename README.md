@@ -5309,4 +5309,5 @@
 [CVE-2022-36804-RCE](https://github.com/cryptolakk/CVE-2022-36804-RCE): Remote Code Execution exploit for CVE-2022-36804 (BitBucket Server and DataCenter).  
 [honeydb-python](https://github.com/honeydbio/honeydb-python): HoneyDB Python Module  
 [notifications-dispatcher-api](https://github.com/assuzzanne/notifications-dispatcher-api): This project is a Flask app that listens for webhook notifications from a security application.  
-[academics](https://github.com/shubh401/academics): Course-based project work & seminar presentations during graduate studies
+[academics](https://github.com/shubh401/academics): Course-based project work & seminar presentations during graduate studies  
+[sqli-postgres-rce-privesc-hacking-playground](https://github.com/filipkarc/sqli-postgres-rce-privesc-hacking-playground): Application with SQL Injection vulnerability and possible privilege escalation. Free vulnerable app for ethical hacking / penetration testing training. 
