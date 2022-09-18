@@ -5286,4 +5286,5 @@
 [l9explore](https://github.com/LeakIX/l9explore): l9explore - Digs the dirt  
 [Pandaxyz-xd](https://github.com/Pandaxyz-xd/Pandaxyz-xd): Hello! Im Pandaxyz 👋  
 [OSVDB-69562](https://github.com/NullBrunk/OSVDB-69562): Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution)  
-[ENCOD3R](https://github.com/MBAHABYK/ENCOD3R): This is a best python-3 encryption tool
+[ENCOD3R](https://github.com/MBAHABYK/ENCOD3R): This is a best python-3 encryption tool  
+[webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits): Multi-language web CGI interfaces exploits.
