@@ -5300,4 +5300,5 @@
 [diceware-generator](https://github.com/Invictum/diceware-generator): Web based implementation of Diceware passphrases generator.  
 [Pentesting-Basics](https://github.com/ShubhamJagtap2000/Pentesting-Basics): 🔍 Basic terms and notes on penetration testing that I learned(learning) on the HackTheBox(HTB) platform  
 [sony-ak-knowledge-center](https://github.com/sonyarianto/sony-ak-knowledge-center): Sony AK Knowledge Center  
-[tip-frontend](https://github.com/reiosantos/tip-frontend)
+[tip-frontend](https://github.com/reiosantos/tip-frontend)  
+[HackTheBox_Tier0_StartingPoint_4FreeMachine_Pentest](https://github.com/junxian428/HackTheBox_Tier0_StartingPoint_4FreeMachine_Pentest): Hack The Box Starting Point CTF Tier 0 4 Free Machine Flags Screenshot (Meow, Fawn, Dancing & Redeemer) 
