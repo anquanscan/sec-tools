@@ -5291,4 +5291,5 @@
 [retrowrite](https://github.com/HexHive/retrowrite): RetroWrite --  Retrofitting compiler passes through binary rewriting  
 [Dorkify](https://github.com/hhhrrrttt222111/Dorkify): Perform Google Dork search with Dorkify  
 [cdc-ui](https://github.com/CDC-UI/cdc-ui): Meeting notes, demo code, projects, website, and more for CDC@UI  
-[Security-Authorisation](https://github.com/Rid0y/Security-Authorisation): This is a C application to perform security authorisation based on access codes. 
+[Security-Authorisation](https://github.com/Rid0y/Security-Authorisation): This is a C application to perform security authorisation based on access codes.   
+[cybersec_women_resources](https://github.com/shezdev/cybersec_women_resources): A collection of resources to help women get into the cyber security industry
