@@ -5299,4 +5299,5 @@
 [Charlatano](https://github.com/Jire/Charlatano): Proves JVM cheats are viable on native games, and demonstrates the longevity against anti-cheat signature detection systems  
 [diceware-generator](https://github.com/Invictum/diceware-generator): Web based implementation of Diceware passphrases generator.  
 [Pentesting-Basics](https://github.com/ShubhamJagtap2000/Pentesting-Basics): 🔍 Basic terms and notes on penetration testing that I learned(learning) on the HackTheBox(HTB) platform  
-[sony-ak-knowledge-center](https://github.com/sonyarianto/sony-ak-knowledge-center): Sony AK Knowledge Center
+[sony-ak-knowledge-center](https://github.com/sonyarianto/sony-ak-knowledge-center): Sony AK Knowledge Center  
+[tip-frontend](https://github.com/reiosantos/tip-frontend)
