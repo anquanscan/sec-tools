@@ -5284,4 +5284,5 @@
 [CTFLearn](https://github.com/farisjalal/CTFLearn): Compilation of my write-ups for CTFLearn challenges. Might help those looking for guidance. Feel free to suggest alternative approaches to a problem, I'm no expert 😀  
 [openapi-apps](https://github.com/Shuffle/openapi-apps): Swagger/ OpenAPI specifications for security products and services  
 [l9explore](https://github.com/LeakIX/l9explore): l9explore - Digs the dirt  
-[Pandaxyz-xd](https://github.com/Pandaxyz-xd/Pandaxyz-xd): Hello! Im Pandaxyz 👋
+[Pandaxyz-xd](https://github.com/Pandaxyz-xd/Pandaxyz-xd): Hello! Im Pandaxyz 👋  
+[OSVDB-69562](https://github.com/NullBrunk/OSVDB-69562): Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution)
