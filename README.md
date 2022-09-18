@@ -5318,4 +5318,5 @@
 [MultiScanner](https://github.com/vs4vijay/MultiScanner): Security Tool which scans a target using OpenVAS, Zap, and Nexpose. And consolidates the scan result.  
 [PHPSecureLogin](https://github.com/merchizm/PHPSecureLogin): PHP 8.1 with PDO, Redis, JWT, hCaptcha, Google Authenticator  
 [SWELF](https://github.com/ceramicskate0/SWELF): Simple Windows Event Log Forwarder (SWELF). Its easy to use/simply works Log Forwarder and EVTX Parser. Almost in full release here at https://github.com/ceramicskate0/SWELF/releases/latest.  
-[API-fuzzer](https://github.com/Fuzzapi/API-fuzzer): API Fuzzer which allows to fuzz request attributes using common pentesting techniques and lists vulnerabilities
+[API-fuzzer](https://github.com/Fuzzapi/API-fuzzer): API Fuzzer which allows to fuzz request attributes using common pentesting techniques and lists vulnerabilities  
+[Jinja2-ExploitMe](https://github.com/Make-School-Labs/Jinja2-ExploitMe): [BEW 2.3: Web Security] Clone this repo to begin the SSTI exploit activity.
