@@ -5294,4 +5294,5 @@
 [Security-Authorisation](https://github.com/Rid0y/Security-Authorisation): This is a C application to perform security authorisation based on access codes.   
 [cybersec_women_resources](https://github.com/shezdev/cybersec_women_resources): A collection of resources to help women get into the cyber security industry  
 [Gmail_hack](https://github.com/EJL3/Gmail_hack): This is a python script for hacking Gmail account using Brute-force with wordlist attack.  
-[nerfball](https://github.com/jay-johnson/nerfball): Want to see how something like Internet Chemotherapy works without bricking your own vms? This is a jail to reduce the python runtime from doing bad things on the host when running untrusted code.  Nerf what you do not need :space_invader: + :bug: :soccer: :football: :whale:
+[nerfball](https://github.com/jay-johnson/nerfball): Want to see how something like Internet Chemotherapy works without bricking your own vms? This is a jail to reduce the python runtime from doing bad things on the host when running untrusted code.  Nerf what you do not need :space_invader: + :bug: :soccer: :football: :whale:  
+[CVE-2022-25845](https://github.com/Expl0desploit/CVE-2022-25845): Fastjson exploit
