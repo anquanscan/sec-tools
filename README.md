@@ -5288,4 +5288,5 @@
 [OSVDB-69562](https://github.com/NullBrunk/OSVDB-69562): Python3 exploit for OSVDB-69562 (ProFTPD 1.3.3c Backdoor Command Execution)  
 [ENCOD3R](https://github.com/MBAHABYK/ENCOD3R): This is a best python-3 encryption tool  
 [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits): Multi-language web CGI interfaces exploits.  
-[retrowrite](https://github.com/HexHive/retrowrite): RetroWrite --  Retrofitting compiler passes through binary rewriting
+[retrowrite](https://github.com/HexHive/retrowrite): RetroWrite --  Retrofitting compiler passes through binary rewriting  
+[Dorkify](https://github.com/hhhrrrttt222111/Dorkify): Perform Google Dork search with Dorkify
