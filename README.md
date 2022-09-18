@@ -5289,4 +5289,5 @@
 [ENCOD3R](https://github.com/MBAHABYK/ENCOD3R): This is a best python-3 encryption tool  
 [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits): Multi-language web CGI interfaces exploits.  
 [retrowrite](https://github.com/HexHive/retrowrite): RetroWrite --  Retrofitting compiler passes through binary rewriting  
-[Dorkify](https://github.com/hhhrrrttt222111/Dorkify): Perform Google Dork search with Dorkify
+[Dorkify](https://github.com/hhhrrrttt222111/Dorkify): Perform Google Dork search with Dorkify  
+[cdc-ui](https://github.com/CDC-UI/cdc-ui): Meeting notes, demo code, projects, website, and more for CDC@UI
