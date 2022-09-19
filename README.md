@@ -5324,4 +5324,5 @@
 [CTF-writeups-public](https://github.com/shiltemann/CTF-writeups-public): Writeups for infosec Capture the Flag events by team Galaxians  
 [opening-pathways](https://github.com/opening-pathways/opening-pathways): This repository supports the "Patient Pathways" site (https://patient.openingpathways.org/) and "Partner Toolkit" site (https://partner.openingpathways.org/) for the Opening Pathways project.  
 [screened-backdoor-macOS](https://github.com/armi3/screened-backdoor-macOS): 🐤 Rubber Ducky payload to set a semi persistent backdoor on a macOS.  
-[Defective-Malware](https://github.com/Aaron-Akhtar/Defective-Malware): Malware I developed.....
+[Defective-Malware](https://github.com/Aaron-Akhtar/Defective-Malware): Malware I developed.....  
+[wifijumper](https://github.com/kawaiipantsu/wifijumper): WiFi Jumper is a small open-wifi jumping leech, spilling it's guts whenever it gets a chance to do so.
