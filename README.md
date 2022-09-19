@@ -5349,4 +5349,5 @@
 [dtd-finder](https://github.com/GoSecure/dtd-finder): List DTDs and generate XXE payloads using those local DTDs.  
 [SANS-KringleCon-Holiday-Hack-Challenge-2019](https://github.com/slrbl/SANS-KringleCon-Holiday-Hack-Challenge-2019): Scripts/C program used to solve SANS KringleCon Holiday Hack Challenge   
 [Colourly](https://github.com/KaushikShivam/Colourly): Colourly is a palette management app build using the MERN stack. It lets you:  1. Create new palettes with a very advanced color picker and naming mechanism 2. Manage your own palettes (Create, Update, View and Delete) 3. View palettes uploaded by other users 4. view various different shades of the palette colors 5. Convert palette colors to different formats  
-[rtc-secure-user-property-store](https://github.com/jazz-community/rtc-secure-user-property-store): Store user properties (e.g. Personal Access Tokens) in a secure way
+[rtc-secure-user-property-store](https://github.com/jazz-community/rtc-secure-user-property-store): Store user properties (e.g. Personal Access Tokens) in a secure way  
+[MacOS-Security-Baseline](https://github.com/jgamblin/MacOS-Security-Baseline): Baseline Security Configuration For MacOS
