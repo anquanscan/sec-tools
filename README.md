@@ -5332,4 +5332,5 @@
 [Gestalt-Security-Framework](https://github.com/GestaltSecurity/Gestalt-Security-Framework): The Gestalt Security Framework (GSF) is an open source framework that provides navigation and mapping across multiple IT security controls frameworks (e.g. NIST 800-53, ISO 27000 series, PCI-DSS, COBIT, CIS, ACSC (IRAP), HIPAA, SOC2).  
 [envsec](https://github.com/jetpack-io/envsec): Securely store environment variables and secrets in the cloud of your choice.  
 [composer_security](https://github.com/a3020/composer_security): concrete5 package (8.1+) that installs a job to automatically check your composer.json file(s!) for vulnerabilities  
-[ext-remover](https://github.com/3kh0/ext-remover): Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!
+[ext-remover](https://github.com/3kh0/ext-remover): Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!  
+[fakesu](https://github.com/SourceCode2/fakesu): fakesu. Replace the "su" command, check the input and save the password entered in a file.
