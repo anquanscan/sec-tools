@@ -5321,4 +5321,5 @@
 [API-fuzzer](https://github.com/Fuzzapi/API-fuzzer): API Fuzzer which allows to fuzz request attributes using common pentesting techniques and lists vulnerabilities  
 [Jinja2-ExploitMe](https://github.com/Make-School-Labs/Jinja2-ExploitMe): [BEW 2.3: Web Security] Clone this repo to begin the SSTI exploit activity.  
 [MnemonicToImage](https://github.com/jakezeal/MnemonicToImage): Secure your crypto private keys with an Image. A new, user friendly way to backup and store your Bitcoin.  
-[CTF-writeups-public](https://github.com/shiltemann/CTF-writeups-public): Writeups for infosec Capture the Flag events by team Galaxians
+[CTF-writeups-public](https://github.com/shiltemann/CTF-writeups-public): Writeups for infosec Capture the Flag events by team Galaxians  
+[opening-pathways](https://github.com/opening-pathways/opening-pathways): This repository supports the "Patient Pathways" site (https://patient.openingpathways.org/) and "Partner Toolkit" site (https://partner.openingpathways.org/) for the Opening Pathways project.
