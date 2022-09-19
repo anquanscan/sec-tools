@@ -5328,4 +5328,5 @@
 [wifijumper](https://github.com/kawaiipantsu/wifijumper): WiFi Jumper is a small open-wifi jumping leech, spilling it's guts whenever it gets a chance to do so.  
 [FavFreak](https://github.com/devanshbatham/FavFreak): Making Favicon.ico based Recon Great again !   
 [securitycheck](https://github.com/angeldollface/securitycheck): A library to check whether your passwords are secure and strong. :key:  
-[AORT](https://github.com/D3Ext/AORT): All in One Recon Tool for Bug Bounty
+[AORT](https://github.com/D3Ext/AORT): All in One Recon Tool for Bug Bounty  
+[Gestalt-Security-Framework](https://github.com/GestaltSecurity/Gestalt-Security-Framework): The Gestalt Security Framework (GSF) is an open source framework that provides navigation and mapping across multiple IT security controls frameworks (e.g. NIST 800-53, ISO 27000 series, PCI-DSS, COBIT, CIS, ACSC (IRAP), HIPAA, SOC2).
