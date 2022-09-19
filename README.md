@@ -5341,4 +5341,5 @@
 [WarGameBandit-OTW](https://github.com/Whotex/WarGameBandit-OTW): Repositório para descrever a realização da war game bandid, providenciada pela over the wire para desafios e pratica de conceitos de segurança.    
 [java-sec-code](https://github.com/JoyChou93/java-sec-code): Java web common vulnerabilities and security code which is base on springboot and spring security  
 [AymanSecNotes](https://github.com/AhmedAyman1196/AymanSecNotes): This repository contains all my notes. Feel free to use them, share them or modify them.   
-[password.2dev.today](https://github.com/guanting112/password.2dev.today): Random Password/UUID Generator - Create strong password for your online account.
+[password.2dev.today](https://github.com/guanting112/password.2dev.today): Random Password/UUID Generator - Create strong password for your online account.  
+[criptobaiao](https://github.com/egypcio/criptobaiao): CriptoBaião, uma CriptoFesta em Fortaleza (Ceará, Brasil)
