@@ -5327,4 +5327,5 @@
 [Defective-Malware](https://github.com/Aaron-Akhtar/Defective-Malware): Malware I developed.....  
 [wifijumper](https://github.com/kawaiipantsu/wifijumper): WiFi Jumper is a small open-wifi jumping leech, spilling it's guts whenever it gets a chance to do so.  
 [FavFreak](https://github.com/devanshbatham/FavFreak): Making Favicon.ico based Recon Great again !   
-[securitycheck](https://github.com/angeldollface/securitycheck): A library to check whether your passwords are secure and strong. :key:
+[securitycheck](https://github.com/angeldollface/securitycheck): A library to check whether your passwords are secure and strong. :key:  
+[AORT](https://github.com/D3Ext/AORT): All in One Recon Tool for Bug Bounty
