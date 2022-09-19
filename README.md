@@ -5344,4 +5344,5 @@
 [password.2dev.today](https://github.com/guanting112/password.2dev.today): Random Password/UUID Generator - Create strong password for your online account.  
 [criptobaiao](https://github.com/egypcio/criptobaiao): CriptoBaião, uma CriptoFesta em Fortaleza (Ceará, Brasil)  
 [cybersecurity-ctf](https://github.com/paulveillard/cybersecurity-ctf): A collection of CTF frameworks, libraries, resources, softwares and tutorials, books, resources and cool stuff in Cybersecurity  
-[hawkeye](https://github.com/Ice3man543/hawkeye): Hawkeye filesystem analysis tool
+[hawkeye](https://github.com/Ice3man543/hawkeye): Hawkeye filesystem analysis tool  
+[digitalocean-developer-firewall](https://github.com/ErlendEllingsen/digitalocean-developer-firewall): Tool for developers to easily configure firewalls and gain access to their servers when using DigitalOcean cloud firewalls.
