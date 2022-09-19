@@ -5343,4 +5343,5 @@
 [AymanSecNotes](https://github.com/AhmedAyman1196/AymanSecNotes): This repository contains all my notes. Feel free to use them, share them or modify them.   
 [password.2dev.today](https://github.com/guanting112/password.2dev.today): Random Password/UUID Generator - Create strong password for your online account.  
 [criptobaiao](https://github.com/egypcio/criptobaiao): CriptoBaião, uma CriptoFesta em Fortaleza (Ceará, Brasil)  
-[cybersecurity-ctf](https://github.com/paulveillard/cybersecurity-ctf): A collection of CTF frameworks, libraries, resources, softwares and tutorials, books, resources and cool stuff in Cybersecurity
+[cybersecurity-ctf](https://github.com/paulveillard/cybersecurity-ctf): A collection of CTF frameworks, libraries, resources, softwares and tutorials, books, resources and cool stuff in Cybersecurity  
+[hawkeye](https://github.com/Ice3man543/hawkeye): Hawkeye filesystem analysis tool
