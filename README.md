@@ -5338,4 +5338,5 @@
 [m4ngl3m3](https://github.com/localh0t/m4ngl3m3): Common password pattern generator using strings list  
 [Cyber-Talents-Competetions](https://github.com/MoSaleh428/Cyber-Talents-Competetions): Any write ups of CTF competitions organized by Cyber Talents  
 [hayabusa](https://github.com/Yamato-Security/hayabusa): Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.  
-[WarGameBandit-OTW](https://github.com/Whotex/WarGameBandit-OTW): Repositório para descrever a realização da war game bandid, providenciada pela over the wire para desafios e pratica de conceitos de segurança.  
+[WarGameBandit-OTW](https://github.com/Whotex/WarGameBandit-OTW): Repositório para descrever a realização da war game bandid, providenciada pela over the wire para desafios e pratica de conceitos de segurança.    
+[java-sec-code](https://github.com/JoyChou93/java-sec-code): Java web common vulnerabilities and security code which is base on springboot and spring security
