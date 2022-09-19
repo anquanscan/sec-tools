@@ -5337,4 +5337,5 @@
 [Remcos-RAT-v3.8.0](https://github.com/Ox47100/Remcos-RAT-v3.8.0): Remcos RAT V3.8.0 Latest version  
 [m4ngl3m3](https://github.com/localh0t/m4ngl3m3): Common password pattern generator using strings list  
 [Cyber-Talents-Competetions](https://github.com/MoSaleh428/Cyber-Talents-Competetions): Any write ups of CTF competitions organized by Cyber Talents  
-[hayabusa](https://github.com/Yamato-Security/hayabusa): Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
+[hayabusa](https://github.com/Yamato-Security/hayabusa): Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.  
+[WarGameBandit-OTW](https://github.com/Whotex/WarGameBandit-OTW): Repositório para descrever a realização da war game bandid, providenciada pela over the wire para desafios e pratica de conceitos de segurança.  
