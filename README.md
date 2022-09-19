@@ -5339,4 +5339,5 @@
 [Cyber-Talents-Competetions](https://github.com/MoSaleh428/Cyber-Talents-Competetions): Any write ups of CTF competitions organized by Cyber Talents  
 [hayabusa](https://github.com/Yamato-Security/hayabusa): Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.  
 [WarGameBandit-OTW](https://github.com/Whotex/WarGameBandit-OTW): Repositório para descrever a realização da war game bandid, providenciada pela over the wire para desafios e pratica de conceitos de segurança.    
-[java-sec-code](https://github.com/JoyChou93/java-sec-code): Java web common vulnerabilities and security code which is base on springboot and spring security
+[java-sec-code](https://github.com/JoyChou93/java-sec-code): Java web common vulnerabilities and security code which is base on springboot and spring security  
+[AymanSecNotes](https://github.com/AhmedAyman1196/AymanSecNotes): This repository contains all my notes. Feel free to use them, share them or modify them. 
