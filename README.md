@@ -5353,4 +5353,5 @@
 [MacOS-Security-Baseline](https://github.com/jgamblin/MacOS-Security-Baseline): Baseline Security Configuration For MacOS  
 [atlas-website](https://github.com/mitre-atlas/atlas-website): Source and static code for the MITRE ATLAS website  
 [envizon](https://github.com/evait-security/envizon): network visualization & pentest reporting  
-[duoauth](https://github.com/enygma/duoauth): PHP Library for easy integration with Duo Security's Two-Factor REST API
+[duoauth](https://github.com/enygma/duoauth): PHP Library for easy integration with Duo Security's Two-Factor REST API  
+[ada-keystore](https://github.com/stcarrez/ada-keystore): Ada Keystore - protect your sensitive data with secure storage
