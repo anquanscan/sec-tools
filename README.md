@@ -5360,4 +5360,5 @@
 [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening): Ansible role to apply a security baseline. Systemd edition.  
 [sqli.page](https://github.com/Wh1t3Fox/sqli.page): SQLi Testing  
 [django-roles-access.github.io](https://github.com/django-roles-access/django-roles-access.github.io): Django app for securing access to views. It's built on top of *Django contrib Groups* interpreted as role.  
-[Secure-telegrambot](https://github.com/BlackIQ/Secure-telegrambot): This is a bot from Mehran Alam. I didn't create this. TNX Mehran.
+[Secure-telegrambot](https://github.com/BlackIQ/Secure-telegrambot): This is a bot from Mehran Alam. I didn't create this. TNX Mehran.  
+[Penetration-Testing-Study-Notes](https://github.com/AnasAboureada/Penetration-Testing-Study-Notes): Penetration Testing notes, resources and scripts
