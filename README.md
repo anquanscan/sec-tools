@@ -5371,4 +5371,5 @@
 [uart_extractor](https://github.com/Carliquiss/uart_extractor): A tool to connect a Raspberry Pi to a router through UART obtaining a shell  
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-6](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-6): About MAGNETRON ™: This is a Google Colab/Jupyter Notebook for developing a FACE RECOGNITION PROXIA (B) when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY)  
 [sunlogin-exp-cmd](https://github.com/theLSA/sunlogin-exp-cmd): 命令行版向日葵RCE漏洞利用工具 / cmd version of sunlogin exploit tool  
-[JGDMS](https://github.com/pfirmstone/JGDMS): Infrastructure for providing secured micro services, that are dynamically discoverable and searchable over ipv6 networks
+[JGDMS](https://github.com/pfirmstone/JGDMS): Infrastructure for providing secured micro services, that are dynamically discoverable and searchable over ipv6 networks  
+[MEIC-FSI](https://github.com/paulinho-16/MEIC-FSI): Todo o conteúdo produzido para a unidade curricular FSI (Fundamentos de Segurança Informática), para o curso em Engenharia Informática e Computação na FEUP
