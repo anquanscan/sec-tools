@@ -5355,4 +5355,5 @@
 [envizon](https://github.com/evait-security/envizon): network visualization & pentest reporting  
 [duoauth](https://github.com/enygma/duoauth): PHP Library for easy integration with Duo Security's Two-Factor REST API  
 [ada-keystore](https://github.com/stcarrez/ada-keystore): Ada Keystore - protect your sensitive data with secure storage  
-[tools-highsierraroot](https://github.com/axelvf/tools-highsierraroot): High Sierra root vulnerability validator
+[tools-highsierraroot](https://github.com/axelvf/tools-highsierraroot): High Sierra root vulnerability validator  
+[swag-api](https://github.com/Netflix-Skunkworks/swag-api): REST API and UI for SWAG data
