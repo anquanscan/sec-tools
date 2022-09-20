@@ -5358,4 +5358,5 @@
 [tools-highsierraroot](https://github.com/axelvf/tools-highsierraroot): High Sierra root vulnerability validator  
 [swag-api](https://github.com/Netflix-Skunkworks/swag-api): REST API and UI for SWAG data  
 [ansible-role-hardening](https://github.com/konstruktoid/ansible-role-hardening): Ansible role to apply a security baseline. Systemd edition.  
-[sqli.page](https://github.com/Wh1t3Fox/sqli.page): SQLi Testing
+[sqli.page](https://github.com/Wh1t3Fox/sqli.page): SQLi Testing  
+[django-roles-access.github.io](https://github.com/django-roles-access/django-roles-access.github.io): Django app for securing access to views. It's built on top of *Django contrib Groups* interpreted as role.
