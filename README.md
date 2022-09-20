@@ -5365,4 +5365,5 @@
 [burp-send-to](https://github.com/bytebutcher/burp-send-to): Adds a customizable "Send to..."-context-menu to your BurpSuite.  
 [tor-rootkit](https://github.com/emcruise/tor-rootkit): A Python 3 standalone Windows 10 / Linux Rootkit using Tor.  
 [window-rat](https://github.com/machine1337/window-rat): The purpose of this tool is to test the window10 defender protection and also other antivirus protection.  
-[IncomingSmS-Hacking](https://github.com/bmh1cker/IncomingSmS-Hacking): Incoming sms Hacking Apk Created and Sand to Victim Mobile
+[IncomingSmS-Hacking](https://github.com/bmh1cker/IncomingSmS-Hacking): Incoming sms Hacking Apk Created and Sand to Victim Mobile  
+[magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-5-2B](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-5-2B): About MAGNETRON ™: This is a Google Colab/Jupyter Notebook for developing a VOICE PROXIA (B) when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).
