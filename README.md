@@ -5368,4 +5368,5 @@
 [IncomingSmS-Hacking](https://github.com/bmh1cker/IncomingSmS-Hacking): Incoming sms Hacking Apk Created and Sand to Victim Mobile  
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-5-2B](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-5-2B): About MAGNETRON ™: This is a Google Colab/Jupyter Notebook for developing a VOICE PROXIA (B) when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).  
 [BadMod](https://github.com/M4DM0e/BadMod): CMS auto detect and exploit.  
-[uart_extractor](https://github.com/Carliquiss/uart_extractor): A tool to connect a Raspberry Pi to a router through UART obtaining a shell
+[uart_extractor](https://github.com/Carliquiss/uart_extractor): A tool to connect a Raspberry Pi to a router through UART obtaining a shell  
+[magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-6](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-6): About MAGNETRON ™: This is a Google Colab/Jupyter Notebook for developing a FACE RECOGNITION PROXIA (B) when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY)
