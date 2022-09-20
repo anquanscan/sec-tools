@@ -5375,4 +5375,5 @@
 [MEIC-FSI](https://github.com/paulinho-16/MEIC-FSI): Todo o conteúdo produzido para a unidade curricular FSI (Fundamentos de Segurança Informática), para o curso em Engenharia Informática e Computação na FEUP  
 [Green-Hydra](https://github.com/MaMo-ben/Green-Hydra)  
 [B.tech-Diffie-Hellman-Key-Exchange-Algorithm-cryptography-Project](https://github.com/Vatshayan/B.tech-Diffie-Hellman-Key-Exchange-Algorithm-cryptography-Project): B.tech Project on Diffie Hellman Key Exchange Algorithm. Very secure and complex. Use for communication system  
-[landing-page](https://github.com/secrdev/landing-page): SECR's website. 
+[landing-page](https://github.com/secrdev/landing-page): SECR's website.   
+[secure_systems_secrets-example](https://github.com/immae1/secure_systems_secrets-example): This is a example for using git-grypt. Only for test purpose! Created for the lecture "secure systems" in computer science and media master at the stuttgart media university
