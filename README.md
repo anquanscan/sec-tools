@@ -5384,4 +5384,5 @@
 [exploits-parser](https://github.com/Kuduxaaa/exploits-parser): CVE Exploits Parser from cvedetails.com [ the ultimate security vulnerability datasource ]  
 [STS2G](https://github.com/xfiftyone/STS2G): Struts2漏洞扫描利用工具 - Golang版. Struts2 Scanner Written in Golang  
 [sourcesecrets](https://github.com/landaire/sourcesecrets): Search for secrets left in git history  
-[subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go
+[subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go  
+[J-COLLECT](https://github.com/CyberSecurityUP/J-COLLECT): J-COLLECT é um conjunto de Scripts para coleta de Informações WEB
