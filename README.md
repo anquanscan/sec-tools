@@ -5386,4 +5386,5 @@
 [sourcesecrets](https://github.com/landaire/sourcesecrets): Search for secrets left in git history  
 [subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go  
 [J-COLLECT](https://github.com/CyberSecurityUP/J-COLLECT): J-COLLECT é um conjunto de Scripts para coleta de Informações WEB  
-[4malwaregenerator](https://github.com/efpyc/4malwaregenerator): Basit bir Bilgi Çalan malware oluşturucu
+[4malwaregenerator](https://github.com/efpyc/4malwaregenerator): Basit bir Bilgi Çalan malware oluşturucu  
+[TypingTracker](https://github.com/DionysusBenstein/TypingTracker): TypingTracker - simple keylogger that running in hidden or visible mode.
