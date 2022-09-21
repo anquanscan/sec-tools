@@ -5380,4 +5380,5 @@
 [CVE-2021-25076](https://github.com/0xAbbarhSF/CVE-2021-25076): Wordpress Plugin WP User Frontend < 3.5.26 - SQL-Injection (Authenticated)  
 [mitm-python](https://github.com/daniel4x/mitm-python): A simple as possible man in the middle written in python using scapy  
 [FlowPic](https://github.com/talshapira/FlowPic): T. Shapira and Y. Shavitt, "FlowPic: A Generic Representation for Encrypted Traffic Classification and Applications Identification," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2021.3071441.  
-[H.O.L](https://github.com/M0NST4R0101/H.O.L): Pentest T00LK1T Of Malwares And Backdoors For Linux
+[H.O.L](https://github.com/M0NST4R0101/H.O.L): Pentest T00LK1T Of Malwares And Backdoors For Linux  
+[exploits-parser](https://github.com/Kuduxaaa/exploits-parser): CVE Exploits Parser from cvedetails.com [ the ultimate security vulnerability datasource ]
