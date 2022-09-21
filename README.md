@@ -5396,4 +5396,5 @@
 [lua_soft_cpp_detour_finders](https://github.com/ExtReMLapin/lua_soft_cpp_detour_finders): detects c/cpp function detoured using a cpp module by checking the address of the function  
 [meltdown-kernel-read-poc](https://github.com/marcinguy/meltdown-kernel-read-poc): Read Kernel virtual mapping via Meltdown  
 [AutomaticScanner](https://github.com/whosstranger/AutomaticScanner): Tool created in Bash for automating the scanning phase with nmap and wfuzz tools.  
-[Application-of-ML-DL-in-Cyersecurity](https://github.com/HemlataPrajapati1692/Application-of-ML-DL-in-Cyersecurity): Experienced Analyst with a demonstrated history of working in insurance and IT industry. Machine Learning Enthusiast. Stay Tuned.
+[Application-of-ML-DL-in-Cyersecurity](https://github.com/HemlataPrajapati1692/Application-of-ML-DL-in-Cyersecurity): Experienced Analyst with a demonstrated history of working in insurance and IT industry. Machine Learning Enthusiast. Stay Tuned.  
+[Honeywords_Generator](https://github.com/virtuositeit/Honeywords_Generator): Three honeyword generation algorithms that combines chaff, tough nut, look-alike passwords. Realized with Google's pygtrie library.
