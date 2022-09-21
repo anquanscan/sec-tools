@@ -5406,4 +5406,5 @@
 [conference-2018-nodeukraine-security-in-nodejs](https://github.com/roman-sachenko/conference-2018-nodeukraine-security-in-nodejs): Security in NodeJS Demo  
 [Python-GitHub-Hack](https://github.com/StickmanNinja/Python-GitHub-Hack): Hack your GitHub account in just a few minutes using my custom python installer!  
 [Painaiapp](https://github.com/TheGeneralisimo/Painaiapp): “PainaiApp” - Criptosistema de comunicación descentralizada para órganos de información y seguridad para el Ayuntamiento de Tepeapulco.  
-[stirling-workshop-1](https://github.com/ViRb3/stirling-workshop-1): The materials for the Introduction to Cyber Security workshop
+[stirling-workshop-1](https://github.com/ViRb3/stirling-workshop-1): The materials for the Introduction to Cyber Security workshop  
+[domain-asset-control](https://github.com/cybnity/domain-asset-control): All the features and services realized by the Asset Control bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
