@@ -5393,4 +5393,5 @@
 [sayBruh](https://github.com/ranon-rat/sayBruh): its a rebuild of saycheese with golang  
 [Goohak](https://github.com/1N3/Goohak): Automatically Launch Google Hacking Queries Against A Target Domain  
 [s4ch.github.io](https://github.com/S4CH/s4ch.github.io): Cybersecurity blog contains useful stuff regarding security  
-[lua_soft_cpp_detour_finders](https://github.com/ExtReMLapin/lua_soft_cpp_detour_finders): detects c/cpp function detoured using a cpp module by checking the address of the function
+[lua_soft_cpp_detour_finders](https://github.com/ExtReMLapin/lua_soft_cpp_detour_finders): detects c/cpp function detoured using a cpp module by checking the address of the function  
+[meltdown-kernel-read-poc](https://github.com/marcinguy/meltdown-kernel-read-poc): Read Kernel virtual mapping via Meltdown
