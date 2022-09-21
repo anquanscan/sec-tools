@@ -5405,4 +5405,5 @@
 [tracer](https://github.com/chr3st5an/tracer): Tracer is an OSINT tool that can be used to detect on which websites a username is currently in use  
 [conference-2018-nodeukraine-security-in-nodejs](https://github.com/roman-sachenko/conference-2018-nodeukraine-security-in-nodejs): Security in NodeJS Demo  
 [Python-GitHub-Hack](https://github.com/StickmanNinja/Python-GitHub-Hack): Hack your GitHub account in just a few minutes using my custom python installer!  
-[Painaiapp](https://github.com/TheGeneralisimo/Painaiapp): “PainaiApp” - Criptosistema de comunicación descentralizada para órganos de información y seguridad para el Ayuntamiento de Tepeapulco.
+[Painaiapp](https://github.com/TheGeneralisimo/Painaiapp): “PainaiApp” - Criptosistema de comunicación descentralizada para órganos de información y seguridad para el Ayuntamiento de Tepeapulco.  
+[stirling-workshop-1](https://github.com/ViRb3/stirling-workshop-1): The materials for the Introduction to Cyber Security workshop
