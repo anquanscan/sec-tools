@@ -5400,4 +5400,5 @@
 [Honeywords_Generator](https://github.com/virtuositeit/Honeywords_Generator): Three honeyword generation algorithms that combines chaff, tough nut, look-alike passwords. Realized with Google's pygtrie library.  
 [AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking   
 [ArtifactCollector](https://github.com/stateoforegon-eis-css/ArtifactCollector): A PowerShell Tool to Collect Artifacts for Cybersecurity Assessments  
-[ubuntu-cis-hardening](https://github.com/sayujnath/ubuntu-cis-hardening): Creates an AWS AMI running ubuntu and hardens the OS using CIS Level 1
+[ubuntu-cis-hardening](https://github.com/sayujnath/ubuntu-cis-hardening): Creates an AWS AMI running ubuntu and hardens the OS using CIS Level 1  
+[tp-link-router-cracker](https://github.com/codernayeem/tp-link-router-cracker): A simple dictionary attack to crack the username and password of Tp-Link Router Page
