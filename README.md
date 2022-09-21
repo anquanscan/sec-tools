@@ -5383,4 +5383,5 @@
 [H.O.L](https://github.com/M0NST4R0101/H.O.L): Pentest T00LK1T Of Malwares And Backdoors For Linux  
 [exploits-parser](https://github.com/Kuduxaaa/exploits-parser): CVE Exploits Parser from cvedetails.com [ the ultimate security vulnerability datasource ]  
 [STS2G](https://github.com/xfiftyone/STS2G): Struts2漏洞扫描利用工具 - Golang版. Struts2 Scanner Written in Golang  
-[sourcesecrets](https://github.com/landaire/sourcesecrets): Search for secrets left in git history
+[sourcesecrets](https://github.com/landaire/sourcesecrets): Search for secrets left in git history  
+[subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go
