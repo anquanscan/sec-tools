@@ -5401,4 +5401,5 @@
 [AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking   
 [ArtifactCollector](https://github.com/stateoforegon-eis-css/ArtifactCollector): A PowerShell Tool to Collect Artifacts for Cybersecurity Assessments  
 [ubuntu-cis-hardening](https://github.com/sayujnath/ubuntu-cis-hardening): Creates an AWS AMI running ubuntu and hardens the OS using CIS Level 1  
-[tp-link-router-cracker](https://github.com/codernayeem/tp-link-router-cracker): A simple dictionary attack to crack the username and password of Tp-Link Router Page
+[tp-link-router-cracker](https://github.com/codernayeem/tp-link-router-cracker): A simple dictionary attack to crack the username and password of Tp-Link Router Page  
+[tracer](https://github.com/chr3st5an/tracer): Tracer is an OSINT tool that can be used to detect on which websites a username is currently in use
