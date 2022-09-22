@@ -5429,4 +5429,5 @@
 [kodefb](https://github.com/Mrxxzzzz/kodefb): kode kode fb kereeene  
 [cve-scanner-testing](https://github.com/gmatuz/cve-scanner-testing): Vulnerable Docker images created in different ways to check Docker image CVE scanners  
 [domain-vulnerability-mgt](https://github.com/cybnity/domain-vulnerability-mgt): All the features and services realized by the Vulnerability bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
-[puppet-cis-module](https://github.com/VoyagerInnovations/puppet-cis-module): Puppet module for hardening CentOS 6/7
+[puppet-cis-module](https://github.com/VoyagerInnovations/puppet-cis-module): Puppet module for hardening CentOS 6/7  
+[blog-seguridad](https://github.com/OscarM3615/blog-seguridad): Proyecto de Seguridad de la Información I
