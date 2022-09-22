@@ -5413,4 +5413,5 @@
 [The-Hacker-Game-Ruining-The-World](https://github.com/BernardoPiedade/The-Hacker-Game-Ruining-The-World): A game where you're an hacker. It has a campaign, two minigames and a secret code challenge.  
 [security-training](https://github.com/PagerDuty/security-training): Public version of PagerDuty's employee security training courses.   
 [Edscript](https://github.com/sanjayengineer121/Edscript): go to https://drive.google.com/file/d/1fo4mJ6Q-CSGnQObqpL7yuG8uB9Fcop5d/view and download it extract it then type in terminal cd go to install folder type chmod +x install.sh all required module install automatically it will take 10 minut to install all require modules then type cd .. to back from install folder then chmod +x ed for converting executable file type ./ed to start  
-[M4RC0](https://github.com/m4rc0khan/M4RC0): My study data.. ;) 
+[M4RC0](https://github.com/m4rc0khan/M4RC0): My study data.. ;)   
+[yapi-rce-webshell](https://github.com/Esonhugh/yapi-rce-webshell): Yapi mock script RCE another version. Webshell way. 另一种 Webshell 方式的 Yapi 命令执行的方法 相比于其他的利用方式 更加微操和可控 影响更小
