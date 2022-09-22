@@ -5444,4 +5444,5 @@
 [jwtcat](https://github.com/aress31/jwtcat): A CPU-based JSON Web Token (JWT) cracker and - to some extent - scanner.  
 [exploit-CVE-2022-24780](https://github.com/Acceis/exploit-CVE-2022-24780): iTop < 2.7.6 - (Authenticated) Remote command execution  
 [DevSkim](https://github.com/microsoft/DevSkim): DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.  
-[netbruter](https://github.com/0x00-0x00/netbruter): Networking protocols brute-forcer tool using Python 3.6 asyncio
+[netbruter](https://github.com/0x00-0x00/netbruter): Networking protocols brute-forcer tool using Python 3.6 asyncio  
+[csiv-xss-demo](https://github.com/tillson/csiv-xss-demo): Porter-Gaud Computer Science IV project for demonstrating the infamous 2005 MySpace XSS attack
