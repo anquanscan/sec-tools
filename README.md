@@ -5420,4 +5420,5 @@
 [vaxheim](https://github.com/s0t7x/vaxheim): simple poc of hotpatching third-party software. Created solely for teaching purposes. Assets may contain artwork licensed to Iron Gate / Coffee Stain Publishing. Created a BugReport to sesibilize devs of the target software to this kind of attacks. Still using deprecated signatures.  
 [itrace](https://github.com/hack0z/itrace): 🍰 Trace objc method call for ios and mac  
 [atriage](https://github.com/Ayrx/atriage): A dumb afl-fuzz triage tool.  
-[grendel](https://github.com/BlessedToastr/grendel): trollware that creates a ghost file on the users desktop that can't be deleted
+[grendel](https://github.com/BlessedToastr/grendel): trollware that creates a ghost file on the users desktop that can't be deleted  
+[discord-hacking-kit](https://github.com/CalderJohnson/discord-hacking-kit): Simple script to send a usertoken to a webhook, then another script to login with it (educational purposes only, I do not condone using either of these scripts on people)
