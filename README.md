@@ -5436,4 +5436,5 @@
 [exploit-factory](https://github.com/universefactory/exploit-factory): A framework I built to help accelerate the writing and prototyping of exploits.  
 [devconfIN](https://github.com/nomadicmehul/devconfIN): DevConf.in 2018 is the second annual Developers' Conference.  
 [Exp-JavaFX](https://github.com/fullstackcainiao/Exp-JavaFX): 这是一个构建图形化漏洞利用的项目  
-[Sitadel](https://github.com/shenril/Sitadel): Web Application Security Scanner
+[Sitadel](https://github.com/shenril/Sitadel): Web Application Security Scanner  
+[Secure-File-Eraser](https://github.com/Seantheprogrammer93/Secure-File-Eraser): This C# application will securely delete files on Windows Operating Systems by overwriting the data and then deleting the file(s) by bypassing the Recycle Bin.
