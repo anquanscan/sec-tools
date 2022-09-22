@@ -5421,4 +5421,5 @@
 [itrace](https://github.com/hack0z/itrace): 🍰 Trace objc method call for ios and mac  
 [atriage](https://github.com/Ayrx/atriage): A dumb afl-fuzz triage tool.  
 [grendel](https://github.com/BlessedToastr/grendel): trollware that creates a ghost file on the users desktop that can't be deleted  
-[discord-hacking-kit](https://github.com/CalderJohnson/discord-hacking-kit): Simple script to send a usertoken to a webhook, then another script to login with it (educational purposes only, I do not condone using either of these scripts on people)
+[discord-hacking-kit](https://github.com/CalderJohnson/discord-hacking-kit): Simple script to send a usertoken to a webhook, then another script to login with it (educational purposes only, I do not condone using either of these scripts on people)  
+[HACKING_TOOLS](https://github.com/nomrsavage/HACKING_TOOLS)
