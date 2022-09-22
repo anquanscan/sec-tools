@@ -5427,4 +5427,5 @@
 [cuc-ns-ppt](https://github.com/c4pr1c3/cuc-ns-ppt): 中国传媒大学网络安全本科专业课程课件  
 [bdc-auth-client](https://github.com/brazil-data-cube/bdc-auth-client): A client package for authentication and authorization based on OAuth 2.0 and BDC-Auth  
 [kodefb](https://github.com/Mrxxzzzz/kodefb): kode kode fb kereeene  
-[cve-scanner-testing](https://github.com/gmatuz/cve-scanner-testing): Vulnerable Docker images created in different ways to check Docker image CVE scanners
+[cve-scanner-testing](https://github.com/gmatuz/cve-scanner-testing): Vulnerable Docker images created in different ways to check Docker image CVE scanners  
+[domain-vulnerability-mgt](https://github.com/cybnity/domain-vulnerability-mgt): All the features and services realized by the Vulnerability bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
