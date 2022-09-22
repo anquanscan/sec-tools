@@ -5415,4 +5415,5 @@
 [Edscript](https://github.com/sanjayengineer121/Edscript): go to https://drive.google.com/file/d/1fo4mJ6Q-CSGnQObqpL7yuG8uB9Fcop5d/view and download it extract it then type in terminal cd go to install folder type chmod +x install.sh all required module install automatically it will take 10 minut to install all require modules then type cd .. to back from install folder then chmod +x ed for converting executable file type ./ed to start  
 [M4RC0](https://github.com/m4rc0khan/M4RC0): My study data.. ;)   
 [yapi-rce-webshell](https://github.com/Esonhugh/yapi-rce-webshell): Yapi mock script RCE another version. Webshell way. 另一种 Webshell 方式的 Yapi 命令执行的方法 相比于其他的利用方式 更加微操和可控 影响更小  
-[TG799VAC-XTREME-17.2-MINT](https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT): My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor 
+[TG799VAC-XTREME-17.2-MINT](https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT): My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor   
+[CVE-2022-0847-DirtyPipe-Exploits](https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits): A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.
