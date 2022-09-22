@@ -5419,4 +5419,5 @@
 [CVE-2022-0847-DirtyPipe-Exploits](https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits): A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.  
 [vaxheim](https://github.com/s0t7x/vaxheim): simple poc of hotpatching third-party software. Created solely for teaching purposes. Assets may contain artwork licensed to Iron Gate / Coffee Stain Publishing. Created a BugReport to sesibilize devs of the target software to this kind of attacks. Still using deprecated signatures.  
 [itrace](https://github.com/hack0z/itrace): 🍰 Trace objc method call for ios and mac  
-[atriage](https://github.com/Ayrx/atriage): A dumb afl-fuzz triage tool.
+[atriage](https://github.com/Ayrx/atriage): A dumb afl-fuzz triage tool.  
+[grendel](https://github.com/BlessedToastr/grendel): trollware that creates a ghost file on the users desktop that can't be deleted
