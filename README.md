@@ -5432,4 +5432,5 @@
 [puppet-cis-module](https://github.com/VoyagerInnovations/puppet-cis-module): Puppet module for hardening CentOS 6/7  
 [blog-seguridad](https://github.com/OscarM3615/blog-seguridad): Proyecto de Seguridad de la Información I  
 [DevBrute](https://github.com/shivamksharma/DevBrute): DevBrute is a Password Brute Forcer, It can Brute Force almost Social Media Accounts or Any Web Application.  
-[deephack](https://github.com/BishopFox/deephack): PoC code from DEF CON 25 presentation
+[deephack](https://github.com/BishopFox/deephack): PoC code from DEF CON 25 presentation  
+[exploit-factory](https://github.com/universefactory/exploit-factory): A framework I built to help accelerate the writing and prototyping of exploits.
