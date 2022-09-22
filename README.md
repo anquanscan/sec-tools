@@ -5418,4 +5418,5 @@
 [TG799VAC-XTREME-17.2-MINT](https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT): My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor   
 [CVE-2022-0847-DirtyPipe-Exploits](https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits): A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.  
 [vaxheim](https://github.com/s0t7x/vaxheim): simple poc of hotpatching third-party software. Created solely for teaching purposes. Assets may contain artwork licensed to Iron Gate / Coffee Stain Publishing. Created a BugReport to sesibilize devs of the target software to this kind of attacks. Still using deprecated signatures.  
-[itrace](https://github.com/hack0z/itrace): 🍰 Trace objc method call for ios and mac
+[itrace](https://github.com/hack0z/itrace): 🍰 Trace objc method call for ios and mac  
+[atriage](https://github.com/Ayrx/atriage): A dumb afl-fuzz triage tool.
