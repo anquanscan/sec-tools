@@ -5448,4 +5448,5 @@
 [csiv-xss-demo](https://github.com/tillson/csiv-xss-demo): Porter-Gaud Computer Science IV project for demonstrating the infamous 2005 MySpace XSS attack  
 [.allstar](https://github.com/kommitters/.allstar): kommit's OSPO policies for adherence to security best practices  
 [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel): Cloud-native SIEM for intelligent security analytics for your entire enterprise.  
-[pwnfaces](https://github.com/oppsec/pwnfaces): Primefaces 5.X EL Injection Exploit (CVE-2017-1000486)
+[pwnfaces](https://github.com/oppsec/pwnfaces): Primefaces 5.X EL Injection Exploit (CVE-2017-1000486)  
+[3DSHacks](https://github.com/pillows2/3DSHacks)
