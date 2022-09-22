@@ -5431,4 +5431,5 @@
 [domain-vulnerability-mgt](https://github.com/cybnity/domain-vulnerability-mgt): All the features and services realized by the Vulnerability bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [puppet-cis-module](https://github.com/VoyagerInnovations/puppet-cis-module): Puppet module for hardening CentOS 6/7  
 [blog-seguridad](https://github.com/OscarM3615/blog-seguridad): Proyecto de Seguridad de la Información I  
-[DevBrute](https://github.com/shivamksharma/DevBrute): DevBrute is a Password Brute Forcer, It can Brute Force almost Social Media Accounts or Any Web Application.
+[DevBrute](https://github.com/shivamksharma/DevBrute): DevBrute is a Password Brute Forcer, It can Brute Force almost Social Media Accounts or Any Web Application.  
+[deephack](https://github.com/BishopFox/deephack): PoC code from DEF CON 25 presentation
