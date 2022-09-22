@@ -5416,4 +5416,5 @@
 [M4RC0](https://github.com/m4rc0khan/M4RC0): My study data.. ;)   
 [yapi-rce-webshell](https://github.com/Esonhugh/yapi-rce-webshell): Yapi mock script RCE another version. Webshell way. 另一种 Webshell 方式的 Yapi 命令执行的方法 相比于其他的利用方式 更加微操和可控 影响更小  
 [TG799VAC-XTREME-17.2-MINT](https://github.com/wuseman/TG799VAC-XTREME-17.2-MINT): My personal unique wiki for hacking the router firmware used by (Telia)TG799vac Xtream v17.2-MINT delivered from Technicolor   
-[CVE-2022-0847-DirtyPipe-Exploits](https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits): A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.
+[CVE-2022-0847-DirtyPipe-Exploits](https://github.com/flux10n/CVE-2022-0847-DirtyPipe-Exploits): A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.  
+[vaxheim](https://github.com/s0t7x/vaxheim): simple poc of hotpatching third-party software. Created solely for teaching purposes. Assets may contain artwork licensed to Iron Gate / Coffee Stain Publishing. Created a BugReport to sesibilize devs of the target software to this kind of attacks. Still using deprecated signatures.
