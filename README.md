@@ -5450,4 +5450,5 @@
 [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel): Cloud-native SIEM for intelligent security analytics for your entire enterprise.  
 [pwnfaces](https://github.com/oppsec/pwnfaces): Primefaces 5.X EL Injection Exploit (CVE-2017-1000486)  
 [3DSHacks](https://github.com/pillows2/3DSHacks)  
-[ablayer](https://github.com/j-angnoe/ablayer): Ablayer - Mix local sources and proxied sources
+[ablayer](https://github.com/j-angnoe/ablayer): Ablayer - Mix local sources and proxied sources  
+[vault-demo](https://github.com/sethvargo/vault-demo): Walkthroughs and scripts for my @HashiCorp Vault talks
