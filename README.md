@@ -5489,4 +5489,5 @@
 [panoptik](https://github.com/maxgfr/panoptik): Hackaton Sigfox  
 [MTPwn](https://github.com/smeso/MTPwn): PoC exploit for arbitrary file read/write in locked Samsung Android device via MTP (SVE-2017-10086)  
 [koios](https://github.com/ciphyr/koios): Wireless Pentesting Toolkit for Kali/Linux in Python  
-[mediawiki-scratch-login](https://github.com/InternationalScratchWiki/mediawiki-scratch-login): MediaWiki extension to allow logging in with one's Scratch account
+[mediawiki-scratch-login](https://github.com/InternationalScratchWiki/mediawiki-scratch-login): MediaWiki extension to allow logging in with one's Scratch account  
+[magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-7](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-7): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing a EMOTION RECOGNITION PROXIA (B) when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).
