@@ -5477,4 +5477,5 @@
 [PD_Cracker](https://github.com/LuYee6813/PD_Cracker): Parallels Desktop 驗證繞過腳本  
 [misp-chrome-plugin](https://github.com/jaegeral/misp-chrome-plugin): MISP Chrome plugin for adding and looking up indicators  
 [DeathSleep](https://github.com/janoglezcampos/DeathSleep): A PoC implementation for an evasion technique to terminate the current thread and restore it before resuming execution, while implementing page protection changes during no execution.  
-[jazzer](https://github.com/CodeIntelligenceTesting/jazzer): Coverage-guided, in-process fuzzing for the JVM
+[jazzer](https://github.com/CodeIntelligenceTesting/jazzer): Coverage-guided, in-process fuzzing for the JVM  
+[PoisonPi](https://github.com/DarrenRainey/PoisonPi): PoisonPi is a Linux based pentest and attack platform for the raspberry pi
