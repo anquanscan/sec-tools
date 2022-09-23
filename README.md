@@ -5469,4 +5469,5 @@
 [tell-me-your-secrets](https://github.com/valayDave/tell-me-your-secrets): Find secrets on any machine from over 120 Different Signatures.  
 [CTF-CSCG2020](https://github.com/leon-th/CTF-CSCG2020): Writeups and challenge/solve files from the CTF CyberSecurityChallengeGermany 2020  
 [k8gege520.github.io](https://github.com/k8gege520/k8gege520.github.io)  
-[Termux-Os](https://github.com/Bhai4You/Termux-Os): All in One Termux Os..!! (New)
+[Termux-Os](https://github.com/Bhai4You/Termux-Os): All in One Termux Os..!! (New)  
+[Pattern-scanner-for-OSX](https://github.com/gabsens/Pattern-scanner-for-OSX): Grabs important CSGO offsets on OSX using pattern-scanning
