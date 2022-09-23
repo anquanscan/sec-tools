@@ -5482,4 +5482,5 @@
 [C-MorganG20](https://github.com/Steve90-ui/C-MorganG20)  
 [wan-design](https://github.com/iiithf/wan-design): Wide Area Network for File sharing, Energy & Gas metering, Fire alarm, Burglar security between 1 Village & 2 Apartments.  
 [Andromeda](https://github.com/FajarTheGGman/Andromeda): #Simple Pentensting Tools  
-[paranoid_crypto](https://github.com/google/paranoid_crypto): Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
+[paranoid_crypto](https://github.com/google/paranoid_crypto): Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.  
+[armroper](https://github.com/spiperac/armroper): ARM rop chain gadget searcher
