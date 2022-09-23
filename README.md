@@ -5474,4 +5474,5 @@
 [AR150-WiFiPineapple](https://github.com/xchwarze/AR150-WiFiPineapple): Converting your AR150 to a Wifi Pineapple NANO  
 [Tivoli-Madness](https://github.com/VoidSec/Tivoli-Madness): Advisory for CVE-2020-28054 & stack based buffer overflow in IBM Tivoli Storage Manager  
 [malware-is-fun-UwU](https://github.com/Kn07-1/malware-is-fun-UwU): some stuff i find on my honeypots when im board don't use this for stupid shit plz if ya don it aint my fault   
-[PD_Cracker](https://github.com/LuYee6813/PD_Cracker): Parallels Desktop 驗證繞過腳本
+[PD_Cracker](https://github.com/LuYee6813/PD_Cracker): Parallels Desktop 驗證繞過腳本  
+[misp-chrome-plugin](https://github.com/jaegeral/misp-chrome-plugin): MISP Chrome plugin for adding and looking up indicators
