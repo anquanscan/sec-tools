@@ -5488,4 +5488,5 @@
 [RogueLDAP](https://github.com/twelvesec/RogueLDAP): A lightweight rogue LDAP server which is a modified version of the JNDIExploit-1  
 [panoptik](https://github.com/maxgfr/panoptik): Hackaton Sigfox  
 [MTPwn](https://github.com/smeso/MTPwn): PoC exploit for arbitrary file read/write in locked Samsung Android device via MTP (SVE-2017-10086)  
-[koios](https://github.com/ciphyr/koios): Wireless Pentesting Toolkit for Kali/Linux in Python
+[koios](https://github.com/ciphyr/koios): Wireless Pentesting Toolkit for Kali/Linux in Python  
+[mediawiki-scratch-login](https://github.com/InternationalScratchWiki/mediawiki-scratch-login): MediaWiki extension to allow logging in with one's Scratch account
