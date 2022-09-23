@@ -5491,4 +5491,5 @@
 [koios](https://github.com/ciphyr/koios): Wireless Pentesting Toolkit for Kali/Linux in Python  
 [mediawiki-scratch-login](https://github.com/InternationalScratchWiki/mediawiki-scratch-login): MediaWiki extension to allow logging in with one's Scratch account  
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-7](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--INSTINCTIVE-MIND-7): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing a EMOTION RECOGNITION PROXIA (B) when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).  
-[qmsggg_HackingAndSecurity](https://github.com/qmsggg/qmsggg_HackingAndSecurity): HackAndSecurity
+[qmsggg_HackingAndSecurity](https://github.com/qmsggg/qmsggg_HackingAndSecurity): HackAndSecurity  
+[docker-firecracker](https://github.com/s8sg/docker-firecracker): Generic container for launching a firecracker microVM inside a Docker container
