@@ -5504,4 +5504,5 @@
 [WL1-Editor](https://github.com/tigrouind/WL1-Editor): A level editor for Super Mario Land 3 / WarioLand 1 (1993)  
 [PenTestingLab.es](https://github.com/txuswashere/PenTestingLab.es): https://pentestinglab.es/  
 [dependabot-x](https://github.com/alifathi-h1/dependabot-x): Dependabot-X is a tool written in Python3 that allows GitHub Organization/User to automate enabling Dependabot alerts feature for all repositories.   
-[apkurlgrep](https://github.com/ndelphit/apkurlgrep): Extract endpoints from APK files
+[apkurlgrep](https://github.com/ndelphit/apkurlgrep): Extract endpoints from APK files  
+[py-nash](https://github.com/codingchili/py-nash): Python crawler / vulnerability scanner
