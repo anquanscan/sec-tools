@@ -5453,4 +5453,5 @@
 [ablayer](https://github.com/j-angnoe/ablayer): Ablayer - Mix local sources and proxied sources  
 [vault-demo](https://github.com/sethvargo/vault-demo): Walkthroughs and scripts for my @HashiCorp Vault talks  
 [Omnis-Dead-Frontier-2-PrivateCheat](https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat): Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE  
-[pcapfilter](https://github.com/D3f0/pcapfilter): Command line tool for packet filtering and manipulation using scapy
+[pcapfilter](https://github.com/D3f0/pcapfilter): Command line tool for packet filtering and manipulation using scapy  
+[Wifi-Brute](https://github.com/Cyber-Dioxide/Wifi-Brute): A tool to crack a wifi password with a help of wordlist. This may take long to crack a wifi depending upon number of passwords your wordlist contains. Also it is slower as compared to social media accounts cracking. I've made enough efforts to make it as fast as possible
