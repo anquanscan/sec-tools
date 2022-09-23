@@ -5499,4 +5499,5 @@
 [StringHashAPI](https://github.com/Dominik48N/StringHashAPI): A simple library to hash strings, e.g. to make passwords of users in the database unrecognizable for possible hacker attacks.  
 [faraday_burp](https://github.com/infobyte/faraday_burp): Burp Extension for collaboration in Faraday  
 [CharlesHack](https://github.com/HeIp-zz/CharlesHack): Hacking Charles Web Debugging Proxy, Working 4.1.4 Version  
-[raven-python-lambda](https://github.com/Netflix-Skunkworks/raven-python-lambda): Sentry/Raven SDK Integration For AWS Lambda (python) and Serverless
+[raven-python-lambda](https://github.com/Netflix-Skunkworks/raven-python-lambda): Sentry/Raven SDK Integration For AWS Lambda (python) and Serverless  
+[polenum](https://github.com/Wh1t3Fox/polenum): Uses Core's Impacket Library to get the password policy from a windows machine
