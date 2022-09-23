@@ -5486,4 +5486,5 @@
 [armroper](https://github.com/spiperac/armroper): ARM rop chain gadget searcher  
 [how-to-hack-github-actions](https://github.com/StackOverflowExcept1on/how-to-hack-github-actions): How to hack Github Actions if you're smart enough; I'm not gay but 500$ is 500$!  
 [RogueLDAP](https://github.com/twelvesec/RogueLDAP): A lightweight rogue LDAP server which is a modified version of the JNDIExploit-1  
-[panoptik](https://github.com/maxgfr/panoptik): Hackaton Sigfox
+[panoptik](https://github.com/maxgfr/panoptik): Hackaton Sigfox  
+[MTPwn](https://github.com/smeso/MTPwn): PoC exploit for arbitrary file read/write in locked Samsung Android device via MTP (SVE-2017-10086)
