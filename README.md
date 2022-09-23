@@ -5458,4 +5458,5 @@
 [BomberCat](https://github.com/ElectronicCats/BomberCat): BomberCat is the latest security tool that combines the most common card technologies: NFC technology (Near Field Communication) and magnetic stripe technology used in access control, identification, and banking cards. Specially created to audit banking terminals, and identify NFC readers and sniffing tools, with this tool you can audit  
 [lorsrf](https://github.com/knassar702/lorsrf): Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load :artificial_satellite: :crab:  
 [awesome-he](https://github.com/jonaschn/awesome-he): ✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources  
-[LokmedAdfin](https://github.com/NeloF4/LokmedAdfin): Lokomedia Admin Finder 
+[LokmedAdfin](https://github.com/NeloF4/LokmedAdfin): Lokomedia Admin Finder   
+[Clicker-heroes-cheats](https://github.com/ClaraCF/Clicker-heroes-cheats): Python script which facilitates the auditing process of Clicker Heroes 1
