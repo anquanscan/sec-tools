@@ -5463,4 +5463,5 @@
 [Portus](https://github.com/SUSE/Portus): Authorization service and frontend for Docker registry (v2)  
 [Labtainers](https://github.com/mfthomps/Labtainers): Labtainers: A Docker-based cyber lab framework  
 [PR4SEC](https://github.com/Javier1019/PR4SEC): Repository for PR4SEC Team. It's going to be used to centralize most of the code used in lectures.  
-[ihulk.py](https://github.com/iamaamir/ihulk.py): IHULK (Improved Http Unbearable Load King) DoS Tool Ported to Python 3
+[ihulk.py](https://github.com/iamaamir/ihulk.py): IHULK (Improved Http Unbearable Load King) DoS Tool Ported to Python 3  
+[TLSServerScanner](https://github.com/bewue/TLSServerScanner): Scan TLS servers to get information about the supported TLS techniques.
