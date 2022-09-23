@@ -5484,4 +5484,5 @@
 [Andromeda](https://github.com/FajarTheGGman/Andromeda): #Simple Pentensting Tools  
 [paranoid_crypto](https://github.com/google/paranoid_crypto): Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.  
 [armroper](https://github.com/spiperac/armroper): ARM rop chain gadget searcher  
-[how-to-hack-github-actions](https://github.com/StackOverflowExcept1on/how-to-hack-github-actions): How to hack Github Actions if you're smart enough; I'm not gay but 500$ is 500$!
+[how-to-hack-github-actions](https://github.com/StackOverflowExcept1on/how-to-hack-github-actions): How to hack Github Actions if you're smart enough; I'm not gay but 500$ is 500$!  
+[RogueLDAP](https://github.com/twelvesec/RogueLDAP): A lightweight rogue LDAP server which is a modified version of the JNDIExploit-1
