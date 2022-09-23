@@ -5465,4 +5465,5 @@
 [PR4SEC](https://github.com/Javier1019/PR4SEC): Repository for PR4SEC Team. It's going to be used to centralize most of the code used in lectures.  
 [ihulk.py](https://github.com/iamaamir/ihulk.py): IHULK (Improved Http Unbearable Load King) DoS Tool Ported to Python 3  
 [TLSServerScanner](https://github.com/bewue/TLSServerScanner): Scan TLS servers to get information about the supported TLS techniques.  
-[Cstorm-windows-startup-virus-in-c](https://github.com/Anish-M-code/Cstorm-windows-startup-virus-in-c): An opensource Prank Startup Malware for windows developed using C Programming Language.
+[Cstorm-windows-startup-virus-in-c](https://github.com/Anish-M-code/Cstorm-windows-startup-virus-in-c): An opensource Prank Startup Malware for windows developed using C Programming Language.  
+[tell-me-your-secrets](https://github.com/valayDave/tell-me-your-secrets): Find secrets on any machine from over 120 Different Signatures.
