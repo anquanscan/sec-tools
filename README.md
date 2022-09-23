@@ -5452,4 +5452,5 @@
 [3DSHacks](https://github.com/pillows2/3DSHacks)  
 [ablayer](https://github.com/j-angnoe/ablayer): Ablayer - Mix local sources and proxied sources  
 [vault-demo](https://github.com/sethvargo/vault-demo): Walkthroughs and scripts for my @HashiCorp Vault talks  
-[Omnis-Dead-Frontier-2-PrivateCheat](https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat): Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE
+[Omnis-Dead-Frontier-2-PrivateCheat](https://github.com/TheEnd1337/Omnis-Dead-Frontier-2-PrivateCheat): Dead Frontier 2 PrivateCheat with 50 FEATURES INCLUDING AIMBOT + ESP AND A LOT MORE  
+[pcapfilter](https://github.com/D3f0/pcapfilter): Command line tool for packet filtering and manipulation using scapy
