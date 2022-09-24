@@ -5533,4 +5533,5 @@
 [authserver](https://github.com/jokk-itu/authserver): Authorization server with OAuth 2.0 and OpenId Connect 1.0  
 [django-maps-scripting](https://github.com/ConnorXploit/django-maps-scripting): Django, MapBox, Info gathering, Recon-ng, Metasploit, Empire...  
 [pentest-payloads-snippets](https://github.com/rfcgraciano/pentest-payloads-snippets): Pentest Payloads and Snippets  
-[Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor): A webshell that can bypass some system security
+[Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor): A webshell that can bypass some system security  
+[CVSS-Intepreter](https://github.com/bin3xish477/CVSS-Intepreter): Interpret CVSS (version 2 & version 3) scores.
