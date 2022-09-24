@@ -5518,4 +5518,5 @@
 [spyse-subdomain-finder](https://github.com/nmmapper/spyse-subdomain-finder): We all know about the famous spyse.com this python3 scripts scrounges subdomains without the api from spyse  cybersecurity search engine  
 [WifiStealer](https://github.com/wasfyelbaz/WifiStealer): Wifi Stealer steals all the wifi networks profiled on the target's system.  
 [log4j-detector](https://github.com/mergebase/log4j-detector): Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!  
-[gmail-cookies-research](https://github.com/CoalDev/gmail-cookies-research): Research about gmail's cookies, how to read and write mails with only 4 cookies.
+[gmail-cookies-research](https://github.com/CoalDev/gmail-cookies-research): Research about gmail's cookies, how to read and write mails with only 4 cookies.  
+[WTTG2](https://github.com/un1n0wn/WTTG2): this is a multi hacking tool written in python, this is also inspired by the game "Welcome To The Game 2"
