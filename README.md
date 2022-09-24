@@ -5515,4 +5515,5 @@
 [ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.  
 [RatPoison](https://github.com/RatPoison-dev/RatPoison): Latest Ver: 1.7; Default Menu Key is F1; Charlatano's Successor; dn   
 [evilMACHO](https://github.com/jmpews/evilMACHO): Malicious use of macho, such as dump-runtime-macho, function-hook.  
-[spyse-subdomain-finder](https://github.com/nmmapper/spyse-subdomain-finder): We all know about the famous spyse.com this python3 scripts scrounges subdomains without the api from spyse  cybersecurity search engine
+[spyse-subdomain-finder](https://github.com/nmmapper/spyse-subdomain-finder): We all know about the famous spyse.com this python3 scripts scrounges subdomains without the api from spyse  cybersecurity search engine  
+[WifiStealer](https://github.com/wasfyelbaz/WifiStealer): Wifi Stealer steals all the wifi networks profiled on the target's system.
