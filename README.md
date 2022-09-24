@@ -5535,4 +5535,5 @@
 [pentest-payloads-snippets](https://github.com/rfcgraciano/pentest-payloads-snippets): Pentest Payloads and Snippets  
 [Gel4y-Mini-Shell-Backdoor](https://github.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor): A webshell that can bypass some system security  
 [CVSS-Intepreter](https://github.com/bin3xish477/CVSS-Intepreter): Interpret CVSS (version 2 & version 3) scores.  
-[CSGO-sv_cheats-1-EXPLOIT](https://github.com/KryxOk/CSGO-sv_cheats-1-EXPLOIT): AutoHotKey Script that allows you to bypass sv_cheats 1 in csgo vac secure servers
+[CSGO-sv_cheats-1-EXPLOIT](https://github.com/KryxOk/CSGO-sv_cheats-1-EXPLOIT): AutoHotKey Script that allows you to bypass sv_cheats 1 in csgo vac secure servers  
+[MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons): Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting
