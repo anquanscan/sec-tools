@@ -5548,4 +5548,5 @@
 [CSRF-handler](https://github.com/banujan6/CSRF-handler): A simple CSRF Token protection library for PHP. I t will help you to generate the random unique token and validate it to prevent CSRF attack.  
 [SNFQ-SimpleNetFilterQueueLibrary](https://github.com/cr7pt0pl4gu3/SNFQ-SimpleNetFilterQueueLibrary): SNFQ is a Simple NetFilterQueue Library developed by Ravehorn. It is built on top of NetfilterQueue.  
 [Parrot-CTFs-Website](https://github.com/Parrot-CTFs/Parrot-CTFs-Website): Parrot CTFs - A CTF platform for all fields of IT - OWASP, CRTP & OSCP Based Training Labs  
-[android_kernel_lge_msm8992](https://github.com/doitaljosh/android_kernel_lge_msm8992): Kernel optimised for GNU/Linux userspaces
+[android_kernel_lge_msm8992](https://github.com/doitaljosh/android_kernel_lge_msm8992): Kernel optimised for GNU/Linux userspaces  
+[HolisticInfoSec-For-WebDevelopers-Fascicle1](https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle1): :books: VPS :lock: Network :lock: Cloud :lock: Web Applications :books:
