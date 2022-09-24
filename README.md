@@ -5521,4 +5521,5 @@
 [gmail-cookies-research](https://github.com/CoalDev/gmail-cookies-research): Research about gmail's cookies, how to read and write mails with only 4 cookies.  
 [WTTG2](https://github.com/un1n0wn/WTTG2): this is a multi hacking tool written in python, this is also inspired by the game "Welcome To The Game 2"  
 [ipatool](https://github.com/majd/ipatool): Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store  
-[ignorecheck](https://github.com/smashah/ignorecheck): A simple CLI/utility to ensure certain patterns are present in a project's .gitignore - Be sure to 🌟 this repository for updates! 
+[ignorecheck](https://github.com/smashah/ignorecheck): A simple CLI/utility to ensure certain patterns are present in a project's .gitignore - Be sure to 🌟 this repository for updates!   
+[LuciTools](https://github.com/IamLucif3r/LuciTools): These are Cybersecurity tools built with Python
