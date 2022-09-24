@@ -5543,4 +5543,5 @@
 [stackrox](https://github.com/stackrox/stackrox): The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.  
 [PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury): A PowerShell armoury for security guys and girls  
 [sans-indexes](https://github.com/ancailliau/sans-indexes): Indexes for SANS Courses and GIAC Certifications  
-[C-File-Patcher](https://github.com/JakeLoganUK/C-File-Patcher): Simply Patch a File Using C++
+[C-File-Patcher](https://github.com/JakeLoganUK/C-File-Patcher): Simply Patch a File Using C++  
+[HostReconTool](https://github.com/bhitchens/HostReconTool): Tool that gathers data from local and remote Windows systems and compiles it in a SQLite database.
