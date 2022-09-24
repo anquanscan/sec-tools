@@ -5507,4 +5507,5 @@
 [apkurlgrep](https://github.com/ndelphit/apkurlgrep): Extract endpoints from APK files  
 [py-nash](https://github.com/codingchili/py-nash): Python crawler / vulnerability scanner  
 [express-limit-host](https://github.com/Soontao/express-limit-host): simple middleware to protect server from host/x-forwarded-host injection.  
-[hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt): Yet, just another hexo plugin for security.
+[hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt): Yet, just another hexo plugin for security.  
+[coding-lab](https://github.com/thevnomad/coding-lab): REST API with security tools
