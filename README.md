@@ -5526,4 +5526,5 @@
 [mquery](https://github.com/CERT-Polska/mquery): YARA malware query accelerator (web frontend)  
 [wiviz](https://github.com/apertureless/wiviz): Wifi client probe analyzer & visualizer  
 [zenna_rat](https://github.com/Jennahacker/zenna_rat): Android RAT with web panel and fully undetectable App support android 12  
-[SEUM-Dll](https://github.com/Zuccss/SEUM-Dll): SEUM hack using dll injection
+[SEUM-Dll](https://github.com/Zuccss/SEUM-Dll): SEUM hack using dll injection  
+[CVE-2020-10977](https://github.com/KooroshRZ/CVE-2020-10977): Exploit for "GitLab Instance" Arbitrary server file read vulnerability
