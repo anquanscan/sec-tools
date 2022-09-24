@@ -5512,4 +5512,5 @@
 [Process-Service_Analyzer](https://github.com/haim1993/Process-Service_Analyzer): A hacking tool that allows a user to track changes in services/processes in there system. other cool features are included.  
 [aws-security-toolbox](https://github.com/z0ph/aws-security-toolbox): AWS Security Tools (AST) in a simple Docker container. :package:  
 [Crypt0r](https://github.com/GeoSn0w/Crypt0r): A simple yet powerful random strong password generator created for practice.  
-[ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+[ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard): Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.  
+[RatPoison](https://github.com/RatPoison-dev/RatPoison): Latest Ver: 1.7; Default Menu Key is F1; Charlatano's Successor; dn 
