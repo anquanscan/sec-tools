@@ -5537,4 +5537,5 @@
 [CVSS-Intepreter](https://github.com/bin3xish477/CVSS-Intepreter): Interpret CVSS (version 2 & version 3) scores.  
 [CSGO-sv_cheats-1-EXPLOIT](https://github.com/KryxOk/CSGO-sv_cheats-1-EXPLOIT): AutoHotKey Script that allows you to bypass sv_cheats 1 in csgo vac secure servers  
 [MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons): Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting  
-[PoW-Phalanx](https://github.com/RuiSiang/PoW-Phalanx): Controller for PoW Shield (a layer7 DDoS filter) providing multi-instance utilities.
+[PoW-Phalanx](https://github.com/RuiSiang/PoW-Phalanx): Controller for PoW Shield (a layer7 DDoS filter) providing multi-instance utilities.  
+[amazon-sns](https://github.com/deep-security/amazon-sns): Scripts to parse events from Trend Micro Deep Security via Amazon SNS.
