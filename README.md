@@ -5531,4 +5531,5 @@
 [empirectf](https://github.com/EmpireCTF/empirectf): EmpireCTF – write-ups, capture the flag, cybersecurity  
 [lithackr.github.io](https://github.com/lithackr/lithackr.github.io): Welcome to my Repo  
 [authserver](https://github.com/jokk-itu/authserver): Authorization server with OAuth 2.0 and OpenId Connect 1.0  
-[django-maps-scripting](https://github.com/ConnorXploit/django-maps-scripting): Django, MapBox, Info gathering, Recon-ng, Metasploit, Empire...
+[django-maps-scripting](https://github.com/ConnorXploit/django-maps-scripting): Django, MapBox, Info gathering, Recon-ng, Metasploit, Empire...  
+[pentest-payloads-snippets](https://github.com/rfcgraciano/pentest-payloads-snippets): Pentest Payloads and Snippets
