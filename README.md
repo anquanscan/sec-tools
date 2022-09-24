@@ -5523,4 +5523,5 @@
 [ipatool](https://github.com/majd/ipatool): Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store  
 [ignorecheck](https://github.com/smashah/ignorecheck): A simple CLI/utility to ensure certain patterns are present in a project's .gitignore - Be sure to 🌟 this repository for updates!   
 [LuciTools](https://github.com/IamLucif3r/LuciTools): These are Cybersecurity tools built with Python  
-[mquery](https://github.com/CERT-Polska/mquery): YARA malware query accelerator (web frontend)
+[mquery](https://github.com/CERT-Polska/mquery): YARA malware query accelerator (web frontend)  
+[wiviz](https://github.com/apertureless/wiviz): Wifi client probe analyzer & visualizer
