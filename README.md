@@ -5524,4 +5524,5 @@
 [ignorecheck](https://github.com/smashah/ignorecheck): A simple CLI/utility to ensure certain patterns are present in a project's .gitignore - Be sure to 🌟 this repository for updates!   
 [LuciTools](https://github.com/IamLucif3r/LuciTools): These are Cybersecurity tools built with Python  
 [mquery](https://github.com/CERT-Polska/mquery): YARA malware query accelerator (web frontend)  
-[wiviz](https://github.com/apertureless/wiviz): Wifi client probe analyzer & visualizer
+[wiviz](https://github.com/apertureless/wiviz): Wifi client probe analyzer & visualizer  
+[zenna_rat](https://github.com/Jennahacker/zenna_rat): Android RAT with web panel and fully undetectable App support android 12
