@@ -5528,4 +5528,5 @@
 [zenna_rat](https://github.com/Jennahacker/zenna_rat): Android RAT with web panel and fully undetectable App support android 12  
 [SEUM-Dll](https://github.com/Zuccss/SEUM-Dll): SEUM hack using dll injection  
 [CVE-2020-10977](https://github.com/KooroshRZ/CVE-2020-10977): Exploit for "GitLab Instance" Arbitrary server file read vulnerability  
-[empirectf](https://github.com/EmpireCTF/empirectf): EmpireCTF – write-ups, capture the flag, cybersecurity
+[empirectf](https://github.com/EmpireCTF/empirectf): EmpireCTF – write-ups, capture the flag, cybersecurity  
+[lithackr.github.io](https://github.com/lithackr/lithackr.github.io): Welcome to my Repo
