@@ -5530,4 +5530,5 @@
 [CVE-2020-10977](https://github.com/KooroshRZ/CVE-2020-10977): Exploit for "GitLab Instance" Arbitrary server file read vulnerability  
 [empirectf](https://github.com/EmpireCTF/empirectf): EmpireCTF – write-ups, capture the flag, cybersecurity  
 [lithackr.github.io](https://github.com/lithackr/lithackr.github.io): Welcome to my Repo  
-[authserver](https://github.com/jokk-itu/authserver): Authorization server with OAuth 2.0 and OpenId Connect 1.0
+[authserver](https://github.com/jokk-itu/authserver): Authorization server with OAuth 2.0 and OpenId Connect 1.0  
+[django-maps-scripting](https://github.com/ConnorXploit/django-maps-scripting): Django, MapBox, Info gathering, Recon-ng, Metasploit, Empire...
