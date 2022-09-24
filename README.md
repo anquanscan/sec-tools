@@ -5540,4 +5540,5 @@
 [PoW-Phalanx](https://github.com/RuiSiang/PoW-Phalanx): Controller for PoW Shield (a layer7 DDoS filter) providing multi-instance utilities.  
 [amazon-sns](https://github.com/deep-security/amazon-sns): Scripts to parse events from Trend Micro Deep Security via Amazon SNS.  
 [PenTestTools](https://github.com/mishaturnbull/PenTestTools): Useful tools/scripts/whatever for penetration testing  
-[stackrox](https://github.com/stackrox/stackrox): The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+[stackrox](https://github.com/stackrox/stackrox): The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.  
+[PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury): A PowerShell armoury for security guys and girls
