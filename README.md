@@ -5506,4 +5506,5 @@
 [dependabot-x](https://github.com/alifathi-h1/dependabot-x): Dependabot-X is a tool written in Python3 that allows GitHub Organization/User to automate enabling Dependabot alerts feature for all repositories.   
 [apkurlgrep](https://github.com/ndelphit/apkurlgrep): Extract endpoints from APK files  
 [py-nash](https://github.com/codingchili/py-nash): Python crawler / vulnerability scanner  
-[express-limit-host](https://github.com/Soontao/express-limit-host): simple middleware to protect server from host/x-forwarded-host injection.
+[express-limit-host](https://github.com/Soontao/express-limit-host): simple middleware to protect server from host/x-forwarded-host injection.  
+[hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt): Yet, just another hexo plugin for security.
