@@ -5525,4 +5525,5 @@
 [LuciTools](https://github.com/IamLucif3r/LuciTools): These are Cybersecurity tools built with Python  
 [mquery](https://github.com/CERT-Polska/mquery): YARA malware query accelerator (web frontend)  
 [wiviz](https://github.com/apertureless/wiviz): Wifi client probe analyzer & visualizer  
-[zenna_rat](https://github.com/Jennahacker/zenna_rat): Android RAT with web panel and fully undetectable App support android 12
+[zenna_rat](https://github.com/Jennahacker/zenna_rat): Android RAT with web panel and fully undetectable App support android 12  
+[SEUM-Dll](https://github.com/Zuccss/SEUM-Dll): SEUM hack using dll injection
