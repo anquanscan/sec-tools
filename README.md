@@ -5545,4 +5545,5 @@
 [sans-indexes](https://github.com/ancailliau/sans-indexes): Indexes for SANS Courses and GIAC Certifications  
 [C-File-Patcher](https://github.com/JakeLoganUK/C-File-Patcher): Simply Patch a File Using C++  
 [HostReconTool](https://github.com/bhitchens/HostReconTool): Tool that gathers data from local and remote Windows systems and compiles it in a SQLite database.  
-[CSRF-handler](https://github.com/banujan6/CSRF-handler): A simple CSRF Token protection library for PHP. I t will help you to generate the random unique token and validate it to prevent CSRF attack.
+[CSRF-handler](https://github.com/banujan6/CSRF-handler): A simple CSRF Token protection library for PHP. I t will help you to generate the random unique token and validate it to prevent CSRF attack.  
+[SNFQ-SimpleNetFilterQueueLibrary](https://github.com/cr7pt0pl4gu3/SNFQ-SimpleNetFilterQueueLibrary): SNFQ is a Simple NetFilterQueue Library developed by Ravehorn. It is built on top of NetfilterQueue.
