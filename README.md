@@ -5510,4 +5510,5 @@
 [hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt): Yet, just another hexo plugin for security.  
 [coding-lab](https://github.com/thevnomad/coding-lab): REST API with security tools  
 [Process-Service_Analyzer](https://github.com/haim1993/Process-Service_Analyzer): A hacking tool that allows a user to track changes in services/processes in there system. other cool features are included.  
-[aws-security-toolbox](https://github.com/z0ph/aws-security-toolbox): AWS Security Tools (AST) in a simple Docker container. :package:
+[aws-security-toolbox](https://github.com/z0ph/aws-security-toolbox): AWS Security Tools (AST) in a simple Docker container. :package:  
+[Crypt0r](https://github.com/GeoSn0w/Crypt0r): A simple yet powerful random strong password generator created for practice.
