@@ -5573,4 +5573,5 @@
 [sppen](https://github.com/Black-Hell-Team/sppen): Malware and malicious applications database  
 [DiscordShell](https://github.com/lacysw/DiscordShell): Discord C2  
 [Laravel-Scrubber](https://github.com/YorCreative/Laravel-Scrubber): A Laravel package to scrub sensitive information that breaks operational security policies from being leaked on accident or not by developers.  
-[ModuleStomping](https://github.com/WithSecureLabs/ModuleStomping): https://blog.f-secure.com/hiding-malicious-code-with-module-stomping/
+[ModuleStomping](https://github.com/WithSecureLabs/ModuleStomping): https://blog.f-secure.com/hiding-malicious-code-with-module-stomping/  
+[domain-api-mgt](https://github.com/cybnity/domain-api-mgt): All the features and services realized by the API Management bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
