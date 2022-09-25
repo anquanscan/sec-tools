@@ -5556,4 +5556,5 @@
 [pascalscada](https://github.com/fluisgirardi/pascalscada): PascalSCADA for Lazarus  
 [Hushint](https://github.com/webster5197/Hushint): Hushint is an OSINT Platform which contains such tools/techniques and which are free to use. This tool is developed just for educational purpose to teach people how someone can easily obtain information about you which is stored publicly on the Internet.   
 [presentation-xss](https://github.com/fabidick22/presentation-xss): Presentation with reveal.js about xss   
-[UnZipPasswordHacker](https://github.com/matcdac/UnZipPasswordHacker): Unzip a compressed password protected file, using the brute force approach, using all the ASCII keyboard characters
+[UnZipPasswordHacker](https://github.com/matcdac/UnZipPasswordHacker): Unzip a compressed password protected file, using the brute force approach, using all the ASCII keyboard characters  
+[sitedorks](https://github.com/Zarcolio/sitedorks): Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo for a search term (dork) with a default set of websites, bug bounty programs or custom collection.
