@@ -5550,4 +5550,5 @@
 [Parrot-CTFs-Website](https://github.com/Parrot-CTFs/Parrot-CTFs-Website): Parrot CTFs - A CTF platform for all fields of IT - OWASP, CRTP & OSCP Based Training Labs  
 [android_kernel_lge_msm8992](https://github.com/doitaljosh/android_kernel_lge_msm8992): Kernel optimised for GNU/Linux userspaces  
 [HolisticInfoSec-For-WebDevelopers-Fascicle1](https://github.com/binarymist/HolisticInfoSec-For-WebDevelopers-Fascicle1): :books: VPS :lock: Network :lock: Cloud :lock: Web Applications :books:  
-[power-pwn](https://github.com/mbrg/power-pwn): A demo showing how to repurpose Microsoft-trusted executables, service accounts and cloud services to power a malware operation
+[power-pwn](https://github.com/mbrg/power-pwn): A demo showing how to repurpose Microsoft-trusted executables, service accounts and cloud services to power a malware operation  
+[mirror-blacksun.box.sk](https://github.com/opsxcq/mirror-blacksun.box.sk): Black Sun website mirror, for old times' sake !
