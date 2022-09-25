@@ -5571,4 +5571,5 @@
 [naemazam.github.io](https://github.com/naemazam/naemazam.github.io): Naem Azam is a passionate self-taught Programmer And an open-source enthusiast and maintainer.  
 [CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129): Vulnerability in D2L Brightspace's Learning Management System(LMS)  
 [sppen](https://github.com/Black-Hell-Team/sppen): Malware and malicious applications database  
-[DiscordShell](https://github.com/lacysw/DiscordShell): Discord C2
+[DiscordShell](https://github.com/lacysw/DiscordShell): Discord C2  
+[Laravel-Scrubber](https://github.com/YorCreative/Laravel-Scrubber): A Laravel package to scrub sensitive information that breaks operational security policies from being leaked on accident or not by developers.
