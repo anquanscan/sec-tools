@@ -5554,4 +5554,5 @@
 [mirror-blacksun.box.sk](https://github.com/opsxcq/mirror-blacksun.box.sk): Black Sun website mirror, for old times' sake !  
 [McAfee-ENS-Expert-Rules](https://github.com/JakePeralta7/McAfee-ENS-Expert-Rules): In this repository I'm going to write expert rules I've created and researched in order to build better detection/prevention  
 [pascalscada](https://github.com/fluisgirardi/pascalscada): PascalSCADA for Lazarus  
-[Hushint](https://github.com/webster5197/Hushint): Hushint is an OSINT Platform which contains such tools/techniques and which are free to use. This tool is developed just for educational purpose to teach people how someone can easily obtain information about you which is stored publicly on the Internet. 
+[Hushint](https://github.com/webster5197/Hushint): Hushint is an OSINT Platform which contains such tools/techniques and which are free to use. This tool is developed just for educational purpose to teach people how someone can easily obtain information about you which is stored publicly on the Internet.   
+[presentation-xss](https://github.com/fabidick22/presentation-xss): Presentation with reveal.js about xss 
