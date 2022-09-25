@@ -5564,4 +5564,5 @@
 [knoxss](https://github.com/bruterobbie/knoxss): People have the right to see this ugly spaghetti code, skids.  
 [owasp-esapi-c](https://github.com/CyberNinjas/owasp-esapi-c): Automatically exported from code.google.com/archive/p/owasp-esapi-c  
 [ReFleX](https://github.com/DedSecInside/ReFleX): ReFleX - Deep Image Recognition Bot  
-[hawkpost](https://github.com/whitesmith/hawkpost): Generate links that users can use to submit messages encrypted with your public key.
+[hawkpost](https://github.com/whitesmith/hawkpost): Generate links that users can use to submit messages encrypted with your public key.  
+[uisgcon](https://github.com/datalog/uisgcon): UISGCON Materials. The birthplace of Ukrainian cybersecurity. Upcoming event: October 26, 2018 / Kiev, Ukraine
