@@ -5572,4 +5572,5 @@
 [CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129): Vulnerability in D2L Brightspace's Learning Management System(LMS)  
 [sppen](https://github.com/Black-Hell-Team/sppen): Malware and malicious applications database  
 [DiscordShell](https://github.com/lacysw/DiscordShell): Discord C2  
-[Laravel-Scrubber](https://github.com/YorCreative/Laravel-Scrubber): A Laravel package to scrub sensitive information that breaks operational security policies from being leaked on accident or not by developers.
+[Laravel-Scrubber](https://github.com/YorCreative/Laravel-Scrubber): A Laravel package to scrub sensitive information that breaks operational security policies from being leaked on accident or not by developers.  
+[ModuleStomping](https://github.com/WithSecureLabs/ModuleStomping): https://blog.f-secure.com/hiding-malicious-code-with-module-stomping/
