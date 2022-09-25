@@ -5569,4 +5569,5 @@
 [metlo](https://github.com/metlo-labs/metlo): Metlo is an open-source API security platform.  
 [Palioxis](https://github.com/deadbits/Palioxis): Linux self-destruction utility  
 [naemazam.github.io](https://github.com/naemazam/naemazam.github.io): Naem Azam is a passionate self-taught Programmer And an open-source enthusiast and maintainer.  
-[CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129): Vulnerability in D2L Brightspace's Learning Management System(LMS)
+[CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129): Vulnerability in D2L Brightspace's Learning Management System(LMS)  
+[sppen](https://github.com/Black-Hell-Team/sppen): Malware and malicious applications database
