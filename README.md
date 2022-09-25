@@ -5559,4 +5559,5 @@
 [UnZipPasswordHacker](https://github.com/matcdac/UnZipPasswordHacker): Unzip a compressed password protected file, using the brute force approach, using all the ASCII keyboard characters  
 [sitedorks](https://github.com/Zarcolio/sitedorks): Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo for a search term (dork) with a default set of websites, bug bounty programs or custom collection.  
 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection): A curated list of awesome threat detection and hunting resources  
-[Domain-Scraper](https://github.com/1337Farhan/Domain-Scraper): Find domains assigned with a specific IP address.
+[Domain-Scraper](https://github.com/1337Farhan/Domain-Scraper): Find domains assigned with a specific IP address.  
+[MyExpense](https://github.com/Sharpforce/MyExpense): MyExpense is a vulnerable web application
