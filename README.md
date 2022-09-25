@@ -5561,4 +5561,5 @@
 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection): A curated list of awesome threat detection and hunting resources  
 [Domain-Scraper](https://github.com/1337Farhan/Domain-Scraper): Find domains assigned with a specific IP address.  
 [MyExpense](https://github.com/Sharpforce/MyExpense): MyExpense is a vulnerable web application  
-[knoxss](https://github.com/bruterobbie/knoxss): People have the right to see this ugly spaghetti code, skids.
+[knoxss](https://github.com/bruterobbie/knoxss): People have the right to see this ugly spaghetti code, skids.  
+[owasp-esapi-c](https://github.com/CyberNinjas/owasp-esapi-c): Automatically exported from code.google.com/archive/p/owasp-esapi-c
