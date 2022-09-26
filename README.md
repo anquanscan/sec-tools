@@ -5578,4 +5578,5 @@
 [WBFS_Manager_3_64bit_en_WIN](https://github.com/mehransab101/WBFS_Manager_3_64bit_en_WIN): WBFS_Manager_3_64bit_en_WIN  
 [flatkrabsetw](https://github.com/zacbrown/flatkrabsetw): flatkrabsetw is a flat-C wrapper around the krabsetw C++ library. It's primarily meant for FFI usage in other languages.  
 [PacketStreamer](https://github.com/deepfence/PacketStreamer): :star: :star: Distributed tcpdump for cloud native environments :star: :star:  
-[Attack-simulation-infrastructure](https://github.com/LeKlex/Attack-simulation-infrastructure): A small and simple network infrastructure with automated attacks on a VM server documented by tshark
+[Attack-simulation-infrastructure](https://github.com/LeKlex/Attack-simulation-infrastructure): A small and simple network infrastructure with automated attacks on a VM server documented by tshark  
+[envkey-app](https://github.com/envkey/envkey-app): Secure, human-friendly, cross-platform secrets and config. 
