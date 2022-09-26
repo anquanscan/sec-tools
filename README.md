@@ -5585,4 +5585,5 @@
 [ScanExp](https://github.com/CyberNDR/ScanExp): ScanExp automates the scanning of any machine's open ports via the ip address and performs a brute force attack on ports 20, 21 for the FTP protocol, port 22 for the SSH protocol and port 25 for the SMTP protocol, providing the choice between the use of two different wordlists for the username and password or two personalized wordlists chosen by the user.  
 [tls-inspector](https://github.com/tls-inspector/tls-inspector): Easily view and inspect X.509 certificates on your iOS device.  
 [HomoglyphAttacksDetector](https://github.com/jackaduma/HomoglyphAttacksDetector): Detecting Homoglyph Attacks with CNN model using Computer Vision method  
-[ufonet](https://github.com/start-the-hammond/ufonet)
+[ufonet](https://github.com/start-the-hammond/ufonet)  
+[react-native-encrypted-storage](https://github.com/emeraldsanto/react-native-encrypted-storage): React Native wrapper around EncryptedSharedPreferences and Keychain to provide a secure alternative to Async Storage.
