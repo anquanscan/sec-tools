@@ -5576,4 +5576,5 @@
 [ModuleStomping](https://github.com/WithSecureLabs/ModuleStomping): https://blog.f-secure.com/hiding-malicious-code-with-module-stomping/  
 [domain-api-mgt](https://github.com/cybnity/domain-api-mgt): All the features and services realized by the API Management bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [WBFS_Manager_3_64bit_en_WIN](https://github.com/mehransab101/WBFS_Manager_3_64bit_en_WIN): WBFS_Manager_3_64bit_en_WIN  
-[flatkrabsetw](https://github.com/zacbrown/flatkrabsetw): flatkrabsetw is a flat-C wrapper around the krabsetw C++ library. It's primarily meant for FFI usage in other languages.
+[flatkrabsetw](https://github.com/zacbrown/flatkrabsetw): flatkrabsetw is a flat-C wrapper around the krabsetw C++ library. It's primarily meant for FFI usage in other languages.  
+[PacketStreamer](https://github.com/deepfence/PacketStreamer): :star: :star: Distributed tcpdump for cloud native environments :star: :star:
