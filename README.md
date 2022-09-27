@@ -5600,4 +5600,5 @@
 [adversary_emulation_library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library): An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs.   
 [infosecBasics](https://github.com/dhaneshsivasamy07/infosecBasics): Basics required for anyone to enter into the world of InfoSec  
 [jImpfuzzy](https://github.com/fluenda/jImpfuzzy)  
-[hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts): Hacking Scripts that will blow your mind engineered by Hackers ♠️. 
+[hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts): Hacking Scripts that will blow your mind engineered by Hackers ♠️.   
+[bash-securizer](https://github.com/bjoern-hempel/bash-securizer): A tool to check the security of web applications.
