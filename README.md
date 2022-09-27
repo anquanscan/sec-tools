@@ -5605,4 +5605,5 @@
 [fatgod](https://github.com/d3m0n4l3x/fatgod): An CC DoS (Denial-of-Service) attack tool developed by demonalex in 2009.  
 [CoronaNotifier](https://github.com/ahmadchen/CoronaNotifier): Covid-19 Whatsapp Bot  
 [jmxshell](https://github.com/mirchr/jmxshell)  
-[ts3idtools](https://github.com/bratkartoffel/ts3idtools): Various tools to work with teamspeak 3 identities
+[ts3idtools](https://github.com/bratkartoffel/ts3idtools): Various tools to work with teamspeak 3 identities  
+[maptool-rce](https://github.com/sum-catnip/maptool-rce): maptool unauthenticated rce exploit <1.8.0 beta2b
