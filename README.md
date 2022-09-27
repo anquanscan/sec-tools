@@ -5594,4 +5594,5 @@
 [Secrets-app](https://github.com/farisnafiah/Secrets-app): A web app for posting secrets (Authentication & Security). Just thought I'd push this, just because.  
 [cs_repository](https://github.com/Protasis/cs_repository): Protasis cyber security repository  
 [PwnedPasswords_CFML](https://github.com/ddspringle/PwnedPasswords_CFML): I implement the Have I Been Pwned Passwords API in CFML (ColdFusion)  
-[review_the_national_post-graduate_entrance_examination](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination): 🌟复习考研的那些事儿(清华912考研)～～
+[review_the_national_post-graduate_entrance_examination](https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination): 🌟复习考研的那些事儿(清华912考研)～～  
+[Cyphr](https://github.com/justSid404/Cyphr): Cyphr is a Python based tool for Cryptography. Cyphr can Encrypt and Decrypt text in 5 different methods.
