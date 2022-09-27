@@ -5586,4 +5586,5 @@
 [tls-inspector](https://github.com/tls-inspector/tls-inspector): Easily view and inspect X.509 certificates on your iOS device.  
 [HomoglyphAttacksDetector](https://github.com/jackaduma/HomoglyphAttacksDetector): Detecting Homoglyph Attacks with CNN model using Computer Vision method  
 [ufonet](https://github.com/start-the-hammond/ufonet)  
-[react-native-encrypted-storage](https://github.com/emeraldsanto/react-native-encrypted-storage): React Native wrapper around EncryptedSharedPreferences and Keychain to provide a secure alternative to Async Storage.
+[react-native-encrypted-storage](https://github.com/emeraldsanto/react-native-encrypted-storage): React Native wrapper around EncryptedSharedPreferences and Keychain to provide a secure alternative to Async Storage.  
+[awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security): A curated list of awesome GraphQL Security frameworks, libraries, software and resources
