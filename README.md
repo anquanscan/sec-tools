@@ -5589,4 +5589,5 @@
 [react-native-encrypted-storage](https://github.com/emeraldsanto/react-native-encrypted-storage): React Native wrapper around EncryptedSharedPreferences and Keychain to provide a secure alternative to Async Storage.  
 [awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security): A curated list of awesome GraphQL Security frameworks, libraries, software and resources  
 [peniot](https://github.com/yakuza8/peniot): PENIOT: Penetration Testing Tool for IoT  
-[fusion-files](https://github.com/Poseidown/fusion-files): Penetration Testing File Binder
+[fusion-files](https://github.com/Poseidown/fusion-files): Penetration Testing File Binder  
+[FollinaScanner](https://github.com/ErrorNoInternet/FollinaScanner): A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190)
