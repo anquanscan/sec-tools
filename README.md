@@ -5591,4 +5591,5 @@
 [peniot](https://github.com/yakuza8/peniot): PENIOT: Penetration Testing Tool for IoT  
 [fusion-files](https://github.com/Poseidown/fusion-files): Penetration Testing File Binder  
 [FollinaScanner](https://github.com/ErrorNoInternet/FollinaScanner): A tool written in Go that scans files & directories for the Follina exploit (CVE-2022-30190)  
-[Secrets-app](https://github.com/farisnafiah/Secrets-app): A web app for posting secrets (Authentication & Security). Just thought I'd push this, just because.
+[Secrets-app](https://github.com/farisnafiah/Secrets-app): A web app for posting secrets (Authentication & Security). Just thought I'd push this, just because.  
+[cs_repository](https://github.com/Protasis/cs_repository): Protasis cyber security repository
