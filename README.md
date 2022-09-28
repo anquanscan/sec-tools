@@ -5640,4 +5640,5 @@
 [Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh): Android security guides, roadmap, docs, courses, write-ups, and teryaagh.   
 [Reflex-Gallery-Exploit](https://github.com/D3Ext/Reflex-Gallery-Exploit): Reflex Gallery 3.1.3 Arbitrary File Upload to RCE Exploit  
 [AnaisBauer_6_28072021](https://github.com/ana9402/AnaisBauer_6_28072021): OpenClassrooms - Formation "Développeur web" - Projet n°6 "So Pekocko"  
-[SniperSQLI](https://github.com/lgferraz/SniperSQLI): Script destinado a encontrar falhas SQLI em sites.
+[SniperSQLI](https://github.com/lgferraz/SniperSQLI): Script destinado a encontrar falhas SQLI em sites.  
+[Chrome-Autosave-Dump](https://github.com/thenetworkgrinch/Chrome-Autosave-Dump): Dumps the autosave of the given Login Data created by the chrome browser
