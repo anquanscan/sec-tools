@@ -5607,4 +5607,5 @@
 [jmxshell](https://github.com/mirchr/jmxshell)  
 [ts3idtools](https://github.com/bratkartoffel/ts3idtools): Various tools to work with teamspeak 3 identities  
 [maptool-rce](https://github.com/sum-catnip/maptool-rce): maptool unauthenticated rce exploit <1.8.0 beta2b  
-[differential-privacy-based-access-control](https://github.com/VibhaBelavadi/differential-privacy-based-access-control): Differential Privacy Based Access Control
+[differential-privacy-based-access-control](https://github.com/VibhaBelavadi/differential-privacy-based-access-control): Differential Privacy Based Access Control  
+[fast-scan](https://github.com/machine1337/fast-scan): An Advanced tool to scan hundreds of IP's in Seconds for CVE's, Open Ports And Web Technologies. 
