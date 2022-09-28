@@ -5616,4 +5616,5 @@
 [Bug-Bounty-Methodology](https://github.com/tuhin1729/Bug-Bounty-Methodology): These are my checklists which I use during my hunting.  
 [whisper-key](https://github.com/pixielabs/whisper-key): Send & receive secure messages in the browser.  
 [secure-introduction-android](https://github.com/selvamselvam/secure-introduction-android): The secure introduction introduces people using secured communication. It helps to share the public key, photo, phone number with a decentralized architecture.   
-[httpsyet](https://github.com/qvl/httpsyet): Crawler to find links you can update to HTTPS
+[httpsyet](https://github.com/qvl/httpsyet): Crawler to find links you can update to HTTPS  
+[security-txt-parser](https://github.com/rhymeswithmogul/security-txt-parser): Fetch and parse a website's security.txt file.
