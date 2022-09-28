@@ -5611,4 +5611,5 @@
 [fast-scan](https://github.com/machine1337/fast-scan): An Advanced tool to scan hundreds of IP's in Seconds for CVE's, Open Ports And Web Technologies.   
 [eJPT-notes](https://github.com/edoardottt/eJPT-notes): Notes I took while preparing for eJPT certification  
 [cloudflare-ufw](https://github.com/Paul-Reed/cloudflare-ufw): Script to update UFW with Cloudflare IPs  
-[Syft-Grype-GHA-Demo-Workflows](https://github.com/dlg1206/Syft-Grype-GHA-Demo-Workflows): A collection of example GitHub Action Workflow files using Syft and Grype
+[Syft-Grype-GHA-Demo-Workflows](https://github.com/dlg1206/Syft-Grype-GHA-Demo-Workflows): A collection of example GitHub Action Workflow files using Syft and Grype  
+[security-http](https://github.com/symfony/security-http): Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
