@@ -5617,4 +5617,5 @@
 [whisper-key](https://github.com/pixielabs/whisper-key): Send & receive secure messages in the browser.  
 [secure-introduction-android](https://github.com/selvamselvam/secure-introduction-android): The secure introduction introduces people using secured communication. It helps to share the public key, photo, phone number with a decentralized architecture.   
 [httpsyet](https://github.com/qvl/httpsyet): Crawler to find links you can update to HTTPS  
-[security-txt-parser](https://github.com/rhymeswithmogul/security-txt-parser): Fetch and parse a website's security.txt file.
+[security-txt-parser](https://github.com/rhymeswithmogul/security-txt-parser): Fetch and parse a website's security.txt file.  
+[CVE-2021-41773_42013](https://github.com/vulf/CVE-2021-41773_42013): Lab setup for CVE-2021-41773 (Apache httpd 2.4.49) and CVE-2021-42013 (Apache httpd 2.4.50).
