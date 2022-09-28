@@ -5624,4 +5624,5 @@
 [wafex-model-creator](https://github.com/rhaidiz/wafex-model-creator): WAFEx Model Creator  
 [auto-doc](https://github.com/snaphat/auto-doc): Regex based patching toolkit for binary modification  
 [Security-Package](https://github.com/Abdelrahman-Yasser-1/Security-Package): This project contains implementation of some cryptography algorithms using C# language.  
-[cybercounterintel](https://github.com/dc401/cybercounterintel): Rogue cyber security professional detection mindmap
+[cybercounterintel](https://github.com/dc401/cybercounterintel): Rogue cyber security professional detection mindmap  
+[secure-ls](https://github.com/softvar/secure-ls): :lock: Secure localStorage data with high level of encryption and data compression
