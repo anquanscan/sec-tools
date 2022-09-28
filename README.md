@@ -5633,4 +5633,5 @@
 [smazestager](https://github.com/falkensmz/smazestager): A download & execute payload written in Python 3.10  
 [vgs_python_demo](https://github.com/gjyoung1974/vgs_python_demo): PCI Compliant E Commerce integration with VGS Secure Proxy and Vault technologies with Python and Flask  
 [HackRSA](https://github.com/StanGirard/HackRSA): Hack the heck out of rsa  
-[minilib](https://github.com/michael105/minilib): A c standard system library with a focus on size, headeronly, "singlefile", intended for static linking. 187 Bytes for "Hello World"(regular elf), compiled with the standard gcc toolchain.
+[minilib](https://github.com/michael105/minilib): A c standard system library with a focus on size, headeronly, "singlefile", intended for static linking. 187 Bytes for "Hello World"(regular elf), compiled with the standard gcc toolchain.  
+[go-password-validator](https://github.com/wagslane/go-password-validator): Validate the Strength of a Password in Go
