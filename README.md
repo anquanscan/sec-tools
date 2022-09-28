@@ -5615,4 +5615,5 @@
 [security-http](https://github.com/symfony/security-http): Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.  
 [Bug-Bounty-Methodology](https://github.com/tuhin1729/Bug-Bounty-Methodology): These are my checklists which I use during my hunting.  
 [whisper-key](https://github.com/pixielabs/whisper-key): Send & receive secure messages in the browser.  
-[secure-introduction-android](https://github.com/selvamselvam/secure-introduction-android): The secure introduction introduces people using secured communication. It helps to share the public key, photo, phone number with a decentralized architecture. 
+[secure-introduction-android](https://github.com/selvamselvam/secure-introduction-android): The secure introduction introduces people using secured communication. It helps to share the public key, photo, phone number with a decentralized architecture.   
+[httpsyet](https://github.com/qvl/httpsyet): Crawler to find links you can update to HTTPS
