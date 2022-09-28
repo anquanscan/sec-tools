@@ -5627,4 +5627,5 @@
 [cybercounterintel](https://github.com/dc401/cybercounterintel): Rogue cyber security professional detection mindmap  
 [secure-ls](https://github.com/softvar/secure-ls): :lock: Secure localStorage data with high level of encryption and data compression  
 [gitgoods](https://github.com/rx13/gitgoods): An immature utility script to identify domain-related potentially sensitive materials on GitHub via API v3  
-[Cpp-Guard](https://github.com/techtocore/Cpp-Guard): A platform independent C++ code obfuscator.
+[Cpp-Guard](https://github.com/techtocore/Cpp-Guard): A platform independent C++ code obfuscator.  
+[vpc-vpn-pivot](https://github.com/andresriancho/vpc-vpn-pivot): Pivot into private VPC networks using a VPN connection
