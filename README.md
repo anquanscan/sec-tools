@@ -5620,4 +5620,5 @@
 [security-txt-parser](https://github.com/rhymeswithmogul/security-txt-parser): Fetch and parse a website's security.txt file.  
 [CVE-2021-41773_42013](https://github.com/vulf/CVE-2021-41773_42013): Lab setup for CVE-2021-41773 (Apache httpd 2.4.49) and CVE-2021-42013 (Apache httpd 2.4.50).  
 [Hacking-with-Python](https://github.com/golan1202/Hacking-with-Python): Writing scripts that run on kali-linux and hacking to clients and web-applications  
-[c-compiler-security](https://github.com/airbus-seclab/c-compiler-security): Security-related flags and options for C compilers
+[c-compiler-security](https://github.com/airbus-seclab/c-compiler-security): Security-related flags and options for C compilers  
+[wafex-model-creator](https://github.com/rhaidiz/wafex-model-creator): WAFEx Model Creator
