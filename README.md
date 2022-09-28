@@ -5629,4 +5629,5 @@
 [gitgoods](https://github.com/rx13/gitgoods): An immature utility script to identify domain-related potentially sensitive materials on GitHub via API v3  
 [Cpp-Guard](https://github.com/techtocore/Cpp-Guard): A platform independent C++ code obfuscator.  
 [vpc-vpn-pivot](https://github.com/andresriancho/vpc-vpn-pivot): Pivot into private VPC networks using a VPN connection  
-[Image-recon](https://github.com/Ramalingasamy012/Image-recon): Image recon is a tool  used to find the social media accounts associated with the uploading image.
+[Image-recon](https://github.com/Ramalingasamy012/Image-recon): Image recon is a tool  used to find the social media accounts associated with the uploading image.  
+[smazestager](https://github.com/falkensmz/smazestager): A download & execute payload written in Python 3.10
