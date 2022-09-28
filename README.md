@@ -5630,4 +5630,5 @@
 [Cpp-Guard](https://github.com/techtocore/Cpp-Guard): A platform independent C++ code obfuscator.  
 [vpc-vpn-pivot](https://github.com/andresriancho/vpc-vpn-pivot): Pivot into private VPC networks using a VPN connection  
 [Image-recon](https://github.com/Ramalingasamy012/Image-recon): Image recon is a tool  used to find the social media accounts associated with the uploading image.  
-[smazestager](https://github.com/falkensmz/smazestager): A download & execute payload written in Python 3.10
+[smazestager](https://github.com/falkensmz/smazestager): A download & execute payload written in Python 3.10  
+[vgs_python_demo](https://github.com/gjyoung1974/vgs_python_demo): PCI Compliant E Commerce integration with VGS Secure Proxy and Vault technologies with Python and Flask
