@@ -5625,4 +5625,5 @@
 [auto-doc](https://github.com/snaphat/auto-doc): Regex based patching toolkit for binary modification  
 [Security-Package](https://github.com/Abdelrahman-Yasser-1/Security-Package): This project contains implementation of some cryptography algorithms using C# language.  
 [cybercounterintel](https://github.com/dc401/cybercounterintel): Rogue cyber security professional detection mindmap  
-[secure-ls](https://github.com/softvar/secure-ls): :lock: Secure localStorage data with high level of encryption and data compression
+[secure-ls](https://github.com/softvar/secure-ls): :lock: Secure localStorage data with high level of encryption and data compression  
+[gitgoods](https://github.com/rx13/gitgoods): An immature utility script to identify domain-related potentially sensitive materials on GitHub via API v3
