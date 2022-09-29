@@ -5654,4 +5654,5 @@
 [Pentesting-and-Hacking-Scripts](https://github.com/dscciem/Pentesting-and-Hacking-Scripts): 🚀 A curated collection of Pentesting and Hacking Scripts for Script Kiddie to Advanced Pentesters. 👨‍💻  
 [rustomware](https://github.com/Idov31/rustomware): Simple ransomware written in Rust. Part of the building a rustomware blog post.  
 [HBCTF](https://github.com/osteth/HBCTF): HackBama CTF game  
-[SVWA](https://github.com/laztname/SVWA): a vulnerable web for education of hacking
+[SVWA](https://github.com/laztname/SVWA): a vulnerable web for education of hacking  
+[CWMII](https://github.com/jcapellman/CWMII): Clean WMI Interface (CWMII) written in C# providing a strongly typed interface to access WMI Properties and Classes
