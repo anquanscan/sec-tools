@@ -5658,4 +5658,5 @@
 [CWMII](https://github.com/jcapellman/CWMII): Clean WMI Interface (CWMII) written in C# providing a strongly typed interface to access WMI Properties and Classes  
 [secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev): Collection of the most common vulnerabilities found in iOS applications  
 [cam-finder](https://github.com/member87/cam-finder): Find ACTi NVR3.0 IP cameras with the default login details (admin / 123456)  
-[TOMCAT-9-STIG](https://github.com/ansible-lockdown/TOMCAT-9-STIG): STIG Baseline Ansible Role for Tomcat 9
+[TOMCAT-9-STIG](https://github.com/ansible-lockdown/TOMCAT-9-STIG): STIG Baseline Ansible Role for Tomcat 9  
+[Xhunter](https://github.com/Jennahacker/Xhunter): Android Penetration Tool [ RAT for Android ] Update 1.7
