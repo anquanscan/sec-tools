@@ -5651,4 +5651,5 @@
 [SpyOffSec](https://github.com/proxyanon/SpyOffSec): SpyOffSec é um programa destinado ao controle e visualização remota de máquinas, com foco em segurança da informação.   
 [VulnGCC](https://github.com/0xShaolin/VulnGCC): Another quick script you can use to compile vulnerable executables for Binary Exploitation.  
 [FollinaTest](https://github.com/AnshVaid4/FollinaTest): Reference of code has been taken from https://github.com/JohnHammond/msdt-follina/blob/main/follina.py. I have given the explanation of the code and made the code a bit simplified.  
-[Pentesting-and-Hacking-Scripts](https://github.com/dscciem/Pentesting-and-Hacking-Scripts): 🚀 A curated collection of Pentesting and Hacking Scripts for Script Kiddie to Advanced Pentesters. 👨‍💻
+[Pentesting-and-Hacking-Scripts](https://github.com/dscciem/Pentesting-and-Hacking-Scripts): 🚀 A curated collection of Pentesting and Hacking Scripts for Script Kiddie to Advanced Pentesters. 👨‍💻  
+[rustomware](https://github.com/Idov31/rustomware): Simple ransomware written in Rust. Part of the building a rustomware blog post.
