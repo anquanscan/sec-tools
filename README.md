@@ -5648,4 +5648,5 @@
 [login-email](https://github.com/megacoder/login-email): Help monitor the bad guys by sending an email generated during the /etc/profile.d/ time.  Send a date/timestamp email to an external site, just as an audit trail.  
 [UCM-Fdi-ELP](https://github.com/s-a-m/UCM-Fdi-ELP): Course Ethics, Law & Profession of Computer Science, from CS at UCM     (Ética, Legislación y Profesión de la Facultad de Informática UCM)  
 [TigerGraph.NET](https://github.com/allisterb/TigerGraph.NET): .NET libraries for building graph-powered multi-target apps in C# and F# using TigerGraph.  
-[SpyOffSec](https://github.com/proxyanon/SpyOffSec): SpyOffSec é um programa destinado ao controle e visualização remota de máquinas, com foco em segurança da informação. 
+[SpyOffSec](https://github.com/proxyanon/SpyOffSec): SpyOffSec é um programa destinado ao controle e visualização remota de máquinas, com foco em segurança da informação.   
+[VulnGCC](https://github.com/0xShaolin/VulnGCC): Another quick script you can use to compile vulnerable executables for Binary Exploitation.
