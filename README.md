@@ -5655,4 +5655,5 @@
 [rustomware](https://github.com/Idov31/rustomware): Simple ransomware written in Rust. Part of the building a rustomware blog post.  
 [HBCTF](https://github.com/osteth/HBCTF): HackBama CTF game  
 [SVWA](https://github.com/laztname/SVWA): a vulnerable web for education of hacking  
-[CWMII](https://github.com/jcapellman/CWMII): Clean WMI Interface (CWMII) written in C# providing a strongly typed interface to access WMI Properties and Classes
+[CWMII](https://github.com/jcapellman/CWMII): Clean WMI Interface (CWMII) written in C# providing a strongly typed interface to access WMI Properties and Classes  
+[secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev): Collection of the most common vulnerabilities found in iOS applications
