@@ -5661,4 +5661,5 @@
 [TOMCAT-9-STIG](https://github.com/ansible-lockdown/TOMCAT-9-STIG): STIG Baseline Ansible Role for Tomcat 9  
 [Xhunter](https://github.com/Jennahacker/Xhunter): Android Penetration Tool [ RAT for Android ] Update 1.7  
 [seginfoFAQ](https://github.com/mattaereal/seginfoFAQ): FAQ del mundo de la seguridad informática en español.  
-[bruteservice](https://github.com/vodafon/bruteservice): Find company external services
+[bruteservice](https://github.com/vodafon/bruteservice): Find company external services  
+[HashcatRulesEngine](https://github.com/llamasoft/HashcatRulesEngine): A stand-alone implementation of Hashcat's rule engine
