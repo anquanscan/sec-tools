@@ -5653,4 +5653,5 @@
 [FollinaTest](https://github.com/AnshVaid4/FollinaTest): Reference of code has been taken from https://github.com/JohnHammond/msdt-follina/blob/main/follina.py. I have given the explanation of the code and made the code a bit simplified.  
 [Pentesting-and-Hacking-Scripts](https://github.com/dscciem/Pentesting-and-Hacking-Scripts): 🚀 A curated collection of Pentesting and Hacking Scripts for Script Kiddie to Advanced Pentesters. 👨‍💻  
 [rustomware](https://github.com/Idov31/rustomware): Simple ransomware written in Rust. Part of the building a rustomware blog post.  
-[HBCTF](https://github.com/osteth/HBCTF): HackBama CTF game
+[HBCTF](https://github.com/osteth/HBCTF): HackBama CTF game  
+[SVWA](https://github.com/laztname/SVWA): a vulnerable web for education of hacking
