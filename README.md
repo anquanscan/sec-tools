@@ -5670,4 +5670,5 @@
 [TnT-Fuzzer](https://github.com/Teebytes/TnT-Fuzzer): OpenAPI 2.0 (Swagger) fuzzer written in python. Basically TnT for your API.  
 [wafaray](https://github.com/alt3kx/wafaray): Enhance your malware detection with WAF + YARA (WAFARAY)  
 [v4dos](https://github.com/al4r0/v4dos): stress tool for your web  
-[Virus-Tools](https://github.com/ewan3357/Virus-Tools): Virus Making tools
+[Virus-Tools](https://github.com/ewan3357/Virus-Tools): Virus Making tools  
+[emojico](https://github.com/makersphereHQ/emojico): Use emojis instead of weak passwords. 🍫🍿🍩🔥😎
