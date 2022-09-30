@@ -5691,4 +5691,5 @@
 [Shopping_Apps](https://github.com/satyamkr13/Shopping_Apps): This app connects with Flipkart and Amazon's API for fetching prices of products based on search keywords. I've also implemented security of API keys using Firebase database and authentication.  
 [basic-of-hacing](https://github.com/mrcyb3rman/basic-of-hacing)  
 [crypfailure.github.io](https://github.com/crypfailure/crypfailure.github.io): Crypfailure is a security writeups and blog website developed with an aim that "knowledge shoule be free". This deals with the CTFs writeups & blogs about emerging technologies in cybersecurity domain. All the content at this platform will always be freely available.  
-[E-Books-For-CS-Students](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students): This repository contains some E-books for Computer Science students in categorized manner. Hope it will help.
+[E-Books-For-CS-Students](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students): This repository contains some E-books for Computer Science students in categorized manner. Hope it will help.  
+[api_paths](https://github.com/dewhurstsecurity/api_paths): A list of REST API URL paths for use in blackbox API end-point discovery
