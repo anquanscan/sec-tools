@@ -5683,4 +5683,5 @@
 [jpico-bsd](https://github.com/mypico/jpico-bsd): Older BSD-licensed version of jpico  
 [dep-confusion](https://github.com/march0s1as/dep-confusion): two scripts that will help you recognize dependency confusion.  
 [MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io): A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.  
-[PINGLOCK-2](https://github.com/WEHACKERS/PINGLOCK-2): HAI IAM DAYSHEN IAM HACKER I WILL TEACH HACKING AND CODEING
+[PINGLOCK-2](https://github.com/WEHACKERS/PINGLOCK-2): HAI IAM DAYSHEN IAM HACKER I WILL TEACH HACKING AND CODEING  
+[fun-batchfiles-and-vbs-exploits](https://github.com/user421921/fun-batchfiles-and-vbs-exploits)
