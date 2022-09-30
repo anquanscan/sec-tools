@@ -5680,4 +5680,5 @@
 [domain-trial-training-mgt](https://github.com/cybnity/domain-trial-training-mgt): All the features and services realized by the security exercises bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [xSMTP](https://github.com/c99tn/xSMTP): xSMTP 🦟 Lightning fast, multithreaded smtp scanner targeting open-relay and unsecured servers in multiple network ranges.  
 [pymodsecurity](https://github.com/pymodsecurity/pymodsecurity): Python Bindings for ModSecurity v3  
-[jpico-bsd](https://github.com/mypico/jpico-bsd): Older BSD-licensed version of jpico
+[jpico-bsd](https://github.com/mypico/jpico-bsd): Older BSD-licensed version of jpico  
+[dep-confusion](https://github.com/march0s1as/dep-confusion): two scripts that will help you recognize dependency confusion.
