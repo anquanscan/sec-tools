@@ -5671,4 +5671,5 @@
 [wafaray](https://github.com/alt3kx/wafaray): Enhance your malware detection with WAF + YARA (WAFARAY)  
 [v4dos](https://github.com/al4r0/v4dos): stress tool for your web  
 [Virus-Tools](https://github.com/ewan3357/Virus-Tools): Virus Making tools  
-[emojico](https://github.com/makersphereHQ/emojico): Use emojis instead of weak passwords. 🍫🍿🍩🔥😎
+[emojico](https://github.com/makersphereHQ/emojico): Use emojis instead of weak passwords. 🍫🍿🍩🔥😎  
+[JTS](https://github.com/verovan/JTS): Herramienta para realizar un deploy de un servidor LAMP sobre Debian 8, ejecución de tasks básicas de securización, configuración automática de servicios y más...
