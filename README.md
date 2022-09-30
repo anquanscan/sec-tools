@@ -5686,4 +5686,5 @@
 [PINGLOCK-2](https://github.com/WEHACKERS/PINGLOCK-2): HAI IAM DAYSHEN IAM HACKER I WILL TEACH HACKING AND CODEING  
 [fun-batchfiles-and-vbs-exploits](https://github.com/user421921/fun-batchfiles-and-vbs-exploits)  
 [security-demos](https://github.com/Codaisseur/security-demos): Codaisseur Advanced Class on Securing Web Applications  
-[Logout-Cyber-Security-Workshop-dubai](https://github.com/nomadicmehul/Logout-Cyber-Security-Workshop-dubai)
+[Logout-Cyber-Security-Workshop-dubai](https://github.com/nomadicmehul/Logout-Cyber-Security-Workshop-dubai)  
+[Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything): A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
