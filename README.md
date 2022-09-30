@@ -5689,4 +5689,5 @@
 [Logout-Cyber-Security-Workshop-dubai](https://github.com/nomadicmehul/Logout-Cyber-Security-Workshop-dubai)  
 [Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything): A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.  
 [Shopping_Apps](https://github.com/satyamkr13/Shopping_Apps): This app connects with Flipkart and Amazon's API for fetching prices of products based on search keywords. I've also implemented security of API keys using Firebase database and authentication.  
-[basic-of-hacing](https://github.com/mrcyb3rman/basic-of-hacing)
+[basic-of-hacing](https://github.com/mrcyb3rman/basic-of-hacing)  
+[crypfailure.github.io](https://github.com/crypfailure/crypfailure.github.io): Crypfailure is a security writeups and blog website developed with an aim that "knowledge shoule be free". This deals with the CTFs writeups & blogs about emerging technologies in cybersecurity domain. All the content at this platform will always be freely available.
