@@ -5688,4 +5688,5 @@
 [security-demos](https://github.com/Codaisseur/security-demos): Codaisseur Advanced Class on Securing Web Applications  
 [Logout-Cyber-Security-Workshop-dubai](https://github.com/nomadicmehul/Logout-Cyber-Security-Workshop-dubai)  
 [Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything): A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.  
-[Shopping_Apps](https://github.com/satyamkr13/Shopping_Apps): This app connects with Flipkart and Amazon's API for fetching prices of products based on search keywords. I've also implemented security of API keys using Firebase database and authentication.
+[Shopping_Apps](https://github.com/satyamkr13/Shopping_Apps): This app connects with Flipkart and Amazon's API for fetching prices of products based on search keywords. I've also implemented security of API keys using Firebase database and authentication.  
+[basic-of-hacing](https://github.com/mrcyb3rman/basic-of-hacing)
