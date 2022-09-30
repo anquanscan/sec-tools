@@ -5692,4 +5692,5 @@
 [basic-of-hacing](https://github.com/mrcyb3rman/basic-of-hacing)  
 [crypfailure.github.io](https://github.com/crypfailure/crypfailure.github.io): Crypfailure is a security writeups and blog website developed with an aim that "knowledge shoule be free". This deals with the CTFs writeups & blogs about emerging technologies in cybersecurity domain. All the content at this platform will always be freely available.  
 [E-Books-For-CS-Students](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students): This repository contains some E-books for Computer Science students in categorized manner. Hope it will help.  
-[api_paths](https://github.com/dewhurstsecurity/api_paths): A list of REST API URL paths for use in blackbox API end-point discovery
+[api_paths](https://github.com/dewhurstsecurity/api_paths): A list of REST API URL paths for use in blackbox API end-point discovery  
+[javax-security-cdi-extension](https://github.com/exabrial/javax-security-cdi-extension): A CDI Portable Extension for Java EE 7 (and maybe 8) that allows you to use @RolesAllowed on CDI Beans and their Methods
