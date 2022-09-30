@@ -5695,4 +5695,5 @@
 [api_paths](https://github.com/dewhurstsecurity/api_paths): A list of REST API URL paths for use in blackbox API end-point discovery  
 [javax-security-cdi-extension](https://github.com/exabrial/javax-security-cdi-extension): A CDI Portable Extension for Java EE 7 (and maybe 8) that allows you to use @RolesAllowed on CDI Beans and their Methods  
 [Knowledgebase](https://github.com/Shenmue-Mods/Knowledgebase): Creating, collecting & preserving knowledge of modding & hacking Shenmue games.  
-[f5-agility-labs-firewall](https://github.com/f5devcentral/f5-agility-labs-firewall): F5 Agility Labs for L4-7 Firewall Use Cases
+[f5-agility-labs-firewall](https://github.com/f5devcentral/f5-agility-labs-firewall): F5 Agility Labs for L4-7 Firewall Use Cases  
+[needle](https://github.com/WithSecureLabs/needle): The iOS Security Testing Framework
