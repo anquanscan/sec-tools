@@ -5665,4 +5665,5 @@
 [HashcatRulesEngine](https://github.com/llamasoft/HashcatRulesEngine): A stand-alone implementation of Hashcat's rule engine  
 [CppBasicSecuritySystem](https://github.com/ShivaySabharwal/CppBasicSecuritySystem): C++ Program to login, view information, and new registration.  
 [PHPAuth](https://github.com/liamjack/PHPAuth): A new and improved PHPAuth  
-[mafiahacks](https://github.com/machine1337/mafiahacks): The purpose of this tool is to automate the payload Creation Process. U can Create Payloads For All Types of OS in Seconds.
+[mafiahacks](https://github.com/machine1337/mafiahacks): The purpose of this tool is to automate the payload Creation Process. U can Create Payloads For All Types of OS in Seconds.  
+[adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
