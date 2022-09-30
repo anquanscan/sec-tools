@@ -5676,4 +5676,5 @@
 [ansible-managed-certificates](https://github.com/s-hamann/ansible-managed-certificates): Ansible role to set up a X.509 certificate deployment helper for external certificate management  
 [Anume-Smart-Enumeration](https://github.com/Adkali/Anume-Smart-Enumeration): Enumeration tool which can help you while doing CTF's ( THM, HTB ) - Anume  
 [flocker](https://github.com/dimakristally/flocker): A simple Python application to lock & unlock files to prevent them from being accessed by local users.  
-[bluesnarfer](https://github.com/kimbo/bluesnarfer): Bluetooth hack, forked from https://gitlab.com/kalilinux/packages/bluesnarfer/
+[bluesnarfer](https://github.com/kimbo/bluesnarfer): Bluetooth hack, forked from https://gitlab.com/kalilinux/packages/bluesnarfer/  
+[domain-trial-training-mgt](https://github.com/cybnity/domain-trial-training-mgt): All the features and services realized by the security exercises bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
