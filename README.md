@@ -5696,4 +5696,5 @@
 [javax-security-cdi-extension](https://github.com/exabrial/javax-security-cdi-extension): A CDI Portable Extension for Java EE 7 (and maybe 8) that allows you to use @RolesAllowed on CDI Beans and their Methods  
 [Knowledgebase](https://github.com/Shenmue-Mods/Knowledgebase): Creating, collecting & preserving knowledge of modding & hacking Shenmue games.  
 [f5-agility-labs-firewall](https://github.com/f5devcentral/f5-agility-labs-firewall): F5 Agility Labs for L4-7 Firewall Use Cases  
-[needle](https://github.com/WithSecureLabs/needle): The iOS Security Testing Framework
+[needle](https://github.com/WithSecureLabs/needle): The iOS Security Testing Framework  
+[Metasign](https://github.com/crashware/Metasign): A lightweight ECDH and ECDSA application for generating key pairs and protecting data in a more portable format.
