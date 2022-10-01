@@ -5713,4 +5713,5 @@
 [TOP-BEST-GITHUB-INFOSEC-PAGES](https://github.com/eaglesquads/TOP-BEST-GITHUB-INFOSEC-PAGES): The very, (VERY) - Best, extremely well informing & detailed Github Users & Githbu Pages |!NOTE!| THIS IS ONLY MY OPINION! It's also made only for myself, soo.. But feel free to contribute! |!NOTE!|  
 [domain-threat-intelligence](https://github.com/cybnity/domain-threat-intelligence): All the features and services realized by the Threat Intelligence bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [airgap-raspberry-apk-signer](https://github.com/airgap-it/airgap-raspberry-apk-signer): Modified Raspberry Pi Image to sign your APK in the most secure way (airgapped).  
-[remote_hacker_probe](https://github.com/quantumcore/remote_hacker_probe): Threat Emulation and Red Teaming Framework, The Hacking Software for normal people.
+[remote_hacker_probe](https://github.com/quantumcore/remote_hacker_probe): Threat Emulation and Red Teaming Framework, The Hacking Software for normal people.  
+[censys-recon-ng](https://github.com/censys/censys-recon-ng): recon-ng modules for Censys
