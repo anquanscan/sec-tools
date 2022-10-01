@@ -5716,4 +5716,5 @@
 [remote_hacker_probe](https://github.com/quantumcore/remote_hacker_probe): Threat Emulation and Red Teaming Framework, The Hacking Software for normal people.  
 [censys-recon-ng](https://github.com/censys/censys-recon-ng): recon-ng modules for Censys  
 [Cfx-ip-finder](https://github.com/Fnoberz/Cfx-ip-finder): FiveM  
-[Cybersecurity_Steganography_and_Ciphers](https://github.com/Davidmenamm/Cybersecurity_Steganography_and_Ciphers): Cryptography: The steganography of images, and the application of caesar's cipher to decode the encrypted message.
+[Cybersecurity_Steganography_and_Ciphers](https://github.com/Davidmenamm/Cybersecurity_Steganography_and_Ciphers): Cryptography: The steganography of images, and the application of caesar's cipher to decode the encrypted message.  
+[fuptcha](https://github.com/pyperanger/fuptcha): fuptcha - CAPTCHA Fuzzer Image Recon
