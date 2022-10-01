@@ -5701,4 +5701,5 @@
 [solo1](https://github.com/solokeys/solo1): Solo 1 firmware in C  
 [hackingTools](https://github.com/beloncode/hackingTools): A simple collection of tools implemented in 2 days used for information gathering; reverse engineering; attack  
 [RPI4-Covenant-C2-Installer](https://github.com/MrEmpy/RPI4-Covenant-C2-Installer): 「🖥️」Covenant C2 Installer for RPI 4  
-[PHP-Based-Email-Spoofer](https://github.com/HaxonicOfficial/PHP-Based-Email-Spoofer): A Email-Spoofer demo, via which a attacker may use this social-engineering skills to retrieve sensitive data from the victim just by manipulating Email-headers.
+[PHP-Based-Email-Spoofer](https://github.com/HaxonicOfficial/PHP-Based-Email-Spoofer): A Email-Spoofer demo, via which a attacker may use this social-engineering skills to retrieve sensitive data from the victim just by manipulating Email-headers.  
+[csgo-lag-exploit](https://github.com/0xfaer/csgo-lag-exploit): Counter-Strike: Global Offensive lag exploit from a private cheat of mine, I have removed some key parts but if you are dedicated, you can fix it.
