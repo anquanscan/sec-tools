@@ -5717,4 +5717,5 @@
 [censys-recon-ng](https://github.com/censys/censys-recon-ng): recon-ng modules for Censys  
 [Cfx-ip-finder](https://github.com/Fnoberz/Cfx-ip-finder): FiveM  
 [Cybersecurity_Steganography_and_Ciphers](https://github.com/Davidmenamm/Cybersecurity_Steganography_and_Ciphers): Cryptography: The steganography of images, and the application of caesar's cipher to decode the encrypted message.  
-[fuptcha](https://github.com/pyperanger/fuptcha): fuptcha - CAPTCHA Fuzzer Image Recon
+[fuptcha](https://github.com/pyperanger/fuptcha): fuptcha - CAPTCHA Fuzzer Image Recon  
+[StudyRoom](https://github.com/LucasPDiniz/StudyRoom):  Repository created for study and POC's on vulnerabilities.
