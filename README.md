@@ -5709,4 +5709,5 @@
 [TrustM](https://github.com/mimok/TrustM): Breakout board for Optiga Trust M chip compatible with Raspberry Pi  
 [Intruder-Detection-With-E-mail-notifier](https://github.com/sajidali351/Intruder-Detection-With-E-mail-notifier): Build an application that alerts you through E-mail when someone enters a restricted area. Learn how to use models for intruder detection.  
 [Nokali-Kit](https://github.com/tib36/Nokali-Kit): 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段  
-[upribox](https://github.com/usableprivacy/upribox): Usable Privacy Box
+[upribox](https://github.com/usableprivacy/upribox): Usable Privacy Box  
+[TOP-BEST-GITHUB-INFOSEC-PAGES](https://github.com/eaglesquads/TOP-BEST-GITHUB-INFOSEC-PAGES): The very, (VERY) - Best, extremely well informing & detailed Github Users & Githbu Pages |!NOTE!| THIS IS ONLY MY OPINION! It's also made only for myself, soo.. But feel free to contribute! |!NOTE!|
