@@ -5708,4 +5708,5 @@
 [CTFTime-Android](https://github.com/PSNAppz/CTFTime-Android): Unofficial CTF Time Android App  
 [TrustM](https://github.com/mimok/TrustM): Breakout board for Optiga Trust M chip compatible with Raspberry Pi  
 [Intruder-Detection-With-E-mail-notifier](https://github.com/sajidali351/Intruder-Detection-With-E-mail-notifier): Build an application that alerts you through E-mail when someone enters a restricted area. Learn how to use models for intruder detection.  
-[Nokali-Kit](https://github.com/tib36/Nokali-Kit): 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段
+[Nokali-Kit](https://github.com/tib36/Nokali-Kit): 一款结构简单、模块化的漏洞利用框架，用于研究学习，目前正在开发起步阶段  
+[upribox](https://github.com/usableprivacy/upribox): Usable Privacy Box
