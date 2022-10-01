@@ -5718,4 +5718,5 @@
 [Cfx-ip-finder](https://github.com/Fnoberz/Cfx-ip-finder): FiveM  
 [Cybersecurity_Steganography_and_Ciphers](https://github.com/Davidmenamm/Cybersecurity_Steganography_and_Ciphers): Cryptography: The steganography of images, and the application of caesar's cipher to decode the encrypted message.  
 [fuptcha](https://github.com/pyperanger/fuptcha): fuptcha - CAPTCHA Fuzzer Image Recon  
-[StudyRoom](https://github.com/LucasPDiniz/StudyRoom):  Repository created for study and POC's on vulnerabilities.
+[StudyRoom](https://github.com/LucasPDiniz/StudyRoom):  Repository created for study and POC's on vulnerabilities.  
+[TAaMR](https://github.com/merrafelice/TAaMR): Proposal of a novel adversarial attack approach, called Target Adversarial Attack against Multimedia Recommender Systems (TAaMR), to investigate the modification of MR behavior when the images of a category of low recommended products (e.g., socks) are perturbed to misclassify the deep neural classifier towards the class of more recommended products (e.g., running shoes) with human-level slight images alterations. 
