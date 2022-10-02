@@ -5730,4 +5730,5 @@
 [nmap-static-binaries](https://github.com/opsec-infosec/nmap-static-binaries)  
 [correct.js-2](https://github.com/Akifcan/correct.js-2): Second version of correct.js  
 [USB-Password-stealing-driver](https://github.com/alaggab/USB-Password-stealing-driver): USB Password stealing drive  
-[ShadowSteal](https://github.com/HuskyHacks/ShadowSteal): Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
+[ShadowSteal](https://github.com/HuskyHacks/ShadowSteal): Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation  
+[Lazyxss](https://github.com/LoaiEsam37/Lazyxss): LazyXSS is a tool that can help you scan for reflected XSS, LFI without any effort.
