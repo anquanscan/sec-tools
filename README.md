@@ -5729,4 +5729,5 @@
 [Kalivenom](https://github.com/AndoniHQ/Kalivenom): Servidor web para almacenar algunos payloads para el proyecto final de ASIR  
 [nmap-static-binaries](https://github.com/opsec-infosec/nmap-static-binaries)  
 [correct.js-2](https://github.com/Akifcan/correct.js-2): Second version of correct.js  
-[USB-Password-stealing-driver](https://github.com/alaggab/USB-Password-stealing-driver): USB Password stealing drive
+[USB-Password-stealing-driver](https://github.com/alaggab/USB-Password-stealing-driver): USB Password stealing drive  
+[ShadowSteal](https://github.com/HuskyHacks/ShadowSteal): Pure Nim implementation for exploiting CVE-2021-36934, the SeriousSAM local privilege escalation
