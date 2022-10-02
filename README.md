@@ -5728,4 +5728,5 @@
 [burp-password-spray](https://github.com/0xZDH/burp-password-spray): This extension allows a user to specify a lockout policy in order to automate a password spray attack via Intruder.  
 [Kalivenom](https://github.com/AndoniHQ/Kalivenom): Servidor web para almacenar algunos payloads para el proyecto final de ASIR  
 [nmap-static-binaries](https://github.com/opsec-infosec/nmap-static-binaries)  
-[correct.js-2](https://github.com/Akifcan/correct.js-2): Second version of correct.js
+[correct.js-2](https://github.com/Akifcan/correct.js-2): Second version of correct.js  
+[USB-Password-stealing-driver](https://github.com/alaggab/USB-Password-stealing-driver): USB Password stealing drive
