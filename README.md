@@ -5742,4 +5742,5 @@
 [grafanaExp](https://github.com/A-D-Team/grafanaExp): A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.  
 [beagle](https://github.com/yampelo/beagle): Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.  
 [Vocal-Flask](https://github.com/HACKE-RC/Vocal-Flask): Vocal Flask   
-[GodGenesis](https://github.com/SaumyajeetDas/GodGenesis): A Python3 based C2 server to make life of red teamer a bit easier. The payload is  capable to bypass all the known antiviruses and endpoints.
+[GodGenesis](https://github.com/SaumyajeetDas/GodGenesis): A Python3 based C2 server to make life of red teamer a bit easier. The payload is  capable to bypass all the known antiviruses and endpoints.  
+[brutforce](https://github.com/AndreyMashukov/brutforce): Script for brutforce
