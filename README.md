@@ -5727,4 +5727,5 @@
 [secure-pass](https://github.com/DrBarnabus/secure-pass): Secure password hashing module that makes use of Argon2ID. Also provides a facility for password reset token generation and verification.  
 [burp-password-spray](https://github.com/0xZDH/burp-password-spray): This extension allows a user to specify a lockout policy in order to automate a password spray attack via Intruder.  
 [Kalivenom](https://github.com/AndoniHQ/Kalivenom): Servidor web para almacenar algunos payloads para el proyecto final de ASIR  
-[nmap-static-binaries](https://github.com/opsec-infosec/nmap-static-binaries)
+[nmap-static-binaries](https://github.com/opsec-infosec/nmap-static-binaries)  
+[correct.js-2](https://github.com/Akifcan/correct.js-2): Second version of correct.js
