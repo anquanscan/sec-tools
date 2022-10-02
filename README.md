@@ -5721,4 +5721,5 @@
 [StudyRoom](https://github.com/LucasPDiniz/StudyRoom):  Repository created for study and POC's on vulnerabilities.  
 [TAaMR](https://github.com/merrafelice/TAaMR): Proposal of a novel adversarial attack approach, called Target Adversarial Attack against Multimedia Recommender Systems (TAaMR), to investigate the modification of MR behavior when the images of a category of low recommended products (e.g., socks) are perturbed to misclassify the deep neural classifier towards the class of more recommended products (e.g., running shoes) with human-level slight images alterations.   
 [leavecat.github.io](https://github.com/LeaveCat/leavecat.github.io): LeaveCat official blog  
-[DarkK](https://github.com/s-ai-kia/DarkK): Dar✘ - The DarkNet of the Deep Web
+[DarkK](https://github.com/s-ai-kia/DarkK): Dar✘ - The DarkNet of the Deep Web  
+[Block_Smartscreen_and_Security_Center_on_Windows_Operating_Systems](https://github.com/abdulkadir-gungor/Block_Smartscreen_and_Security_Center_on_Windows_Operating_Systems): Blocking smartscreen, security center, forensic processes and 3rd party security applications on Windows Operating Systems
