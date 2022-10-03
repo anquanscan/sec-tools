@@ -5755,4 +5755,5 @@
 [Web-Probe](https://github.com/EONRaider/Web-Probe): Web Probe is a Python 3 asynchronous port scanner with the purpose of checking live web servers  
 [Xss-](https://github.com/Dhamuharker/Xss-): Awesome XSS Payloads   
 [starchart](https://github.com/shipwreckdev/starchart): Starchart is a Python-based tool that allows scanning and assessment of cloud native platforms.  
-[aletheia](https://github.com/petrilli/aletheia): Manage secrets in Google Cloud w/CloudKMS and Cloud Storage
+[aletheia](https://github.com/petrilli/aletheia): Manage secrets in Google Cloud w/CloudKMS and Cloud Storage  
+[h3ll0_fr13nd](https://github.com/kantuni/h3ll0_fr13nd): Our privacy has been hacked.
