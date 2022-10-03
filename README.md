@@ -5756,4 +5756,5 @@
 [Xss-](https://github.com/Dhamuharker/Xss-): Awesome XSS Payloads   
 [starchart](https://github.com/shipwreckdev/starchart): Starchart is a Python-based tool that allows scanning and assessment of cloud native platforms.  
 [aletheia](https://github.com/petrilli/aletheia): Manage secrets in Google Cloud w/CloudKMS and Cloud Storage  
-[h3ll0_fr13nd](https://github.com/kantuni/h3ll0_fr13nd): Our privacy has been hacked.
+[h3ll0_fr13nd](https://github.com/kantuni/h3ll0_fr13nd): Our privacy has been hacked.  
+[magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-D](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-D): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION (D) proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).
