@@ -5748,4 +5748,5 @@
 [OracleCVE](https://github.com/vah13/OracleCVE): Vulnerabilities which found in Oracle products  
 [IPRep](https://github.com/jbies121/IPRep): IP Reputation tool for .NET Core 3.1  
 [Discord-Embed-Trick](https://github.com/anwir-prota/Discord-Embed-Trick): I got showed this trick by some random cunt on Discord that was in my group. I forgot his name. Shoutout to you though  
-[v-shark](https://github.com/iamrishirb/v-shark): Official Repository for V-Shark
+[v-shark](https://github.com/iamrishirb/v-shark): Official Repository for V-Shark  
+[honest](https://github.com/david942j/honest): Are your installed packages _really_ the same as you saw on GitHub?
