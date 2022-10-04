@@ -5760,4 +5760,5 @@
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-D](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-D): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION (D) proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).  
 [minipwner](https://github.com/nicholasadamou/minipwner): A script to configure a TP-Link MR3040 running OpenWRT into a simple, yet powerful penetration-testing "dropbox".  
 [arduino-optiga-trust-x](https://github.com/Infineon/arduino-optiga-trust-x): Infineon OPTIGA™ Trust X security solution library for Arduino  
-[python-xacml-sdk](https://github.com/authzforce/python-xacml-sdk): Python Client SDK for AuthzForce Server
+[python-xacml-sdk](https://github.com/authzforce/python-xacml-sdk): Python Client SDK for AuthzForce Server  
+[u2fcli](https://github.com/mdp/u2fcli): Command line tool for using U2F tokens
