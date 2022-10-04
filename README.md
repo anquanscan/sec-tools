@@ -5777,4 +5777,5 @@
 [NetworkAlarm](https://github.com/yojiwatanabe/NetworkAlarm): A tool to monitor local network traffic for possible security vulnerabilities. Warns user against possible nmap scans, Nikto scans, credentials sent in-the-clear, and shellshock attacks. Currently supports live monitoring and network capture (pcap) scanning.  
 [dos-tester-802.11](https://github.com/oz9un/dos-tester-802.11): It's a Python tool that tests some DoS attacks on 802.11 networks with flooding desired packets. Developed with Scapy.  
 [AymoonUtils](https://github.com/ayman2nov/AymoonUtils)  
-[Infosec-Questions](https://github.com/austinsonger/Infosec-Questions): Common (and Advanced) Information Security Questions. Questions you should know the answer to for your information security career.
+[Infosec-Questions](https://github.com/austinsonger/Infosec-Questions): Common (and Advanced) Information Security Questions. Questions you should know the answer to for your information security career.  
+[JTRE](https://github.com/ASHWIN990/JTRE): Tool for cracking password Hashes like MD5, SHA1, SHA256, encrypted PDF, encrypted compressed file,and many other password hashes 🤘🤘
