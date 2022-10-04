@@ -5771,4 +5771,5 @@
 [reading-list](https://github.com/gmgchow/reading-list): My reading list for technology-related books. I rate the books that I have read and include a few notes to summarize what I learned. Eventually, I want to migrate this list into a proper website so that I can write more detailed book reviews.  
 [slack-watchman-enterprise-grid](https://github.com/PaperMtn/slack-watchman-enterprise-grid): Monitoring your Slack Enterprise Grid for sensitive information  
 [linting-a-dockerfile-net6-app-with-azure-pipelines](https://github.com/karlospn/linting-a-dockerfile-net6-app-with-azure-pipelines): This repository contains an example showing how to lint a .NET 6 app dockerfile using Hadolint, dockerfile_lint and Azure Pipelines  
-[eckbox](https://github.com/redeltaglio/eckbox): A github mirror of http://eckbox.sourceforge.net/
+[eckbox](https://github.com/redeltaglio/eckbox): A github mirror of http://eckbox.sourceforge.net/  
+[keypad-firmware](https://github.com/TANC-security/keypad-firmware): ECP keypad implementation for Arduino/AVR
