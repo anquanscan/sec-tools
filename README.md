@@ -5773,4 +5773,5 @@
 [linting-a-dockerfile-net6-app-with-azure-pipelines](https://github.com/karlospn/linting-a-dockerfile-net6-app-with-azure-pipelines): This repository contains an example showing how to lint a .NET 6 app dockerfile using Hadolint, dockerfile_lint and Azure Pipelines  
 [eckbox](https://github.com/redeltaglio/eckbox): A github mirror of http://eckbox.sourceforge.net/  
 [keypad-firmware](https://github.com/TANC-security/keypad-firmware): ECP keypad implementation for Arduino/AVR  
-[io.mbse.mora.score.cvss3](https://github.com/dataliz9r/io.mbse.mora.score.cvss3): C++ Header-only implementation of the Common Vulnerability Scoring System (CVSS) Version 3.1
+[io.mbse.mora.score.cvss3](https://github.com/dataliz9r/io.mbse.mora.score.cvss3): C++ Header-only implementation of the Common Vulnerability Scoring System (CVSS) Version 3.1  
+[NetworkAlarm](https://github.com/yojiwatanabe/NetworkAlarm): A tool to monitor local network traffic for possible security vulnerabilities. Warns user against possible nmap scans, Nikto scans, credentials sent in-the-clear, and shellshock attacks. Currently supports live monitoring and network capture (pcap) scanning.
