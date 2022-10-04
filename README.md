@@ -5769,4 +5769,5 @@
 [PowerShell-Red-Team](https://github.com/tobor88/PowerShell-Red-Team): Collection of PowerShell functions a Red Teamer may use in an engagement  
 [indie_hacking_resources](https://github.com/jacoblangston/indie_hacking_resources): List of tools, articles, and other resources I find useful.  
 [reading-list](https://github.com/gmgchow/reading-list): My reading list for technology-related books. I rate the books that I have read and include a few notes to summarize what I learned. Eventually, I want to migrate this list into a proper website so that I can write more detailed book reviews.  
-[slack-watchman-enterprise-grid](https://github.com/PaperMtn/slack-watchman-enterprise-grid): Monitoring your Slack Enterprise Grid for sensitive information
+[slack-watchman-enterprise-grid](https://github.com/PaperMtn/slack-watchman-enterprise-grid): Monitoring your Slack Enterprise Grid for sensitive information  
+[linting-a-dockerfile-net6-app-with-azure-pipelines](https://github.com/karlospn/linting-a-dockerfile-net6-app-with-azure-pipelines): This repository contains an example showing how to lint a .NET 6 app dockerfile using Hadolint, dockerfile_lint and Azure Pipelines
