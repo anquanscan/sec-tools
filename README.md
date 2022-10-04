@@ -5767,4 +5767,5 @@
 [Reverse-Connection-Shell-Socket-Programing](https://github.com/ShubhGurukul/Reverse-Connection-Shell-Socket-Programing): This repository is for connecting with different clients from a single server as well as 1 client from 1 server.  
 [CVE-2019-17424](https://github.com/guywhataguy/CVE-2019-17424): RCE Exploit For CVE-2019-17424 (nipper-ng 0.11.10)  
 [PowerShell-Red-Team](https://github.com/tobor88/PowerShell-Red-Team): Collection of PowerShell functions a Red Teamer may use in an engagement  
-[indie_hacking_resources](https://github.com/jacoblangston/indie_hacking_resources): List of tools, articles, and other resources I find useful.
+[indie_hacking_resources](https://github.com/jacoblangston/indie_hacking_resources): List of tools, articles, and other resources I find useful.  
+[reading-list](https://github.com/gmgchow/reading-list): My reading list for technology-related books. I rate the books that I have read and include a few notes to summarize what I learned. Eventually, I want to migrate this list into a proper website so that I can write more detailed book reviews.
