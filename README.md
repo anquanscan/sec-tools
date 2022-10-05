@@ -5783,4 +5783,5 @@
 [Programmers-Community](https://github.com/shoaibrayeen/Programmers-Community): This repository contains various solution of a problem in Ruby, C, C++, Python and Java.  
 [ViTee](https://github.com/TURROKS/ViTee): Virus Total Free - IOC parser and report generator  
 [shodan-scanner](https://github.com/madhavmehndiratta/shodan-scanner): A python based Shodan Scanning Script.  
-[zoomeye_leecher](https://github.com/CthUlhUzzz/zoomeye_leecher): Utility for ZoomEye search engine results loading
+[zoomeye_leecher](https://github.com/CthUlhUzzz/zoomeye_leecher): Utility for ZoomEye search engine results loading  
+[pygod](https://github.com/pygod-team/pygod): A Python Library for Graph Outlier Detection (Anomaly Detection)
