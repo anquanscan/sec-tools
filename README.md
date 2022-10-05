@@ -5791,4 +5791,5 @@
 [git-Kon.Spycio.github.io](https://github.com/tiyeume25112004/git-Kon.Spycio.github.io): blog của Spycio  
 [Pentest-chainsaw](https://github.com/ihebski/Pentest-chainsaw): Scrapes Router Passwords From http://www.routerpasswords.com ,more then +300 product  
 [creepjs](https://github.com/abrahamjuliot/creepjs): Creepy device and browser fingerprinting  
-[SLIENT-DOC](https://github.com/trewisscotch/SLIENT-DOC)
+[SLIENT-DOC](https://github.com/trewisscotch/SLIENT-DOC)  
+[threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist): Collection of host blocklist that focus on threats 🚨, like 🕷 malware, ransomware, phishing, spyware, and botnets 🤖
