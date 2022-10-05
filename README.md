@@ -5797,4 +5797,5 @@
 [pwndb_api](https://github.com/M3l0nPan/pwndb_api): Pwndb request API  
 [Denial_Service_Attack](https://github.com/BrsDincer/Denial_Service_Attack): Denial Attacks by Various Methods  
 [secrets-bridge](https://github.com/abourget/secrets-bridge): Secrets bridge - Secure build-time secrets injection for Docker  
-[turtlepower](https://github.com/kintsugi-sec/turtlepower): Turtlepower is a collection of scripts I use to make boring repetive tasks I do in pentesting such as file transfers and setting up shells happen quick and easy so I can focus my energy on pwning.
+[turtlepower](https://github.com/kintsugi-sec/turtlepower): Turtlepower is a collection of scripts I use to make boring repetive tasks I do in pentesting such as file transfers and setting up shells happen quick and easy so I can focus my energy on pwning.  
+[DorkGoogle](https://github.com/Xnuvers007/DorkGoogle): This program For searching with optimal searching
