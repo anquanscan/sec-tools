@@ -5799,4 +5799,5 @@
 [secrets-bridge](https://github.com/abourget/secrets-bridge): Secrets bridge - Secure build-time secrets injection for Docker  
 [turtlepower](https://github.com/kintsugi-sec/turtlepower): Turtlepower is a collection of scripts I use to make boring repetive tasks I do in pentesting such as file transfers and setting up shells happen quick and easy so I can focus my energy on pwning.  
 [DorkGoogle](https://github.com/Xnuvers007/DorkGoogle): This program For searching with optimal searching  
-[rctf-scenario3](https://github.com/aliasrobotics/rctf-scenario3): Robotics CTF scenario 3
+[rctf-scenario3](https://github.com/aliasrobotics/rctf-scenario3): Robotics CTF scenario 3  
+[iGPU-Leak](https://github.com/HE-Wenjian/iGPU-Leak): [CVE-2019-14615] iGPU Leak: An Information Leakage Vulnerability on Intel Integrated GPU
