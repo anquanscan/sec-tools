@@ -5795,4 +5795,5 @@
 [threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist): Collection of host blocklist that focus on threats 🚨, like 🕷 malware, ransomware, phishing, spyware, and botnets 🤖  
 [TokenGrabber2j](https://github.com/m-Phoenix852/TokenGrabber2j): A simple to use API for writing java viruses to get discord account token of an user.  
 [pwndb_api](https://github.com/M3l0nPan/pwndb_api): Pwndb request API  
-[Denial_Service_Attack](https://github.com/BrsDincer/Denial_Service_Attack): Denial Attacks by Various Methods
+[Denial_Service_Attack](https://github.com/BrsDincer/Denial_Service_Attack): Denial Attacks by Various Methods  
+[secrets-bridge](https://github.com/abourget/secrets-bridge): Secrets bridge - Secure build-time secrets injection for Docker
