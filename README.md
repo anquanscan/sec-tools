@@ -5786,4 +5786,5 @@
 [zoomeye_leecher](https://github.com/CthUlhUzzz/zoomeye_leecher): Utility for ZoomEye search engine results loading  
 [pygod](https://github.com/pygod-team/pygod): A Python Library for Graph Outlier Detection (Anomaly Detection)  
 [secure-workflows](https://github.com/step-security/secure-workflows): Secure GitHub Actions CI/CD workflows via automated remediations  
-[routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices
+[routersploit](https://github.com/threat9/routersploit): Exploitation Framework for Embedded Devices  
+[Pentagram-exploit-tester](https://github.com/GeoSn0w/Pentagram-exploit-tester): A test app to check if your device is vulnerable to CVE-2021-30955
