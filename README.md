@@ -5792,4 +5792,5 @@
 [Pentest-chainsaw](https://github.com/ihebski/Pentest-chainsaw): Scrapes Router Passwords From http://www.routerpasswords.com ,more then +300 product  
 [creepjs](https://github.com/abrahamjuliot/creepjs): Creepy device and browser fingerprinting  
 [SLIENT-DOC](https://github.com/trewisscotch/SLIENT-DOC)  
-[threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist): Collection of host blocklist that focus on threats 🚨, like 🕷 malware, ransomware, phishing, spyware, and botnets 🤖
+[threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist): Collection of host blocklist that focus on threats 🚨, like 🕷 malware, ransomware, phishing, spyware, and botnets 🤖  
+[TokenGrabber2j](https://github.com/m-Phoenix852/TokenGrabber2j): A simple to use API for writing java viruses to get discord account token of an user.
