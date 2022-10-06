@@ -5810,4 +5810,5 @@
 [salt-channel-swift](https://github.com/assaabloy-ppi/salt-channel-swift): Salt Channel version 2 implemented in Swift. Can be used for iOS, MacOS and Linux projects.  
 [skidloader](https://github.com/petercunha/skidloader): :package: Import the Collection #1 data breach into MongoDB  
 [lemon](https://github.com/spicesouls/lemon): Simple MSFVenom Payload Generator  
-[Spray365](https://github.com/MarkoH17/Spray365): Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypass Azure Smart Lockout and insecure conditional access policies.
+[Spray365](https://github.com/MarkoH17/Spray365): Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypass Azure Smart Lockout and insecure conditional access policies.  
+[filebeat-selinux](https://github.com/georou/filebeat-selinux): Elasticsearch's Filebeat SELinux policy module for CentOS 7 & RHEL 7 systems
