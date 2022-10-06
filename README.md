@@ -5823,4 +5823,5 @@
 [FACEUP](https://github.com/PatrickBMaloney/FACEUP): 🏆 BrickHack 2019 Best AR/VR Hack: An android app for the Vuzix Blade smart glasses that recognizes faces and displays information about the person to the user.  
 [crabbed.github.io](https://github.com/crabbed/crabbed.github.io): Ever been rejected on bug bounty? Well send me your reports to give them a second chance. This includes, but is not limited to - XSS, SQL Injection, Code Execution, Deface, Login Bypass and much more.  
 [BCrypt-BruteForce](https://github.com/reinforchu/BCrypt-BruteForce): BCrypt Brute-Force attack / BCrypt crack  
-[param-ninja](https://github.com/urchinsec/param-ninja): An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter
+[param-ninja](https://github.com/urchinsec/param-ninja): An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter  
+[cryptz](https://github.com/iinc0gnit0/cryptz): :lock: [ Multi Encryption / Decryption ] :unlock:
