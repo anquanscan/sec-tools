@@ -5819,4 +5819,5 @@
 [parrot-in-termux](https://github.com/risecid/parrot-in-termux): Installing Parrot Os With Termux  
 [rendezvous](https://github.com/mypico/rendezvous): Rendezvous server  
 [pcc](https://github.com/sektioneins/pcc): PHP Secure Configuration Checker  
-[de.ccc.media](https://github.com/tauri-webapps/de.ccc.media): Native (unofficial) WebApp for CCC's media streaming portal, built with Tauri 
+[de.ccc.media](https://github.com/tauri-webapps/de.ccc.media): Native (unofficial) WebApp for CCC's media streaming portal, built with Tauri   
+[FACEUP](https://github.com/PatrickBMaloney/FACEUP): 🏆 BrickHack 2019 Best AR/VR Hack: An android app for the Vuzix Blade smart glasses that recognizes faces and displays information about the person to the user.
