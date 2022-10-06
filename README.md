@@ -5818,4 +5818,5 @@
 [Password-Checker](https://github.com/Vikranttyagi95/Password-Checker): In this project, I have created a Python script that reads a bunch of passwords from the text file and checks whether the password has been compromised in a hack before.  
 [parrot-in-termux](https://github.com/risecid/parrot-in-termux): Installing Parrot Os With Termux  
 [rendezvous](https://github.com/mypico/rendezvous): Rendezvous server  
-[pcc](https://github.com/sektioneins/pcc): PHP Secure Configuration Checker
+[pcc](https://github.com/sektioneins/pcc): PHP Secure Configuration Checker  
+[de.ccc.media](https://github.com/tauri-webapps/de.ccc.media): Native (unofficial) WebApp for CCC's media streaming portal, built with Tauri 
