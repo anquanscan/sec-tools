@@ -5805,4 +5805,5 @@
 [cswsh](https://github.com/DeepakPawar95/cswsh): A command-line tool for Cross-Site WebSocket Hijacking  
 [termux-alpine](https://github.com/illvart/termux-alpine): Bash script for installing Alpine Linux in Termux - 100 MB.  
 [Deepminer](https://github.com/Conso1eCowb0y/Deepminer): Deep web crawler and search engine  
-[Directories_Brute_Force](https://github.com/BrsDincer/Directories_Brute_Force): Multi-Process  / Censorship Detection
+[Directories_Brute_Force](https://github.com/BrsDincer/Directories_Brute_Force): Multi-Process  / Censorship Detection  
+[awesome-opa](https://github.com/anderseknert/awesome-opa): A curated list of OPA related tools, frameworks and articles
