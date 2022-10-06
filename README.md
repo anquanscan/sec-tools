@@ -5807,4 +5807,5 @@
 [Deepminer](https://github.com/Conso1eCowb0y/Deepminer): Deep web crawler and search engine  
 [Directories_Brute_Force](https://github.com/BrsDincer/Directories_Brute_Force): Multi-Process  / Censorship Detection  
 [awesome-opa](https://github.com/anderseknert/awesome-opa): A curated list of OPA related tools, frameworks and articles  
-[salt-channel-swift](https://github.com/assaabloy-ppi/salt-channel-swift): Salt Channel version 2 implemented in Swift. Can be used for iOS, MacOS and Linux projects.
+[salt-channel-swift](https://github.com/assaabloy-ppi/salt-channel-swift): Salt Channel version 2 implemented in Swift. Can be used for iOS, MacOS and Linux projects.  
+[skidloader](https://github.com/petercunha/skidloader): :package: Import the Collection #1 data breach into MongoDB
