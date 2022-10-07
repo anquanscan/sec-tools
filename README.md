@@ -5828,4 +5828,5 @@
 [ropium](https://github.com/Boyan-MILANOV/ropium): ROPium is a tool that helps you building ROP exploits by finding and chaining gadgets together   
 [Ansible-RHEL8-CIS-Benchmarks](https://github.com/HarryHarcourt/Ansible-RHEL8-CIS-Benchmarks): Ansible role for RedHat Enterprise Linux release 8 following the CIS Benchmarks  
 [Pringles_can_code_generator](https://github.com/s9rA16Bf4/Pringles_can_code_generator): Code generator for the xbox series s event   
-[risk-assessment-system](https://github.com/niv-sorek/risk-assessment-system): Risk Assessment System based on Vulnerabilities and User Permissions
+[risk-assessment-system](https://github.com/niv-sorek/risk-assessment-system): Risk Assessment System based on Vulnerabilities and User Permissions  
+[binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng): Binary Analysis Next Generation (BANG)
