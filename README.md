@@ -5845,4 +5845,5 @@
 [security-csrf](https://github.com/symfony/security-csrf): The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.  
 [Blooket-Hacks](https://github.com/rxzyx/Blooket-Hacks): The absolute best Blooket hack there is.  
 [rustBoot](https://github.com/nihalpasham/rustBoot): rustBoot is a standalone bootloader written entirely in `Rust`, designed to run on anything from a microcontroller to a system on chip. It can be used to boot into bare-metal firmware or Linux.  
-[Joomla_Arbitrary_File_Upload](https://github.com/Dark-Clown-Security/Joomla_Arbitrary_File_Upload): Joomla Arbitrary File Upload / Unggah File Sewenang
+[Joomla_Arbitrary_File_Upload](https://github.com/Dark-Clown-Security/Joomla_Arbitrary_File_Upload): Joomla Arbitrary File Upload / Unggah File Sewenang  
+[Vaim-Samay](https://github.com/VaimpierOfficial/Vaim-Samay): This is use for track location or logout all google account using only one click.
