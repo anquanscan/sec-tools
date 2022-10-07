@@ -5836,4 +5836,5 @@
 [telegram-social-engineering-tool](https://github.com/rewiaca/telegram-social-engineering-tool): Social Engineering Testing tool in Telegram environment for human factor and auth session leak  
 [Exoft.Security.OAuth](https://github.com/Exoft/Exoft.Security.OAuth): ASP.NET Core OAuth 2 simple implementation  
 [flipper-tools](https://github.com/nwhistler/flipper-tools): Cool Stuff I find or Create for Flipperzero  
-[Python-Projects](https://github.com/SV-ZeroOne/Python-Projects): Repository of Personal Python Hacking Projects and Scripts
+[Python-Projects](https://github.com/SV-ZeroOne/Python-Projects): Repository of Personal Python Hacking Projects and Scripts  
+[open-redirect-payload-list](https://github.com/payloadbox/open-redirect-payload-list): 🎯 Open Redirect Payload List
