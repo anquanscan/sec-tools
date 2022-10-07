@@ -5830,4 +5830,5 @@
 [Pringles_can_code_generator](https://github.com/s9rA16Bf4/Pringles_can_code_generator): Code generator for the xbox series s event   
 [risk-assessment-system](https://github.com/niv-sorek/risk-assessment-system): Risk Assessment System based on Vulnerabilities and User Permissions  
 [binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng): Binary Analysis Next Generation (BANG)  
-[KHeaps](https://github.com/sefcom/KHeaps): Playing for {K (H) eaps}: Understanding and Improving Linux Kernel Exploit Reliability
+[KHeaps](https://github.com/sefcom/KHeaps): Playing for {K (H) eaps}: Understanding and Improving Linux Kernel Exploit Reliability  
+[trufflehog](https://github.com/trufflesecurity/trufflehog): Find credentials all over the place
