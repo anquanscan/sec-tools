@@ -5839,4 +5839,5 @@
 [Python-Projects](https://github.com/SV-ZeroOne/Python-Projects): Repository of Personal Python Hacking Projects and Scripts  
 [open-redirect-payload-list](https://github.com/payloadbox/open-redirect-payload-list): 🎯 Open Redirect Payload List  
 [Behaviour-Detection-with-Hash-Functions](https://github.com/kclick91/Behaviour-Detection-with-Hash-Functions): A method to detect where a sequence of events are different.  
-[Sub-Domain-Enumeration-Tool](https://github.com/mrnazu/Sub-Domain-Enumeration-Tool): Sub-domain enumeration is the process of finding sub-domains for one or more domains. It helps to broader the attack surface, find hidden applications, and forgotten subdomains. Note: Vulnerabilities tend to be present across multiple domains and applications of the same organization.
+[Sub-Domain-Enumeration-Tool](https://github.com/mrnazu/Sub-Domain-Enumeration-Tool): Sub-domain enumeration is the process of finding sub-domains for one or more domains. It helps to broader the attack surface, find hidden applications, and forgotten subdomains. Note: Vulnerabilities tend to be present across multiple domains and applications of the same organization.  
+[Dr.-Tanaka-Says](https://github.com/m-ajiao/Dr.-Tanaka-Says): Dear Fansubbers: Don't be stupid! Let me teach you how to stay safe on the Internet.
