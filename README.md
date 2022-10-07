@@ -5843,4 +5843,5 @@
 [Dr.-Tanaka-Says](https://github.com/m-ajiao/Dr.-Tanaka-Says): Dear Fansubbers: Don't be stupid! Let me teach you how to stay safe on the Internet.  
 [FileTypeChecker](https://github.com/AJMitev/FileTypeChecker): Cross platform file type validator for .NET   
 [security-csrf](https://github.com/symfony/security-csrf): The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.  
-[Blooket-Hacks](https://github.com/rxzyx/Blooket-Hacks): The absolute best Blooket hack there is.
+[Blooket-Hacks](https://github.com/rxzyx/Blooket-Hacks): The absolute best Blooket hack there is.  
+[rustBoot](https://github.com/nihalpasham/rustBoot): rustBoot is a standalone bootloader written entirely in `Rust`, designed to run on anything from a microcontroller to a system on chip. It can be used to boot into bare-metal firmware or Linux.
