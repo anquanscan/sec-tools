@@ -5842,4 +5842,5 @@
 [Sub-Domain-Enumeration-Tool](https://github.com/mrnazu/Sub-Domain-Enumeration-Tool): Sub-domain enumeration is the process of finding sub-domains for one or more domains. It helps to broader the attack surface, find hidden applications, and forgotten subdomains. Note: Vulnerabilities tend to be present across multiple domains and applications of the same organization.  
 [Dr.-Tanaka-Says](https://github.com/m-ajiao/Dr.-Tanaka-Says): Dear Fansubbers: Don't be stupid! Let me teach you how to stay safe on the Internet.  
 [FileTypeChecker](https://github.com/AJMitev/FileTypeChecker): Cross platform file type validator for .NET   
-[security-csrf](https://github.com/symfony/security-csrf): The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.
+[security-csrf](https://github.com/symfony/security-csrf): The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.  
+[Blooket-Hacks](https://github.com/rxzyx/Blooket-Hacks): The absolute best Blooket hack there is.
