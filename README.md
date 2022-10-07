@@ -5837,4 +5837,5 @@
 [Exoft.Security.OAuth](https://github.com/Exoft/Exoft.Security.OAuth): ASP.NET Core OAuth 2 simple implementation  
 [flipper-tools](https://github.com/nwhistler/flipper-tools): Cool Stuff I find or Create for Flipperzero  
 [Python-Projects](https://github.com/SV-ZeroOne/Python-Projects): Repository of Personal Python Hacking Projects and Scripts  
-[open-redirect-payload-list](https://github.com/payloadbox/open-redirect-payload-list): 🎯 Open Redirect Payload List
+[open-redirect-payload-list](https://github.com/payloadbox/open-redirect-payload-list): 🎯 Open Redirect Payload List  
+[Behaviour-Detection-with-Hash-Functions](https://github.com/kclick91/Behaviour-Detection-with-Hash-Functions): A method to detect where a sequence of events are different.
