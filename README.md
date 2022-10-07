@@ -5826,4 +5826,5 @@
 [param-ninja](https://github.com/urchinsec/param-ninja): An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter  
 [cryptz](https://github.com/iinc0gnit0/cryptz): :lock: [ Multi Encryption / Decryption ] :unlock:  
 [ropium](https://github.com/Boyan-MILANOV/ropium): ROPium is a tool that helps you building ROP exploits by finding and chaining gadgets together   
-[Ansible-RHEL8-CIS-Benchmarks](https://github.com/HarryHarcourt/Ansible-RHEL8-CIS-Benchmarks): Ansible role for RedHat Enterprise Linux release 8 following the CIS Benchmarks
+[Ansible-RHEL8-CIS-Benchmarks](https://github.com/HarryHarcourt/Ansible-RHEL8-CIS-Benchmarks): Ansible role for RedHat Enterprise Linux release 8 following the CIS Benchmarks  
+[Pringles_can_code_generator](https://github.com/s9rA16Bf4/Pringles_can_code_generator): Code generator for the xbox series s event 
