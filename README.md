@@ -5835,4 +5835,5 @@
 [AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud](https://github.com/YoussefBayouli/AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud): In this project, I deployed and assessed a simple web application environment’s security posture. Then, I intentionally test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I also set up monitoring to identify suspicious behavior and vulnerable configurations and  remediate the identified misconfigurations. Finally, I tied it all together by proposing a DevOps build pipeline that includes security best practices.  
 [telegram-social-engineering-tool](https://github.com/rewiaca/telegram-social-engineering-tool): Social Engineering Testing tool in Telegram environment for human factor and auth session leak  
 [Exoft.Security.OAuth](https://github.com/Exoft/Exoft.Security.OAuth): ASP.NET Core OAuth 2 simple implementation  
-[flipper-tools](https://github.com/nwhistler/flipper-tools): Cool Stuff I find or Create for Flipperzero
+[flipper-tools](https://github.com/nwhistler/flipper-tools): Cool Stuff I find or Create for Flipperzero  
+[Python-Projects](https://github.com/SV-ZeroOne/Python-Projects): Repository of Personal Python Hacking Projects and Scripts
