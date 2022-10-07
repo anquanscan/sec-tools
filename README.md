@@ -5831,4 +5831,5 @@
 [risk-assessment-system](https://github.com/niv-sorek/risk-assessment-system): Risk Assessment System based on Vulnerabilities and User Permissions  
 [binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng): Binary Analysis Next Generation (BANG)  
 [KHeaps](https://github.com/sefcom/KHeaps): Playing for {K (H) eaps}: Understanding and Improving Linux Kernel Exploit Reliability  
-[trufflehog](https://github.com/trufflesecurity/trufflehog): Find credentials all over the place
+[trufflehog](https://github.com/trufflesecurity/trufflehog): Find credentials all over the place  
+[AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud](https://github.com/YoussefBayouli/AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud): In this project, I deployed and assessed a simple web application environment’s security posture. Then, I intentionally test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I also set up monitoring to identify suspicious behavior and vulnerable configurations and  remediate the identified misconfigurations. Finally, I tied it all together by proposing a DevOps build pipeline that includes security best practices.
