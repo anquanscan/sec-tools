@@ -5829,4 +5829,5 @@
 [Ansible-RHEL8-CIS-Benchmarks](https://github.com/HarryHarcourt/Ansible-RHEL8-CIS-Benchmarks): Ansible role for RedHat Enterprise Linux release 8 following the CIS Benchmarks  
 [Pringles_can_code_generator](https://github.com/s9rA16Bf4/Pringles_can_code_generator): Code generator for the xbox series s event   
 [risk-assessment-system](https://github.com/niv-sorek/risk-assessment-system): Risk Assessment System based on Vulnerabilities and User Permissions  
-[binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng): Binary Analysis Next Generation (BANG)
+[binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng): Binary Analysis Next Generation (BANG)  
+[KHeaps](https://github.com/sefcom/KHeaps): Playing for {K (H) eaps}: Understanding and Improving Linux Kernel Exploit Reliability
