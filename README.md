@@ -5859,4 +5859,5 @@
 [sanic-webhook](https://github.com/harshanarayana/sanic-webhook): Kubernetes Mutating and Validating Webhooks written in Sanic  
 [WordLists](https://github.com/mishrasunny174/WordLists): Collection of various wordlists  
 [w3bscrap3r](https://github.com/Ramalingasamy012/w3bscrap3r): This tool is used to extract the directories hiding in the website and also used to find all the links found in the webpage.  
-[terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline): Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
+[terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline): Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.  
+[nuts7.github.io](https://github.com/nuts7/nuts7.github.io): Blog about computer security, ctf’s walkthroughs and more
