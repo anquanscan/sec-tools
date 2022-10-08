@@ -5864,4 +5864,5 @@
 [domain-access-control](https://github.com/cybnity/domain-access-control): All the features and services realized by the Access Control bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [gke-security-scenarios-demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo): This project demonstrates a series of best practices for improving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies.    
 [saasform](https://github.com/saasform/saasform): Add signup & payments to your SaaS in minutes.  
-[fuzzing-numpy](https://github.com/jaybosamiya/fuzzing-numpy): :snake: Experiments in trying to find 0-days in numpy
+[fuzzing-numpy](https://github.com/jaybosamiya/fuzzing-numpy): :snake: Experiments in trying to find 0-days in numpy  
+[mole](https://github.com/ztgrace/mole): Mole is a framework for identifying and exploiting out-of-band application vulnerabilities.
