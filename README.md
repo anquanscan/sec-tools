@@ -5857,4 +5857,5 @@
 [AspNetCoreCertificateAuth](https://github.com/damienbod/AspNetCoreCertificateAuth): ASP.NET Core 3.1 Certificate Authentication Self Signed and Chained  
 [picoCTF2019_writeup](https://github.com/s4lm0n-m4k1/picoCTF2019_writeup): Solutions and writeups on how I approach and solved the problems for the picoCTF Cybersecurity Competition.  
 [sanic-webhook](https://github.com/harshanarayana/sanic-webhook): Kubernetes Mutating and Validating Webhooks written in Sanic  
-[WordLists](https://github.com/mishrasunny174/WordLists): Collection of various wordlists
+[WordLists](https://github.com/mishrasunny174/WordLists): Collection of various wordlists  
+[w3bscrap3r](https://github.com/Ramalingasamy012/w3bscrap3r): This tool is used to extract the directories hiding in the website and also used to find all the links found in the webpage.
