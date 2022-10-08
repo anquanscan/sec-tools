@@ -5858,4 +5858,5 @@
 [picoCTF2019_writeup](https://github.com/s4lm0n-m4k1/picoCTF2019_writeup): Solutions and writeups on how I approach and solved the problems for the picoCTF Cybersecurity Competition.  
 [sanic-webhook](https://github.com/harshanarayana/sanic-webhook): Kubernetes Mutating and Validating Webhooks written in Sanic  
 [WordLists](https://github.com/mishrasunny174/WordLists): Collection of various wordlists  
-[w3bscrap3r](https://github.com/Ramalingasamy012/w3bscrap3r): This tool is used to extract the directories hiding in the website and also used to find all the links found in the webpage.
+[w3bscrap3r](https://github.com/Ramalingasamy012/w3bscrap3r): This tool is used to extract the directories hiding in the website and also used to find all the links found in the webpage.  
+[terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline): Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
