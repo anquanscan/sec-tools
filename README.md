@@ -5853,4 +5853,5 @@
 [gort](https://github.com/ElCap1tan/gort): ⚡ Fast and concurrent Go based port scanner cli / lib with port service, MAC address and vendor lookup support  
 [osed-binary-analysis-scripts](https://github.com/tin-z/osed-binary-analysis-scripts): Scripts for binary analysis purpose using PyKD and IDA's IDC language  
 [ScriptsONLY](https://github.com/manisha069/ScriptsONLY)  
-[enclaive-docker-cs-sgx](https://github.com/enclaive/enclaive-docker-cs-sgx): SGX-ready Enclaive Docker Image for C#
+[enclaive-docker-cs-sgx](https://github.com/enclaive/enclaive-docker-cs-sgx): SGX-ready Enclaive Docker Image for C#  
+[AspNetCoreCertificateAuth](https://github.com/damienbod/AspNetCoreCertificateAuth): ASP.NET Core 3.1 Certificate Authentication Self Signed and Chained
