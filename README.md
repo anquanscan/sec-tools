@@ -5850,4 +5850,5 @@
 [EV1L-J3ST3R](https://github.com/gsmith257-cyber/EV1L-J3ST3R): An automated scanning, enumeration, and note taking tool for pentesters  
 [top25-parameter](https://github.com/lutfumertceylan/top25-parameter): For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙  
 [discover-subdomain](https://github.com/mustafadalga/discover-subdomain): Hedef domain adresinin subdomainlerini keşfeden  python scripti | The python script that explores subdomains of the target domain  
-[gort](https://github.com/ElCap1tan/gort): ⚡ Fast and concurrent Go based port scanner cli / lib with port service, MAC address and vendor lookup support
+[gort](https://github.com/ElCap1tan/gort): ⚡ Fast and concurrent Go based port scanner cli / lib with port service, MAC address and vendor lookup support  
+[osed-binary-analysis-scripts](https://github.com/tin-z/osed-binary-analysis-scripts): Scripts for binary analysis purpose using PyKD and IDA's IDC language
