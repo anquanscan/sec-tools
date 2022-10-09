@@ -5886,4 +5886,5 @@
 [rmiscout](https://github.com/BishopFox/rmiscout): RMIScout uses wordlist and bruteforce strategies to enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities  
 [lim-cli](https://github.com/davedittrich/lim-cli): LiminalInfo utility CLI  
 [onlinesim](https://github.com/isqad/onlinesim): Go client for onlinesim.ru  
-[SharePoint-Security](https://github.com/codingo/SharePoint-Security): A Github Repository Created to compliment a BSides Canberra 2018 talk on SharePoint Security.
+[SharePoint-Security](https://github.com/codingo/SharePoint-Security): A Github Repository Created to compliment a BSides Canberra 2018 talk on SharePoint Security.  
+[deception-as-detection](https://github.com/0x4D31/deception-as-detection): Deception based detection techniques mapped to the MITRE’s ATT&CK framework
