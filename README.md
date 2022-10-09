@@ -5870,4 +5870,5 @@
 [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.  
 [shellback](https://github.com/chrispetrou/shellback): Reverse shell generator  
 [Simplified-Advanced-Encryption-Standard](https://github.com/0xRUDRA/Simplified-Advanced-Encryption-Standard): Implementation of S-AES through client-server communication.  
-[octopus](https://github.com/FuzzingLabs/octopus): Security Analysis tool for WebAssembly module (wasm) and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
+[octopus](https://github.com/FuzzingLabs/octopus): Security Analysis tool for WebAssembly module (wasm) and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)  
+[co_sim_platform](https://github.com/sustainable-computing/co_sim_platform): Maestro is a smart grid co-simulation platform built on top of Mosaik
