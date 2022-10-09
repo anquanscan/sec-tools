@@ -5880,4 +5880,5 @@
 [Cysec-Hacktoberfest](https://github.com/dsc-iem/Cysec-Hacktoberfest): Welcome to the cybersecurity repository for the hacktoberfest.  
 [vishwaCTF21-Writeups](https://github.com/CybercellVIIT/vishwaCTF21-Writeups): Github Repository for Writeups of vishwaCTF'21 Challenges  
 [privybb](https://github.com/privy-cafe/privybb): x86 Assembly forum board used for PrivyERA Join our irc @ i.privy.cafe/6697   
-[AbuseIP-db-scanner](https://github.com/louigigr/AbuseIP-db-scanner): Parses the IP addresses contained in a file and returns a threat report using the AbuseIPdb.com API
+[AbuseIP-db-scanner](https://github.com/louigigr/AbuseIP-db-scanner): Parses the IP addresses contained in a file and returns a threat report using the AbuseIPdb.com API  
+[antimalwareapp](https://github.com/projectmatris/antimalwareapp): Anti-malware for Android using machine learning
