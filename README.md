@@ -5868,4 +5868,5 @@
 [mole](https://github.com/ztgrace/mole): Mole is a framework for identifying and exploiting out-of-band application vulnerabilities.  
 [Google-IT-Support-Portfolio](https://github.com/ChukwuemekaAham/Google-IT-Support-Portfolio): This is a professional training designed by Google with 5 courses. This program also prepares one for the CompTIA A+ exams, the industry standard certification for IT—A dual credential will be earned when both are completed.  This program is ACE® approved—up to 12 college credits; the equivalent of 4 associate degree-level courses, can be earned after completing the entire program.  
 [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.  
-[shellback](https://github.com/chrispetrou/shellback): Reverse shell generator
+[shellback](https://github.com/chrispetrou/shellback): Reverse shell generator  
+[Simplified-Advanced-Encryption-Standard](https://github.com/0xRUDRA/Simplified-Advanced-Encryption-Standard): Implementation of S-AES through client-server communication.
