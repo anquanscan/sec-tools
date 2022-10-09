@@ -5887,4 +5887,5 @@
 [lim-cli](https://github.com/davedittrich/lim-cli): LiminalInfo utility CLI  
 [onlinesim](https://github.com/isqad/onlinesim): Go client for onlinesim.ru  
 [SharePoint-Security](https://github.com/codingo/SharePoint-Security): A Github Repository Created to compliment a BSides Canberra 2018 talk on SharePoint Security.  
-[deception-as-detection](https://github.com/0x4D31/deception-as-detection): Deception based detection techniques mapped to the MITRE’s ATT&CK framework
+[deception-as-detection](https://github.com/0x4D31/deception-as-detection): Deception based detection techniques mapped to the MITRE’s ATT&CK framework  
+[CSCI-404-Human-Engineering](https://github.com/RileyAbr/CSCI-404-Human-Engineering): University research study into user behaviors for common social engineering tactics. This project consisted of both a contemporary data collection survey as well as gameified simulation of common workplace dangers. Within the browser-based game, users play through an entire 8-hour work day in 3 minutes, dodging phishing and hacking attempts the entire time.
