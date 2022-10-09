@@ -5877,4 +5877,5 @@
 [PyPIN](https://github.com/minsectek/PyPIN): A simple Python module for generating PINs  
 [mfpAdapterTester](https://github.com/IbrahimMSabek/mfpAdapterTester): This will be a web app that will act like Postman which aim to test secured IBM Mobilefirst 8 adapters with custom authentication specially that save and use data within active session as Postman basic authentication debugging detailed in MFP docs won't fit  
 [ostorlab](https://github.com/Ostorlab/ostorlab): Ostorlab is a security scanning orchestrator for the modern age.  
-[Cysec-Hacktoberfest](https://github.com/dsc-iem/Cysec-Hacktoberfest): Welcome to the cybersecurity repository for the hacktoberfest.
+[Cysec-Hacktoberfest](https://github.com/dsc-iem/Cysec-Hacktoberfest): Welcome to the cybersecurity repository for the hacktoberfest.  
+[vishwaCTF21-Writeups](https://github.com/CybercellVIIT/vishwaCTF21-Writeups): Github Repository for Writeups of vishwaCTF'21 Challenges
