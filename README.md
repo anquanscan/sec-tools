@@ -5882,4 +5882,5 @@
 [privybb](https://github.com/privy-cafe/privybb): x86 Assembly forum board used for PrivyERA Join our irc @ i.privy.cafe/6697   
 [AbuseIP-db-scanner](https://github.com/louigigr/AbuseIP-db-scanner): Parses the IP addresses contained in a file and returns a threat report using the AbuseIPdb.com API  
 [antimalwareapp](https://github.com/projectmatris/antimalwareapp): Anti-malware for Android using machine learning  
-[The-DPDK-Examples](https://github.com/gamemann/The-DPDK-Examples): Program examples utilizing the DPDK. The DPDK is a kernel-bypass network library that allows for very fast network packet processing. This is great for (D)DoS mitigation and low-latency packet inspection, manipulation, and forwarding.
+[The-DPDK-Examples](https://github.com/gamemann/The-DPDK-Examples): Program examples utilizing the DPDK. The DPDK is a kernel-bypass network library that allows for very fast network packet processing. This is great for (D)DoS mitigation and low-latency packet inspection, manipulation, and forwarding.  
+[rmiscout](https://github.com/BishopFox/rmiscout): RMIScout uses wordlist and bruteforce strategies to enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities
