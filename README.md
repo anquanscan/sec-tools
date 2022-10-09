@@ -5885,4 +5885,5 @@
 [The-DPDK-Examples](https://github.com/gamemann/The-DPDK-Examples): Program examples utilizing the DPDK. The DPDK is a kernel-bypass network library that allows for very fast network packet processing. This is great for (D)DoS mitigation and low-latency packet inspection, manipulation, and forwarding.  
 [rmiscout](https://github.com/BishopFox/rmiscout): RMIScout uses wordlist and bruteforce strategies to enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities  
 [lim-cli](https://github.com/davedittrich/lim-cli): LiminalInfo utility CLI  
-[onlinesim](https://github.com/isqad/onlinesim): Go client for onlinesim.ru
+[onlinesim](https://github.com/isqad/onlinesim): Go client for onlinesim.ru  
+[SharePoint-Security](https://github.com/codingo/SharePoint-Security): A Github Repository Created to compliment a BSides Canberra 2018 talk on SharePoint Security.
