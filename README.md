@@ -5873,4 +5873,5 @@
 [octopus](https://github.com/FuzzingLabs/octopus): Security Analysis tool for WebAssembly module (wasm) and Blockchain Smart Contracts (BTC/ETH/NEO/EOS)  
 [co_sim_platform](https://github.com/sustainable-computing/co_sim_platform): Maestro is a smart grid co-simulation platform built on top of Mosaik  
 [the-box](https://github.com/cycurity/the-box): A tool box with 174 useful and common Linux tools for penetration testing and security audits.  
-[Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor): A tool to check packets for secrets
+[Secrets-Extractor](https://github.com/Xenios91/Secrets-Extractor): A tool to check packets for secrets  
+[PyPIN](https://github.com/minsectek/PyPIN): A simple Python module for generating PINs
