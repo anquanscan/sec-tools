@@ -5899,4 +5899,5 @@
 [grails4-spring-security-login-example](https://github.com/didinj/grails4-spring-security-login-example): Grails 4 Tutorial: Spring Security Core Login Example  
 [darkai](https://github.com/anovni/darkai): +300 TOOLS in 1! IN ITALIANO  
 [AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges): Advanced buffer overflow and memory corruption security challenges  
-[ansible-role-security](https://github.com/geerlingguy/ansible-role-security): Ansible Role - Security
+[ansible-role-security](https://github.com/geerlingguy/ansible-role-security): Ansible Role - Security  
+[sandworm-jest](https://github.com/sandworm-hq/sandworm-jest): Security Snapshot Testing Inside Your Jest Test Suite 🪱
