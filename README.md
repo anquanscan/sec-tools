@@ -5891,4 +5891,5 @@
 [CSCI-404-Human-Engineering](https://github.com/RileyAbr/CSCI-404-Human-Engineering): University research study into user behaviors for common social engineering tactics. This project consisted of both a contemporary data collection survey as well as gameified simulation of common workplace dangers. Within the browser-based game, users play through an entire 8-hour work day in 3 minutes, dodging phishing and hacking attempts the entire time.  
 [admin-panal-finder](https://github.com/Ashish882/admin-panal-finder): Find a admin panel of any website  
 [olger](https://github.com/pedroelbanquero/olger): Olger, authomated cybersecurity analyst , check infrastructures and deploy solutions  
-[project-x](https://github.com/cooljar10/project-x): Ubunto Hacking installing
+[project-x](https://github.com/cooljar10/project-x): Ubunto Hacking installing  
+[JNIC_2022](https://github.com/isaaclo97/JNIC_2022): Writeup VII Jornadas Nacionales de Investigación (JNIC 2022). Equipo: Sergio Pérez Peló, Raúl Martín Santamaría e Isaac Lozano Osorio.
