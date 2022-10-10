@@ -5898,4 +5898,5 @@
 [dll_hook-rs](https://github.com/GrahamBest/dll_hook-rs): Rust code to show how hooking in rust with a dll works.  
 [grails4-spring-security-login-example](https://github.com/didinj/grails4-spring-security-login-example): Grails 4 Tutorial: Spring Security Core Login Example  
 [darkai](https://github.com/anovni/darkai): +300 TOOLS in 1! IN ITALIANO  
-[AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges): Advanced buffer overflow and memory corruption security challenges
+[AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges): Advanced buffer overflow and memory corruption security challenges  
+[ansible-role-security](https://github.com/geerlingguy/ansible-role-security): Ansible Role - Security
