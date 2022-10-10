@@ -5901,4 +5901,5 @@
 [AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges): Advanced buffer overflow and memory corruption security challenges  
 [ansible-role-security](https://github.com/geerlingguy/ansible-role-security): Ansible Role - Security  
 [sandworm-jest](https://github.com/sandworm-hq/sandworm-jest): Security Snapshot Testing Inside Your Jest Test Suite 🪱  
-[ultimate_bughunter_tools](https://github.com/dreamer1eh/ultimate_bughunter_tools): Ultimate Package Of 50 Bug Bounty Hunting Tools
+[ultimate_bughunter_tools](https://github.com/dreamer1eh/ultimate_bughunter_tools): Ultimate Package Of 50 Bug Bounty Hunting Tools  
+[TSHA](https://github.com/Hritish42/TSHA): I've Proposed a method to verify fake documents using cryptography techniques, designed and modified original SHA-1 algorithm to make it collision free and harder to Brute Force.🐍
