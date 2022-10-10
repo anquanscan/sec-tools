@@ -5896,4 +5896,5 @@
 [gsprayer](https://github.com/yok4i/gsprayer): A DOM-based G-Suite Password Sprayer  
 [6g_security](https://github.com/ocatak/6g_security): 6G and Security repository for telecommunications and AI research. We will share our implementations and publications in 5G and beyond technology, 6G, Security, Machine learning on 6G, Massive MIMO, THz communication and communication networks.  
 [dll_hook-rs](https://github.com/GrahamBest/dll_hook-rs): Rust code to show how hooking in rust with a dll works.  
-[grails4-spring-security-login-example](https://github.com/didinj/grails4-spring-security-login-example): Grails 4 Tutorial: Spring Security Core Login Example
+[grails4-spring-security-login-example](https://github.com/didinj/grails4-spring-security-login-example): Grails 4 Tutorial: Spring Security Core Login Example  
+[darkai](https://github.com/anovni/darkai): +300 TOOLS in 1! IN ITALIANO
