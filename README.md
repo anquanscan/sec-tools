@@ -5893,4 +5893,5 @@
 [olger](https://github.com/pedroelbanquero/olger): Olger, authomated cybersecurity analyst , check infrastructures and deploy solutions  
 [project-x](https://github.com/cooljar10/project-x): Ubunto Hacking installing  
 [JNIC_2022](https://github.com/isaaclo97/JNIC_2022): Writeup VII Jornadas Nacionales de Investigación (JNIC 2022). Equipo: Sergio Pérez Peló, Raúl Martín Santamaría e Isaac Lozano Osorio.  
-[gsprayer](https://github.com/yok4i/gsprayer): A DOM-based G-Suite Password Sprayer
+[gsprayer](https://github.com/yok4i/gsprayer): A DOM-based G-Suite Password Sprayer  
+[6g_security](https://github.com/ocatak/6g_security): 6G and Security repository for telecommunications and AI research. We will share our implementations and publications in 5G and beyond technology, 6G, Security, Machine learning on 6G, Massive MIMO, THz communication and communication networks.
