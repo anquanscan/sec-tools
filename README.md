@@ -5900,4 +5900,5 @@
 [darkai](https://github.com/anovni/darkai): +300 TOOLS in 1! IN ITALIANO  
 [AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges): Advanced buffer overflow and memory corruption security challenges  
 [ansible-role-security](https://github.com/geerlingguy/ansible-role-security): Ansible Role - Security  
-[sandworm-jest](https://github.com/sandworm-hq/sandworm-jest): Security Snapshot Testing Inside Your Jest Test Suite 🪱
+[sandworm-jest](https://github.com/sandworm-hq/sandworm-jest): Security Snapshot Testing Inside Your Jest Test Suite 🪱  
+[ultimate_bughunter_tools](https://github.com/dreamer1eh/ultimate_bughunter_tools): Ultimate Package Of 50 Bug Bounty Hunting Tools
