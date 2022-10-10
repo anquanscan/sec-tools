@@ -5892,4 +5892,5 @@
 [admin-panal-finder](https://github.com/Ashish882/admin-panal-finder): Find a admin panel of any website  
 [olger](https://github.com/pedroelbanquero/olger): Olger, authomated cybersecurity analyst , check infrastructures and deploy solutions  
 [project-x](https://github.com/cooljar10/project-x): Ubunto Hacking installing  
-[JNIC_2022](https://github.com/isaaclo97/JNIC_2022): Writeup VII Jornadas Nacionales de Investigación (JNIC 2022). Equipo: Sergio Pérez Peló, Raúl Martín Santamaría e Isaac Lozano Osorio.
+[JNIC_2022](https://github.com/isaaclo97/JNIC_2022): Writeup VII Jornadas Nacionales de Investigación (JNIC 2022). Equipo: Sergio Pérez Peló, Raúl Martín Santamaría e Isaac Lozano Osorio.  
+[gsprayer](https://github.com/yok4i/gsprayer): A DOM-based G-Suite Password Sprayer
