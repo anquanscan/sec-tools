@@ -5917,4 +5917,5 @@
 [zxyr](https://github.com/praecantat0r/zxyr): A remote access trojan made mainly in C++  
 [whispers](https://github.com/adeptex/whispers): Identify hardcoded secrets in static structured text (version 2)  
 [keysoft](https://github.com/jaayperez/keysoft): Crypto Js secure, dynamic password creator application that uses cryptographic algorithms with Node.js, Express 4, and Heroku cloud deployment.  
-[mooltipass](https://github.com/limpkin/mooltipass): Github repository dedicated to the mooltipass project
+[mooltipass](https://github.com/limpkin/mooltipass): Github repository dedicated to the mooltipass project  
+[Fake-virus-Prank](https://github.com/hemanth-07-11/Fake-virus-Prank): This is a Fake Virus Pranker, developed by HEMANTH N. Bluescreen.dat simulates the bluescreen of death in a system. EA cricket Installer.vbs simulates hacking a computer and endless EA cricket Installer keeps on looping while simulating the hacking process. CAUTION : Do not run the application without sound knowledge of how to close the application without harming the files in computer.
