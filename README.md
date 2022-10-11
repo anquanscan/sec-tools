@@ -5907,4 +5907,5 @@
 [CVE-2022-24342](https://github.com/yuriisanin/CVE-2022-24342): PoC for CVE-2022-24342: account takeover via CSRF in GitHub authentication  
 [fsecurekey2pass](https://github.com/magandrez/fsecurekey2pass): F-Secure KEY to pass importer  
 [EFIgy-GUI](https://github.com/duo-labs/EFIgy-GUI): A Mac app that uses the Duo Labs EFIgy API to inform you about the state of your EFI firmware.  
-[delta_reporting](https://github.com/neilhwatson/delta_reporting): Promise reporting portal using CFEngine Community
+[delta_reporting](https://github.com/neilhwatson/delta_reporting): Promise reporting portal using CFEngine Community  
+[xfinity-keyspace](https://github.com/axrey/xfinity-keyspace): xfinity/comcast wifi keyspace
