@@ -5916,4 +5916,5 @@
 [Simple-Password-Generator](https://github.com/ParmoDev/Simple-Password-Generator): A simple password generator I made!  
 [zxyr](https://github.com/praecantat0r/zxyr): A remote access trojan made mainly in C++  
 [whispers](https://github.com/adeptex/whispers): Identify hardcoded secrets in static structured text (version 2)  
-[keysoft](https://github.com/jaayperez/keysoft): Crypto Js secure, dynamic password creator application that uses cryptographic algorithms with Node.js, Express 4, and Heroku cloud deployment.
+[keysoft](https://github.com/jaayperez/keysoft): Crypto Js secure, dynamic password creator application that uses cryptographic algorithms with Node.js, Express 4, and Heroku cloud deployment.  
+[mooltipass](https://github.com/limpkin/mooltipass): Github repository dedicated to the mooltipass project
