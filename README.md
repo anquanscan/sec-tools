@@ -5910,4 +5910,5 @@
 [delta_reporting](https://github.com/neilhwatson/delta_reporting): Promise reporting portal using CFEngine Community  
 [xfinity-keyspace](https://github.com/axrey/xfinity-keyspace): xfinity/comcast wifi keyspace  
 [Drakaina-Botnet](https://github.com/h0lyl337/Drakaina-Botnet): an AIO Botnet / watchdog / c&c / server  
-[ctSESAM-server-go](https://github.com/raetselonkel/ctSESAM-server-go): c't SESAM storage server (written in Go)
+[ctSESAM-server-go](https://github.com/raetselonkel/ctSESAM-server-go): c't SESAM storage server (written in Go)  
+[HAVK](https://github.com/RavSS/HAVK): An attempt at a minimalistic and secure operating system.
