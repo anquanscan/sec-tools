@@ -5911,4 +5911,5 @@
 [xfinity-keyspace](https://github.com/axrey/xfinity-keyspace): xfinity/comcast wifi keyspace  
 [Drakaina-Botnet](https://github.com/h0lyl337/Drakaina-Botnet): an AIO Botnet / watchdog / c&c / server  
 [ctSESAM-server-go](https://github.com/raetselonkel/ctSESAM-server-go): c't SESAM storage server (written in Go)  
-[HAVK](https://github.com/RavSS/HAVK): An attempt at a minimalistic and secure operating system.
+[HAVK](https://github.com/RavSS/HAVK): An attempt at a minimalistic and secure operating system.  
+[PS-Get-PassPhrase](https://github.com/dotBATmanNO/PS-Get-PassPhrase): PowerShell module to build a passphrase by rolling 5 dice against a wordlist - e.g. the one you can find at https://www.eff.org/dice.
