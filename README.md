@@ -5915,4 +5915,5 @@
 [PS-Get-PassPhrase](https://github.com/dotBATmanNO/PS-Get-PassPhrase): PowerShell module to build a passphrase by rolling 5 dice against a wordlist - e.g. the one you can find at https://www.eff.org/dice.  
 [Simple-Password-Generator](https://github.com/ParmoDev/Simple-Password-Generator): A simple password generator I made!  
 [zxyr](https://github.com/praecantat0r/zxyr): A remote access trojan made mainly in C++  
-[whispers](https://github.com/adeptex/whispers): Identify hardcoded secrets in static structured text (version 2)
+[whispers](https://github.com/adeptex/whispers): Identify hardcoded secrets in static structured text (version 2)  
+[keysoft](https://github.com/jaayperez/keysoft): Crypto Js secure, dynamic password creator application that uses cryptographic algorithms with Node.js, Express 4, and Heroku cloud deployment.
