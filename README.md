@@ -5937,4 +5937,5 @@
 [evtx2json](https://github.com/vavarachen/evtx2json): A tool to convert Windows evtx files (Windows Event Log Files) into JSON format and log to Splunk (optional) using HTTP Event Collector.  
 [graphql-armor](https://github.com/Escape-Technologies/graphql-armor): 🛡️ The missing GraphQL security security layer for Apollo GraphQL and Yoga / Envelop servers 🛡️  
 [rating_v1](https://github.com/rating-eu/rating_v1): RATING - Risk Assessment Tool for Integrated Governance.  
-[Captcha-Bypassing](https://github.com/D3Ext/Captcha-Bypassing): A captcha bypassing lab in PHP
+[Captcha-Bypassing](https://github.com/D3Ext/Captcha-Bypassing): A captcha bypassing lab in PHP  
+[Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box): Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1
