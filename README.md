@@ -5926,4 +5926,5 @@
 [bugbountyguide](https://github.com/EdOverflow/bugbountyguide): Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.  
 [sandworm-js](https://github.com/sandworm-hq/sandworm-js): Easy auditing & sandboxing for your JavaScript dependencies 🪱  
 [image-layer-provenance](https://github.com/deislabs/image-layer-provenance): Container image provenance spec that allows tracing CVEs detected in registry images back to a CVE's source of origin.  
-[ejpt-cheat-sheet](https://github.com/z9fr/ejpt-cheat-sheet): Here's the cheat sheet I created for the EJPT exam. 
+[ejpt-cheat-sheet](https://github.com/z9fr/ejpt-cheat-sheet): Here's the cheat sheet I created for the EJPT exam.   
+[OWASP-s-AppSec-Israel-2018](https://github.com/nomadicmehul/OWASP-s-AppSec-Israel-2018): AppSec Israel 2018 will take place on 5-6 September, 2018 at Tel Aviv University, in central Tel Aviv.
