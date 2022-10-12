@@ -5942,4 +5942,5 @@
 [sf-rsync-manager](https://github.com/serverfarmer/sf-rsync-manager): sf-rsync-manager extension provides scripts for office backup servers management, combined with sf-rsync-server extension.  
 [cloud_node](https://github.com/blockadeio/cloud_node): Python-based cloud node for local use  
 [ci-integrations](https://github.com/tinfoil/ci-integrations): Example scripts to run Tinfoil Security via your CI  
-[domain-compliance-mgt](https://github.com/cybnity/domain-compliance-mgt): All the features and services realized by the Compliance and Certification bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
+[domain-compliance-mgt](https://github.com/cybnity/domain-compliance-mgt): All the features and services realized by the Compliance and Certification bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
+[isthislegit](https://github.com/duo-labs/isthislegit): Dashboard to collect, analyze, and respond to reported phishing emails.
