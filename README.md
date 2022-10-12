@@ -5934,4 +5934,5 @@
 [JavaThings](https://github.com/phith0n/JavaThings): Share Things Related to Java - Java安全漫谈笔记相关内容  
 [CaeserCipher](https://github.com/AlyMBarakat/CaeserCipher)  
 [josexv1.github.io](https://github.com/Josexv1/josexv1.github.io): Home sweet home, for whatever I want to post.  
-[evtx2json](https://github.com/vavarachen/evtx2json): A tool to convert Windows evtx files (Windows Event Log Files) into JSON format and log to Splunk (optional) using HTTP Event Collector.
+[evtx2json](https://github.com/vavarachen/evtx2json): A tool to convert Windows evtx files (Windows Event Log Files) into JSON format and log to Splunk (optional) using HTTP Event Collector.  
+[graphql-armor](https://github.com/Escape-Technologies/graphql-armor): 🛡️ The missing GraphQL security security layer for Apollo GraphQL and Yoga / Envelop servers 🛡️
