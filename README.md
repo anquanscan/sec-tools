@@ -5923,4 +5923,5 @@
 [hackarsenaltoolkit](https://github.com/xtormin/hackarsenaltoolkit): Hacking arsenal. This script download the latest tools, wordlists, releases and install common hacking tools  
 [module-scanner](https://github.com/cetcs92/module-scanner)  
 [Duolingo-Hacks](https://github.com/rxzyx/Duolingo-Hacks): The best Duolingo hack ever.  
-[bugbountyguide](https://github.com/EdOverflow/bugbountyguide): Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.
+[bugbountyguide](https://github.com/EdOverflow/bugbountyguide): Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.  
+[sandworm-js](https://github.com/sandworm-hq/sandworm-js): Easy auditing & sandboxing for your JavaScript dependencies 🪱
