@@ -5921,4 +5921,5 @@
 [Fake-virus-Prank](https://github.com/hemanth-07-11/Fake-virus-Prank): This is a Fake Virus Pranker, developed by HEMANTH N. Bluescreen.dat simulates the bluescreen of death in a system. EA cricket Installer.vbs simulates hacking a computer and endless EA cricket Installer keeps on looping while simulating the hacking process. CAUTION : Do not run the application without sound knowledge of how to close the application without harming the files in computer.  
 [SecurityExplained](https://github.com/harsh-bothra/SecurityExplained): SecurityExplained is a new series after the previous learning challenge series #Learn365. The aim of #SecurityExplained series is to create informational content in multiple formats and share with the community to enable knowledge creation and learning.  
 [hackarsenaltoolkit](https://github.com/xtormin/hackarsenaltoolkit): Hacking arsenal. This script download the latest tools, wordlists, releases and install common hacking tools  
-[module-scanner](https://github.com/cetcs92/module-scanner)
+[module-scanner](https://github.com/cetcs92/module-scanner)  
+[Duolingo-Hacks](https://github.com/rxzyx/Duolingo-Hacks): The best Duolingo hack ever.
