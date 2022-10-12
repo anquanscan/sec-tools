@@ -5940,4 +5940,5 @@
 [Captcha-Bypassing](https://github.com/D3Ext/Captcha-Bypassing): A captcha bypassing lab in PHP  
 [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box): Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1  
 [sf-rsync-manager](https://github.com/serverfarmer/sf-rsync-manager): sf-rsync-manager extension provides scripts for office backup servers management, combined with sf-rsync-server extension.  
-[cloud_node](https://github.com/blockadeio/cloud_node): Python-based cloud node for local use
+[cloud_node](https://github.com/blockadeio/cloud_node): Python-based cloud node for local use  
+[ci-integrations](https://github.com/tinfoil/ci-integrations): Example scripts to run Tinfoil Security via your CI
