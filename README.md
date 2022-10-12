@@ -5925,4 +5925,5 @@
 [Duolingo-Hacks](https://github.com/rxzyx/Duolingo-Hacks): The best Duolingo hack ever.  
 [bugbountyguide](https://github.com/EdOverflow/bugbountyguide): Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.  
 [sandworm-js](https://github.com/sandworm-hq/sandworm-js): Easy auditing & sandboxing for your JavaScript dependencies 🪱  
-[image-layer-provenance](https://github.com/deislabs/image-layer-provenance): Container image provenance spec that allows tracing CVEs detected in registry images back to a CVE's source of origin.
+[image-layer-provenance](https://github.com/deislabs/image-layer-provenance): Container image provenance spec that allows tracing CVEs detected in registry images back to a CVE's source of origin.  
+[ejpt-cheat-sheet](https://github.com/z9fr/ejpt-cheat-sheet): Here's the cheat sheet I created for the EJPT exam. 
