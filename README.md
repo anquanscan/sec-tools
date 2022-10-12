@@ -5941,4 +5941,5 @@
 [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box): Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1  
 [sf-rsync-manager](https://github.com/serverfarmer/sf-rsync-manager): sf-rsync-manager extension provides scripts for office backup servers management, combined with sf-rsync-server extension.  
 [cloud_node](https://github.com/blockadeio/cloud_node): Python-based cloud node for local use  
-[ci-integrations](https://github.com/tinfoil/ci-integrations): Example scripts to run Tinfoil Security via your CI
+[ci-integrations](https://github.com/tinfoil/ci-integrations): Example scripts to run Tinfoil Security via your CI  
+[domain-compliance-mgt](https://github.com/cybnity/domain-compliance-mgt): All the features and services realized by the Compliance and Certification bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
