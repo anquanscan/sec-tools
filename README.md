@@ -5943,4 +5943,5 @@
 [cloud_node](https://github.com/blockadeio/cloud_node): Python-based cloud node for local use  
 [ci-integrations](https://github.com/tinfoil/ci-integrations): Example scripts to run Tinfoil Security via your CI  
 [domain-compliance-mgt](https://github.com/cybnity/domain-compliance-mgt): All the features and services realized by the Compliance and Certification bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
-[isthislegit](https://github.com/duo-labs/isthislegit): Dashboard to collect, analyze, and respond to reported phishing emails.
+[isthislegit](https://github.com/duo-labs/isthislegit): Dashboard to collect, analyze, and respond to reported phishing emails.  
+[ms-cache-kafka-quickstart](https://github.com/arafkarsh/ms-cache-kafka-quickstart): Microservice Service Template With Redis Cache and Kafka Framework. Microservice Template gives you a SpringBoot App template with Open API 3 Ex, Actuator, Sleuth, Prometheus, and POM file with Fat and Thin jar file creation and Dockerfile for containerization.
