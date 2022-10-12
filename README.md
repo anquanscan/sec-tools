@@ -5930,4 +5930,5 @@
 [OWASP-s-AppSec-Israel-2018](https://github.com/nomadicmehul/OWASP-s-AppSec-Israel-2018): AppSec Israel 2018 will take place on 5-6 September, 2018 at Tel Aviv University, in central Tel Aviv.  
 [venpo](https://github.com/mfdeux/venpo): Extract Venmo transactions from a profile with one command  
 [leakyrepo](https://github.com/digininja/leakyrepo): A repo which contains lots of things which it shouldn't  
-[delosNmap](https://github.com/delosemre/delosNmap): delosNmap | Nmap Script
+[delosNmap](https://github.com/delosemre/delosNmap): delosNmap | Nmap Script  
+[JavaThings](https://github.com/phith0n/JavaThings): Share Things Related to Java - Java安全漫谈笔记相关内容
