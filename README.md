@@ -5922,4 +5922,5 @@
 [SecurityExplained](https://github.com/harsh-bothra/SecurityExplained): SecurityExplained is a new series after the previous learning challenge series #Learn365. The aim of #SecurityExplained series is to create informational content in multiple formats and share with the community to enable knowledge creation and learning.  
 [hackarsenaltoolkit](https://github.com/xtormin/hackarsenaltoolkit): Hacking arsenal. This script download the latest tools, wordlists, releases and install common hacking tools  
 [module-scanner](https://github.com/cetcs92/module-scanner)  
-[Duolingo-Hacks](https://github.com/rxzyx/Duolingo-Hacks): The best Duolingo hack ever.
+[Duolingo-Hacks](https://github.com/rxzyx/Duolingo-Hacks): The best Duolingo hack ever.  
+[bugbountyguide](https://github.com/EdOverflow/bugbountyguide): Bug Bounty Guide is a launchpad for bug bounty programs and bug bounty hunters.
