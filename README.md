@@ -5957,4 +5957,5 @@
 [Network-Intrusion-Detection-Using-Deep-Learning](https://github.com/Shaik-Sohail-72/Network-Intrusion-Detection-Using-Deep-Learning):  Cyber Security: Development of Network Intrusion Detection System (NIDS),   with Machine Learning and Deep Learning (RNN) models, MERN web I/O System.  
 [HTkit](https://github.com/Keyj33k/HTkit): Information Gathering Simplified.  
 [ChiLaXESP](https://github.com/ChiLaXCoding/ChiLaXESP): An open source ESP hacking suite for Counter-Strike: Global Offensive.  
-[Karlann](https://github.com/hkx3upper/Karlann): It's a kernel-based keylogger for Windows x86/x64.
+[Karlann](https://github.com/hkx3upper/Karlann): It's a kernel-based keylogger for Windows x86/x64.  
+[Cyber-Crimes-and-Its-Awareness-Hacktoberfest-2022](https://github.com/its-red-eagle/Cyber-Crimes-and-Its-Awareness-Hacktoberfest-2022): This repo contains all info related to cyber crimes and its awareness, please do your quality contribution...                    **only quality contribution accepted**
