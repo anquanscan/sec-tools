@@ -5969,4 +5969,5 @@
 [grepTheCurl](https://github.com/ja1sh/grepTheCurl): One liner regex match to search inside JS files, using curl and grep!  
 [sf-gpg](https://github.com/serverfarmer/sf-gpg): sf-gpg extension provides backup encryption ability for Server Farmer backup scripts.  
 [SimpleScan](https://github.com/Galaxy-cst/SimpleScan): Simple Python3-based web application vulnerability scanner  
-[PoT](https://github.com/omergunal/PoT): Phishing on Twitter
+[PoT](https://github.com/omergunal/PoT): Phishing on Twitter  
+[citrix-adc-azure-templates](https://github.com/citrix/citrix-adc-azure-templates): Templates and scripts for Citrix ADC (formerly NetScaler) Azure deployments
