@@ -5956,4 +5956,5 @@
 [cpp_win_keylogger](https://github.com/mushahidq/cpp_win_keylogger): A simple keylogger for windows created in C++  
 [Network-Intrusion-Detection-Using-Deep-Learning](https://github.com/Shaik-Sohail-72/Network-Intrusion-Detection-Using-Deep-Learning):  Cyber Security: Development of Network Intrusion Detection System (NIDS),   with Machine Learning and Deep Learning (RNN) models, MERN web I/O System.  
 [HTkit](https://github.com/Keyj33k/HTkit): Information Gathering Simplified.  
-[ChiLaXESP](https://github.com/ChiLaXCoding/ChiLaXESP): An open source ESP hacking suite for Counter-Strike: Global Offensive.
+[ChiLaXESP](https://github.com/ChiLaXCoding/ChiLaXESP): An open source ESP hacking suite for Counter-Strike: Global Offensive.  
+[Karlann](https://github.com/hkx3upper/Karlann): It's a kernel-based keylogger for Windows x86/x64.
