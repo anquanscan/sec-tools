@@ -5963,4 +5963,5 @@
 [openfga](https://github.com/openfga/openfga): A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar  
 [owasp-zap-jwt-addon](https://github.com/SasanLabs/owasp-zap-jwt-addon): OWASP ZAP addon for finding vulnerabilities in JWT Implementations  
 [BTLE](https://github.com/JiaoXianjun/BTLE): Bluetooth Low Energy (BLE) packet sniffer and transmitter for both standard and non standard (raw bit) based on Software Defined Radio (SDR).  
-[QuickSecurityCode](https://github.com/pcjbird/QuickSecurityCode): A security or sms verify code input control. 一个安全码/短信验证码输入控件，支持4位或6位数字的安全码/短信验证码。
+[QuickSecurityCode](https://github.com/pcjbird/QuickSecurityCode): A security or sms verify code input control. 一个安全码/短信验证码输入控件，支持4位或6位数字的安全码/短信验证码。  
+[sixarm_ruby_secure_random](https://github.com/SixArm/sixarm_ruby_secure_random): SixArm.com » Ruby » secure random number generator interface for Ruby 1.8.6 backported from 1.8.7
