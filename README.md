@@ -5954,4 +5954,5 @@
 [really-good-cybersec](https://github.com/j4k0m/really-good-cybersec): A really good cybersec reading materials.  
 [aws-security-box](https://github.com/lucas-apd/aws-security-box): Faça upload de arquivos para um bucket s3 da aws e compartilhe utilizando URL pre assinada com prazo para expirar.  
 [cpp_win_keylogger](https://github.com/mushahidq/cpp_win_keylogger): A simple keylogger for windows created in C++  
-[Network-Intrusion-Detection-Using-Deep-Learning](https://github.com/Shaik-Sohail-72/Network-Intrusion-Detection-Using-Deep-Learning):  Cyber Security: Development of Network Intrusion Detection System (NIDS),   with Machine Learning and Deep Learning (RNN) models, MERN web I/O System.
+[Network-Intrusion-Detection-Using-Deep-Learning](https://github.com/Shaik-Sohail-72/Network-Intrusion-Detection-Using-Deep-Learning):  Cyber Security: Development of Network Intrusion Detection System (NIDS),   with Machine Learning and Deep Learning (RNN) models, MERN web I/O System.  
+[HTkit](https://github.com/Keyj33k/HTkit): Information Gathering Simplified.
