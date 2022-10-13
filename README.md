@@ -5967,4 +5967,5 @@
 [sixarm_ruby_secure_random](https://github.com/SixArm/sixarm_ruby_secure_random): SixArm.com » Ruby » secure random number generator interface for Ruby 1.8.6 backported from 1.8.7  
 [Hacking-Hands-on](https://github.com/Youngermaster/Hacking-Hands-on): The idea of this repository is to store and document hacks that I made or I watched on internet and worked.  
 [grepTheCurl](https://github.com/ja1sh/grepTheCurl): One liner regex match to search inside JS files, using curl and grep!  
-[sf-gpg](https://github.com/serverfarmer/sf-gpg): sf-gpg extension provides backup encryption ability for Server Farmer backup scripts.
+[sf-gpg](https://github.com/serverfarmer/sf-gpg): sf-gpg extension provides backup encryption ability for Server Farmer backup scripts.  
+[SimpleScan](https://github.com/Galaxy-cst/SimpleScan): Simple Python3-based web application vulnerability scanner
