@@ -5971,4 +5971,5 @@
 [SimpleScan](https://github.com/Galaxy-cst/SimpleScan): Simple Python3-based web application vulnerability scanner  
 [PoT](https://github.com/omergunal/PoT): Phishing on Twitter  
 [citrix-adc-azure-templates](https://github.com/citrix/citrix-adc-azure-templates): Templates and scripts for Citrix ADC (formerly NetScaler) Azure deployments  
-[dnsflare](https://github.com/ropwareJB/dnsflare): A simple DNS service that relays queries to a webhook for notifications to assist detection of OOB or pseudo-blind vulnerabilities during penetration testing activities.
+[dnsflare](https://github.com/ropwareJB/dnsflare): A simple DNS service that relays queries to a webhook for notifications to assist detection of OOB or pseudo-blind vulnerabilities during penetration testing activities.  
+[macrandrd](https://github.com/gpicchiarelli/macrandrd): OpenBSD port for macrandr
