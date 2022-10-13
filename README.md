@@ -5962,4 +5962,5 @@
 [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike): cobaltstrike的相关资源汇总 / List of Awesome CobaltStrike Resources  
 [openfga](https://github.com/openfga/openfga): A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar  
 [owasp-zap-jwt-addon](https://github.com/SasanLabs/owasp-zap-jwt-addon): OWASP ZAP addon for finding vulnerabilities in JWT Implementations  
-[BTLE](https://github.com/JiaoXianjun/BTLE): Bluetooth Low Energy (BLE) packet sniffer and transmitter for both standard and non standard (raw bit) based on Software Defined Radio (SDR).
+[BTLE](https://github.com/JiaoXianjun/BTLE): Bluetooth Low Energy (BLE) packet sniffer and transmitter for both standard and non standard (raw bit) based on Software Defined Radio (SDR).  
+[QuickSecurityCode](https://github.com/pcjbird/QuickSecurityCode): A security or sms verify code input control. 一个安全码/短信验证码输入控件，支持4位或6位数字的安全码/短信验证码。
