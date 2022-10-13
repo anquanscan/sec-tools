@@ -5951,4 +5951,5 @@
 [mini-ctf-tool](https://github.com/jedevc/mini-ctf-tool): Quick and easy tool to manage the challenges for a CTF :monkey:  
 [shcheck](https://github.com/santoru/shcheck): A basic tool to check security headers of a website  
 [terraform-aws-ec2-instance](https://github.com/cloudposse/terraform-aws-ec2-instance): Terraform module for provisioning a general purpose EC2 host  
-[really-good-cybersec](https://github.com/j4k0m/really-good-cybersec): A really good cybersec reading materials.
+[really-good-cybersec](https://github.com/j4k0m/really-good-cybersec): A really good cybersec reading materials.  
+[aws-security-box](https://github.com/lucas-apd/aws-security-box): Faça upload de arquivos para um bucket s3 da aws e compartilhe utilizando URL pre assinada com prazo para expirar.
