@@ -5992,4 +5992,5 @@
 [metamaska](https://github.com/dogancanbakir/metamaska): μετάμάσκα - malevolent payload classifier  
 [DFShell](https://github.com/D3Ext/DFShell): The Best Forwarded Shell    
 [SecEng](https://github.com/jaketarnow/SecEng): Repo for Security class - Hacks and defenses against common threats and vulnerabilities   
-[allero](https://github.com/allero-io/allero): By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.
+[allero](https://github.com/allero-io/allero): By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.  
+[HWID-Spoofer](https://github.com/Fnoberz/HWID-Spoofer): 📁〢Change Hardware IDS , Smbios , S/N , Serial Number | Working for me.
