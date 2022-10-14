@@ -5988,4 +5988,5 @@
 [WordBlitz-bot](https://github.com/sssss465/WordBlitz-bot): a fun bot i made for wordblitz  
 [evil-mhyprot-cli](https://github.com/kkent030315/evil-mhyprot-cli): A PoC for Mhyprot2.sys vulnerable driver that allowing read/write memory in kernel/user via unprivileged user process.  
 [waybulk](https://github.com/sham00n/waybulk): Search a list of domains on the wayback machine  
-[magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-G2](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-G2): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION (G2) PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).
+[magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-G2](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-G2): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION (G2) PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).  
+[metamaska](https://github.com/dogancanbakir/metamaska): μετάμάσκα - malevolent payload classifier
