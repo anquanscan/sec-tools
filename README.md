@@ -5984,4 +5984,5 @@
 [data-plane-helm-chart](https://github.com/strmprivacy/data-plane-helm-chart): Care about your data leaving your VPC/environment in SaaS mode? With our self-hosted option you can run our privacy focused Data Plane in your own Kubernetes Cluster. Just (1) sign-up, (2) request a self-hosted installation, (3) use our values.yaml on your own k8s clusters and (4) run your (customer) data inside your own cloud like 🪄  
 [Form-fields-activator](https://github.com/jubil/Form-fields-activator): A google chrome extension to enable all disabled form fields (DOM modification)  
 [Malicious_URL_Analyzer](https://github.com/whitefight18/Malicious_URL_Analyzer): A tool that detects maliciousness of suspicious links, written in python with <3.  
-[action-pylint](https://github.com/konstruktoid/action-pylint): A GitHub action that checks Python code using black, safety and flake8.
+[action-pylint](https://github.com/konstruktoid/action-pylint): A GitHub action that checks Python code using black, safety and flake8.  
+[WordBlitz-bot](https://github.com/sssss465/WordBlitz-bot): a fun bot i made for wordblitz
