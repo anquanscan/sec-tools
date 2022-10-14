@@ -5994,4 +5994,5 @@
 [SecEng](https://github.com/jaketarnow/SecEng): Repo for Security class - Hacks and defenses against common threats and vulnerabilities   
 [allero](https://github.com/allero-io/allero): By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.  
 [HWID-Spoofer](https://github.com/Fnoberz/HWID-Spoofer): 📁〢Change Hardware IDS , Smbios , S/N , Serial Number | Working for me.  
-[sane-security.online](https://github.com/sanesecurityonline/sane-security.online)
+[sane-security.online](https://github.com/sanesecurityonline/sane-security.online)  
+[BruteSniffing_Fisher](https://github.com/programmingAthlete/BruteSniffing_Fisher): hacking tool
