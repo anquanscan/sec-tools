@@ -5980,4 +5980,5 @@
 [mamba_dlp](https://github.com/Ahmed-AG/mamba_dlp): mamba_dlp scans your cloud for sensitive data   
 [MEIC-SSI](https://github.com/paulinho-16/MEIC-SSI): Todo o conteúdo produzido para a unidade curricular SSI (Segurança em Sistemas Informáticos), para o curso em Engenharia Informática e Computação na FEUP  
 [Tsun](https://github.com/injectionmethod/Tsun): Web Crawler For Usernames, Idea Based Off Of Sherlock But Made In C#  
-[file_monitor](https://github.com/kushvaibhav/file_monitor)
+[file_monitor](https://github.com/kushvaibhav/file_monitor)  
+[data-plane-helm-chart](https://github.com/strmprivacy/data-plane-helm-chart): Care about your data leaving your VPC/environment in SaaS mode? With our self-hosted option you can run our privacy focused Data Plane in your own Kubernetes Cluster. Just (1) sign-up, (2) request a self-hosted installation, (3) use our values.yaml on your own k8s clusters and (4) run your (customer) data inside your own cloud like 🪄
