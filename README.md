@@ -5976,4 +5976,5 @@
 [dir_bruter.py](https://github.com/kushvaibhav/dir_bruter.py)  
 [yardstick](https://github.com/anchore/yardstick): Compare vulnerability scanners results (to make them better!)  
 [dirscanner](https://github.com/NeloF4/dirscanner): ZAC_DOR TOOLS DIR SCANNER  
-[Accessibility-Tools-utilmon-Defender](https://github.com/zelon88/Accessibility-Tools-utilmon-Defender): A Windows 7-10 startup script for detecting and preventing "Ease Of Access" attacks.
+[Accessibility-Tools-utilmon-Defender](https://github.com/zelon88/Accessibility-Tools-utilmon-Defender): A Windows 7-10 startup script for detecting and preventing "Ease Of Access" attacks.  
+[mamba_dlp](https://github.com/Ahmed-AG/mamba_dlp): mamba_dlp scans your cloud for sensitive data 
