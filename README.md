@@ -5985,4 +5985,5 @@
 [Form-fields-activator](https://github.com/jubil/Form-fields-activator): A google chrome extension to enable all disabled form fields (DOM modification)  
 [Malicious_URL_Analyzer](https://github.com/whitefight18/Malicious_URL_Analyzer): A tool that detects maliciousness of suspicious links, written in python with <3.  
 [action-pylint](https://github.com/konstruktoid/action-pylint): A GitHub action that checks Python code using black, safety and flake8.  
-[WordBlitz-bot](https://github.com/sssss465/WordBlitz-bot): a fun bot i made for wordblitz
+[WordBlitz-bot](https://github.com/sssss465/WordBlitz-bot): a fun bot i made for wordblitz  
+[evil-mhyprot-cli](https://github.com/kkent030315/evil-mhyprot-cli): A PoC for Mhyprot2.sys vulnerable driver that allowing read/write memory in kernel/user via unprivileged user process.
