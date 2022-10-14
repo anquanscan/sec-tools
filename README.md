@@ -5975,4 +5975,5 @@
 [macrandrd](https://github.com/gpicchiarelli/macrandrd): OpenBSD port for macrandr  
 [dir_bruter.py](https://github.com/kushvaibhav/dir_bruter.py)  
 [yardstick](https://github.com/anchore/yardstick): Compare vulnerability scanners results (to make them better!)  
-[dirscanner](https://github.com/NeloF4/dirscanner): ZAC_DOR TOOLS DIR SCANNER
+[dirscanner](https://github.com/NeloF4/dirscanner): ZAC_DOR TOOLS DIR SCANNER  
+[Accessibility-Tools-utilmon-Defender](https://github.com/zelon88/Accessibility-Tools-utilmon-Defender): A Windows 7-10 startup script for detecting and preventing "Ease Of Access" attacks.
