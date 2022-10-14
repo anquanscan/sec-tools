@@ -5991,4 +5991,5 @@
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-G2](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-G2): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION (G2) PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).  
 [metamaska](https://github.com/dogancanbakir/metamaska): μετάμάσκα - malevolent payload classifier  
 [DFShell](https://github.com/D3Ext/DFShell): The Best Forwarded Shell    
-[SecEng](https://github.com/jaketarnow/SecEng): Repo for Security class - Hacks and defenses against common threats and vulnerabilities 
+[SecEng](https://github.com/jaketarnow/SecEng): Repo for Security class - Hacks and defenses against common threats and vulnerabilities   
+[allero](https://github.com/allero-io/allero): By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.
