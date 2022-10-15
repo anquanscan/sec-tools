@@ -5997,4 +5997,5 @@
 [sane-security.online](https://github.com/sanesecurityonline/sane-security.online)  
 [BruteSniffing_Fisher](https://github.com/programmingAthlete/BruteSniffing_Fisher): hacking tool  
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--BRAIN-MAIN](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--BRAIN-MAIN): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing a BRAIN PROXIA (B) when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).  
-[oauth2-oidc-debugger](https://github.com/rcbj/oauth2-oidc-debugger): An OAuth2 and OpenID Connect Debugger
+[oauth2-oidc-debugger](https://github.com/rcbj/oauth2-oidc-debugger): An OAuth2 and OpenID Connect Debugger  
+[fileless-elf-exec](https://github.com/nnsee/fileless-elf-exec): Execute ELF files without dropping them on disk
