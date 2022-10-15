@@ -6004,4 +6004,5 @@
 [Defence-on-Cyber-Crimes](https://github.com/KrishnaRanjani/Defence-on-Cyber-Crimes): Defence on Cyber Crimes Against Women and Laws  
 [user-guide](https://github.com/scantist/user-guide): The Scantist SCA is source-code analysis tool for C/C++ that identifies vulnerabilities and compliance issues pertaining to the use of open-source components in your projects and applications.  
 [SNK-RAT](https://github.com/thepowerraj/SNK-RAT): fully advance and powerful android rat 2022  
-[Host_Discoverer](https://github.com/KOneThousand/Host_Discoverer): Simple C++ script that is able to found up hosts in local network. Very fast and accurate.
+[Host_Discoverer](https://github.com/KOneThousand/Host_Discoverer): Simple C++ script that is able to found up hosts in local network. Very fast and accurate.  
+[MSAuto](https://github.com/SSARCandy/MSAuto)
