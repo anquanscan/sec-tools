@@ -6001,4 +6001,5 @@
 [fileless-elf-exec](https://github.com/nnsee/fileless-elf-exec): Execute ELF files without dropping them on disk  
 [Expect-CT-Builder](https://github.com/pepeverde/Expect-CT-Builder): Expect-CT Certificate Transparency header for PHP  
 [Laravel_Exploit](https://github.com/404rgr/Laravel_Exploit): Laravel PHPUNIT Rce Auto Exploit & Retrieving information in .env (such as SMTP, AWS, TWILIO,  SSH, NEXMO, PERFECTMONEY, and other.)  
-[Defence-on-Cyber-Crimes](https://github.com/KrishnaRanjani/Defence-on-Cyber-Crimes): Defence on Cyber Crimes Against Women and Laws
+[Defence-on-Cyber-Crimes](https://github.com/KrishnaRanjani/Defence-on-Cyber-Crimes): Defence on Cyber Crimes Against Women and Laws  
+[user-guide](https://github.com/scantist/user-guide): The Scantist SCA is source-code analysis tool for C/C++ that identifies vulnerabilities and compliance issues pertaining to the use of open-source components in your projects and applications.
