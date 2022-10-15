@@ -6008,4 +6008,5 @@
 [MSAuto](https://github.com/SSARCandy/MSAuto)  
 [CVE-2022-41040-POC](https://github.com/kljunowsky/CVE-2022-41040-POC): CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server  
 [ASU-Cybersecurity-Bootcamp-Project-1](https://github.com/jsg425/ASU-Cybersecurity-Bootcamp-Project-1): First project of ASU Cybersecurity Bootcamp  
-[hacktoria-ctf-on-the-wire](https://github.com/miamya/hacktoria-ctf-on-the-wire): Hacktoria CTF On the Wire
+[hacktoria-ctf-on-the-wire](https://github.com/miamya/hacktoria-ctf-on-the-wire): Hacktoria CTF On the Wire  
+[predator-drone](https://github.com/tigre-bleu/predator-drone): Mirror of main repository at https://git.tigre-bleu.net/antoine.vacher/predator-drone
