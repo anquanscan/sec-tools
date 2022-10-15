@@ -6005,4 +6005,5 @@
 [user-guide](https://github.com/scantist/user-guide): The Scantist SCA is source-code analysis tool for C/C++ that identifies vulnerabilities and compliance issues pertaining to the use of open-source components in your projects and applications.  
 [SNK-RAT](https://github.com/thepowerraj/SNK-RAT): fully advance and powerful android rat 2022  
 [Host_Discoverer](https://github.com/KOneThousand/Host_Discoverer): Simple C++ script that is able to found up hosts in local network. Very fast and accurate.  
-[MSAuto](https://github.com/SSARCandy/MSAuto)
+[MSAuto](https://github.com/SSARCandy/MSAuto)  
+[CVE-2022-41040-POC](https://github.com/kljunowsky/CVE-2022-41040-POC): CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server
