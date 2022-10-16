@@ -6021,4 +6021,5 @@
 [cs577](https://github.com/bradford-smith94/cs577): CS 577 Cybersecurity Lab  
 [slae32-egghunters](https://github.com/DarkCoderSc/slae32-egghunters): SLAE32 Assignment 3 : Egg Hunters  
 [bind-shell-python](https://github.com/j0lt-github/bind-shell-python): This is a basic bind shell script , containting both server and client classes, i will upgrade it with time adding new features and make it look more lethal  
-[defatt](https://github.com/aau-network-security/defatt): Defense & Attack
+[defatt](https://github.com/aau-network-security/defatt): Defense & Attack  
+[cybersec-service-metrics](https://github.com/t3l3machus/cybersec-service-metrics): A spreadsheet designed to automatically generate Key Performance Indicators (charts) for Cyber Security Services based on documented data, powered by formulas (no MACROS). Ideal for Team leaders / Managers of small-medium sized organizations.
