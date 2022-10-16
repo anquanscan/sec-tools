@@ -6019,4 +6019,5 @@
 [domain-quality-mgt](https://github.com/cybnity/domain-quality-mgt): All the features and services realized by the Quality bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [CyberBook](https://github.com/Cyb3rW1z4rd/CyberBook)  
 [cs577](https://github.com/bradford-smith94/cs577): CS 577 Cybersecurity Lab  
-[slae32-egghunters](https://github.com/DarkCoderSc/slae32-egghunters): SLAE32 Assignment 3 : Egg Hunters
+[slae32-egghunters](https://github.com/DarkCoderSc/slae32-egghunters): SLAE32 Assignment 3 : Egg Hunters  
+[bind-shell-python](https://github.com/j0lt-github/bind-shell-python): This is a basic bind shell script , containting both server and client classes, i will upgrade it with time adding new features and make it look more lethal
