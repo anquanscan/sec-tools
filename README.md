@@ -6018,4 +6018,5 @@
 [quick_axfr](https://github.com/hatlord/quick_axfr): Provide a list of domains and it will find the name servers, and then test Zone Transfers against each  
 [domain-quality-mgt](https://github.com/cybnity/domain-quality-mgt): All the features and services realized by the Quality bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [CyberBook](https://github.com/Cyb3rW1z4rd/CyberBook)  
-[cs577](https://github.com/bradford-smith94/cs577): CS 577 Cybersecurity Lab
+[cs577](https://github.com/bradford-smith94/cs577): CS 577 Cybersecurity Lab  
+[slae32-egghunters](https://github.com/DarkCoderSc/slae32-egghunters): SLAE32 Assignment 3 : Egg Hunters
