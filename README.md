@@ -6016,4 +6016,5 @@
 [Twitter-API-Pull-Bank-Details](https://github.com/dbeckerton94/Twitter-API-Pull-Bank-Details): This was a security project developed using the Twitter Api, the idea behind this project was to see how much personal information and what type of personal information people put on Twitter, and educate users on security  
 [thelifeofjay.github.io](https://github.com/thelifeofjay/thelifeofjay.github.io): My personal blog  
 [quick_axfr](https://github.com/hatlord/quick_axfr): Provide a list of domains and it will find the name servers, and then test Zone Transfers against each  
-[domain-quality-mgt](https://github.com/cybnity/domain-quality-mgt): All the features and services realized by the Quality bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
+[domain-quality-mgt](https://github.com/cybnity/domain-quality-mgt): All the features and services realized by the Quality bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
+[CyberBook](https://github.com/Cyb3rW1z4rd/CyberBook)
