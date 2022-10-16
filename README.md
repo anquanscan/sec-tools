@@ -6013,4 +6013,5 @@
 [iSUDisk](https://github.com/wecooperate/iSUDisk): 冰云安全U盘  
 [securesystems_example](https://github.com/immae1/securesystems_example): This is a example for using git-grypt. Only for test purpose! Created for the lecture "secure systems" in computer science and media master at the stuttgart media university  
 [sonare2](https://github.com/Ace17/sonare2): An interactive disassembler for reverse engineering  
-[Twitter-API-Pull-Bank-Details](https://github.com/dbeckerton94/Twitter-API-Pull-Bank-Details): This was a security project developed using the Twitter Api, the idea behind this project was to see how much personal information and what type of personal information people put on Twitter, and educate users on security
+[Twitter-API-Pull-Bank-Details](https://github.com/dbeckerton94/Twitter-API-Pull-Bank-Details): This was a security project developed using the Twitter Api, the idea behind this project was to see how much personal information and what type of personal information people put on Twitter, and educate users on security  
+[thelifeofjay.github.io](https://github.com/thelifeofjay/thelifeofjay.github.io): My personal blog
