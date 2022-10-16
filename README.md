@@ -6010,4 +6010,5 @@
 [ASU-Cybersecurity-Bootcamp-Project-1](https://github.com/jsg425/ASU-Cybersecurity-Bootcamp-Project-1): First project of ASU Cybersecurity Bootcamp  
 [hacktoria-ctf-on-the-wire](https://github.com/miamya/hacktoria-ctf-on-the-wire): Hacktoria CTF On the Wire  
 [predator-drone](https://github.com/tigre-bleu/predator-drone): Mirror of main repository at https://git.tigre-bleu.net/antoine.vacher/predator-drone  
-[iSUDisk](https://github.com/wecooperate/iSUDisk): 冰云安全U盘
+[iSUDisk](https://github.com/wecooperate/iSUDisk): 冰云安全U盘  
+[securesystems_example](https://github.com/immae1/securesystems_example): This is a example for using git-grypt. Only for test purpose! Created for the lecture "secure systems" in computer science and media master at the stuttgart media university
