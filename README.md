@@ -6024,4 +6024,5 @@
 [defatt](https://github.com/aau-network-security/defatt): Defense & Attack  
 [cybersec-service-metrics](https://github.com/t3l3machus/cybersec-service-metrics): A spreadsheet designed to automatically generate Key Performance Indicators (charts) for Cyber Security Services based on documented data, powered by formulas (no MACROS). Ideal for Team leaders / Managers of small-medium sized organizations.  
 [awesome-serverless-security](https://github.com/puresec/awesome-serverless-security): A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.  
-[webowl](https://github.com/pelaohxc/webowl): A tool for taking screenshots automatically from a URL list file.
+[webowl](https://github.com/pelaohxc/webowl): A tool for taking screenshots automatically from a URL list file.  
+[aws-sec-tools](https://github.com/dachiefjustice/aws-sec-tools): Docker container bundling tools for manual AWS security reviews
