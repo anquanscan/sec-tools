@@ -6025,4 +6025,5 @@
 [cybersec-service-metrics](https://github.com/t3l3machus/cybersec-service-metrics): A spreadsheet designed to automatically generate Key Performance Indicators (charts) for Cyber Security Services based on documented data, powered by formulas (no MACROS). Ideal for Team leaders / Managers of small-medium sized organizations.  
 [awesome-serverless-security](https://github.com/puresec/awesome-serverless-security): A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.  
 [webowl](https://github.com/pelaohxc/webowl): A tool for taking screenshots automatically from a URL list file.  
-[aws-sec-tools](https://github.com/dachiefjustice/aws-sec-tools): Docker container bundling tools for manual AWS security reviews
+[aws-sec-tools](https://github.com/dachiefjustice/aws-sec-tools): Docker container bundling tools for manual AWS security reviews  
+[magnetron.artificial-intelligence-2.0.mincloud.proxia--ASTRAL_VISION-C-2](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--ASTRAL_VISION-C-2): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an ASTRAL VISION PROXIA (C-2) for POSE ESTIMATION when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).
