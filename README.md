@@ -6043,4 +6043,5 @@
 [CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC): Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager  
 [LANscan](https://github.com/chrispetrou/LANscan): Find out who is on your LAN. Was made with low-privilege users in mind...  
 [osrframework](https://github.com/i3visio/osrframework): OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.  
-[vmConsole](https://github.com/sylirre/vmConsole): Run Linux virtual machine on Android OS. Powered by QEMU. No KVM or root required.
+[vmConsole](https://github.com/sylirre/vmConsole): Run Linux virtual machine on Android OS. Powered by QEMU. No KVM or root required.  
+[ChromiumExtension](https://github.com/NetSepio/ChromiumExtension): Browser Extension to detect cyber threats and label websites/domains as Spam, Malware, Spyware, Advertisements, etc.
