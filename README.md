@@ -6040,4 +6040,5 @@
 [PC-Security-Upgrade-Using-Python-V.2.0](https://github.com/pyvisualizer/PC-Security-Upgrade-Using-Python-V.2.0): This project is meant to help you in case someone else is using your PC or someone stole your it will ask for a password to user and if he fails to answer this script will directly send you email to your email address will time of login, IP address, Current Location of your pc and also the image of the person who is using your pc at that moment.  
 [FreeSecurityFramework](https://github.com/isaacdarcilla/FreeSecurityFramework): Simple Network Analysis Framework  written in Python 2.7 with dependencies  
 [kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet): Kali Linux Cheat Sheet for Penetration Testers  
-[CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC): Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager
+[CVE-2022-40684-POC](https://github.com/kljunowsky/CVE-2022-40684-POC): Exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager  
+[LANscan](https://github.com/chrispetrou/LANscan): Find out who is on your LAN. Was made with low-privilege users in mind...
