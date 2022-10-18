@@ -6036,4 +6036,5 @@
 [JWT-Brute](https://github.com/novakeith/JWT-Brute): A python 3 JWT brute force tool  
 [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyberpunk must watch.  
 [LibScout](https://github.com/reddr/LibScout): LibScout: Third-party library detector for Java/Android apps  
-[CVE-2019-17662](https://github.com/whokilleddb/CVE-2019-17662): Exploit for CVE-2019-17662 (ThinVNC 1.0b1)
+[CVE-2019-17662](https://github.com/whokilleddb/CVE-2019-17662): Exploit for CVE-2019-17662 (ThinVNC 1.0b1)  
+[PC-Security-Upgrade-Using-Python-V.2.0](https://github.com/pyvisualizer/PC-Security-Upgrade-Using-Python-V.2.0): This project is meant to help you in case someone else is using your PC or someone stole your it will ask for a password to user and if he fails to answer this script will directly send you email to your email address will time of login, IP address, Current Location of your pc and also the image of the person who is using your pc at that moment.
