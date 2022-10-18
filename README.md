@@ -6038,4 +6038,5 @@
 [LibScout](https://github.com/reddr/LibScout): LibScout: Third-party library detector for Java/Android apps  
 [CVE-2019-17662](https://github.com/whokilleddb/CVE-2019-17662): Exploit for CVE-2019-17662 (ThinVNC 1.0b1)  
 [PC-Security-Upgrade-Using-Python-V.2.0](https://github.com/pyvisualizer/PC-Security-Upgrade-Using-Python-V.2.0): This project is meant to help you in case someone else is using your PC or someone stole your it will ask for a password to user and if he fails to answer this script will directly send you email to your email address will time of login, IP address, Current Location of your pc and also the image of the person who is using your pc at that moment.  
-[FreeSecurityFramework](https://github.com/isaacdarcilla/FreeSecurityFramework): Simple Network Analysis Framework  written in Python 2.7 with dependencies
+[FreeSecurityFramework](https://github.com/isaacdarcilla/FreeSecurityFramework): Simple Network Analysis Framework  written in Python 2.7 with dependencies  
+[kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet): Kali Linux Cheat Sheet for Penetration Testers
