@@ -6030,4 +6030,5 @@
 [Dionaea-Honeypot-Script](https://github.com/crocup/Dionaea-Honeypot-Script): Honeypot(Dionaea) in Docker. Emulation Windows 7 Professional ver. 7600  
 [Spammer-Grab](https://github.com/p4kl0nc4t/Spammer-Grab): A brand new, awakened version of the old Spammer-Grab.  
 [adversarial-text](https://github.com/gongzhitaao/adversarial-text): Generate adversarial text via gradient methods  
-[campusbadge](https://github.com/nexmo-community/campusbadge): Code (and wiki) for the Vonage Campus Developer Track badge, based on pixl.js
+[campusbadge](https://github.com/nexmo-community/campusbadge): Code (and wiki) for the Vonage Campus Developer Track badge, based on pixl.js  
+[stronger-gpw](https://github.com/LightningStalker/stronger-gpw): An "improved" version of `gpw` that generates stronger passwords.
