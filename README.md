@@ -6034,4 +6034,5 @@
 [stronger-gpw](https://github.com/LightningStalker/stronger-gpw): An "improved" version of `gpw` that generates stronger passwords.  
 [domain-posture-prevention-mgt](https://github.com/cybnity/domain-posture-prevention-mgt): All the features and services realized by the Posture & Prevention bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [JWT-Brute](https://github.com/novakeith/JWT-Brute): A python 3 JWT brute force tool  
-[movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyberpunk must watch.
+[movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyberpunk must watch.  
+[LibScout](https://github.com/reddr/LibScout): LibScout: Third-party library detector for Java/Android apps
