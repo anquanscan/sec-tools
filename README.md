@@ -6032,4 +6032,5 @@
 [adversarial-text](https://github.com/gongzhitaao/adversarial-text): Generate adversarial text via gradient methods  
 [campusbadge](https://github.com/nexmo-community/campusbadge): Code (and wiki) for the Vonage Campus Developer Track badge, based on pixl.js  
 [stronger-gpw](https://github.com/LightningStalker/stronger-gpw): An "improved" version of `gpw` that generates stronger passwords.  
-[domain-posture-prevention-mgt](https://github.com/cybnity/domain-posture-prevention-mgt): All the features and services realized by the Posture & Prevention bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
+[domain-posture-prevention-mgt](https://github.com/cybnity/domain-posture-prevention-mgt): All the features and services realized by the Posture & Prevention bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
+[JWT-Brute](https://github.com/novakeith/JWT-Brute): A python 3 JWT brute force tool
