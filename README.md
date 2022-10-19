@@ -6055,4 +6055,5 @@
 [slae32-polymophism](https://github.com/DarkCoderSc/slae32-polymophism): SLAE32 Assignment N°6 - Create up to three polymorphic version of shellcodes.  
 [Pentesting-Methodology-](https://github.com/Mdot0/Pentesting-Methodology-): When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF.   
 [adblockfast-android](https://github.com/rocketshipapps/adblockfast-android): [Moved] Adblock Fast for Android is an Android port of the Adblock Fast app.  
-[Toools](https://github.com/amrelsadane123/Toools): tools hacking and seystem
+[Toools](https://github.com/amrelsadane123/Toools): tools hacking and seystem  
+[emailobfuscator](https://github.com/FriendsOfREDAXO/emailobfuscator): Verschlüsselung von E-Mailadressen zum Schutz vor Spam
