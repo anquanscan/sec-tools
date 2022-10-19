@@ -6060,4 +6060,5 @@
 [Cyberattack-Detection](https://github.com/antoinedelplace/Cyberattack-Detection): Cyber Attack Detection thanks to Machine Learning Algorithms  
 [Website-Dir-Scanner](https://github.com/Karaya-12/Website-Dir-Scanner): Website Directory Scanner - A simple but powerful directory scanner.  
 [sobelow](https://github.com/nccgroup/sobelow): Security-focused static analysis for the Phoenix Framework  
-[ipscanner](https://github.com/aliyilmaz/ipscanner): Is used to query the http status codes of the ip addreses between the specified ip addreses.
+[ipscanner](https://github.com/aliyilmaz/ipscanner): Is used to query the http status codes of the ip addreses between the specified ip addreses.  
+[teaching-toolkit](https://github.com/iwazirijr/teaching-toolkit): collection of materials and resources I use to teach computer security classes
