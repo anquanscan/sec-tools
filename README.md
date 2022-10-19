@@ -6050,4 +6050,5 @@
 [fslogger](https://github.com/rxm/fslogger): A Node server that writes POST requests to a file translating DeepXi's JSON into ArcSight CEF  
 [pewview](https://github.com/AlexGustafsson/pewview): A self-hosted cyber attack and network flow visualization on a 3D globe with support for anonymization and NetFlow. Written in Go and TypeScript  
 [Pip-Pip-Cheerio](https://github.com/JamesMatchett/Pip-Pip-Cheerio): Neat little pip workaround for install rights limited systems, just replace pyodbc with whatever packages you want as long as it's after pip install --upgrade pip  
-[phpass](https://github.com/openwall/phpass): Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5
+[phpass](https://github.com/openwall/phpass): Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5  
+[STIX-Validator](https://github.com/StephenOTT/STIX-Validator): STIX Validator http server for checking the JSON conformance to the STIX spec
