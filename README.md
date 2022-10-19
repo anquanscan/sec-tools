@@ -6052,4 +6052,5 @@
 [Pip-Pip-Cheerio](https://github.com/JamesMatchett/Pip-Pip-Cheerio): Neat little pip workaround for install rights limited systems, just replace pyodbc with whatever packages you want as long as it's after pip install --upgrade pip  
 [phpass](https://github.com/openwall/phpass): Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5  
 [STIX-Validator](https://github.com/StephenOTT/STIX-Validator): STIX Validator http server for checking the JSON conformance to the STIX spec  
-[slae32-polymophism](https://github.com/DarkCoderSc/slae32-polymophism): SLAE32 Assignment N°6 - Create up to three polymorphic version of shellcodes.
+[slae32-polymophism](https://github.com/DarkCoderSc/slae32-polymophism): SLAE32 Assignment N°6 - Create up to three polymorphic version of shellcodes.  
+[Pentesting-Methodology-](https://github.com/Mdot0/Pentesting-Methodology-): When it comes to exploiting web application security, this is a methodology. Enumeration and Networking guidelines are also listed to help while on a Pentest/CTF. 
