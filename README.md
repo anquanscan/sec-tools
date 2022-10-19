@@ -6065,4 +6065,5 @@
 [Scientific_publications](https://github.com/dkushche/Scientific_publications): Dima's Kushchevskyi Scientific Publications  
 [memoryjs](https://github.com/Rob--/memoryjs): Read and write process memory in Node.js (Windows API functions exposed via Node bindings)  
 [barvus](https://github.com/studio-b12/barvus): BARe repository VUlnerability Scanner  
-[Fivem-CFX-Spoofer](https://github.com/Fnoberz/Fivem-CFX-Spoofer): 🔗 Easy Spoof Cfx.re 365 Day / Work on the latest patch 
+[Fivem-CFX-Spoofer](https://github.com/Fnoberz/Fivem-CFX-Spoofer): 🔗 Easy Spoof Cfx.re 365 Day / Work on the latest patch   
+[Cyber-Law](https://github.com/mewni/Cyber-Law): This is a collection of research articles, newspaper articles, books etc. to get a clear understanding of Cyberlaw 👩‍⚖️👩‍💻👨‍⚖️👨‍💻🦸‍♀️🦸‍♂️
