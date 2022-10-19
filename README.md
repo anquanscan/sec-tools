@@ -6046,4 +6046,5 @@
 [vmConsole](https://github.com/sylirre/vmConsole): Run Linux virtual machine on Android OS. Powered by QEMU. No KVM or root required.  
 [ChromiumExtension](https://github.com/NetSepio/ChromiumExtension): Browser Extension to detect cyber threats and label websites/domains as Spam, Malware, Spyware, Advertisements, etc.  
 [dirbpy](https://github.com/marcolivierbouch/dirbpy): This is the new version of dirb in python  
-[M1tn1ck](https://github.com/M1tn1ck/M1tn1ck): All my products are here, my private and custom scripts and other types of contact information and services.
+[M1tn1ck](https://github.com/M1tn1ck/M1tn1ck): All my products are here, my private and custom scripts and other types of contact information and services.  
+[fslogger](https://github.com/rxm/fslogger): A Node server that writes POST requests to a file translating DeepXi's JSON into ArcSight CEF
