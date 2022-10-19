@@ -6071,4 +6071,5 @@
 [ProcFinder](https://github.com/wakef33/ProcFinder): Python 3 script that searches for signs of malware on Linux systems.  
 [OversecuredVulnerableiOSApp](https://github.com/oversecured/OversecuredVulnerableiOSApp): Oversecured Vulnerable iOS App  
 [ClickjackPoc](https://github.com/Raiders0786/ClickjackPoc): Automated tool to find & created Exploit Poc for Clickjacking Vulnerability  
-[PwnCheck](https://github.com/selftaught/PwnCheck): Query Have I Been Pwned (HIBP) from CLI
+[PwnCheck](https://github.com/selftaught/PwnCheck): Query Have I Been Pwned (HIBP) from CLI  
+[trellis-disable-xml-rpc](https://github.com/ItinerisLtd/trellis-disable-xml-rpc): Disable WordPress XML RPC on Trellis sites
