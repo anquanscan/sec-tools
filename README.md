@@ -6064,4 +6064,5 @@
 [teaching-toolkit](https://github.com/iwazirijr/teaching-toolkit): collection of materials and resources I use to teach computer security classes  
 [Scientific_publications](https://github.com/dkushche/Scientific_publications): Dima's Kushchevskyi Scientific Publications  
 [memoryjs](https://github.com/Rob--/memoryjs): Read and write process memory in Node.js (Windows API functions exposed via Node bindings)  
-[barvus](https://github.com/studio-b12/barvus): BARe repository VUlnerability Scanner
+[barvus](https://github.com/studio-b12/barvus): BARe repository VUlnerability Scanner  
+[Fivem-CFX-Spoofer](https://github.com/Fnoberz/Fivem-CFX-Spoofer): 🔗 Easy Spoof Cfx.re 365 Day / Work on the latest patch 
