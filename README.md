@@ -6062,4 +6062,5 @@
 [sobelow](https://github.com/nccgroup/sobelow): Security-focused static analysis for the Phoenix Framework  
 [ipscanner](https://github.com/aliyilmaz/ipscanner): Is used to query the http status codes of the ip addreses between the specified ip addreses.  
 [teaching-toolkit](https://github.com/iwazirijr/teaching-toolkit): collection of materials and resources I use to teach computer security classes  
-[Scientific_publications](https://github.com/dkushche/Scientific_publications): Dima's Kushchevskyi Scientific Publications
+[Scientific_publications](https://github.com/dkushche/Scientific_publications): Dima's Kushchevskyi Scientific Publications  
+[memoryjs](https://github.com/Rob--/memoryjs): Read and write process memory in Node.js (Windows API functions exposed via Node bindings)
