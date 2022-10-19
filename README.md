@@ -6048,4 +6048,5 @@
 [dirbpy](https://github.com/marcolivierbouch/dirbpy): This is the new version of dirb in python  
 [M1tn1ck](https://github.com/M1tn1ck/M1tn1ck): All my products are here, my private and custom scripts and other types of contact information and services.  
 [fslogger](https://github.com/rxm/fslogger): A Node server that writes POST requests to a file translating DeepXi's JSON into ArcSight CEF  
-[pewview](https://github.com/AlexGustafsson/pewview): A self-hosted cyber attack and network flow visualization on a 3D globe with support for anonymization and NetFlow. Written in Go and TypeScript
+[pewview](https://github.com/AlexGustafsson/pewview): A self-hosted cyber attack and network flow visualization on a 3D globe with support for anonymization and NetFlow. Written in Go and TypeScript  
+[Pip-Pip-Cheerio](https://github.com/JamesMatchett/Pip-Pip-Cheerio): Neat little pip workaround for install rights limited systems, just replace pyodbc with whatever packages you want as long as it's after pip install --upgrade pip
