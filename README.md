@@ -6051,4 +6051,5 @@
 [pewview](https://github.com/AlexGustafsson/pewview): A self-hosted cyber attack and network flow visualization on a 3D globe with support for anonymization and NetFlow. Written in Go and TypeScript  
 [Pip-Pip-Cheerio](https://github.com/JamesMatchett/Pip-Pip-Cheerio): Neat little pip workaround for install rights limited systems, just replace pyodbc with whatever packages you want as long as it's after pip install --upgrade pip  
 [phpass](https://github.com/openwall/phpass): Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5  
-[STIX-Validator](https://github.com/StephenOTT/STIX-Validator): STIX Validator http server for checking the JSON conformance to the STIX spec
+[STIX-Validator](https://github.com/StephenOTT/STIX-Validator): STIX Validator http server for checking the JSON conformance to the STIX spec  
+[slae32-polymophism](https://github.com/DarkCoderSc/slae32-polymophism): SLAE32 Assignment N°6 - Create up to three polymorphic version of shellcodes.
