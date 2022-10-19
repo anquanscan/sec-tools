@@ -6072,4 +6072,5 @@
 [OversecuredVulnerableiOSApp](https://github.com/oversecured/OversecuredVulnerableiOSApp): Oversecured Vulnerable iOS App  
 [ClickjackPoc](https://github.com/Raiders0786/ClickjackPoc): Automated tool to find & created Exploit Poc for Clickjacking Vulnerability  
 [PwnCheck](https://github.com/selftaught/PwnCheck): Query Have I Been Pwned (HIBP) from CLI  
-[trellis-disable-xml-rpc](https://github.com/ItinerisLtd/trellis-disable-xml-rpc): Disable WordPress XML RPC on Trellis sites
+[trellis-disable-xml-rpc](https://github.com/ItinerisLtd/trellis-disable-xml-rpc): Disable WordPress XML RPC on Trellis sites  
+[Corona.exe](https://github.com/hackernese/Corona.exe): Just a little piece of malware that i made for fun called "Corona.exe" ( no malicious purposes intended )
