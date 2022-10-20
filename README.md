@@ -6087,4 +6087,5 @@
 [Blaster](https://github.com/yuxontop/Blaster): ⚔ A tool to scan a website to get vulnerabilities/exploits (education only)  
 [pamela](https://github.com/Nexus-Software/pamela): C Security Project for Epitech study - PAM module  
 [SimpleHash](https://github.com/Omoeba/SimpleHash): Simple password hashing utility  
-[awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens): A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
+[awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens): A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected  
+[BatSploit](https://github.com/proxyanon/BatSploit): Exploitation Tool For Windows Using Batch and Powershell
