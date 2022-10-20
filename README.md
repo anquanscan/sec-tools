@@ -6085,4 +6085,5 @@
 [GH05T-INSTA](https://github.com/GH05T-HUNTER5/GH05T-INSTA): Instagram Account Hacking Total Package for Termux users  {20 types of password list , auto reporting} 100% working and safe to  use `GH05T INSTA`  
 [Mastering-CSharp](https://github.com/gungunfebrianza/Mastering-CSharp): GGF Open Source Society University. From Zero to Hero Mastering C#.  
 [Blaster](https://github.com/yuxontop/Blaster): ⚔ A tool to scan a website to get vulnerabilities/exploits (education only)  
-[pamela](https://github.com/Nexus-Software/pamela): C Security Project for Epitech study - PAM module
+[pamela](https://github.com/Nexus-Software/pamela): C Security Project for Epitech study - PAM module  
+[SimpleHash](https://github.com/Omoeba/SimpleHash): Simple password hashing utility
