@@ -6078,4 +6078,5 @@
 [frwd](https://github.com/avahidi/frwd): "frwd" is a tiny TCP/IP port-forwarder written in Go.  
 [GrimeyPhisher](https://github.com/juniordevsec2021/GrimeyPhisher): Phishing Toolkit  
 [DotNetCore](https://github.com/rafaelfgx/DotNetCore): .NET 6 Nuget Packages.  
-[Nethunter-Nexus_6P-LOS10](https://github.com/TheMMcOfficial/Nethunter-Nexus_6P-LOS10): Instructions to get Nethunter on a Nexus 6P Using Android 10 (LineageOS).
+[Nethunter-Nexus_6P-LOS10](https://github.com/TheMMcOfficial/Nethunter-Nexus_6P-LOS10): Instructions to get Nethunter on a Nexus 6P Using Android 10 (LineageOS).  
+[Valorant.External](https://github.com/Fnoberz/Valorant.External): 🔫 External Valorant Aimbot + Esp + SkinChanger | Release Update ! 
