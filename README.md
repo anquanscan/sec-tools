@@ -6082,4 +6082,5 @@
 [Valorant.External](https://github.com/Fnoberz/Valorant.External): 🔫 External Valorant Aimbot + Esp + SkinChanger | Release Update !   
 [Emerald](https://github.com/at0mik/Emerald): Emerald is an advanced network scanner, which automates many useful functions.  
 [a3_botnet](https://github.com/luizmlo/a3_botnet): Projeto de Botnet com Python, Websockets, Async e Javascript  
-[GH05T-INSTA](https://github.com/GH05T-HUNTER5/GH05T-INSTA): Instagram Account Hacking Total Package for Termux users  {20 types of password list , auto reporting} 100% working and safe to  use `GH05T INSTA`
+[GH05T-INSTA](https://github.com/GH05T-HUNTER5/GH05T-INSTA): Instagram Account Hacking Total Package for Termux users  {20 types of password list , auto reporting} 100% working and safe to  use `GH05T INSTA`  
+[Mastering-CSharp](https://github.com/gungunfebrianza/Mastering-CSharp): GGF Open Source Society University. From Zero to Hero Mastering C#.
