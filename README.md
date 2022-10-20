@@ -6090,4 +6090,5 @@
 [awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens): A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected  
 [BatSploit](https://github.com/proxyanon/BatSploit): Exploitation Tool For Windows Using Batch and Powershell  
 [WebDhaar](https://github.com/humblelad/WebDhaar): Online WebDhaar helps to give details of any IP around the world (Just Like Aadhaar ! ) . A online IP helper tool. Just type any IP Address.(Ex. 8.8.8.8)  
-[cerberus](https://github.com/francesco-ficarola/cerberus): Cerberus is another simple stressing tool simulating DDoS attacks.
+[cerberus](https://github.com/francesco-ficarola/cerberus): Cerberus is another simple stressing tool simulating DDoS attacks.  
+[privatezilla](https://github.com/builtbybel/privatezilla): 👀👮🐢🔥Performs a privacy & security check of Windows 10 
