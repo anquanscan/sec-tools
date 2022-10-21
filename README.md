@@ -6115,4 +6115,5 @@
 [Kenyatta-Ransomware](https://github.com/alvin-tosh/Kenyatta-Ransomware): This will encrypt 🤐 your files in background using AES-256-CTR, using RSA-4096😵‍💫to secure the exchange with the server, optionally using the Tor SOCKS5 Proxy. The base functionality is what you see in the famous ransomware Cryptolocker😎  
 [VMProtect_3.6.0.1416_Crack](https://github.com/rrhyast/VMProtect_3.6.0.1416_Crack): VMProtect Ultimate 3.6.0.1416 Cracked  
 [iOScanX](https://github.com/alessiomaffeis/iOScanX): iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation   
-[aws-tower](https://github.com/leboncoin/aws-tower): AWS Tower give the ability to discover and monitor AWS account to find vulnerabilities or misconfigurations. Give also a brief overview for non-AWS expert. Not related at all of the AWS Trusted Advisor.
+[aws-tower](https://github.com/leboncoin/aws-tower): AWS Tower give the ability to discover and monitor AWS account to find vulnerabilities or misconfigurations. Give also a brief overview for non-AWS expert. Not related at all of the AWS Trusted Advisor.  
+[glaros_c](https://github.com/ellyzabe8/glaros_c): Simple port scanner for Linu_x0ids (UDP ports and SYN connection will soon be implemented!)
