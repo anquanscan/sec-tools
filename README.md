@@ -6094,4 +6094,5 @@
 [privatezilla](https://github.com/builtbybel/privatezilla): 👀👮🐢🔥Performs a privacy & security check of Windows 10   
 [integers](https://github.com/google/integers): Safer integers in C++.  
 [funthom](https://github.com/s3verus/funthom): A program for penetration testing to scan network by python ;)  
-[bscit-network-security-notes](https://github.com/Keshavdulal/bscit-network-security-notes): BSCIT Network Security Notes
+[bscit-network-security-notes](https://github.com/Keshavdulal/bscit-network-security-notes): BSCIT Network Security Notes  
+[sshpot](https://github.com/krishpranav/sshpot): A simple ssh honey pot, fake ssh server that lets anyone to connect and monitor their activty
