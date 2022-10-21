@@ -6105,4 +6105,5 @@
 [myProjectsadick](https://github.com/sadiqwanje/myProjectsadick)  
 [gophercon-2022](https://github.com/hybridgroup/gophercon-2022): Hardware hack session at Gophercon 2022  
 [Pyramid](https://github.com/naksyn/Pyramid): a tool to help operate in EDRs' blind spots  
-[FroggerBeyondExploit](https://github.com/agarmash/FroggerBeyondExploit): An exploit for installing a softmod to the Xbox
+[FroggerBeyondExploit](https://github.com/agarmash/FroggerBeyondExploit): An exploit for installing a softmod to the Xbox  
+[security-advisor-findings](https://github.com/data-henrik/security-advisor-findings): Set up custom findings in IBM Cloud Security Advisor, e2e scenario and code
