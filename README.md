@@ -6102,4 +6102,5 @@
 [xepor](https://github.com/xepor/xepor): Xepor, a web routing framework for reverse engineers and security researchers, brings the best of mitmproxy & Flask  
 [The-DPDK-Common](https://github.com/gamemann/The-DPDK-Common): A repository that includes common helper functions for writing applications in the DPDK. I will be using this for my future projects in the DPDK.  
 [ctfs](https://github.com/posgnu/ctfs): ☑️ Write-up for CTF problems and problem files  
-[myProjectsadick](https://github.com/sadiqwanje/myProjectsadick)
+[myProjectsadick](https://github.com/sadiqwanje/myProjectsadick)  
+[gophercon-2022](https://github.com/hybridgroup/gophercon-2022): Hardware hack session at Gophercon 2022
