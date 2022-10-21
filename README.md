@@ -6110,4 +6110,5 @@
 [ee8-sandbox](https://github.com/hantsy/ee8-sandbox): Java EE 8/Jakarta EE 8 sandbox  
 [attack-vectors-suite](https://github.com/SANTHOSH17-DOT/attack-vectors-suite): A collection of cybersecurity attack vectors  
 [Masking-URL](https://github.com/OnlineHacKing/Masking-URL): How to Hide Phishing Link - Ngrok, Cloudflare Link Hide and Custom URL Real Domain URL   
-[domain-risk-mgt](https://github.com/cybnity/domain-risk-mgt): All the features and services realized by the Risk Management bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
+[domain-risk-mgt](https://github.com/cybnity/domain-risk-mgt): All the features and services realized by the Risk Management bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
+[TTRockstars-Hacks](https://github.com/rxzyx/TTRockstars-Hacks): The best hack for times tables rock-stars ever.
