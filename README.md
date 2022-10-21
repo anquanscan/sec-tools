@@ -6107,4 +6107,5 @@
 [Pyramid](https://github.com/naksyn/Pyramid): a tool to help operate in EDRs' blind spots  
 [FroggerBeyondExploit](https://github.com/agarmash/FroggerBeyondExploit): An exploit for installing a softmod to the Xbox  
 [security-advisor-findings](https://github.com/data-henrik/security-advisor-findings): Set up custom findings in IBM Cloud Security Advisor, e2e scenario and code  
-[ee8-sandbox](https://github.com/hantsy/ee8-sandbox): Java EE 8/Jakarta EE 8 sandbox
+[ee8-sandbox](https://github.com/hantsy/ee8-sandbox): Java EE 8/Jakarta EE 8 sandbox  
+[attack-vectors-suite](https://github.com/SANTHOSH17-DOT/attack-vectors-suite): A collection of cybersecurity attack vectors
