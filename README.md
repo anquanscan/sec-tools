@@ -6093,4 +6093,5 @@
 [cerberus](https://github.com/francesco-ficarola/cerberus): Cerberus is another simple stressing tool simulating DDoS attacks.  
 [privatezilla](https://github.com/builtbybel/privatezilla): 👀👮🐢🔥Performs a privacy & security check of Windows 10   
 [integers](https://github.com/google/integers): Safer integers in C++.  
-[funthom](https://github.com/s3verus/funthom): A program for penetration testing to scan network by python ;)
+[funthom](https://github.com/s3verus/funthom): A program for penetration testing to scan network by python ;)  
+[bscit-network-security-notes](https://github.com/Keshavdulal/bscit-network-security-notes): BSCIT Network Security Notes
