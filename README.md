@@ -6095,4 +6095,5 @@
 [integers](https://github.com/google/integers): Safer integers in C++.  
 [funthom](https://github.com/s3verus/funthom): A program for penetration testing to scan network by python ;)  
 [bscit-network-security-notes](https://github.com/Keshavdulal/bscit-network-security-notes): BSCIT Network Security Notes  
-[sshpot](https://github.com/krishpranav/sshpot): A simple ssh honey pot, fake ssh server that lets anyone to connect and monitor their activty
+[sshpot](https://github.com/krishpranav/sshpot): A simple ssh honey pot, fake ssh server that lets anyone to connect and monitor their activty  
+[PwnedPasswordChecker](https://github.com/BenjaminNelan/PwnedPasswordChecker): Prevent WordPress users from using a pwned password by checking against Have I Been Pwned's database.
