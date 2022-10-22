@@ -6136,4 +6136,5 @@
 [python_ddos_attack_test](https://github.com/carloocchiena/python_ddos_attack_test): DDoS attack thru a multithread Python script   
 [BitSquatter](https://github.com/CamiloGarciaLaRotta/BitSquatter): Cybersquatting CLI tool  
 [hacksec-cli](https://github.com/hacksec-in/hacksec-cli): hacksec-cli for hacksec.in  
-[atl-cjdns-pi](https://github.com/AtlMesh/atl-cjdns-pi): Open Source decentralized Atl mesh network
+[atl-cjdns-pi](https://github.com/AtlMesh/atl-cjdns-pi): Open Source decentralized Atl mesh network  
+[zsession](https://github.com/zcred/zsession): A lightweight implementation of zcreds designed specifically for the session token use case
