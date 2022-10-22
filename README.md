@@ -6124,4 +6124,5 @@
 [matano](https://github.com/matanolabs/matano): The open-source security lake platform for AWS  
 [ammonia](https://github.com/rust-ammonia/ammonia): Repair and secure untrusted HTML  
 [HackTheWorld](https://github.com/stormshadow07/HackTheWorld): An Python Script For Generating Payloads that Bypasses All Antivirus so far .  
-[sia-payload](https://github.com/shayanzare/sia-payload): MultiPlatform (mac,linux,windows) Payload For Hack System!
+[sia-payload](https://github.com/shayanzare/sia-payload): MultiPlatform (mac,linux,windows) Payload For Hack System!  
+[Apex-Spoofer](https://github.com/Fnoberz/Apex-Spoofer): 🃏 Batch File for spoofing and delete track files Easy-Anti Cheat
