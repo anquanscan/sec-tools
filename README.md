@@ -6137,4 +6137,5 @@
 [BitSquatter](https://github.com/CamiloGarciaLaRotta/BitSquatter): Cybersquatting CLI tool  
 [hacksec-cli](https://github.com/hacksec-in/hacksec-cli): hacksec-cli for hacksec.in  
 [atl-cjdns-pi](https://github.com/AtlMesh/atl-cjdns-pi): Open Source decentralized Atl mesh network  
-[zsession](https://github.com/zcred/zsession): A lightweight implementation of zcreds designed specifically for the session token use case
+[zsession](https://github.com/zcred/zsession): A lightweight implementation of zcreds designed specifically for the session token use case  
+[abulia](https://github.com/uqrs/abulia): netcat-shell helper
