@@ -6123,4 +6123,5 @@
 [mbp-tails](https://github.com/T2minator/mbp-tails): How to get Tails working on T2 Apple device (e.g. 2019 MacBook Pro) without needing external keyboard/mouse.  
 [matano](https://github.com/matanolabs/matano): The open-source security lake platform for AWS  
 [ammonia](https://github.com/rust-ammonia/ammonia): Repair and secure untrusted HTML  
-[HackTheWorld](https://github.com/stormshadow07/HackTheWorld): An Python Script For Generating Payloads that Bypasses All Antivirus so far .
+[HackTheWorld](https://github.com/stormshadow07/HackTheWorld): An Python Script For Generating Payloads that Bypasses All Antivirus so far .  
+[sia-payload](https://github.com/shayanzare/sia-payload): MultiPlatform (mac,linux,windows) Payload For Hack System!
