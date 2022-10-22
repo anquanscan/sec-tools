@@ -6134,4 +6134,5 @@
 [University-Facial-Multifactor-Authentication-System](https://github.com/Shlok-crypto/University-Facial-Multifactor-Authentication-System): I have created a GUI Based Contactless University Access Control, Facial Authentication System. By utilizing OpenCV, Haar Cascade, and Python.   
 [Brutal-FX](https://github.com/redtrib3/Brutal-FX): A brute-force Tool for brute forcing social media accounts such as Facebook , Gmail, Hotmail, Twitter ... And more coming soon.  
 [python_ddos_attack_test](https://github.com/carloocchiena/python_ddos_attack_test): DDoS attack thru a multithread Python script   
-[BitSquatter](https://github.com/CamiloGarciaLaRotta/BitSquatter): Cybersquatting CLI tool
+[BitSquatter](https://github.com/CamiloGarciaLaRotta/BitSquatter): Cybersquatting CLI tool  
+[hacksec-cli](https://github.com/hacksec-in/hacksec-cli): hacksec-cli for hacksec.in
