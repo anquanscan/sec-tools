@@ -6127,4 +6127,5 @@
 [sia-payload](https://github.com/shayanzare/sia-payload): MultiPlatform (mac,linux,windows) Payload For Hack System!  
 [Apex-Spoofer](https://github.com/Fnoberz/Apex-Spoofer): 🃏 Batch File for spoofing and delete track files Easy-Anti Cheat  
 [packetkit](https://github.com/krishpranav/packetkit): An Advanced Network Packet Sniffer Built In Rust  
-[owasp-top-10](https://github.com/minimice/owasp-top-10): Securing Top 10 OWASP vulnerabilities in C#
+[owasp-top-10](https://github.com/minimice/owasp-top-10): Securing Top 10 OWASP vulnerabilities in C#  
+[IDA_Wrapper](https://github.com/cxm95/IDA_Wrapper): An IDA_Wrapper for linux, shipped with an Function Identifier. It works well with Driller on static linked binaries.
