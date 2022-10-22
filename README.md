@@ -6116,4 +6116,5 @@
 [VMProtect_3.6.0.1416_Crack](https://github.com/rrhyast/VMProtect_3.6.0.1416_Crack): VMProtect Ultimate 3.6.0.1416 Cracked  
 [iOScanX](https://github.com/alessiomaffeis/iOScanX): iOScanX (iOS Application Scanner for OS X) is a Cocoa application for semi-automated iOS app analysis and evaluation   
 [aws-tower](https://github.com/leboncoin/aws-tower): AWS Tower give the ability to discover and monitor AWS account to find vulnerabilities or misconfigurations. Give also a brief overview for non-AWS expert. Not related at all of the AWS Trusted Advisor.  
-[glaros_c](https://github.com/ellyzabe8/glaros_c): Simple port scanner for Linu_x0ids (UDP ports and SYN connection will soon be implemented!)
+[glaros_c](https://github.com/ellyzabe8/glaros_c): Simple port scanner for Linu_x0ids (UDP ports and SYN connection will soon be implemented!)  
+[Loki.Rat](https://github.com/TheGeekHT/Loki.Rat): Loki.Rat is a fork of the Ares RAT, it integrates new modules, like recording , lockscreen , and locate options. Loki.Rat is a Python Remote Access Tool.
