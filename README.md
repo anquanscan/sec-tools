@@ -6152,4 +6152,5 @@
 [wireshark-cheatsheet](https://github.com/security-cheatsheet/wireshark-cheatsheet): Wireshark Cheat Sheet  
 [crygen](https://github.com/wcoder/crygen): :key: :lock: Simple tool for encryption data with RSA  
 [HashGenerator](https://github.com/CybeSecurityOficial/HashGenerator): Gerador de hash MD5 e MD4 feito em Python  
-[Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks): A huge chunk of my personal notes since i started playing CTFs and working as a Red Teamer.
+[Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks): A huge chunk of my personal notes since i started playing CTFs and working as a Red Teamer.  
+[passwordcrackingkaliandhashcat](https://github.com/antoniossur/passwordcrackingkaliandhashcat): Password Cracking With Kali Linux and Hashcat.
