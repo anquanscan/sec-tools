@@ -6144,4 +6144,5 @@
 [ScatterFly](https://github.com/nikshepsvn/ScatterFly): An attempt to improve user privacy by intelligent data obfuscation.  
 [knockpy3](https://github.com/nitish800/knockpy3)  
 [IgnoreSudoPass](https://github.com/CristopherVidalMachado/IgnoreSudoPass):   Script  totalmente ignorante que permite executar comandos sudo sem escrever a senha. Use por sua conta e risco.  
-[cpiopwn](https://github.com/fangqyi/cpiopwn): ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185)
+[cpiopwn](https://github.com/fangqyi/cpiopwn): ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185)  
+[jwt-auth-proxy](https://github.com/virtualzone/jwt-auth-proxy): A lightweight JWT authentication proxy written in Go designed for use in Docker/Kubernetes environments.
