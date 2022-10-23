@@ -6150,4 +6150,5 @@
 [bufferOverflowAttack](https://github.com/alex-rantos/bufferOverflowAttack): A buffer overflow attack  
 [oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software.  
 [wireshark-cheatsheet](https://github.com/security-cheatsheet/wireshark-cheatsheet): Wireshark Cheat Sheet  
-[crygen](https://github.com/wcoder/crygen): :key: :lock: Simple tool for encryption data with RSA
+[crygen](https://github.com/wcoder/crygen): :key: :lock: Simple tool for encryption data with RSA  
+[HashGenerator](https://github.com/CybeSecurityOficial/HashGenerator): Gerador de hash MD5 e MD4 feito em Python
