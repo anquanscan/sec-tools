@@ -6154,4 +6154,5 @@
 [HashGenerator](https://github.com/CybeSecurityOficial/HashGenerator): Gerador de hash MD5 e MD4 feito em Python  
 [Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks): A huge chunk of my personal notes since i started playing CTFs and working as a Red Teamer.  
 [passwordcrackingkaliandhashcat](https://github.com/antoniossur/passwordcrackingkaliandhashcat): Password Cracking With Kali Linux and Hashcat.  
-[DogeRat](https://github.com/shivaya-dav/DogeRat): A multifunctional Telegram based Android RAT without port forwarding.
+[DogeRat](https://github.com/shivaya-dav/DogeRat): A multifunctional Telegram based Android RAT without port forwarding.  
+[GPO-Audit](https://github.com/JakePeralta7/GPO-Audit): In this repository I'm going to document the process of a GPO Audit I'm conducting
