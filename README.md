@@ -6143,4 +6143,5 @@
 [Python-utility-scripts](https://github.com/0xbyt3/Python-utility-scripts): Here we put python scripts that are useful and we update them from time to time. I would be happy if you could join me in this work and send me your scripts   
 [ScatterFly](https://github.com/nikshepsvn/ScatterFly): An attempt to improve user privacy by intelligent data obfuscation.  
 [knockpy3](https://github.com/nitish800/knockpy3)  
-[IgnoreSudoPass](https://github.com/CristopherVidalMachado/IgnoreSudoPass):   Script  totalmente ignorante que permite executar comandos sudo sem escrever a senha. Use por sua conta e risco.
+[IgnoreSudoPass](https://github.com/CristopherVidalMachado/IgnoreSudoPass):   Script  totalmente ignorante que permite executar comandos sudo sem escrever a senha. Use por sua conta e risco.  
+[cpiopwn](https://github.com/fangqyi/cpiopwn): ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185)
