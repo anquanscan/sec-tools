@@ -6147,4 +6147,5 @@
 [cpiopwn](https://github.com/fangqyi/cpiopwn): ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185)  
 [jwt-auth-proxy](https://github.com/virtualzone/jwt-auth-proxy): A lightweight JWT authentication proxy written in Go designed for use in Docker/Kubernetes environments.  
 [PasswordOffline](https://github.com/Micxster/PasswordOffline): PasswordOffline is the most secure password generator. It's completely offline, without any access to the internet whatsoever.  
-[bufferOverflowAttack](https://github.com/alex-rantos/bufferOverflowAttack): A buffer overflow attack
+[bufferOverflowAttack](https://github.com/alex-rantos/bufferOverflowAttack): A buffer overflow attack  
+[oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software.
