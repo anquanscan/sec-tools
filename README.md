@@ -6146,4 +6146,5 @@
 [IgnoreSudoPass](https://github.com/CristopherVidalMachado/IgnoreSudoPass):   Script  totalmente ignorante que permite executar comandos sudo sem escrever a senha. Use por sua conta e risco.  
 [cpiopwn](https://github.com/fangqyi/cpiopwn): ACE poc exploit for glibc cpio 2.13 through mmap chunk metadata curruption (CVE-2021-38185)  
 [jwt-auth-proxy](https://github.com/virtualzone/jwt-auth-proxy): A lightweight JWT authentication proxy written in Go designed for use in Docker/Kubernetes environments.  
-[PasswordOffline](https://github.com/Micxster/PasswordOffline): PasswordOffline is the most secure password generator. It's completely offline, without any access to the internet whatsoever.
+[PasswordOffline](https://github.com/Micxster/PasswordOffline): PasswordOffline is the most secure password generator. It's completely offline, without any access to the internet whatsoever.  
+[bufferOverflowAttack](https://github.com/alex-rantos/bufferOverflowAttack): A buffer overflow attack
