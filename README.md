@@ -6159,4 +6159,5 @@
 [Windows-TLS-1.0-1.1-Deprecated-Disable](https://github.com/cbchalmers/Windows-TLS-1.0-1.1-Deprecated-Disable): Disable TLS 1.0 and 1.1 for Client and Server connections on Windows  
 [UnknownVPN](https://github.com/0xShaolin/UnknownVPN): Documentation from me and my team's audit on UnknownVPN  
 [plug_secex](https://github.com/techgaun/plug_secex): Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure  
-[exploiting-smart-contract-vulnerabilities](https://github.com/NZT48/exploiting-smart-contract-vulnerabilities): Repository for "Exploiting smart contract vulnerabilities" bachelor thesis at School of Electrical Engineering, University of Belgrade. Paper (in Serbian) with 5 examples of vulnerable smart contracts and exploitation of them.
+[exploiting-smart-contract-vulnerabilities](https://github.com/NZT48/exploiting-smart-contract-vulnerabilities): Repository for "Exploiting smart contract vulnerabilities" bachelor thesis at School of Electrical Engineering, University of Belgrade. Paper (in Serbian) with 5 examples of vulnerable smart contracts and exploitation of them.  
+[miniServerNodejs](https://github.com/momenbasel/miniServerNodejs): a mini-server using node js for creating static web sites.
