@@ -6165,4 +6165,5 @@
 [pyrdp](https://github.com/GoSecure/pyrdp): RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact  
 [SHA3ImplementedInsideofaRARfile](https://github.com/zv/SHA3ImplementedInsideofaRARfile): The Keccak hash algorithm implemented inside of a RAR archive using the RAR filter assembly language  
 [Fail2WP](https://github.com/joho1968/Fail2WP): WordPress plugin providing security functionality, plays nicely with Fail2ban and Cloudflare. Verified with WordPress 5.8.  
-[webinars](https://github.com/avishayil/webinars): A collection of Avishay Bar's webinars, slide decks, recordings and overviews
+[webinars](https://github.com/avishayil/webinars): A collection of Avishay Bar's webinars, slide decks, recordings and overviews  
+[visual-forensic-analysis](https://github.com/nshadov/visual-forensic-analysis): Set of helpers to visualize relations between events over time with Gephi
