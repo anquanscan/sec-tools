@@ -6163,4 +6163,5 @@
 [miniServerNodejs](https://github.com/momenbasel/miniServerNodejs): a mini-server using node js for creating static web sites.  
 [domain-audit-mgt](https://github.com/cybnity/domain-audit-mgt): All the features and services realized by the security Audit bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
 [pyrdp](https://github.com/GoSecure/pyrdp): RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact  
-[SHA3ImplementedInsideofaRARfile](https://github.com/zv/SHA3ImplementedInsideofaRARfile): The Keccak hash algorithm implemented inside of a RAR archive using the RAR filter assembly language
+[SHA3ImplementedInsideofaRARfile](https://github.com/zv/SHA3ImplementedInsideofaRARfile): The Keccak hash algorithm implemented inside of a RAR archive using the RAR filter assembly language  
+[Fail2WP](https://github.com/joho1968/Fail2WP): WordPress plugin providing security functionality, plays nicely with Fail2ban and Cloudflare. Verified with WordPress 5.8.
