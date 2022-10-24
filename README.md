@@ -6167,4 +6167,5 @@
 [Fail2WP](https://github.com/joho1968/Fail2WP): WordPress plugin providing security functionality, plays nicely with Fail2ban and Cloudflare. Verified with WordPress 5.8.  
 [webinars](https://github.com/avishayil/webinars): A collection of Avishay Bar's webinars, slide decks, recordings and overviews  
 [visual-forensic-analysis](https://github.com/nshadov/visual-forensic-analysis): Set of helpers to visualize relations between events over time with Gephi  
-[dockerfile-security](https://github.com/cr0hn/dockerfile-security): Static security checker for Dockerfiles
+[dockerfile-security](https://github.com/cr0hn/dockerfile-security): Static security checker for Dockerfiles  
+[Cyborg-Daily-Projects](https://github.com/The-Cyborg-Hunters/Cyborg-Daily-Projects): Let's start hacking
