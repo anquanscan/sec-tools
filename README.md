@@ -6179,4 +6179,5 @@
 [iKy](https://github.com/kennbroorg/iKy): OSINT Project  
 [FWLR](https://github.com/MTJailed/FWLR): iOS Framework and Library Reversing Tool  
 [DocIntel](https://github.com/docintelapp/DocIntel): Open Source Platform for storing, organizing, and searching documents related to cyber threats  
-[SmartContracts](https://github.com/cedricwalter/SmartContracts): Collection of links, tools for securing Smart Contracts
+[SmartContracts](https://github.com/cedricwalter/SmartContracts): Collection of links, tools for securing Smart Contracts  
+[infected_virus](https://github.com/Ananya-0306/infected_virus): Python virus that will make your pc paralyzed once it opened :D
