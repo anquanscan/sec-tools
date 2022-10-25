@@ -6170,4 +6170,5 @@
 [dockerfile-security](https://github.com/cr0hn/dockerfile-security): Static security checker for Dockerfiles  
 [Cyborg-Daily-Projects](https://github.com/The-Cyborg-Hunters/Cyborg-Daily-Projects): Let's start hacking  
 [W3WProtect](https://github.com/bmcder02/W3WProtect): W3WProtect is a PoC Driver that protects IIS from exploitation.  
-[CVE-2022-42889-PoC](https://github.com/SeanWrightSec/CVE-2022-42889-PoC): Proof of Concept for the Apache commons-text vulnerability CVE-2022-42889.
+[CVE-2022-42889-PoC](https://github.com/SeanWrightSec/CVE-2022-42889-PoC): Proof of Concept for the Apache commons-text vulnerability CVE-2022-42889.  
+[dc4d-june-2017-notes](https://github.com/rodericktech/dc4d-june-2017-notes): Notes I took during DayCamp4Developers, June 2017.
