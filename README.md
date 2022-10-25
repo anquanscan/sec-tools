@@ -6174,4 +6174,5 @@
 [dc4d-june-2017-notes](https://github.com/rodericktech/dc4d-june-2017-notes): Notes I took during DayCamp4Developers, June 2017.  
 [HomeLess-HomeLAB](https://github.com/Homeless-Xu/HomeLess-HomeLAB): Notes AIO  
 [MySQL-HOWTOs](https://github.com/wwwted/MySQL-HOWTOs): Easy to follow howto's for tools around MySQL  
-[Secure-Desktop](https://github.com/AlphaDelta/Secure-Desktop): Anti-keylogger/anti-rat application for Windows
+[Secure-Desktop](https://github.com/AlphaDelta/Secure-Desktop): Anti-keylogger/anti-rat application for Windows  
+[padding_oracle_attack](https://github.com/yhuangbl/padding_oracle_attack): programming assignment for COMP 3632
