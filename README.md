@@ -6180,4 +6180,5 @@
 [FWLR](https://github.com/MTJailed/FWLR): iOS Framework and Library Reversing Tool  
 [DocIntel](https://github.com/docintelapp/DocIntel): Open Source Platform for storing, organizing, and searching documents related to cyber threats  
 [SmartContracts](https://github.com/cedricwalter/SmartContracts): Collection of links, tools for securing Smart Contracts  
-[infected_virus](https://github.com/Ananya-0306/infected_virus): Python virus that will make your pc paralyzed once it opened :D
+[infected_virus](https://github.com/Ananya-0306/infected_virus): Python virus that will make your pc paralyzed once it opened :D  
+[cisco-h](https://github.com/anouarbensaad/cisco-h): This tool is virtual cisco_router to simulate telnet hacker connexion in Python which logs HackerIP and Command Lines
