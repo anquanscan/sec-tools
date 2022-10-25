@@ -6177,4 +6177,5 @@
 [Secure-Desktop](https://github.com/AlphaDelta/Secure-Desktop): Anti-keylogger/anti-rat application for Windows  
 [padding_oracle_attack](https://github.com/yhuangbl/padding_oracle_attack): programming assignment for COMP 3632  
 [iKy](https://github.com/kennbroorg/iKy): OSINT Project  
-[FWLR](https://github.com/MTJailed/FWLR): iOS Framework and Library Reversing Tool
+[FWLR](https://github.com/MTJailed/FWLR): iOS Framework and Library Reversing Tool  
+[DocIntel](https://github.com/docintelapp/DocIntel): Open Source Platform for storing, organizing, and searching documents related to cyber threats
