@@ -6173,4 +6173,5 @@
 [CVE-2022-42889-PoC](https://github.com/SeanWrightSec/CVE-2022-42889-PoC): Proof of Concept for the Apache commons-text vulnerability CVE-2022-42889.  
 [dc4d-june-2017-notes](https://github.com/rodericktech/dc4d-june-2017-notes): Notes I took during DayCamp4Developers, June 2017.  
 [HomeLess-HomeLAB](https://github.com/Homeless-Xu/HomeLess-HomeLAB): Notes AIO  
-[MySQL-HOWTOs](https://github.com/wwwted/MySQL-HOWTOs): Easy to follow howto's for tools around MySQL
+[MySQL-HOWTOs](https://github.com/wwwted/MySQL-HOWTOs): Easy to follow howto's for tools around MySQL  
+[Secure-Desktop](https://github.com/AlphaDelta/Secure-Desktop): Anti-keylogger/anti-rat application for Windows
