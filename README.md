@@ -6191,4 +6191,5 @@
 [AspNetCoreHybridFlowWithApi](https://github.com/damienbod/AspNetCoreHybridFlowWithApi): Differrent ASP.NET Core applications using OpenID Connect Hybrid flow Code Flow, Code Flow with PKCE, JWT APIs, MFA examples  
 [cybermomentum-web](https://github.com/marcoramilli/cybermomentum-web): CyberSecurity Momentum. Sentiment analysis over CyberSecurity Information Community  
 [safetynethelper](https://github.com/scottyab/safetynethelper): SafetyNet Helper wraps the Google Play Services SafetyNet.API and verifies Safety Net API response with the Android Device Verification API.  
-[gitleaks-action](https://github.com/gitleaks/gitleaks-action): Protect your secrets using Gitleaks-Action
+[gitleaks-action](https://github.com/gitleaks/gitleaks-action): Protect your secrets using Gitleaks-Action  
+[run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4): Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
