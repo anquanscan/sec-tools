@@ -6187,4 +6187,5 @@
 [git-hooks](https://github.com/kintoandar/git-hooks): github_email_verify: Avoid committing to github with your corporate email  
 [Keystroke-dynamics](https://github.com/bikramb98/Keystroke-dynamics)  
 [Jersey2-Security-JWT](https://github.com/psenger/Jersey2-Security-JWT): Jersey 2 with JWT Token Security  
-[topmostp](https://github.com/cybersecsi/topmostp): A simple CLI tool to retrieve the N top most used ports
+[topmostp](https://github.com/cybersecsi/topmostp): A simple CLI tool to retrieve the N top most used ports  
+[AspNetCoreHybridFlowWithApi](https://github.com/damienbod/AspNetCoreHybridFlowWithApi): Differrent ASP.NET Core applications using OpenID Connect Hybrid flow Code Flow, Code Flow with PKCE, JWT APIs, MFA examples
