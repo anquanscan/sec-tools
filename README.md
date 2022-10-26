@@ -6199,4 +6199,5 @@
 [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner  
 [RSA-Cryptography](https://github.com/Axelvel/RSA-Cryptography): Secure message transfer between 2 peers using RSA encryption  
 [PassGen-python](https://github.com/GrobranGG/PassGen-python): My first project that I'm posting on GitHub. This is a strong password generator. I hope you enjoy it!  
-[YASE-Encoder](https://github.com/DarkCoderSc/YASE-Encoder): Yet Another Sub Encoder (YASE)
+[YASE-Encoder](https://github.com/DarkCoderSc/YASE-Encoder): Yet Another Sub Encoder (YASE)  
+[TurkceKaynaklar](https://github.com/coderserdar/TurkceKaynaklar): Yazılım geliştirme ve genel olarak BT konularında (Siber Güvenlik, Veri Tabanı, Network, İşletim Sistemleri, Veri Yapıları ve Algoritmalar vb.) çeşitli kategorilerde türkçe kaynakların bulunduğu bir repo adresi
