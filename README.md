@@ -6189,4 +6189,5 @@
 [Jersey2-Security-JWT](https://github.com/psenger/Jersey2-Security-JWT): Jersey 2 with JWT Token Security  
 [topmostp](https://github.com/cybersecsi/topmostp): A simple CLI tool to retrieve the N top most used ports  
 [AspNetCoreHybridFlowWithApi](https://github.com/damienbod/AspNetCoreHybridFlowWithApi): Differrent ASP.NET Core applications using OpenID Connect Hybrid flow Code Flow, Code Flow with PKCE, JWT APIs, MFA examples  
-[cybermomentum-web](https://github.com/marcoramilli/cybermomentum-web): CyberSecurity Momentum. Sentiment analysis over CyberSecurity Information Community
+[cybermomentum-web](https://github.com/marcoramilli/cybermomentum-web): CyberSecurity Momentum. Sentiment analysis over CyberSecurity Information Community  
+[safetynethelper](https://github.com/scottyab/safetynethelper): SafetyNet Helper wraps the Google Play Services SafetyNet.API and verifies Safety Net API response with the Android Device Verification API.
