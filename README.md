@@ -6210,4 +6210,5 @@
 [FakeWifi](https://github.com/HUGOW04/FakeWifi): Phishing is a type of social engineering where an attacker sends a fraudulent (e.g., spoofed, fake, or otherwise deceptive) message designed to trick a person into revealing sensitive information to the attacker or to deploy malicious software on the victim's infrastructure like ransomware.  
 [teamvault](https://github.com/seibert-media/teamvault): Keep your company's passwords behind the firewall  
 [h1rd](https://github.com/dokkillo/h1rd): Blog sobre Pentesting web y bughunting www.h1rd.com  
-[the-thor_vulnerability](https://github.com/satoki/the-thor_vulnerability): 👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day) 
+[the-thor_vulnerability](https://github.com/satoki/the-thor_vulnerability): 👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day)   
+[NatalMaisSegura](https://github.com/ErnaneJ/NatalMaisSegura): como modo de solucionar e auxiliar a segurança natalense, o projeto Natal + Segura consiste em implementar duas plataformas, uma mais simples e voltada para dispositivos móveis e outra mais trabalhada, sendo um site responsivo.
