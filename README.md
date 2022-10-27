@@ -6211,4 +6211,5 @@
 [teamvault](https://github.com/seibert-media/teamvault): Keep your company's passwords behind the firewall  
 [h1rd](https://github.com/dokkillo/h1rd): Blog sobre Pentesting web y bughunting www.h1rd.com  
 [the-thor_vulnerability](https://github.com/satoki/the-thor_vulnerability): 👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day)   
-[NatalMaisSegura](https://github.com/ErnaneJ/NatalMaisSegura): como modo de solucionar e auxiliar a segurança natalense, o projeto Natal + Segura consiste em implementar duas plataformas, uma mais simples e voltada para dispositivos móveis e outra mais trabalhada, sendo um site responsivo.
+[NatalMaisSegura](https://github.com/ErnaneJ/NatalMaisSegura): como modo de solucionar e auxiliar a segurança natalense, o projeto Natal + Segura consiste em implementar duas plataformas, uma mais simples e voltada para dispositivos móveis e outra mais trabalhada, sendo um site responsivo.  
+[888-RAT](https://github.com/Jennahacker/888-RAT): 888 RAT 1.2.4 Latest Version Lifetime – 2022
