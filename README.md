@@ -6220,4 +6220,5 @@
 [HardHat](https://github.com/TerribleDev/HardHat): Help secure .net core apps with various HTTP headers (such as CSP's)  
 [hardenedpaste](https://github.com/rocketshipapps/hardenedpaste): [Retired] Hardened Paste is a browser extension that prevents the “pastejacking” exploit.  
 [pirebok](https://github.com/dogancanbakir/pirebok): pîrebok (from Kurdish "witch") - a guided adversarial fuzzer  
-[sks-exploit](https://github.com/yanalunaterra/sks-exploit): Tools to break gpg --recv, add fake identities, and DoS SKS keyservers
+[sks-exploit](https://github.com/yanalunaterra/sks-exploit): Tools to break gpg --recv, add fake identities, and DoS SKS keyservers  
+[Advanced-Motion-Detection-System](https://github.com/sakearzoo/Advanced-Motion-Detection-System): It's a motion detection system using Raspberry pi.
