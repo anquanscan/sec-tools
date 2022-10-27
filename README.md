@@ -6205,4 +6205,5 @@
 [fibratus](https://github.com/rabbitstack/fibratus): A modern tool for Windows kernel exploration and tracing with a focus on security   
 [Internet-History-Technology-and-Security-Coursera-Solution](https://github.com/Saket-Kr/Internet-History-Technology-and-Security-Coursera-Solution): This repository contains the solutions that I submitted for the course 'Internet History, Technology, and Security' on Coursera by the University of Michigan.   
 [spicedb-operator](https://github.com/authzed/spicedb-operator): Kubernetes controller for managing instances of SpiceDB  
-[C-Cheat-Template](https://github.com/0xvpr/C-Cheat-Template): Template for video-game hacking using C and Assembly.
+[C-Cheat-Template](https://github.com/0xvpr/C-Cheat-Template): Template for video-game hacking using C and Assembly.  
+[is-password-compromised](https://github.com/yanivmo/is-password-compromised): Check securely whether a password is listed on haveibeenpwned.com
