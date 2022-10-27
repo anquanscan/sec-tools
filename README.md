@@ -6213,4 +6213,5 @@
 [the-thor_vulnerability](https://github.com/satoki/the-thor_vulnerability): 👻 [PoC] WordPress Theme THE THOR 2.2.1 - Cross Site Scripting (0day)   
 [NatalMaisSegura](https://github.com/ErnaneJ/NatalMaisSegura): como modo de solucionar e auxiliar a segurança natalense, o projeto Natal + Segura consiste em implementar duas plataformas, uma mais simples e voltada para dispositivos móveis e outra mais trabalhada, sendo um site responsivo.  
 [888-RAT](https://github.com/Jennahacker/888-RAT): 888 RAT 1.2.4 Latest Version Lifetime – 2022  
-[goshell](https://github.com/firefart/goshell): Simple golang reverse shell
+[goshell](https://github.com/firefart/goshell): Simple golang reverse shell  
+[sql-injection-hacker-challenge](https://github.com/seraph776/sql-injection-hacker-challenge): A Python script to conduct a SQL Injection attack on a mock database designed for this challenge. 
