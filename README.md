@@ -6218,4 +6218,5 @@
 [SecopsTools](https://github.com/afrosecops/SecopsTools): Toolkit with Powershell scripts for day to day security operation tasks  
 [Secure-Bharat](https://github.com/piyusharma95/Secure-Bharat): Secure Bharat ~ project exhibited in Smart India Hackathon 2k17  
 [HardHat](https://github.com/TerribleDev/HardHat): Help secure .net core apps with various HTTP headers (such as CSP's)  
-[hardenedpaste](https://github.com/rocketshipapps/hardenedpaste): [Retired] Hardened Paste is a browser extension that prevents the “pastejacking” exploit.
+[hardenedpaste](https://github.com/rocketshipapps/hardenedpaste): [Retired] Hardened Paste is a browser extension that prevents the “pastejacking” exploit.  
+[pirebok](https://github.com/dogancanbakir/pirebok): pîrebok (from Kurdish "witch") - a guided adversarial fuzzer
