@@ -6206,4 +6206,5 @@
 [Internet-History-Technology-and-Security-Coursera-Solution](https://github.com/Saket-Kr/Internet-History-Technology-and-Security-Coursera-Solution): This repository contains the solutions that I submitted for the course 'Internet History, Technology, and Security' on Coursera by the University of Michigan.   
 [spicedb-operator](https://github.com/authzed/spicedb-operator): Kubernetes controller for managing instances of SpiceDB  
 [C-Cheat-Template](https://github.com/0xvpr/C-Cheat-Template): Template for video-game hacking using C and Assembly.  
-[is-password-compromised](https://github.com/yanivmo/is-password-compromised): Check securely whether a password is listed on haveibeenpwned.com
+[is-password-compromised](https://github.com/yanivmo/is-password-compromised): Check securely whether a password is listed on haveibeenpwned.com  
+[FakeWifi](https://github.com/HUGOW04/FakeWifi): Phishing is a type of social engineering where an attacker sends a fraudulent (e.g., spoofed, fake, or otherwise deceptive) message designed to trick a person into revealing sensitive information to the attacker or to deploy malicious software on the victim's infrastructure like ransomware.
