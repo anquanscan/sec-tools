@@ -6208,4 +6208,5 @@
 [C-Cheat-Template](https://github.com/0xvpr/C-Cheat-Template): Template for video-game hacking using C and Assembly.  
 [is-password-compromised](https://github.com/yanivmo/is-password-compromised): Check securely whether a password is listed on haveibeenpwned.com  
 [FakeWifi](https://github.com/HUGOW04/FakeWifi): Phishing is a type of social engineering where an attacker sends a fraudulent (e.g., spoofed, fake, or otherwise deceptive) message designed to trick a person into revealing sensitive information to the attacker or to deploy malicious software on the victim's infrastructure like ransomware.  
-[teamvault](https://github.com/seibert-media/teamvault): Keep your company's passwords behind the firewall
+[teamvault](https://github.com/seibert-media/teamvault): Keep your company's passwords behind the firewall  
+[h1rd](https://github.com/dokkillo/h1rd): Blog sobre Pentesting web y bughunting www.h1rd.com
