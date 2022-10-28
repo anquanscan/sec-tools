@@ -6229,4 +6229,5 @@
 [hls-crypto](https://github.com/petrsocha/hls-crypto): FPGA Cryptography for High-Level Synthesis  
 [Intrusion_Detection](https://github.com/chsharma27/Intrusion_Detection): A research work to create an effective IDS  
 [pretender](https://github.com/RedTeamPentesting/pretender): Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.  
-[minijail](https://github.com/google/minijail): sandboxing and containment tool used in ChromeOS and Android
+[minijail](https://github.com/google/minijail): sandboxing and containment tool used in ChromeOS and Android  
+[blooket-hack-](https://github.com/Harry-P-Ness/blooket-hack-): Multiple hacks that breaks the game
