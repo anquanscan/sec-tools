@@ -6224,4 +6224,5 @@
 [Advanced-Motion-Detection-System](https://github.com/sakearzoo/Advanced-Motion-Detection-System): It's a motion detection system using Raspberry pi.  
 [Phishman](https://github.com/ExsoKamabay/Phishman): python phishing complete GUI based  
 [CVE-2022-40471](https://github.com/RashidKhanPathan/CVE-2022-40471): RCE Exploit and Research   
-[rubber-ducky](https://github.com/ratalla816/rubber-ducky): Ethical hacking device that grabs WIFI passwords and sends them as plain text to a webhook page to be retrieved later.
+[rubber-ducky](https://github.com/ratalla816/rubber-ducky): Ethical hacking device that grabs WIFI passwords and sends them as plain text to a webhook page to be retrieved later.  
+[Secure-Me](https://github.com/ChanJianHao/Secure-Me): SecureMe is a chatbot which helps you to adopt a better cyber hygiene! It can do many things, such as checking if your personal information is leaked online
