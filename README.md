@@ -6227,4 +6227,5 @@
 [rubber-ducky](https://github.com/ratalla816/rubber-ducky): Ethical hacking device that grabs WIFI passwords and sends them as plain text to a webhook page to be retrieved later.  
 [Secure-Me](https://github.com/ChanJianHao/Secure-Me): SecureMe is a chatbot which helps you to adopt a better cyber hygiene! It can do many things, such as checking if your personal information is leaked online  
 [hls-crypto](https://github.com/petrsocha/hls-crypto): FPGA Cryptography for High-Level Synthesis  
-[Intrusion_Detection](https://github.com/chsharma27/Intrusion_Detection): A research work to create an effective IDS
+[Intrusion_Detection](https://github.com/chsharma27/Intrusion_Detection): A research work to create an effective IDS  
+[pretender](https://github.com/RedTeamPentesting/pretender): Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
