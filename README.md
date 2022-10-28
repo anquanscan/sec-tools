@@ -6231,4 +6231,5 @@
 [pretender](https://github.com/RedTeamPentesting/pretender): Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.  
 [minijail](https://github.com/google/minijail): sandboxing and containment tool used in ChromeOS and Android  
 [blooket-hack-](https://github.com/Harry-P-Ness/blooket-hack-): Multiple hacks that breaks the game  
-[inspectorgadget](https://github.com/0x706972686f/inspectorgadget): Inspector Gadget is a central API to retrieve information from multiple APIs. It's specifically tailored for SOCs with Indicators of Compromise (IOCs) from multiple endpoints such as VirusTotal and GreyNoise.
+[inspectorgadget](https://github.com/0x706972686f/inspectorgadget): Inspector Gadget is a central API to retrieve information from multiple APIs. It's specifically tailored for SOCs with Indicators of Compromise (IOCs) from multiple endpoints such as VirusTotal and GreyNoise.  
+[hacktaedork](https://github.com/NeloF4/hacktaedork): HACK TAE BING DORKER 
