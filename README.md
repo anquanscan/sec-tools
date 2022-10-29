@@ -6241,4 +6241,5 @@
 [AI-for-Security-Testing](https://github.com/404notf0und/AI-for-Security-Testing): My AI security testing projects  
 [Digital-Forensics-with-Kali-Linux](https://github.com/PacktPublishing/Digital-Forensics-with-Kali-Linux): Digital Forensics with Kali Linux, published by Packt  
 [Fivem-SDK](https://github.com/Fnoberz/Fivem-SDK):  💪Open Source Spoofer Change Hardware IDS / S.N   
-[kdfn](https://github.com/cryptohazard/kdfn): miscellaneous on hacking/securiy
+[kdfn](https://github.com/cryptohazard/kdfn): miscellaneous on hacking/securiy  
+[mozilla-password-decrypt](https://github.com/hartwork/mozilla-password-decrypt): :unlock: Decrypt passwords stored by Firefox, Thunderbird, Iceweasel, Icedove using libnss3.so
