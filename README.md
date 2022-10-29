@@ -6236,4 +6236,5 @@
 [cmstplua-uac-bypass](https://github.com/tijme/cmstplua-uac-bypass): Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface.  
 [ChromePass](https://github.com/cristianzsh/ChromePass): :mag: A simple script to show your Chrome passwords  
 [osctrl](https://github.com/jmpsec/osctrl): Fast and efficient osquery management  
-[kali-tools](https://github.com/mrxroot1337/kali-tools)
+[kali-tools](https://github.com/mrxroot1337/kali-tools)  
+[guebzine](https://github.com/jalbam/guebzine): [GüebZine] Webzine which I started in 1998 using HTML and a little bit of JavaScript.
