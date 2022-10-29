@@ -6234,4 +6234,5 @@
 [inspectorgadget](https://github.com/0x706972686f/inspectorgadget): Inspector Gadget is a central API to retrieve information from multiple APIs. It's specifically tailored for SOCs with Indicators of Compromise (IOCs) from multiple endpoints such as VirusTotal and GreyNoise.  
 [hacktaedork](https://github.com/NeloF4/hacktaedork): HACK TAE BING DORKER   
 [cmstplua-uac-bypass](https://github.com/tijme/cmstplua-uac-bypass): Cobalt Strike Beacon Object File for bypassing UAC via the CMSTPLUA COM interface.  
-[ChromePass](https://github.com/cristianzsh/ChromePass): :mag: A simple script to show your Chrome passwords
+[ChromePass](https://github.com/cristianzsh/ChromePass): :mag: A simple script to show your Chrome passwords  
+[osctrl](https://github.com/jmpsec/osctrl): Fast and efficient osquery management
