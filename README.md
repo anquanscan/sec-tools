@@ -6240,4 +6240,5 @@
 [guebzine](https://github.com/jalbam/guebzine): [GüebZine] Webzine which I started in 1998 using HTML and a little bit of JavaScript.  
 [AI-for-Security-Testing](https://github.com/404notf0und/AI-for-Security-Testing): My AI security testing projects  
 [Digital-Forensics-with-Kali-Linux](https://github.com/PacktPublishing/Digital-Forensics-with-Kali-Linux): Digital Forensics with Kali Linux, published by Packt  
-[Fivem-SDK](https://github.com/Fnoberz/Fivem-SDK):  💪Open Source Spoofer Change Hardware IDS / S.N 
+[Fivem-SDK](https://github.com/Fnoberz/Fivem-SDK):  💪Open Source Spoofer Change Hardware IDS / S.N   
+[kdfn](https://github.com/cryptohazard/kdfn): miscellaneous on hacking/securiy
