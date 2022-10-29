@@ -6246,4 +6246,5 @@
 [lock_screen](https://github.com/scriptmunkeeofficial/lock_screen): a simple AppleScript app that lets you lock your mac from Finder or the command line  
 [HackTheClass](https://github.com/1umpus/HackTheClass): CMSC389R course at UMD  
 [Fivem-Spoofer](https://github.com/Fnoberz/Fivem-Spoofer): 💼 Batch file Remove trace file + server log and registy / clean  
-[HCReferee](https://github.com/Hacker-Combat-Organization/HCReferee): Referee Tools for running HC-based competitions
+[HCReferee](https://github.com/Hacker-Combat-Organization/HCReferee): Referee Tools for running HC-based competitions  
+[SynSharp](https://github.com/ancailliau/SynSharp): A C# client for Vertex Synapse
