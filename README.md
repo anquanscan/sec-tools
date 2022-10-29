@@ -6243,4 +6243,5 @@
 [Fivem-SDK](https://github.com/Fnoberz/Fivem-SDK):  💪Open Source Spoofer Change Hardware IDS / S.N   
 [kdfn](https://github.com/cryptohazard/kdfn): miscellaneous on hacking/securiy  
 [mozilla-password-decrypt](https://github.com/hartwork/mozilla-password-decrypt): :unlock: Decrypt passwords stored by Firefox, Thunderbird, Iceweasel, Icedove using libnss3.so  
-[lock_screen](https://github.com/scriptmunkeeofficial/lock_screen): a simple AppleScript app that lets you lock your mac from Finder or the command line
+[lock_screen](https://github.com/scriptmunkeeofficial/lock_screen): a simple AppleScript app that lets you lock your mac from Finder or the command line  
+[HackTheClass](https://github.com/1umpus/HackTheClass): CMSC389R course at UMD
