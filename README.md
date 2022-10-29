@@ -6237,4 +6237,5 @@
 [ChromePass](https://github.com/cristianzsh/ChromePass): :mag: A simple script to show your Chrome passwords  
 [osctrl](https://github.com/jmpsec/osctrl): Fast and efficient osquery management  
 [kali-tools](https://github.com/mrxroot1337/kali-tools)  
-[guebzine](https://github.com/jalbam/guebzine): [GüebZine] Webzine which I started in 1998 using HTML and a little bit of JavaScript.
+[guebzine](https://github.com/jalbam/guebzine): [GüebZine] Webzine which I started in 1998 using HTML and a little bit of JavaScript.  
+[AI-for-Security-Testing](https://github.com/404notf0und/AI-for-Security-Testing): My AI security testing projects
