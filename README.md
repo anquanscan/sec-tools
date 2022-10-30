@@ -6274,4 +6274,5 @@
 [turbinia](https://github.com/google/turbinia): Automation and Scaling of Digital Forensics Tools  
 [nodejs-security-guide](https://github.com/shaikh-shahid/nodejs-security-guide): A Comprehensive Guide to Build Secure Node.js Applications.  
 [aiengine-examples](https://github.com/camp0/aiengine-examples): Some examples for AIEngine in python  
-[LulzoMent](https://github.com/seahorse1seahorse/LulzoMent): DDoSing tool I made
+[LulzoMent](https://github.com/seahorse1seahorse/LulzoMent): DDoSing tool I made  
+[fuzztest-rs](https://github.com/PaulGrandperrin/fuzztest-rs): Easily test your software using powerful evolutionary, feedback-driven fuzzing technology.
