@@ -6266,4 +6266,5 @@
 [yubikey-kde-screensaver](https://github.com/nshadov/yubikey-kde-screensaver): Lock KDE desktop screensaver when Yubikey is removed from USB.  
 [kmlextractor](https://github.com/gocaio/kmlextractor): KML Metadata Extractor for Goca  
 [maskurl](https://github.com/haithamaouati/maskurl): MaskURL 🎭 is an simple, small tool written in Bash Scripting for hide phishing URL under a normal looking URL with (HTTP/HTTPS) protocol and link path words.  
-[kc7](https://github.com/kkneomis/kc7): A cybersecurity game in Azure Data Explorer
+[kc7](https://github.com/kkneomis/kc7): A cybersecurity game in Azure Data Explorer  
+[sdto](https://github.com/scanfactory/sdto): Subdomain takeover finder CLI tool and Python library
