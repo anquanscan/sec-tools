@@ -6262,4 +6262,5 @@
 [digital-certified-mail](https://github.com/IkwhanChang/digital-certified-mail): Digital Certified E-mail by using Pretty Good Privacy  
 [vChallenge-2.0](https://github.com/MachiavelSST/vChallenge-2.0): vChallenge 2.0 - Open Source PHP Bot Checker.  
 [SettingContent-MS-File-Execution](https://github.com/bvoris/SettingContent-MS-File-Execution): SettingContent-MS File Execution vulnerability in Windows 10   
-[Ciberseguridad_web](https://github.com/i2tResearch/Ciberseguridad_web): Research projects in cybersercurity and data science that have been proposed by the software engineering students  (now professionals) from ICESI university.
+[Ciberseguridad_web](https://github.com/i2tResearch/Ciberseguridad_web): Research projects in cybersercurity and data science that have been proposed by the software engineering students  (now professionals) from ICESI university.  
+[yubikey-kde-screensaver](https://github.com/nshadov/yubikey-kde-screensaver): Lock KDE desktop screensaver when Yubikey is removed from USB.
