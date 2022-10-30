@@ -6256,4 +6256,5 @@
 [break_the_ice](https://github.com/Sector443/break_the_ice): Break the ice was a hardware ctf hosted offline by Securelayer7 during Nullcon 2019 Goa.  
 [password_cracking_jgc](https://github.com/gcjordi/password_cracking_jgc): Password Cracker Apli  
 [Cyber-security-docs](https://github.com/PritamSarbajna/Cyber-security-docs): I'm Documenting my cyber security learning in this repo.  
-[DEEPGLASS](https://github.com/Jack-McDowell/DEEPGLASS): DEEPGLASS is a sysinternals-style tool designed to identify and collect potentially malicious files across a system
+[DEEPGLASS](https://github.com/Jack-McDowell/DEEPGLASS): DEEPGLASS is a sysinternals-style tool designed to identify and collect potentially malicious files across a system  
+[rctf-scenario1](https://github.com/aliasrobotics/rctf-scenario1): Robotics CTF scenario 1
