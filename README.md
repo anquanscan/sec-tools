@@ -6273,4 +6273,5 @@
 [Hacking-Write-ups](https://github.com/kangvcar/Hacking-Write-ups): A collection of awesome write-ups from topics ranging from CVE, vulnHub, CTFs, Hack the box walkthroughs, real-life encounters and everything which can help other enthusiasts learn.  
 [turbinia](https://github.com/google/turbinia): Automation and Scaling of Digital Forensics Tools  
 [nodejs-security-guide](https://github.com/shaikh-shahid/nodejs-security-guide): A Comprehensive Guide to Build Secure Node.js Applications.  
-[aiengine-examples](https://github.com/camp0/aiengine-examples): Some examples for AIEngine in python
+[aiengine-examples](https://github.com/camp0/aiengine-examples): Some examples for AIEngine in python  
+[LulzoMent](https://github.com/seahorse1seahorse/LulzoMent): DDoSing tool I made
