@@ -6271,4 +6271,5 @@
 [Log-4j-scanner](https://github.com/Ananya-0306/Log-4j-scanner): A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228  
 [DomainScanner](https://github.com/JubyL3y/DomainScanner): A simple script to automate the search for subdomains and their scanning  
 [Hacking-Write-ups](https://github.com/kangvcar/Hacking-Write-ups): A collection of awesome write-ups from topics ranging from CVE, vulnHub, CTFs, Hack the box walkthroughs, real-life encounters and everything which can help other enthusiasts learn.  
-[turbinia](https://github.com/google/turbinia): Automation and Scaling of Digital Forensics Tools
+[turbinia](https://github.com/google/turbinia): Automation and Scaling of Digital Forensics Tools  
+[nodejs-security-guide](https://github.com/shaikh-shahid/nodejs-security-guide): A Comprehensive Guide to Build Secure Node.js Applications.
