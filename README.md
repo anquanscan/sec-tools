@@ -6267,4 +6267,5 @@
 [kmlextractor](https://github.com/gocaio/kmlextractor): KML Metadata Extractor for Goca  
 [maskurl](https://github.com/haithamaouati/maskurl): MaskURL 🎭 is an simple, small tool written in Bash Scripting for hide phishing URL under a normal looking URL with (HTTP/HTTPS) protocol and link path words.  
 [kc7](https://github.com/kkneomis/kc7): A cybersecurity game in Azure Data Explorer  
-[sdto](https://github.com/scanfactory/sdto): Subdomain takeover finder CLI tool and Python library
+[sdto](https://github.com/scanfactory/sdto): Subdomain takeover finder CLI tool and Python library  
+[Log-4j-scanner](https://github.com/Ananya-0306/Log-4j-scanner): A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
