@@ -6283,4 +6283,5 @@
 [CyberPecker](https://github.com/hitesh22rana/CyberPecker): Latest Cyber Security/Hacking News Updates   
 [Scythe-AntiCheat](https://github.com/Roszalletto/Scythe-AntiCheat): Scythe AntiCheat The best minecraft bedrock anticheat designed for realms worlds and servers  
 [edb-debugger](https://github.com/eteran/edb-debugger): edb is a cross-platform AArch32/x86/x86-64 debugger.  
-[e-commerce-backend](https://github.com/cenkerkumlucali/e-commerce-backend): Shopping site backend which used Asp.Net Web API, JWT, Cache, Log, SqlServer, Entity Framework Core and N-Layer Architecture implementation.
+[e-commerce-backend](https://github.com/cenkerkumlucali/e-commerce-backend): Shopping site backend which used Asp.Net Web API, JWT, Cache, Log, SqlServer, Entity Framework Core and N-Layer Architecture implementation.  
+[scriptsPentest](https://github.com/LailaFerreira/scriptsPentest): Scripts para estudo de penetration tests.
