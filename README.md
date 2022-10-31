@@ -6287,4 +6287,5 @@
 [scriptsPentest](https://github.com/LailaFerreira/scriptsPentest): Scripts para estudo de penetration tests.  
 [uSimpleWebServer](https://github.com/unmanarc/uSimpleWebServer): Unmanarc's Simple Web Server Swiss knife  
 [CookedGrabber](https://github.com/mouadessalim/CookedGrabber): Discord, Twitter, Instagram, Netflix cookies, token grabber and also password grabber. Grabbing from all web browsers !  
-[tip-api](https://github.com/reiosantos/tip-api)
+[tip-api](https://github.com/reiosantos/tip-api)  
+[Hikivision-backdoor-scanner-and-snapshot-saver](https://github.com/millersartin/Hikivision-backdoor-scanner-and-snapshot-saver): Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots
