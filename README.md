@@ -6278,4 +6278,5 @@
 [fuzztest-rs](https://github.com/PaulGrandperrin/fuzztest-rs): Easily test your software using powerful evolutionary, feedback-driven fuzzing technology.  
 [traffic-simulator](https://github.com/tillson/traffic-simulator): Simulates simple network traffic for Cybersecurity Lab (FTP, Telnet, HTTP, HTTPS)  
 [PwnBox2](https://github.com/PlatyPew/PwnBox2): 🐳 VMs are bloat. Dockerise your CTF environment.  
-[deepfence_runtime_api](https://github.com/deepfence/deepfence_runtime_api): Deepfence Runtime API & code samples
+[deepfence_runtime_api](https://github.com/deepfence/deepfence_runtime_api): Deepfence Runtime API & code samples  
+[searchpass](https://github.com/michenriksen/searchpass): A simple tool for offline searching of default credentials for network devices, web applications and more.
