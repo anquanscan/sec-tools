@@ -6281,4 +6281,5 @@
 [deepfence_runtime_api](https://github.com/deepfence/deepfence_runtime_api): Deepfence Runtime API & code samples  
 [searchpass](https://github.com/michenriksen/searchpass): A simple tool for offline searching of default credentials for network devices, web applications and more.  
 [CyberPecker](https://github.com/hitesh22rana/CyberPecker): Latest Cyber Security/Hacking News Updates   
-[Scythe-AntiCheat](https://github.com/Roszalletto/Scythe-AntiCheat): Scythe AntiCheat The best minecraft bedrock anticheat designed for realms worlds and servers
+[Scythe-AntiCheat](https://github.com/Roszalletto/Scythe-AntiCheat): Scythe AntiCheat The best minecraft bedrock anticheat designed for realms worlds and servers  
+[edb-debugger](https://github.com/eteran/edb-debugger): edb is a cross-platform AArch32/x86/x86-64 debugger.
