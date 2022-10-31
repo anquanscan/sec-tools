@@ -6285,4 +6285,5 @@
 [edb-debugger](https://github.com/eteran/edb-debugger): edb is a cross-platform AArch32/x86/x86-64 debugger.  
 [e-commerce-backend](https://github.com/cenkerkumlucali/e-commerce-backend): Shopping site backend which used Asp.Net Web API, JWT, Cache, Log, SqlServer, Entity Framework Core and N-Layer Architecture implementation.  
 [scriptsPentest](https://github.com/LailaFerreira/scriptsPentest): Scripts para estudo de penetration tests.  
-[uSimpleWebServer](https://github.com/unmanarc/uSimpleWebServer): Unmanarc's Simple Web Server Swiss knife
+[uSimpleWebServer](https://github.com/unmanarc/uSimpleWebServer): Unmanarc's Simple Web Server Swiss knife  
+[CookedGrabber](https://github.com/mouadessalim/CookedGrabber): Discord, Twitter, Instagram, Netflix cookies, token grabber and also password grabber. Grabbing from all web browsers !
