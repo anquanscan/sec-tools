@@ -6294,4 +6294,5 @@
 [kAFL](https://github.com/IntelLabs/kAFL): A fuzzer for full VM kernel/driver targets  
 [SubR3con](https://github.com/rohitcoder/SubR3con): SubR3con is a script written in python. It uses Sublist3r to enumerate all subdomains of a specific target and then it checks for status code for possible subdomain takeover vulnerability. This works great with Subover.go   
 [massivekube](https://github.com/massivekube/massivekube): High security, resilient, batteries included kubernetes deployment.  
-[homework-cloud](https://github.com/nopesir/homework-cloud): "Analysis of security mechanisms in Istio": homework paper from the Cloud Computing course at Politecnico di Torino (a.y. 2019/20).
+[homework-cloud](https://github.com/nopesir/homework-cloud): "Analysis of security mechanisms in Istio": homework paper from the Cloud Computing course at Politecnico di Torino (a.y. 2019/20).  
+[SecBliZZ](https://github.com/Twist3D666/SecBliZZ): Tools for Dictionary Attacks or other Security Flaws
