@@ -6290,4 +6290,5 @@
 [tip-api](https://github.com/reiosantos/tip-api)  
 [Hikivision-backdoor-scanner-and-snapshot-saver](https://github.com/millersartin/Hikivision-backdoor-scanner-and-snapshot-saver): Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots  
 [ramp-primes](https://github.com/AtropineTears/ramp-primes): A Rust Crate For Generating Large Prime and Composite Integers From A CSPRNG  
-[Propane](https://github.com/InjectionSoftwareandSecurityLLC/Propane): An Open Source KoTH Platform
+[Propane](https://github.com/InjectionSoftwareandSecurityLLC/Propane): An Open Source KoTH Platform  
+[kAFL](https://github.com/IntelLabs/kAFL): A fuzzer for full VM kernel/driver targets
