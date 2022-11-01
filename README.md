@@ -6291,4 +6291,5 @@
 [Hikivision-backdoor-scanner-and-snapshot-saver](https://github.com/millersartin/Hikivision-backdoor-scanner-and-snapshot-saver): Tool to mass scan hikvision cameras and save vulnrable devices, use snapshot.py to save live snapshots  
 [ramp-primes](https://github.com/AtropineTears/ramp-primes): A Rust Crate For Generating Large Prime and Composite Integers From A CSPRNG  
 [Propane](https://github.com/InjectionSoftwareandSecurityLLC/Propane): An Open Source KoTH Platform  
-[kAFL](https://github.com/IntelLabs/kAFL): A fuzzer for full VM kernel/driver targets
+[kAFL](https://github.com/IntelLabs/kAFL): A fuzzer for full VM kernel/driver targets  
+[SubR3con](https://github.com/rohitcoder/SubR3con): SubR3con is a script written in python. It uses Sublist3r to enumerate all subdomains of a specific target and then it checks for status code for possible subdomain takeover vulnerability. This works great with Subover.go 
