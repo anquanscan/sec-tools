@@ -6296,4 +6296,5 @@
 [massivekube](https://github.com/massivekube/massivekube): High security, resilient, batteries included kubernetes deployment.  
 [homework-cloud](https://github.com/nopesir/homework-cloud): "Analysis of security mechanisms in Istio": homework paper from the Cloud Computing course at Politecnico di Torino (a.y. 2019/20).  
 [SecBliZZ](https://github.com/Twist3D666/SecBliZZ): Tools for Dictionary Attacks or other Security Flaws  
-[ShowRater](https://github.com/lamiinek/ShowRater): Simple Node JS command line application that will get and save the episodes' ratings of any specified TV Show. 
+[ShowRater](https://github.com/lamiinek/ShowRater): Simple Node JS command line application that will get and save the episodes' ratings of any specified TV Show.   
+[infra3](https://github.com/example-policy-org/infra3): This infra is compliant with version 2.0.1 of the company policy but its only using 1.0.0 and can be updated with a pull-request.
