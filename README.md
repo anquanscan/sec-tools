@@ -6298,4 +6298,5 @@
 [SecBliZZ](https://github.com/Twist3D666/SecBliZZ): Tools for Dictionary Attacks or other Security Flaws  
 [ShowRater](https://github.com/lamiinek/ShowRater): Simple Node JS command line application that will get and save the episodes' ratings of any specified TV Show.   
 [infra3](https://github.com/example-policy-org/infra3): This infra is compliant with version 2.0.1 of the company policy but its only using 1.0.0 and can be updated with a pull-request.  
-[rust_syscalls](https://github.com/janoglezcampos/rust_syscalls): Single stub direct and indirect syscalling with runtime SSN resolving for windows.
+[rust_syscalls](https://github.com/janoglezcampos/rust_syscalls): Single stub direct and indirect syscalling with runtime SSN resolving for windows.  
+[SteaLinG](https://github.com/De3vil/SteaLinG): The SteaLinG  is an open-source penetration testing framework designed for social engineering 
