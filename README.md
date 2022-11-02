@@ -6310,4 +6310,5 @@
 [Sistema-Acesso-Frontend](https://github.com/JoaoG23/Sistema-Acesso-Frontend): Depois da desmembração do monolito aplicação Acesso, o Frontend ganhou uma parte somente dele. Acesso um sistema de controle de fluxo de acesso de pessoas.  
 [SecurityStuff](https://github.com/0xLuks/SecurityStuff): The goal is to share several cheatsheets related to web and internal pentest, red team, blue team, binary exploitation or reverse engineering, OSINT... that I could learn.  
 [Linuxhacks.org](https://github.com/Linuxhacks-org/Linuxhacks.org): The Linuxhacks.org Wiki, documentations about Linux or related (articles, how-tos, patches, tweaks, blogs, news and hacks)  
-[ParadiseC2](https://github.com/D3fe4ted/ParadiseC2): A python botnet forked from PYbot which was discontinued.
+[ParadiseC2](https://github.com/D3fe4ted/ParadiseC2): A python botnet forked from PYbot which was discontinued.  
+[wikiranger](https://github.com/michenriksen/wikiranger): Gather information on Wiki contributions from IP ranges
