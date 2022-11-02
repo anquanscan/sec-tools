@@ -6307,4 +6307,5 @@
 [hackerchallange](https://github.com/harshcrop/hackerchallange): Hacker Challenge App checkout https://hackerchallange.herokuapp.com/  
 [A-short-solution-to-Protostar-level-Format-4](https://github.com/Krishanu230/A-short-solution-to-Protostar-level-Format-4)  
 [nginx-wordpress-docker-sec](https://github.com/cr0hn/nginx-wordpress-docker-sec): Anti-hacking tools deployment config of Nginx for Wordpress  
-[Sistema-Acesso-Frontend](https://github.com/JoaoG23/Sistema-Acesso-Frontend): Depois da desmembração do monolito aplicação Acesso, o Frontend ganhou uma parte somente dele. Acesso um sistema de controle de fluxo de acesso de pessoas.
+[Sistema-Acesso-Frontend](https://github.com/JoaoG23/Sistema-Acesso-Frontend): Depois da desmembração do monolito aplicação Acesso, o Frontend ganhou uma parte somente dele. Acesso um sistema de controle de fluxo de acesso de pessoas.  
+[SecurityStuff](https://github.com/0xLuks/SecurityStuff): The goal is to share several cheatsheets related to web and internal pentest, red team, blue team, binary exploitation or reverse engineering, OSINT... that I could learn.
