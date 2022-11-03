@@ -6317,4 +6317,5 @@
 [lighttower-web-scraper](https://github.com/schmalle/lighttower-web-scraper): Webscraping tooling for lighttower  
 [RTLO-attack](https://github.com/ctrlaltdev/RTLO-attack): ☠️ Python script and example file to test the Right-To-Left Override attack  
 [zigdiggity](https://github.com/BishopFox/zigdiggity): A ZigBee hacking toolkit by Bishop Fox  
-[insecres](https://github.com/kkomelin/insecres): A console tool that finds insecure resources on HTTPS sites
+[insecres](https://github.com/kkomelin/insecres): A console tool that finds insecure resources on HTTPS sites  
+[pwnedpasswords4j](https://github.com/nbaars/pwnedpasswords4j): A Java client for checking a password against pwnedpasswords.com using the `Searching by range` API For more details see: https://haveibeenpwned.com/API/v2#SearchingPwnedPasswordsByRange
