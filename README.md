@@ -6324,4 +6324,5 @@
 [github-hacks](https://github.com/csshivansh/github-hacks)  
 [web-security-fundamentals](https://github.com/mike-works/web-security-fundamentals): Mike North's Web Security Course  
 [Wifi-Spoof](https://github.com/Devin-Wallace/Wifi-Spoof): This is a Python3 script made to run on Kali. Should simplify Wifi-Spoofing.  
-[AKS_Security](https://github.com/shanepeckham/AKS_Security)
+[AKS_Security](https://github.com/shanepeckham/AKS_Security)  
+[PPDS](https://github.com/PinkP4nther/PPDS): A tool to overwrite devices with trash data on Linux
