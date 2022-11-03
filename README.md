@@ -6316,4 +6316,5 @@
 [Havana](https://github.com/CVH95/Havana): Security in Computer Systems course project - SDU Robot Systems  
 [lighttower-web-scraper](https://github.com/schmalle/lighttower-web-scraper): Webscraping tooling for lighttower  
 [RTLO-attack](https://github.com/ctrlaltdev/RTLO-attack): ☠️ Python script and example file to test the Right-To-Left Override attack  
-[zigdiggity](https://github.com/BishopFox/zigdiggity): A ZigBee hacking toolkit by Bishop Fox
+[zigdiggity](https://github.com/BishopFox/zigdiggity): A ZigBee hacking toolkit by Bishop Fox  
+[insecres](https://github.com/kkomelin/insecres): A console tool that finds insecure resources on HTTPS sites
