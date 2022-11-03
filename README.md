@@ -6322,4 +6322,5 @@
 [profuzzbench](https://github.com/profuzzbench/profuzzbench): ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing  
 [DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec): DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers)  
 [github-hacks](https://github.com/csshivansh/github-hacks)  
-[web-security-fundamentals](https://github.com/mike-works/web-security-fundamentals): Mike North's Web Security Course
+[web-security-fundamentals](https://github.com/mike-works/web-security-fundamentals): Mike North's Web Security Course  
+[Wifi-Spoof](https://github.com/Devin-Wallace/Wifi-Spoof): This is a Python3 script made to run on Kali. Should simplify Wifi-Spoofing.
