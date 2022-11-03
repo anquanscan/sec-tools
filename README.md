@@ -6320,4 +6320,5 @@
 [insecres](https://github.com/kkomelin/insecres): A console tool that finds insecure resources on HTTPS sites  
 [pwnedpasswords4j](https://github.com/nbaars/pwnedpasswords4j): A Java client for checking a password against pwnedpasswords.com using the `Searching by range` API For more details see: https://haveibeenpwned.com/API/v2#SearchingPwnedPasswordsByRange  
 [profuzzbench](https://github.com/profuzzbench/profuzzbench): ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing  
-[DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec): DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers)
+[DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec): DDOS Archive  by RootSec (Scanners, BotNets (Mirai and QBot Premium & Normal and more), Exploits, Methods, Sniffers)  
+[github-hacks](https://github.com/csshivansh/github-hacks)
