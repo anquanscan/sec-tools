@@ -6318,4 +6318,5 @@
 [RTLO-attack](https://github.com/ctrlaltdev/RTLO-attack): ☠️ Python script and example file to test the Right-To-Left Override attack  
 [zigdiggity](https://github.com/BishopFox/zigdiggity): A ZigBee hacking toolkit by Bishop Fox  
 [insecres](https://github.com/kkomelin/insecres): A console tool that finds insecure resources on HTTPS sites  
-[pwnedpasswords4j](https://github.com/nbaars/pwnedpasswords4j): A Java client for checking a password against pwnedpasswords.com using the `Searching by range` API For more details see: https://haveibeenpwned.com/API/v2#SearchingPwnedPasswordsByRange
+[pwnedpasswords4j](https://github.com/nbaars/pwnedpasswords4j): A Java client for checking a password against pwnedpasswords.com using the `Searching by range` API For more details see: https://haveibeenpwned.com/API/v2#SearchingPwnedPasswordsByRange  
+[profuzzbench](https://github.com/profuzzbench/profuzzbench): ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing
