@@ -6326,4 +6326,5 @@
 [Wifi-Spoof](https://github.com/Devin-Wallace/Wifi-Spoof): This is a Python3 script made to run on Kali. Should simplify Wifi-Spoofing.  
 [AKS_Security](https://github.com/shanepeckham/AKS_Security)  
 [PPDS](https://github.com/PinkP4nther/PPDS): A tool to overwrite devices with trash data on Linux  
-[attacker-personas](https://github.com/brannondorsey/attacker-personas): 🏴‍☠️ Use attacker personas to improve your threat modeling and cybersecurity practices
+[attacker-personas](https://github.com/brannondorsey/attacker-personas): 🏴‍☠️ Use attacker personas to improve your threat modeling and cybersecurity practices  
+[Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks): Creative and unusual things that can be done with the Windows API.
