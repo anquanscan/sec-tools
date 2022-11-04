@@ -6341,4 +6341,5 @@
 [Piiquante](https://github.com/Helenepagniez/Piiquante): Projet 6 : Open Class Rooms  
 [AutonomousThreatSweeper](https://github.com/Securonix/AutonomousThreatSweeper): Threat Hunting queries for various attacks  
 [Chat_Flask](https://github.com/RickyXuPengfei/Chat_Flask): The app can realize the real time communication and information security in transmission and data storage.  
-[hacking_con_python](https://github.com/xuanhun/hacking_con_python): hacking con python 翻译
+[hacking_con_python](https://github.com/xuanhun/hacking_con_python): hacking con python 翻译  
+[domxssbaker](https://github.com/yehgdotnet/domxssbaker): Bake DOM XSS URL from lists of URL to avoid keep reading complex javascript codes
