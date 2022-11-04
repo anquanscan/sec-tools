@@ -6336,4 +6336,5 @@
 [cryptofile](https://github.com/Ashwin697/cryptofile): Cryptofile is develop for encrypting and decrypting important files with password to protect their data and then download the file and if there a need to read the encrypted file in future then they can decrypt the downloaded file there is blog where user can read latest security threat  
 [Nullify](https://github.com/notplu/Nullify): One of the BEST up to date iReady hacks. Similar to iReady Overload.  
 [inspec-aws-baseline](https://github.com/centriascolocation/inspec-aws-baseline): InSpec AWS Baseline Profile  
-[hackypi](https://github.com/nimarty/hackypi): A plattform to solve security challenges and train your cybersecurity skills
+[hackypi](https://github.com/nimarty/hackypi): A plattform to solve security challenges and train your cybersecurity skills  
+[mintotp](https://github.com/susam/mintotp): Minimal TOTP generator in 20 lines of Python
