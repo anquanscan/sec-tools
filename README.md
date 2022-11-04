@@ -6338,4 +6338,5 @@
 [inspec-aws-baseline](https://github.com/centriascolocation/inspec-aws-baseline): InSpec AWS Baseline Profile  
 [hackypi](https://github.com/nimarty/hackypi): A plattform to solve security challenges and train your cybersecurity skills  
 [mintotp](https://github.com/susam/mintotp): Minimal TOTP generator in 20 lines of Python  
-[Piiquante](https://github.com/Helenepagniez/Piiquante): Projet 6 : Open Class Rooms
+[Piiquante](https://github.com/Helenepagniez/Piiquante): Projet 6 : Open Class Rooms  
+[AutonomousThreatSweeper](https://github.com/Securonix/AutonomousThreatSweeper): Threat Hunting queries for various attacks
