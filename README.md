@@ -6334,4 +6334,5 @@
 [start-in-IT-or-in-cybersecurity](https://github.com/TheMMcOfficial/start-in-IT-or-in-cybersecurity): If you want to start in IT or you want to in cybersecurity. I regroup all the ressources that I know here.  
 [nodered-securitycam](https://github.com/filipnet/nodered-securitycam): Retrieval of e-mail, extraction of image attachments, resizing and creation of slideshow for MQTT  
 [cryptofile](https://github.com/Ashwin697/cryptofile): Cryptofile is develop for encrypting and decrypting important files with password to protect their data and then download the file and if there a need to read the encrypted file in future then they can decrypt the downloaded file there is blog where user can read latest security threat  
-[Nullify](https://github.com/notplu/Nullify): One of the BEST up to date iReady hacks. Similar to iReady Overload.
+[Nullify](https://github.com/notplu/Nullify): One of the BEST up to date iReady hacks. Similar to iReady Overload.  
+[inspec-aws-baseline](https://github.com/centriascolocation/inspec-aws-baseline): InSpec AWS Baseline Profile
