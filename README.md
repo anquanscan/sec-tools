@@ -6348,4 +6348,5 @@
 [po-gag](https://github.com/deark4sh/po-gag): Po-gag é uma ferramenta para criação de senhas tão aleatórias quanto seguras.  
 [spring-security-oauth](https://github.com/syakuis/spring-security-oauth): Authorization Server and Resource server with Spring Security. (JWT for OAuth 2.0)  
 [CodeGraphConv](https://github.com/geek3c/CodeGraphConv)  
-[CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852): CVE-2022-41852 Proof of Concept (unofficial)
+[CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852): CVE-2022-41852 Proof of Concept (unofficial)  
+[RT-CyberShield](https://github.com/op7ic/RT-CyberShield): Protecting Red Team infrastructure with cyber shield blocking AWS/AZURE/IBM/Digital Ocean/TOR/AV IP/ETC. ranges
