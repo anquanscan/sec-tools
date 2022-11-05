@@ -6352,4 +6352,5 @@
 [RT-CyberShield](https://github.com/op7ic/RT-CyberShield): Protecting Red Team infrastructure with cyber shield blocking AWS/AZURE/IBM/Digital Ocean/TOR/AV IP/ETC. ranges  
 [Passbook](https://github.com/bhargavyagnik/Passbook): It is a password manager and generator that would store in a new approach and would also generate very strong passwords.  
 [confuser](https://github.com/doyensec/confuser): Dependency Confusion Security Testing Tool  
-[LBOZO](https://github.com/Frikallo/LBOZO): A hybrid Windows Ransomware
+[LBOZO](https://github.com/Frikallo/LBOZO): A hybrid Windows Ransomware  
+[Packet-Flooder](https://github.com/gamemann/Packet-Flooder): A packet flooding/generating program I made that supports TCP, UDP, and ICMP packets. Includes functionality to change characteristics per packet and is also multithreaded.
