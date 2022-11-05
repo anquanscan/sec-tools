@@ -6365,4 +6365,5 @@
 [Chromossify](https://github.com/AdroitAdorKhan/Chromossify): Experience the best yet Chrome.  
 [G8-CodeQL](https://github.com/ISnackable/G8-CodeQL): DISM Final Year Project, Security Software Tool Development, CodeQL Scanner  
 [securityhardening](https://github.com/Brute-f0rce/securityhardening)  
-[Hacking-Society-Website](https://github.com/infosecchlobo/Hacking-Society-Website): Hacking Society Website
+[Hacking-Society-Website](https://github.com/infosecchlobo/Hacking-Society-Website): Hacking Society Website  
+[tvd](https://github.com/bethdevopsbunny/tvd): tenable vulnerability diff - a pipeline utility leveraging tenable api to check you haven't introduced new vulnerabilities into your deployment.
