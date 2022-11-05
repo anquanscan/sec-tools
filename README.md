@@ -6347,4 +6347,5 @@
 [safepasswordfx](https://github.com/novenopatch/safepasswordfx): Projet d'un petit gestionnaire de mot de passe conçu avec javafx  
 [po-gag](https://github.com/deark4sh/po-gag): Po-gag é uma ferramenta para criação de senhas tão aleatórias quanto seguras.  
 [spring-security-oauth](https://github.com/syakuis/spring-security-oauth): Authorization Server and Resource server with Spring Security. (JWT for OAuth 2.0)  
-[CodeGraphConv](https://github.com/geek3c/CodeGraphConv)
+[CodeGraphConv](https://github.com/geek3c/CodeGraphConv)  
+[CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852): CVE-2022-41852 Proof of Concept (unofficial)
