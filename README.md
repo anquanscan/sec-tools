@@ -6359,4 +6359,5 @@
 [remote-method-guesser](https://github.com/qtc-de/remote-method-guesser): Java RMI Vulnerability Scanner  
 [Fail2Ban.WebExploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits): This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites.  
 [rloris](https://github.com/NoraCodes/rloris): A Rust implementation of slow HTTP DoS techniques  
-[DorkSearcher](https://github.com/Discordmodsbers/DorkSearcher): This is a dork searcher that has a command line and interactive tui (Provides 1000+ dorks)
+[DorkSearcher](https://github.com/Discordmodsbers/DorkSearcher): This is a dork searcher that has a command line and interactive tui (Provides 1000+ dorks)  
+[openemr_RCE_5.0.2](https://github.com/BvThTrd/openemr_RCE_5.0.2): Remote Code Execution - OpenEMR CMS v5.0.2.1
