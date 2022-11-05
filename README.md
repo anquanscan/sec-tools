@@ -6362,4 +6362,5 @@
 [DorkSearcher](https://github.com/Discordmodsbers/DorkSearcher): This is a dork searcher that has a command line and interactive tui (Provides 1000+ dorks)  
 [openemr_RCE_5.0.2](https://github.com/BvThTrd/openemr_RCE_5.0.2): Remote Code Execution - OpenEMR CMS v5.0.2.1  
 [PorTest](https://github.com/Havivw/PorTest): Check what the open ports to your attacker server   
-[Chromossify](https://github.com/AdroitAdorKhan/Chromossify): Experience the best yet Chrome.
+[Chromossify](https://github.com/AdroitAdorKhan/Chromossify): Experience the best yet Chrome.  
+[G8-CodeQL](https://github.com/ISnackable/G8-CodeQL): DISM Final Year Project, Security Software Tool Development, CodeQL Scanner
