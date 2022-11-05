@@ -6350,4 +6350,5 @@
 [CodeGraphConv](https://github.com/geek3c/CodeGraphConv)  
 [CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852): CVE-2022-41852 Proof of Concept (unofficial)  
 [RT-CyberShield](https://github.com/op7ic/RT-CyberShield): Protecting Red Team infrastructure with cyber shield blocking AWS/AZURE/IBM/Digital Ocean/TOR/AV IP/ETC. ranges  
-[Passbook](https://github.com/bhargavyagnik/Passbook): It is a password manager and generator that would store in a new approach and would also generate very strong passwords.
+[Passbook](https://github.com/bhargavyagnik/Passbook): It is a password manager and generator that would store in a new approach and would also generate very strong passwords.  
+[confuser](https://github.com/doyensec/confuser): Dependency Confusion Security Testing Tool
