@@ -6363,4 +6363,5 @@
 [openemr_RCE_5.0.2](https://github.com/BvThTrd/openemr_RCE_5.0.2): Remote Code Execution - OpenEMR CMS v5.0.2.1  
 [PorTest](https://github.com/Havivw/PorTest): Check what the open ports to your attacker server   
 [Chromossify](https://github.com/AdroitAdorKhan/Chromossify): Experience the best yet Chrome.  
-[G8-CodeQL](https://github.com/ISnackable/G8-CodeQL): DISM Final Year Project, Security Software Tool Development, CodeQL Scanner
+[G8-CodeQL](https://github.com/ISnackable/G8-CodeQL): DISM Final Year Project, Security Software Tool Development, CodeQL Scanner  
+[securityhardening](https://github.com/Brute-f0rce/securityhardening)
