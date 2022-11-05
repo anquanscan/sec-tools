@@ -6356,4 +6356,5 @@
 [Packet-Flooder](https://github.com/gamemann/Packet-Flooder): A packet flooding/generating program I made that supports TCP, UDP, and ICMP packets. Includes functionality to change characteristics per packet and is also multithreaded.  
 [PythonBruteForceFTP](https://github.com/thediegup/PythonBruteForceFTP): A brute force code to pentest ftp servers  
 [kube-defcon](https://github.com/onzack/kube-defcon): A tool to visualize network policy information from the Kubernetes Master API  
-[remote-method-guesser](https://github.com/qtc-de/remote-method-guesser): Java RMI Vulnerability Scanner
+[remote-method-guesser](https://github.com/qtc-de/remote-method-guesser): Java RMI Vulnerability Scanner  
+[Fail2Ban.WebExploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits): This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites.
