@@ -6376,4 +6376,5 @@
 [IITKanpur_hackathon](https://github.com/1-5Pool/IITKanpur_hackathon): IIT Kanpur in collaboration with HCL organized a Cybersecurity hackathon in which the participants had to create a working solution of cyber security problems.   
 [dorks_hunter](https://github.com/six2dez/dorks_hunter): Simple Google Dorks search tool  
 [tinted-glass-webcam-notifier](https://github.com/lp1dev/tinted-glass-webcam-notifier): Tinted glass notifies you whenever a software uses the webcam(s) on your computer  
-[TwoFactorAuthentication](https://github.com/MarkoPapic/TwoFactorAuthentication): A C# library for 2-factor authentication.
+[TwoFactorAuthentication](https://github.com/MarkoPapic/TwoFactorAuthentication): A C# library for 2-factor authentication.  
+[Delta-Botnet](https://github.com/iRennegade/Delta-Botnet): DDoS Botnet creator, just need a replit account, that isn't the normal "DDoS Tool" that only runs on the machine, that botnet creates Repls on replit.com and make a custom botnet.
