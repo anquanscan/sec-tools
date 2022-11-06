@@ -6378,4 +6378,5 @@
 [tinted-glass-webcam-notifier](https://github.com/lp1dev/tinted-glass-webcam-notifier): Tinted glass notifies you whenever a software uses the webcam(s) on your computer  
 [TwoFactorAuthentication](https://github.com/MarkoPapic/TwoFactorAuthentication): A C# library for 2-factor authentication.  
 [Delta-Botnet](https://github.com/iRennegade/Delta-Botnet): DDoS Botnet creator, just need a replit account, that isn't the normal "DDoS Tool" that only runs on the machine, that botnet creates Repls on replit.com and make a custom botnet.  
-[LADD](https://github.com/BarakAharoni/LADD): Linux Anti-Debugging Detection tool
+[LADD](https://github.com/BarakAharoni/LADD): Linux Anti-Debugging Detection tool  
+[osslscanwin](https://github.com/Qualys/osslscanwin): OpenSSL Vulnerability Scanner for Windows
