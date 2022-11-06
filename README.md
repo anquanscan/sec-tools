@@ -6389,4 +6389,5 @@
 [Team-HackademINT-Writeups-CTF-Website](https://github.com/HackademINT/Team-HackademINT-Writeups-CTF-Website): Cybersecurity Competitions Writeups + HackademINT Website, Cybersecurity Club of Télécom SudParis  
 [Python-Nmap](https://github.com/viniciosbarretos/Python-Nmap): Scans all the open ports of a domain or IP address with friendly interface  
 [NodeJS-BasicXSSClientServer](https://github.com/kyaEH/NodeJS-BasicXSSClientServer)  
-[AKILT](https://github.com/Xart3mis/AKILT): A Windows Botnet written in Golang
+[AKILT](https://github.com/Xart3mis/AKILT): A Windows Botnet written in Golang  
+[array-io-keychain](https://github.com/arrayio/array-io-keychain): A highly secure standalone application for signing transactions and generating key pairs. 
