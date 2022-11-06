@@ -6372,4 +6372,5 @@
 [swarm-animism](https://github.com/adzialocha/swarm-animism): CTM HackLab 2018  
 [SecurityOne](https://github.com/EFTEC/SecurityOne): It's a barebone security class written on PHP  
 [binja_sibyl](https://github.com/thebabush/binja_sibyl): A (Miasm2 + binaryninja) based function divination.  
-[chromeos-playstore](https://github.com/3kh0/chromeos-playstore): Step by step guide on how to get the playstore on your Chromebook!
+[chromeos-playstore](https://github.com/3kh0/chromeos-playstore): Step by step guide on how to get the playstore on your Chromebook!  
+[IITKanpur_hackathon](https://github.com/1-5Pool/IITKanpur_hackathon): IIT Kanpur in collaboration with HCL organized a Cybersecurity hackathon in which the participants had to create a working solution of cyber security problems. 
