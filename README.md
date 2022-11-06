@@ -6381,4 +6381,5 @@
 [LADD](https://github.com/BarakAharoni/LADD): Linux Anti-Debugging Detection tool  
 [osslscanwin](https://github.com/Qualys/osslscanwin): OpenSSL Vulnerability Scanner for Windows  
 [fikrado.py](https://github.com/fikrado/fikrado.py): Facebook hacking Tools script super fast and user friendly  
-[CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell): Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.
+[CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell): Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.  
+[iNoFake](https://github.com/deark4sh/iNoFake): O iNoFake é uma ferramenta para geração de dados/perfis aleatórios.
