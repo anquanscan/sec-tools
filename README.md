@@ -6371,4 +6371,5 @@
 [tebbaax.github.io](https://github.com/TebbaaX/tebbaax.github.io): My Unicellular 🦠 Blog...Be nice!  
 [swarm-animism](https://github.com/adzialocha/swarm-animism): CTM HackLab 2018  
 [SecurityOne](https://github.com/EFTEC/SecurityOne): It's a barebone security class written on PHP  
-[binja_sibyl](https://github.com/thebabush/binja_sibyl): A (Miasm2 + binaryninja) based function divination.
+[binja_sibyl](https://github.com/thebabush/binja_sibyl): A (Miasm2 + binaryninja) based function divination.  
+[chromeos-playstore](https://github.com/3kh0/chromeos-playstore): Step by step guide on how to get the playstore on your Chromebook!
