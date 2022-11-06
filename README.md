@@ -6392,4 +6392,5 @@
 [AKILT](https://github.com/Xart3mis/AKILT): A Windows Botnet written in Golang  
 [array-io-keychain](https://github.com/arrayio/array-io-keychain): A highly secure standalone application for signing transactions and generating key pairs.   
 [Vulnerable-Flask-App](https://github.com/anil-yelken/Vulnerable-Flask-App): Erlik 2 - Vulnerable-Flask-App  
-[deadlock-issue-tracker](https://github.com/resourcepool/deadlock-issue-tracker): An issue tracker / Q&A / roadmap for the deadlock coding game learning platform
+[deadlock-issue-tracker](https://github.com/resourcepool/deadlock-issue-tracker): An issue tracker / Q&A / roadmap for the deadlock coding game learning platform  
+[CipherHater-Club](https://github.com/R0-Crew/CipherHater-Club): "We always hack programs which you cannot competently protect..." © CipherHater
