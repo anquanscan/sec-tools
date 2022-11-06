@@ -6379,4 +6379,5 @@
 [TwoFactorAuthentication](https://github.com/MarkoPapic/TwoFactorAuthentication): A C# library for 2-factor authentication.  
 [Delta-Botnet](https://github.com/iRennegade/Delta-Botnet): DDoS Botnet creator, just need a replit account, that isn't the normal "DDoS Tool" that only runs on the machine, that botnet creates Repls on replit.com and make a custom botnet.  
 [LADD](https://github.com/BarakAharoni/LADD): Linux Anti-Debugging Detection tool  
-[osslscanwin](https://github.com/Qualys/osslscanwin): OpenSSL Vulnerability Scanner for Windows
+[osslscanwin](https://github.com/Qualys/osslscanwin): OpenSSL Vulnerability Scanner for Windows  
+[fikrado.py](https://github.com/fikrado/fikrado.py): Facebook hacking Tools script super fast and user friendly
