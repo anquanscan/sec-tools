@@ -6380,4 +6380,5 @@
 [Delta-Botnet](https://github.com/iRennegade/Delta-Botnet): DDoS Botnet creator, just need a replit account, that isn't the normal "DDoS Tool" that only runs on the machine, that botnet creates Repls on replit.com and make a custom botnet.  
 [LADD](https://github.com/BarakAharoni/LADD): Linux Anti-Debugging Detection tool  
 [osslscanwin](https://github.com/Qualys/osslscanwin): OpenSSL Vulnerability Scanner for Windows  
-[fikrado.py](https://github.com/fikrado/fikrado.py): Facebook hacking Tools script super fast and user friendly
+[fikrado.py](https://github.com/fikrado/fikrado.py): Facebook hacking Tools script super fast and user friendly  
+[CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell): Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.
