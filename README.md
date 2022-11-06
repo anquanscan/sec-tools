@@ -6394,4 +6394,5 @@
 [Vulnerable-Flask-App](https://github.com/anil-yelken/Vulnerable-Flask-App): Erlik 2 - Vulnerable-Flask-App  
 [deadlock-issue-tracker](https://github.com/resourcepool/deadlock-issue-tracker): An issue tracker / Q&A / roadmap for the deadlock coding game learning platform  
 [CipherHater-Club](https://github.com/R0-Crew/CipherHater-Club): "We always hack programs which you cannot competently protect..." © CipherHater  
-[MycroftAI-RCE](https://github.com/Nhoya/MycroftAI-RCE): "Zero Click" Remote Code Execution in Mycroft AI vocal assistant
+[MycroftAI-RCE](https://github.com/Nhoya/MycroftAI-RCE): "Zero Click" Remote Code Execution in Mycroft AI vocal assistant  
+[NOGO](https://github.com/Dr-N0/NOGO): NOGO is a packaging script that creates fully undetectable payloads specializing in disabling anti-virus. Created for pentesting (crippling computers) not destroying them.
