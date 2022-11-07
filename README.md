@@ -6397,4 +6397,5 @@
 [MycroftAI-RCE](https://github.com/Nhoya/MycroftAI-RCE): "Zero Click" Remote Code Execution in Mycroft AI vocal assistant  
 [NOGO](https://github.com/Dr-N0/NOGO): NOGO is a packaging script that creates fully undetectable payloads specializing in disabling anti-virus. Created for pentesting (crippling computers) not destroying them.  
 [USB-Buddy](https://github.com/kevinnz/USB-Buddy): A MacOS tool that monitors USB devices. In the case it detects someone plugging in or unplugging devices it can be configured to send you an SMS or alert you via Slack of the potential security breach. I have based this tool off https://github.com/probablynotablog/usb-canary thanks @errbufferoverfl  
-[SeguridadNETFramework](https://github.com/JuanMiguelSaugarCanete/SeguridadNETFramework): Auth users en .NET con framework 4.8 configurado en web.config
+[SeguridadNETFramework](https://github.com/JuanMiguelSaugarCanete/SeguridadNETFramework): Auth users en .NET con framework 4.8 configurado en web.config  
+[electron-vite-template](https://github.com/trantoan960/electron-vite-template): 👻 A fast Simple Vite 2, Vue 3 and Electron 13.x template.
