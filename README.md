@@ -6399,4 +6399,5 @@
 [USB-Buddy](https://github.com/kevinnz/USB-Buddy): A MacOS tool that monitors USB devices. In the case it detects someone plugging in or unplugging devices it can be configured to send you an SMS or alert you via Slack of the potential security breach. I have based this tool off https://github.com/probablynotablog/usb-canary thanks @errbufferoverfl  
 [SeguridadNETFramework](https://github.com/JuanMiguelSaugarCanete/SeguridadNETFramework): Auth users en .NET con framework 4.8 configurado en web.config  
 [electron-vite-template](https://github.com/trantoan960/electron-vite-template): 👻 A fast Simple Vite 2, Vue 3 and Electron 13.x template.  
-[Cybersecurity_Stein_Algorithm_GCD](https://github.com/Davidmenamm/Cybersecurity_Stein_Algorithm_GCD): Implemententing the Stein's algorithm, for calculating the greatest common divisor in number theory, with applications in cyber-security
+[Cybersecurity_Stein_Algorithm_GCD](https://github.com/Davidmenamm/Cybersecurity_Stein_Algorithm_GCD): Implemententing the Stein's algorithm, for calculating the greatest common divisor in number theory, with applications in cyber-security  
+[bd-exploit-info](https://github.com/eax-hash/bd-exploit-info): A public version of my other GitHub with just the writeup.
