@@ -6409,4 +6409,5 @@
 [FxIDNHomographAttackBlocker](https://github.com/reinforchu/FxIDNHomographAttackBlocker): Extension for Firefox that block IDN homograph attack.  
 [Genshin-LunareeT-CheeTos-Privat3-L3AK3D](https://github.com/YANGXI922/Genshin-LunareeT-CheeTos-Privat3-L3AK3D): Genshin LunareeT CheeTos  
 [sinkchart](https://github.com/sandworm-hq/sinkchart): Beautiful Visualizations For Your App's Dependencies 🧭  
-[GOSINT](https://github.com/ciscocsirt/GOSINT): The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
+[GOSINT](https://github.com/ciscocsirt/GOSINT): The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).  
+[bad-usb](https://github.com/R3DHULK/bad-usb): bad usb also known as rubber ducky is a usb device to hack your target when you are in device's physical access
