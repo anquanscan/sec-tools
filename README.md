@@ -6411,4 +6411,5 @@
 [sinkchart](https://github.com/sandworm-hq/sinkchart): Beautiful Visualizations For Your App's Dependencies 🧭  
 [GOSINT](https://github.com/ciscocsirt/GOSINT): The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).  
 [bad-usb](https://github.com/R3DHULK/bad-usb): bad usb also known as rubber ducky is a usb device to hack your target when you are in device's physical access  
-[HackingNASAwithHTML](https://github.com/swatv3nub/HackingNASAwithHTML): OOK NASA HECKED ME
+[HackingNASAwithHTML](https://github.com/swatv3nub/HackingNASAwithHTML): OOK NASA HECKED ME  
+[betref](https://github.com/r4msolo/betref): [Information Gathering]
