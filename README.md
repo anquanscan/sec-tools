@@ -6402,4 +6402,5 @@
 [Cybersecurity_Stein_Algorithm_GCD](https://github.com/Davidmenamm/Cybersecurity_Stein_Algorithm_GCD): Implemententing the Stein's algorithm, for calculating the greatest common divisor in number theory, with applications in cyber-security  
 [bd-exploit-info](https://github.com/eax-hash/bd-exploit-info): A public version of my other GitHub with just the writeup.  
 [magoo](https://github.com/pachico/magoo): Mask credit card numbers, emails and more.  
-[Privacy_Panel](https://github.com/tanzita/Privacy_Panel): Finding all the security permissions that your Android apps uses in your device. It also provides fake location so that your apps can not get your accurate location
+[Privacy_Panel](https://github.com/tanzita/Privacy_Panel): Finding all the security permissions that your Android apps uses in your device. It also provides fake location so that your apps can not get your accurate location  
+[ecert](https://github.com/songyuew/ecert): Sign, verify, encrypt and decrypt messages with Hong Kong Post e-Cert (香港郵政電子證書) and other PKCS#12 certificates.
