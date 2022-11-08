@@ -6405,4 +6405,5 @@
 [Privacy_Panel](https://github.com/tanzita/Privacy_Panel): Finding all the security permissions that your Android apps uses in your device. It also provides fake location so that your apps can not get your accurate location  
 [ecert](https://github.com/songyuew/ecert): Sign, verify, encrypt and decrypt messages with Hong Kong Post e-Cert (香港郵政電子證書) and other PKCS#12 certificates.  
 [Cyber-Patriot](https://github.com/pjoscely/Cyber-Patriot): Cyber Patriot Score Reports  
-[iot-safety-test](https://github.com/jpnykw/iot-safety-test): run port scan to all devices in same lan network when clicked
+[iot-safety-test](https://github.com/jpnykw/iot-safety-test): run port scan to all devices in same lan network when clicked  
+[FxIDNHomographAttackBlocker](https://github.com/reinforchu/FxIDNHomographAttackBlocker): Extension for Firefox that block IDN homograph attack.
