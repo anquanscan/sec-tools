@@ -6406,4 +6406,5 @@
 [ecert](https://github.com/songyuew/ecert): Sign, verify, encrypt and decrypt messages with Hong Kong Post e-Cert (香港郵政電子證書) and other PKCS#12 certificates.  
 [Cyber-Patriot](https://github.com/pjoscely/Cyber-Patriot): Cyber Patriot Score Reports  
 [iot-safety-test](https://github.com/jpnykw/iot-safety-test): run port scan to all devices in same lan network when clicked  
-[FxIDNHomographAttackBlocker](https://github.com/reinforchu/FxIDNHomographAttackBlocker): Extension for Firefox that block IDN homograph attack.
+[FxIDNHomographAttackBlocker](https://github.com/reinforchu/FxIDNHomographAttackBlocker): Extension for Firefox that block IDN homograph attack.  
+[Genshin-LunareeT-CheeTos-Privat3-L3AK3D](https://github.com/YANGXI922/Genshin-LunareeT-CheeTos-Privat3-L3AK3D): Genshin LunareeT CheeTos
