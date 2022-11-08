@@ -6408,4 +6408,5 @@
 [iot-safety-test](https://github.com/jpnykw/iot-safety-test): run port scan to all devices in same lan network when clicked  
 [FxIDNHomographAttackBlocker](https://github.com/reinforchu/FxIDNHomographAttackBlocker): Extension for Firefox that block IDN homograph attack.  
 [Genshin-LunareeT-CheeTos-Privat3-L3AK3D](https://github.com/YANGXI922/Genshin-LunareeT-CheeTos-Privat3-L3AK3D): Genshin LunareeT CheeTos  
-[sinkchart](https://github.com/sandworm-hq/sinkchart): Beautiful Visualizations For Your App's Dependencies 🧭
+[sinkchart](https://github.com/sandworm-hq/sinkchart): Beautiful Visualizations For Your App's Dependencies 🧭  
+[GOSINT](https://github.com/ciscocsirt/GOSINT): The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
