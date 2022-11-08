@@ -6415,4 +6415,5 @@
 [betref](https://github.com/r4msolo/betref): [Information Gathering]  
 [ophellia](https://github.com/elliottophellia/ophellia): a simple webshell build in PHP 7.4 for penetration testing and educational purposes only. ( it's not other webshell's recode )  
 [Retrofiy](https://github.com/BeyondThe5D/Retrofiy): A Roblox script that aims to accurately simulate the 2016 Roblox client.  
-[one-trick-pony](https://github.com/OutsourcedGuru/one-trick-pony): A limited DNS server which only serves up the minimum set of required servers for Agar.io game play but not for its associated ads, for example.
+[one-trick-pony](https://github.com/OutsourcedGuru/one-trick-pony): A limited DNS server which only serves up the minimum set of required servers for Agar.io game play but not for its associated ads, for example.  
+[Worlds-Fastest-Blog](https://github.com/abhiramready/Worlds-Fastest-Blog): Techniques I use on my Blog to Optimize for Speed, Security, and Resourcefulness.
