@@ -6404,4 +6404,5 @@
 [magoo](https://github.com/pachico/magoo): Mask credit card numbers, emails and more.  
 [Privacy_Panel](https://github.com/tanzita/Privacy_Panel): Finding all the security permissions that your Android apps uses in your device. It also provides fake location so that your apps can not get your accurate location  
 [ecert](https://github.com/songyuew/ecert): Sign, verify, encrypt and decrypt messages with Hong Kong Post e-Cert (香港郵政電子證書) and other PKCS#12 certificates.  
-[Cyber-Patriot](https://github.com/pjoscely/Cyber-Patriot): Cyber Patriot Score Reports
+[Cyber-Patriot](https://github.com/pjoscely/Cyber-Patriot): Cyber Patriot Score Reports  
+[iot-safety-test](https://github.com/jpnykw/iot-safety-test): run port scan to all devices in same lan network when clicked
