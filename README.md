@@ -6407,4 +6407,5 @@
 [Cyber-Patriot](https://github.com/pjoscely/Cyber-Patriot): Cyber Patriot Score Reports  
 [iot-safety-test](https://github.com/jpnykw/iot-safety-test): run port scan to all devices in same lan network when clicked  
 [FxIDNHomographAttackBlocker](https://github.com/reinforchu/FxIDNHomographAttackBlocker): Extension for Firefox that block IDN homograph attack.  
-[Genshin-LunareeT-CheeTos-Privat3-L3AK3D](https://github.com/YANGXI922/Genshin-LunareeT-CheeTos-Privat3-L3AK3D): Genshin LunareeT CheeTos
+[Genshin-LunareeT-CheeTos-Privat3-L3AK3D](https://github.com/YANGXI922/Genshin-LunareeT-CheeTos-Privat3-L3AK3D): Genshin LunareeT CheeTos  
+[sinkchart](https://github.com/sandworm-hq/sinkchart): Beautiful Visualizations For Your App's Dependencies 🧭
