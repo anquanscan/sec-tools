@@ -6423,4 +6423,5 @@
 [lolinck-api](https://github.com/TeamLoick/lolinck-api): [ Non-Functional Version ] Lolinck is an open source API that use machine learning to detect if a website is safe or not. It can detect NSFW, phishing, malware, ip logging and more.  
 [X-Marshal](https://github.com/XTeam-Wing/X-Marshal): Golang-分布式资产探测&漏洞扫描&信息收集  
 [awesome-physec](https://github.com/rustrose/awesome-physec): Repository containing useful links for all things Physical Security. Please contribute!  
-[Windows-DLL-Injector](https://github.com/Zhuagenborn/Windows-DLL-Injector): 💉 A Windows dynamic-link library injection tool written in C++20. It can inject a dynamic-link library into a running process by its window title or create a new process with an injection.
+[Windows-DLL-Injector](https://github.com/Zhuagenborn/Windows-DLL-Injector): 💉 A Windows dynamic-link library injection tool written in C++20. It can inject a dynamic-link library into a running process by its window title or create a new process with an injection.  
+[Arbitrary-File-Upload-ZoomSounds](https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds): ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server.
