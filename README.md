@@ -6421,4 +6421,5 @@
 [OormiPass](https://github.com/oormicreations/OormiPass): Free open source cross platform password manager  
 [infosec-events](https://github.com/xsa/infosec-events): List of past and future infosec related events.  
 [lolinck-api](https://github.com/TeamLoick/lolinck-api): [ Non-Functional Version ] Lolinck is an open source API that use machine learning to detect if a website is safe or not. It can detect NSFW, phishing, malware, ip logging and more.  
-[X-Marshal](https://github.com/XTeam-Wing/X-Marshal): Golang-分布式资产探测&漏洞扫描&信息收集
+[X-Marshal](https://github.com/XTeam-Wing/X-Marshal): Golang-分布式资产探测&漏洞扫描&信息收集  
+[awesome-physec](https://github.com/rustrose/awesome-physec): Repository containing useful links for all things Physical Security. Please contribute!
