@@ -6419,4 +6419,5 @@
 [Worlds-Fastest-Blog](https://github.com/abhiramready/Worlds-Fastest-Blog): Techniques I use on my Blog to Optimize for Speed, Security, and Resourcefulness.  
 [fake-admin-honeypot-V1.2](https://github.com/pH7Software/fake-admin-honeypot-V1.2): 🍯 pH7CMS Modula to setup a honeypot fake Admin CP to secure your social/dating site. Basically it's a honeypot for the attackers/hackers and track their behaviour!   
 [OormiPass](https://github.com/oormicreations/OormiPass): Free open source cross platform password manager  
-[infosec-events](https://github.com/xsa/infosec-events): List of past and future infosec related events.
+[infosec-events](https://github.com/xsa/infosec-events): List of past and future infosec related events.  
+[lolinck-api](https://github.com/TeamLoick/lolinck-api): [ Non-Functional Version ] Lolinck is an open source API that use machine learning to detect if a website is safe or not. It can detect NSFW, phishing, malware, ip logging and more.
