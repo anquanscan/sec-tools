@@ -6427,4 +6427,5 @@
 [Arbitrary-File-Upload-ZoomSounds](https://github.com/0xAgun/Arbitrary-File-Upload-ZoomSounds): ZoomSounds < 6.05 allowing unauthenticated users to upload an arbitrary file anywhere on the web server.  
 [Modified-Playfair-Cipher-with-steganography](https://github.com/Mayureshdindorkar/Modified-Playfair-Cipher-with-steganography): Implementing playfair cipher 🐱‍💻 algorithm having matrix size 4 x 19.  
 [Daily-NIST-CVEs](https://github.com/d4rkshell/Daily-NIST-CVEs): PowerShell script to lookup daily NIST CVE updates and email to user(s)  
-[StegApp](https://github.com/dsccvrgu/StegApp): This Project is all about Steganography combined with AES encryption. You can use the scirpt for encoding/decoding secret messages inside images with a use of a secret key.
+[StegApp](https://github.com/dsccvrgu/StegApp): This Project is all about Steganography combined with AES encryption. You can use the scirpt for encoding/decoding secret messages inside images with a use of a secret key.  
+[Physical2FA](https://github.com/Atharv-Attri/Physical2FA): Encryption using 2 Factor Authentication through an external drive with Python
