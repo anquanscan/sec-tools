@@ -6438,4 +6438,5 @@
 [IBM-Project-25620-1659968640](https://github.com/IBM-EPBL/IBM-Project-25620-1659968640): Web Phishing Detection  
 [Caesarsghost](https://github.com/ScorchingShade/Caesarsghost): A Simple Caesar's Cipher with GUI  
 [arctil-vulnerabile-web-application](https://github.com/arctil/arctil-vulnerabile-web-application): arctil vulnerable web application is a sample website built with the purpose of being insecure.  
-[OSHardening](https://github.com/NitescuLucian/OSHardening): OS Hardening scripts for multiple linux based operating systems. Keep in mind this is the minimum!
+[OSHardening](https://github.com/NitescuLucian/OSHardening): OS Hardening scripts for multiple linux based operating systems. Keep in mind this is the minimum!  
+[deye-logger-at-cmd](https://github.com/s10l/deye-logger-at-cmd): Easily extract login credentials and WLAN keys from Deye and compatible (e.g. Bosswerk, Turbo-E) microinverters without authentication :)
