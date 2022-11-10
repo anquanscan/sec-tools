@@ -6429,4 +6429,5 @@
 [Daily-NIST-CVEs](https://github.com/d4rkshell/Daily-NIST-CVEs): PowerShell script to lookup daily NIST CVE updates and email to user(s)  
 [StegApp](https://github.com/dsccvrgu/StegApp): This Project is all about Steganography combined with AES encryption. You can use the scirpt for encoding/decoding secret messages inside images with a use of a secret key.  
 [Physical2FA](https://github.com/Atharv-Attri/Physical2FA): Encryption using 2 Factor Authentication through an external drive with Python  
-[codebreaker-2018-jenkins-seed](https://github.com/vladistan/codebreaker-2018-jenkins-seed): Jenkins jobs to brute force OTP keys for NSA codebreaker challenge 2018
+[codebreaker-2018-jenkins-seed](https://github.com/vladistan/codebreaker-2018-jenkins-seed): Jenkins jobs to brute force OTP keys for NSA codebreaker challenge 2018  
+[starboard-exporter](https://github.com/giantswarm/starboard-exporter): A standalone exporter for vulnerability reports and other CRs created by Trivy Operator (formerly Starboard).
