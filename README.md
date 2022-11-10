@@ -6433,4 +6433,5 @@
 [starboard-exporter](https://github.com/giantswarm/starboard-exporter): A standalone exporter for vulnerability reports and other CRs created by Trivy Operator (formerly Starboard).  
 [dastardly-github-action](https://github.com/PortSwigger/dastardly-github-action): Runs a scan using Dastardly by Burp Suite against a target site and creates a JUnit XML report for the scan on completion.  
 [typing_hacks](https://github.com/abhi40308/typing_hacks): Hacks of major typing test websites in python  
-[action-api-scan](https://github.com/zaproxy/action-api-scan): A GitHub Action for running the OWASP ZAP API scan 
+[action-api-scan](https://github.com/zaproxy/action-api-scan): A GitHub Action for running the OWASP ZAP API scan   
+[Vulnerability_PoC](https://github.com/joshblack07/Vulnerability_PoC): Challenge: Find out about the website's security vulnerabilities and send their 3 high-risk vulnerabilities along with PoC (Proof of Concept).
