@@ -6431,4 +6431,5 @@
 [Physical2FA](https://github.com/Atharv-Attri/Physical2FA): Encryption using 2 Factor Authentication through an external drive with Python  
 [codebreaker-2018-jenkins-seed](https://github.com/vladistan/codebreaker-2018-jenkins-seed): Jenkins jobs to brute force OTP keys for NSA codebreaker challenge 2018  
 [starboard-exporter](https://github.com/giantswarm/starboard-exporter): A standalone exporter for vulnerability reports and other CRs created by Trivy Operator (formerly Starboard).  
-[dastardly-github-action](https://github.com/PortSwigger/dastardly-github-action): Runs a scan using Dastardly by Burp Suite against a target site and creates a JUnit XML report for the scan on completion.
+[dastardly-github-action](https://github.com/PortSwigger/dastardly-github-action): Runs a scan using Dastardly by Burp Suite against a target site and creates a JUnit XML report for the scan on completion.  
+[typing_hacks](https://github.com/abhi40308/typing_hacks): Hacks of major typing test websites in python
