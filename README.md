@@ -6445,4 +6445,5 @@
 [requestfile_exploit_fix](https://github.com/tochnonement/requestfile_exploit_fix): A patch for new Garry's Mod engine's exploit  
 [JavaApp_MostCommonPassword](https://github.com/EliasMurat/JavaApp_MostCommonPassword): Java | Aplicação para validar se a senha é "comum / fraca".  
 [ccna](https://github.com/Lcmc23/ccna): Este repositório possui como objetivo armazenar as documentações e os gabaritos referentes aos cursos realizados na plataforma da Cisco (NetAcademy)  
-[vscode-solidity-auditor](https://github.com/ConsenSys/vscode-solidity-auditor): Solidity language support and visual security auditor for Visual Studio Code
+[vscode-solidity-auditor](https://github.com/ConsenSys/vscode-solidity-auditor): Solidity language support and visual security auditor for Visual Studio Code  
+[sectester-js-demo](https://github.com/NeuraLegion/sectester-js-demo): This is a demo project for the SecTester JS SDK framework, with some installation and usage examples
