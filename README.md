@@ -6446,4 +6446,5 @@
 [JavaApp_MostCommonPassword](https://github.com/EliasMurat/JavaApp_MostCommonPassword): Java | Aplicação para validar se a senha é "comum / fraca".  
 [ccna](https://github.com/Lcmc23/ccna): Este repositório possui como objetivo armazenar as documentações e os gabaritos referentes aos cursos realizados na plataforma da Cisco (NetAcademy)  
 [vscode-solidity-auditor](https://github.com/ConsenSys/vscode-solidity-auditor): Solidity language support and visual security auditor for Visual Studio Code  
-[sectester-js-demo](https://github.com/NeuraLegion/sectester-js-demo): This is a demo project for the SecTester JS SDK framework, with some installation and usage examples
+[sectester-js-demo](https://github.com/NeuraLegion/sectester-js-demo): This is a demo project for the SecTester JS SDK framework, with some installation and usage examples  
+[ceng489-security](https://github.com/tansly/ceng489-security): CENG489 (Introduction to Security in Computing) assignments, Fall 2018
