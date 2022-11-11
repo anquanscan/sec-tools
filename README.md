@@ -6443,4 +6443,5 @@
 [QuackTest](https://github.com/terrabitz/QuackTest): Quickly test Ducky Scripts  
 [Harpocrates.ClassificationBanner](https://github.com/tolliverk/Harpocrates.ClassificationBanner): A work-in-progress classification banner in C# Windows Forms that has the ability to obtain user parameters such as Windows login, computer name, and LDAP role (if applicable). Harpocrates will provide the ability to modify the banner via an administrative password and publish it across multiple computers within an existing network. The intention of this application is to provide an efficient security display for local government and other interested organizations.  
 [requestfile_exploit_fix](https://github.com/tochnonement/requestfile_exploit_fix): A patch for new Garry's Mod engine's exploit  
-[JavaApp_MostCommonPassword](https://github.com/EliasMurat/JavaApp_MostCommonPassword): Java | Aplicação para validar se a senha é "comum / fraca".
+[JavaApp_MostCommonPassword](https://github.com/EliasMurat/JavaApp_MostCommonPassword): Java | Aplicação para validar se a senha é "comum / fraca".  
+[ccna](https://github.com/Lcmc23/ccna): Este repositório possui como objetivo armazenar as documentações e os gabaritos referentes aos cursos realizados na plataforma da Cisco (NetAcademy)
