@@ -6448,4 +6448,5 @@
 [vscode-solidity-auditor](https://github.com/ConsenSys/vscode-solidity-auditor): Solidity language support and visual security auditor for Visual Studio Code  
 [sectester-js-demo](https://github.com/NeuraLegion/sectester-js-demo): This is a demo project for the SecTester JS SDK framework, with some installation and usage examples  
 [ceng489-security](https://github.com/tansly/ceng489-security): CENG489 (Introduction to Security in Computing) assignments, Fall 2018  
-[swsec-intro-cakephp](https://github.com/injcristianrojas/swsec-intro-cakephp): Simple CakePHP 2.0 application for software security classes
+[swsec-intro-cakephp](https://github.com/injcristianrojas/swsec-intro-cakephp): Simple CakePHP 2.0 application for software security classes  
+[EyeBinder](https://github.com/TeamDarkAnon/EyeBinder): A Free Silent (Hidden) Open-Source Native Binder - Includes Windows Defender Bypass - EyeBinder
