@@ -6440,4 +6440,5 @@
 [arctil-vulnerabile-web-application](https://github.com/arctil/arctil-vulnerabile-web-application): arctil vulnerable web application is a sample website built with the purpose of being insecure.  
 [OSHardening](https://github.com/NitescuLucian/OSHardening): OS Hardening scripts for multiple linux based operating systems. Keep in mind this is the minimum!  
 [deye-logger-at-cmd](https://github.com/s10l/deye-logger-at-cmd): Easily extract login credentials and WLAN keys from Deye and compatible (e.g. Bosswerk, Turbo-E) microinverters without authentication :)  
-[QuackTest](https://github.com/terrabitz/QuackTest): Quickly test Ducky Scripts
+[QuackTest](https://github.com/terrabitz/QuackTest): Quickly test Ducky Scripts  
+[Harpocrates.ClassificationBanner](https://github.com/tolliverk/Harpocrates.ClassificationBanner): A work-in-progress classification banner in C# Windows Forms that has the ability to obtain user parameters such as Windows login, computer name, and LDAP role (if applicable). Harpocrates will provide the ability to modify the banner via an administrative password and publish it across multiple computers within an existing network. The intention of this application is to provide an efficient security display for local government and other interested organizations.
