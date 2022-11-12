@@ -6465,4 +6465,5 @@
 [r00tb3.github.io](https://github.com/r00tb3/r00tb3.github.io): Amit Vitekar's blog!!!  
 [node-security](https://github.com/AndreasVolkmann/node-security): Node security seed  
 [fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴  
-[EddyTechnologyWebsite](https://github.com/NoiceGaming/EddyTechnologyWebsite): This is a website with tutorials on technology
+[EddyTechnologyWebsite](https://github.com/NoiceGaming/EddyTechnologyWebsite): This is a website with tutorials on technology  
+[honey-hornet](https://github.com/ajackal/honey-hornet): port scanner & login credential tester
