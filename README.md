@@ -6470,4 +6470,5 @@
 [Jasmin-Ransomware](https://github.com/codesiddhant/Jasmin-Ransomware): Jasmin Ransomware is an advanced red team tool (WannaCry Clone) used for simulating real ransomware attacks. Jasmin helps security researchers to overcome the risk of external attacks.    
 [thecyberjourney](https://github.com/JonatanPerezLopez/thecyberjourney): this is the repository of my blog  
 [Access-Bot](https://github.com/jake8655/Access-Bot): Access-Bot is a Discord bot that let's you secure your Discord server by making every new user take a test before given access to your server  
-[bmstu_security](https://github.com/Winterpuma/bmstu_security): bmstu, IU7-7, Защита Информации (2020)
+[bmstu_security](https://github.com/Winterpuma/bmstu_security): bmstu, IU7-7, Защита Информации (2020)  
+[Write-up-CTF-KKS-TNI](https://github.com/rozaqi/Write-up-CTF-KKS-TNI): Write up CTF KKS TNI
