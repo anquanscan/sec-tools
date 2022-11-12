@@ -6466,4 +6466,5 @@
 [node-security](https://github.com/AndreasVolkmann/node-security): Node security seed  
 [fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴  
 [EddyTechnologyWebsite](https://github.com/NoiceGaming/EddyTechnologyWebsite): This is a website with tutorials on technology  
-[honey-hornet](https://github.com/ajackal/honey-hornet): port scanner & login credential tester
+[honey-hornet](https://github.com/ajackal/honey-hornet): port scanner & login credential tester  
+[Jasmin-Ransomware](https://github.com/codesiddhant/Jasmin-Ransomware): Jasmin Ransomware is an advanced red team tool (WannaCry Clone) used for simulating real ransomware attacks. Jasmin helps security researchers to overcome the risk of external attacks.  
