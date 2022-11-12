@@ -6460,4 +6460,5 @@
 [Sakarya-Universty](https://github.com/ToygunKavas/Sakarya-Universty): Sakarya Üniversitesi'nde okuduğum süre boyunca karşıma çıkan tüm belge , ders notları , dökümanları paylaşıcağım  (All the assignments, lecture notes and exams). Ayrıca asıl ilgi alanım olan siber güvenlik için yazdığım Exploit - script - toolsları da farklı konular içinde paylaşıcağım  
 [angstromCTF-2021](https://github.com/AppliedCyberCTF/angstromCTF-2021): A collection of write-ups and solutions for angstromCTF 2021.  
 [BlackWinterSecurity](https://github.com/BADC0D3/BlackWinterSecurity)  
-[Bad-Boy](https://github.com/AitzazImtiaz/Bad-Boy): A framework inspired from https://youtu.be/RWIL-6xhmXU
+[Bad-Boy](https://github.com/AitzazImtiaz/Bad-Boy): A framework inspired from https://youtu.be/RWIL-6xhmXU  
+[Cloud-One-Application-Security-SNS-to-Security-Hub](https://github.com/trend-anz/Cloud-One-Application-Security-SNS-to-Security-Hub): This AWS SAM (Serverless Application Model) deployment configures the required resources to send Trend Micro's Cloud One Application Security events to AWS Security Hub.
