@@ -6474,4 +6474,5 @@
 [Write-up-CTF-KKS-TNI](https://github.com/rozaqi/Write-up-CTF-KKS-TNI): Write up CTF KKS TNI  
 [airgeddon-plugins](https://github.com/KeyofBlueS/airgeddon-plugins): Enhanced functions and new features for airgeddon!  
 [IMAP-Proxy](https://github.com/CIRCL/IMAP-Proxy): Modular IMAP proxy (including PyCIRCLeanMail and MISP forward modules)  
-[steganalysis](https://github.com/fraimparato/steganalysis): Research project for the course "Cybersecurity and National Defence" of Politecnico di Torino.
+[steganalysis](https://github.com/fraimparato/steganalysis): Research project for the course "Cybersecurity and National Defence" of Politecnico di Torino.  
+[hacking101](https://github.com/v-kolesnikov/hacking101): Marginalia and synopsis of the book.
