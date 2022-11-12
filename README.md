@@ -6464,4 +6464,5 @@
 [Cloud-One-Application-Security-SNS-to-Security-Hub](https://github.com/trend-anz/Cloud-One-Application-Security-SNS-to-Security-Hub): This AWS SAM (Serverless Application Model) deployment configures the required resources to send Trend Micro's Cloud One Application Security events to AWS Security Hub.  
 [r00tb3.github.io](https://github.com/r00tb3/r00tb3.github.io): Amit Vitekar's blog!!!  
 [node-security](https://github.com/AndreasVolkmann/node-security): Node security seed  
-[fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴
+[fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴  
+[EddyTechnologyWebsite](https://github.com/NoiceGaming/EddyTechnologyWebsite): This is a website with tutorials on technology
