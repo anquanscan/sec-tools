@@ -6473,4 +6473,5 @@
 [bmstu_security](https://github.com/Winterpuma/bmstu_security): bmstu, IU7-7, Защита Информации (2020)  
 [Write-up-CTF-KKS-TNI](https://github.com/rozaqi/Write-up-CTF-KKS-TNI): Write up CTF KKS TNI  
 [airgeddon-plugins](https://github.com/KeyofBlueS/airgeddon-plugins): Enhanced functions and new features for airgeddon!  
-[IMAP-Proxy](https://github.com/CIRCL/IMAP-Proxy): Modular IMAP proxy (including PyCIRCLeanMail and MISP forward modules)
+[IMAP-Proxy](https://github.com/CIRCL/IMAP-Proxy): Modular IMAP proxy (including PyCIRCLeanMail and MISP forward modules)  
+[steganalysis](https://github.com/fraimparato/steganalysis): Research project for the course "Cybersecurity and National Defence" of Politecnico di Torino.
