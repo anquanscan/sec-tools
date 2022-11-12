@@ -6472,4 +6472,5 @@
 [Access-Bot](https://github.com/jake8655/Access-Bot): Access-Bot is a Discord bot that let's you secure your Discord server by making every new user take a test before given access to your server  
 [bmstu_security](https://github.com/Winterpuma/bmstu_security): bmstu, IU7-7, Защита Информации (2020)  
 [Write-up-CTF-KKS-TNI](https://github.com/rozaqi/Write-up-CTF-KKS-TNI): Write up CTF KKS TNI  
-[airgeddon-plugins](https://github.com/KeyofBlueS/airgeddon-plugins): Enhanced functions and new features for airgeddon!
+[airgeddon-plugins](https://github.com/KeyofBlueS/airgeddon-plugins): Enhanced functions and new features for airgeddon!  
+[IMAP-Proxy](https://github.com/CIRCL/IMAP-Proxy): Modular IMAP proxy (including PyCIRCLeanMail and MISP forward modules)
