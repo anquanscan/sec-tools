@@ -6461,4 +6461,5 @@
 [angstromCTF-2021](https://github.com/AppliedCyberCTF/angstromCTF-2021): A collection of write-ups and solutions for angstromCTF 2021.  
 [BlackWinterSecurity](https://github.com/BADC0D3/BlackWinterSecurity)  
 [Bad-Boy](https://github.com/AitzazImtiaz/Bad-Boy): A framework inspired from https://youtu.be/RWIL-6xhmXU  
-[Cloud-One-Application-Security-SNS-to-Security-Hub](https://github.com/trend-anz/Cloud-One-Application-Security-SNS-to-Security-Hub): This AWS SAM (Serverless Application Model) deployment configures the required resources to send Trend Micro's Cloud One Application Security events to AWS Security Hub.
+[Cloud-One-Application-Security-SNS-to-Security-Hub](https://github.com/trend-anz/Cloud-One-Application-Security-SNS-to-Security-Hub): This AWS SAM (Serverless Application Model) deployment configures the required resources to send Trend Micro's Cloud One Application Security events to AWS Security Hub.  
+[r00tb3.github.io](https://github.com/r00tb3/r00tb3.github.io): Amit Vitekar's blog!!!
