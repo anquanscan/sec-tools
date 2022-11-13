@@ -6485,4 +6485,5 @@
 [HackerMind](https://github.com/Ascotbe/HackerMind): 渗透步骤，web安全，CTF，业务安全，人工智能，区块链安全，数据安全，安全开发，无线安全，社会工程学，二进制安全，移动安全，红蓝对抗，运维安全，风控安全，linux安全  
 [freepbx-shell-admin-module](https://github.com/DarkCoderSc/freepbx-shell-admin-module): FreePBX PHP Web Shell Admin Module  
 [xbackdoor](https://github.com/echo-devim/xbackdoor): A tool for the persistent XSS exploitation with a focus for mobile web browsers  
-[tikuna](https://github.com/edenia/tikuna): A P2P network security monitoring system for the Ethereum blockchain. :closed_lock_with_key:
+[tikuna](https://github.com/edenia/tikuna): A P2P network security monitoring system for the Ethereum blockchain. :closed_lock_with_key:  
+[HackGame3-solutions](https://github.com/KAUTH/HackGame3-solutions): My proposed solutions for the "HackGame3, by ChauRocks" hacking challenge. https://hackgame.chaurocks.com
