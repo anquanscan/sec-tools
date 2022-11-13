@@ -6508,4 +6508,5 @@
 [ICS-Hacking](https://github.com/miguelob/ICS-Hacking): This repository is focused on cybersecurity in the industrial world. Many industrial communication protocols and equipment is investigated and pentested  
 [troubleshooting-k8s-apps](https://github.com/mhausenblas/troubleshooting-k8s-apps): Troubleshooting Kubernetes Applications  
 [NetNut](https://github.com/NetNut-Proxy-Network/NetNut): Premium Static & Rotating IPs | HTTP(s) Residential Proxy Network | Information & Code samples.  
-[Evocatio](https://github.com/HexHive/Evocatio)
+[Evocatio](https://github.com/HexHive/Evocatio)  
+[gke-vault-demo](https://github.com/GoogleCloudPlatform/gke-vault-demo): This demo builds two GKE Clusters and guides you through using secrets in Vault, using Kubernetes authentication from within a pod to login to Vault, and fetching short-lived Google Service Account credentials on-demand from Vault within a pod.
