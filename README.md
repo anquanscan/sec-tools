@@ -6500,4 +6500,5 @@
 [simple_python_obfuscator](https://github.com/CthUlhUzzz/simple_python_obfuscator): Very simple python obfuscator based on bytecode compiling  
 [OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips  
 [duplicate-webpage](https://github.com/janet-dev/duplicate-webpage): Duplication of TEUKHO homepage  
-[cleanup-aws-access-keys](https://github.com/tuladhar/cleanup-aws-access-keys): A cloud security tool to search and clean up unused AWS access keys, written in Go.
+[cleanup-aws-access-keys](https://github.com/tuladhar/cleanup-aws-access-keys): A cloud security tool to search and clean up unused AWS access keys, written in Go.  
+[serverless-goof-azure](https://github.com/lirantal/serverless-goof-azure): Oreilly's Serverless security example application - serverless-goof todo app
