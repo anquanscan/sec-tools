@@ -6505,4 +6505,5 @@
 [CHES-2016-Capture-the-Flag-writeup](https://github.com/M0nteCarl0/CHES-2016-Capture-the-Flag-writeup): Solution of CHES 2016 Capture the Flag  on ChipWhisperer(4 an 5), SCAred  and Jlsca  Side Channel Attack frameworks  
 [Python-Nmap-](https://github.com/WosberbonDesu/Python-Nmap-): :computer: Basic Nmap with python  
 [FeatureExtractor](https://github.com/octacode/FeatureExtractor): A static analysis tool for feature extraction from solid apk files  
-[ICS-Hacking](https://github.com/miguelob/ICS-Hacking): This repository is focused on cybersecurity in the industrial world. Many industrial communication protocols and equipment is investigated and pentested
+[ICS-Hacking](https://github.com/miguelob/ICS-Hacking): This repository is focused on cybersecurity in the industrial world. Many industrial communication protocols and equipment is investigated and pentested  
+[troubleshooting-k8s-apps](https://github.com/mhausenblas/troubleshooting-k8s-apps): Troubleshooting Kubernetes Applications
