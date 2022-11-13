@@ -6497,4 +6497,5 @@
 [PdfViewer](https://github.com/GrapheneOS/PdfViewer): Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.  
 [ethical-hacking-notes](https://github.com/SrivathsanNayak/ethical-hacking-notes)  
 [Quantum-Encryption](https://github.com/TheComputerDon/Quantum-Encryption): This is an easy python script to encrypt a file and decrypt a file with a key.  
-[simple_python_obfuscator](https://github.com/CthUlhUzzz/simple_python_obfuscator): Very simple python obfuscator based on bytecode compiling
+[simple_python_obfuscator](https://github.com/CthUlhUzzz/simple_python_obfuscator): Very simple python obfuscator based on bytecode compiling  
+[OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
