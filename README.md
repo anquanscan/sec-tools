@@ -6492,4 +6492,5 @@
 [Debloat](https://github.com/Guru-25/Debloat): Debloat Scripts for Realme UI 3.0  
 [Keep-Eye-On-User](https://github.com/SherazIbrahim/Keep-Eye-On-User): This software is to keep eye on every user who uses your computer . Actually  it captures screenshot of your computer and saves those in a specific folder and it also saves what the users writes using Keyboard.This is for non-Commercial use so you can not it use commercially but you can use it for your  non-commercial purpose.    
 [security-workshops](https://github.com/loicttn/security-workshops): MOVED HERE => https://github.com/PoCFrance/security-workshops .All security workshops organized to introduce students to security with CTF-like exercices.  
-[overthewire](https://github.com/mikelty/overthewire): solves various challenges on overthewire.org. 
+[overthewire](https://github.com/mikelty/overthewire): solves various challenges on overthewire.org.   
+[token-jwt-spring-boot](https://github.com/estevam5s/token-jwt-spring-boot): ☕Token JWT com Spring Boot, Spring Security, Auth0 e JPA | JAVA e POSTGRESQL
