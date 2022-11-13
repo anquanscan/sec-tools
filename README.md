@@ -6479,4 +6479,5 @@
 [suricatajs](https://github.com/nkalexiou/suricatajs): Monitor your javascript files and detect unauthorized changes.   
 [dns-bruteforce](https://github.com/alenbhclynpblc/dns-bruteforce): Real Bruteforcer, Not Wordlist Checker // DNS :)  
 [htb](https://github.com/yaboygmoney/htb)  
-[AimBot-AimHero](https://github.com/onurhanerk/AimBot-AimHero): Tensorflow
+[AimBot-AimHero](https://github.com/onurhanerk/AimBot-AimHero): Tensorflow  
+[pyrace](https://github.com/llamasoft/pyrace): An HTTP[S] race condition testing package built using the Requests library
