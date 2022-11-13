@@ -6489,4 +6489,5 @@
 [HackGame3-solutions](https://github.com/KAUTH/HackGame3-solutions): My proposed solutions for the "HackGame3, by ChauRocks" hacking challenge. https://hackgame.chaurocks.com  
 [bitcoin-hacking-tools](https://github.com/SMH17/bitcoin-hacking-tools): The source code of main tools used in Bitcoin "non-malware-based" attacks.  
 [targeted-password-guesses](https://github.com/ACM-Research/targeted-password-guesses): We refined a GPT-3 model on Wattpad user account data to generate targeted password guesses automatically.  
-[Debloat](https://github.com/Guru-25/Debloat): Debloat Scripts for Realme UI 3.0
+[Debloat](https://github.com/Guru-25/Debloat): Debloat Scripts for Realme UI 3.0  
+[Keep-Eye-On-User](https://github.com/SherazIbrahim/Keep-Eye-On-User): This software is to keep eye on every user who uses your computer . Actually  it captures screenshot of your computer and saves those in a specific folder and it also saves what the users writes using Keyboard.This is for non-Commercial use so you can not it use commercially but you can use it for your  non-commercial purpose.  
