@@ -6506,4 +6506,5 @@
 [Python-Nmap-](https://github.com/WosberbonDesu/Python-Nmap-): :computer: Basic Nmap with python  
 [FeatureExtractor](https://github.com/octacode/FeatureExtractor): A static analysis tool for feature extraction from solid apk files  
 [ICS-Hacking](https://github.com/miguelob/ICS-Hacking): This repository is focused on cybersecurity in the industrial world. Many industrial communication protocols and equipment is investigated and pentested  
-[troubleshooting-k8s-apps](https://github.com/mhausenblas/troubleshooting-k8s-apps): Troubleshooting Kubernetes Applications
+[troubleshooting-k8s-apps](https://github.com/mhausenblas/troubleshooting-k8s-apps): Troubleshooting Kubernetes Applications  
+[NetNut](https://github.com/NetNut-Proxy-Network/NetNut): Premium Static & Rotating IPs | HTTP(s) Residential Proxy Network | Information & Code samples.
