@@ -6480,4 +6480,5 @@
 [dns-bruteforce](https://github.com/alenbhclynpblc/dns-bruteforce): Real Bruteforcer, Not Wordlist Checker // DNS :)  
 [htb](https://github.com/yaboygmoney/htb)  
 [AimBot-AimHero](https://github.com/onurhanerk/AimBot-AimHero): Tensorflow  
-[pyrace](https://github.com/llamasoft/pyrace): An HTTP[S] race condition testing package built using the Requests library
+[pyrace](https://github.com/llamasoft/pyrace): An HTTP[S] race condition testing package built using the Requests library  
+[PHPAuditGuideBook](https://github.com/burpheart/PHPAuditGuideBook): 《PHP代码审计入门指南》 这本指南包含了我在学习PHP代码审计过程中整理出的一些技巧和对漏洞的一些理解
