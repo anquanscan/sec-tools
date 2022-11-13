@@ -6501,4 +6501,5 @@
 [OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips  
 [duplicate-webpage](https://github.com/janet-dev/duplicate-webpage): Duplication of TEUKHO homepage  
 [cleanup-aws-access-keys](https://github.com/tuladhar/cleanup-aws-access-keys): A cloud security tool to search and clean up unused AWS access keys, written in Go.  
-[serverless-goof-azure](https://github.com/lirantal/serverless-goof-azure): Oreilly's Serverless security example application - serverless-goof todo app
+[serverless-goof-azure](https://github.com/lirantal/serverless-goof-azure): Oreilly's Serverless security example application - serverless-goof todo app  
+[CHES-2016-Capture-the-Flag-writeup](https://github.com/M0nteCarl0/CHES-2016-Capture-the-Flag-writeup): Solution of CHES 2016 Capture the Flag  on ChipWhisperer(4 an 5), SCAred  and Jlsca  Side Channel Attack frameworks
