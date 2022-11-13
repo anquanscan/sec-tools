@@ -6498,4 +6498,5 @@
 [ethical-hacking-notes](https://github.com/SrivathsanNayak/ethical-hacking-notes)  
 [Quantum-Encryption](https://github.com/TheComputerDon/Quantum-Encryption): This is an easy python script to encrypt a file and decrypt a file with a key.  
 [simple_python_obfuscator](https://github.com/CthUlhUzzz/simple_python_obfuscator): Very simple python obfuscator based on bytecode compiling  
-[OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips
+[OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, dataset, article, book and OSINT tips  
+[duplicate-webpage](https://github.com/janet-dev/duplicate-webpage): Duplication of TEUKHO homepage
