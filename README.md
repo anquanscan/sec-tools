@@ -6483,4 +6483,5 @@
 [pyrace](https://github.com/llamasoft/pyrace): An HTTP[S] race condition testing package built using the Requests library  
 [PHPAuditGuideBook](https://github.com/burpheart/PHPAuditGuideBook): 《PHP代码审计入门指南》 这本指南包含了我在学习PHP代码审计过程中整理出的一些技巧和对漏洞的一些理解  
 [HackerMind](https://github.com/Ascotbe/HackerMind): 渗透步骤，web安全，CTF，业务安全，人工智能，区块链安全，数据安全，安全开发，无线安全，社会工程学，二进制安全，移动安全，红蓝对抗，运维安全，风控安全，linux安全  
-[freepbx-shell-admin-module](https://github.com/DarkCoderSc/freepbx-shell-admin-module): FreePBX PHP Web Shell Admin Module
+[freepbx-shell-admin-module](https://github.com/DarkCoderSc/freepbx-shell-admin-module): FreePBX PHP Web Shell Admin Module  
+[xbackdoor](https://github.com/echo-devim/xbackdoor): A tool for the persistent XSS exploitation with a focus for mobile web browsers
