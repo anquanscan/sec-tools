@@ -6486,4 +6486,5 @@
 [freepbx-shell-admin-module](https://github.com/DarkCoderSc/freepbx-shell-admin-module): FreePBX PHP Web Shell Admin Module  
 [xbackdoor](https://github.com/echo-devim/xbackdoor): A tool for the persistent XSS exploitation with a focus for mobile web browsers  
 [tikuna](https://github.com/edenia/tikuna): A P2P network security monitoring system for the Ethereum blockchain. :closed_lock_with_key:  
-[HackGame3-solutions](https://github.com/KAUTH/HackGame3-solutions): My proposed solutions for the "HackGame3, by ChauRocks" hacking challenge. https://hackgame.chaurocks.com
+[HackGame3-solutions](https://github.com/KAUTH/HackGame3-solutions): My proposed solutions for the "HackGame3, by ChauRocks" hacking challenge. https://hackgame.chaurocks.com  
+[bitcoin-hacking-tools](https://github.com/SMH17/bitcoin-hacking-tools): The source code of main tools used in Bitcoin "non-malware-based" attacks.
