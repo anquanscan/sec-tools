@@ -6514,4 +6514,5 @@
 [shadownet_toolV1](https://github.com/Shadow-CybSec/shadownet_toolV1): Just a quick framework for all your recon needs.  
 [HACKING-ETICO](https://github.com/Ro-TechUY/HACKING-ETICO): ¡Bienvenidos a mi portafolio digital! En este repositorio podrás encontrar algunos de mis trabajos, recopilacion de informacion y scrips relacionados con seguridad informática, pentesting y vulnerabilidad en sistemas informáticos.  
 [koa-protect](https://github.com/may215/koa-protect): Security module for koa applications  
-[domain-to-webapp](https://github.com/cyberblackhole/domain-to-webapp): Web application Enumerator
+[domain-to-webapp](https://github.com/cyberblackhole/domain-to-webapp): Web application Enumerator  
+[bash-for-ethical-hackers](https://github.com/R3DHULK/bash-for-ethical-hackers): Bash For Ethical Hacking
