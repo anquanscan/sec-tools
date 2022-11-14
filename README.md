@@ -6516,4 +6516,5 @@
 [koa-protect](https://github.com/may215/koa-protect): Security module for koa applications  
 [domain-to-webapp](https://github.com/cyberblackhole/domain-to-webapp): Web application Enumerator  
 [bash-for-ethical-hackers](https://github.com/R3DHULK/bash-for-ethical-hackers): Bash For Ethical Hacking  
-[android_device_samsung_s5neolte_lineageOS](https://github.com/Fincer/android_device_samsung_s5neolte_lineageOS): LineageOS 18.1 patches & tweaks for Samsung S5 Neo (s5neolte)
+[android_device_samsung_s5neolte_lineageOS](https://github.com/Fincer/android_device_samsung_s5neolte_lineageOS): LineageOS 18.1 patches & tweaks for Samsung S5 Neo (s5neolte)  
+[SSRF-Scanner](https://github.com/Dancas93/SSRF-Scanner)
