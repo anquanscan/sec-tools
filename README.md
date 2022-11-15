@@ -6529,4 +6529,5 @@
 [XLIBROBLOX](https://github.com/XtoolsGithub/XLIBROBLOX): XLIBROBLOX  
 [piccolo_api](https://github.com/piccolo-orm/piccolo_api): ASGI middleware for authentication, rate limiting, and building REST endpoints.  
 [CppWxWidgetsReverseShell](https://github.com/melardev/CppWxWidgetsReverseShell): Reverse shell written in Cpp using wxWidgets framework  
-[symex](https://github.com/nmosier/symex): A symbolic execution engine for x86-32 that allows starting execution from a concrete execution's core dump.
+[symex](https://github.com/nmosier/symex): A symbolic execution engine for x86-32 that allows starting execution from a concrete execution's core dump.  
+[Cyber_Security](https://github.com/FabioDainese/Cyber_Security): Write-ups of various cyber security challenges and CTFs
