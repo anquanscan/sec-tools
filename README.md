@@ -6534,4 +6534,5 @@
 [omigood](https://github.com/marcosimioni/omigood): OMIGOD! OM I GOOD? A free scanner to detect VMs vulnerable to one of the "OMIGOD" vulnerabilities discovered by Wiz's threat research team, specifically CVE-2021-38647.  
 [docker-cif](https://github.com/ventz/docker-cif): CIFv3 Ubuntu 16.04 Docker Container (Bearded Avenger)  
 [CVEsLab](https://github.com/SecuriTrust/CVEsLab): 💀 A collection of proof-of-concept exploit scripts on docker lab environments has been discovered by Securi Trust Team. Vulnerabilities has been written by SecuriTrust team for various CVEs.  
-[DorkMe](https://github.com/blueudp/DorkMe): [WORKING IN V2, WITH PROXIES, CUSTOM USER AGENT... TO MUCH BETTER!]DorkMe is a tool designed with the purpose of making easier the searching of vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.
+[DorkMe](https://github.com/blueudp/DorkMe): [WORKING IN V2, WITH PROXIES, CUSTOM USER AGENT... TO MUCH BETTER!]DorkMe is a tool designed with the purpose of making easier the searching of vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.  
+[clairvoyance](https://github.com/nikitastupin/clairvoyance): Obtain GraphQL API Schema even if the introspection is not enabled
