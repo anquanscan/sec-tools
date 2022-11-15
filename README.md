@@ -6521,4 +6521,5 @@
 [Web-Crawler-Tables](https://github.com/Gabriel-Lima232/Web-Crawler-Tables)  
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-A1](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-A1): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION (A1) PROXIA when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).  
 [ReMod-Core](https://github.com/KevinW1998/ReMod-Core)  
-[sio-ts](https://github.com/JonathanWilbur/sio-ts): Security Information Objects, per ITU Recommendation X.841.
+[sio-ts](https://github.com/JonathanWilbur/sio-ts): Security Information Objects, per ITU Recommendation X.841.  
+[glua-steal](https://github.com/lewisclark/glua-steal): Retrieves client-sided Lua files from Garry's Mod game servers
