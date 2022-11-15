@@ -6530,4 +6530,5 @@
 [piccolo_api](https://github.com/piccolo-orm/piccolo_api): ASGI middleware for authentication, rate limiting, and building REST endpoints.  
 [CppWxWidgetsReverseShell](https://github.com/melardev/CppWxWidgetsReverseShell): Reverse shell written in Cpp using wxWidgets framework  
 [symex](https://github.com/nmosier/symex): A symbolic execution engine for x86-32 that allows starting execution from a concrete execution's core dump.  
-[Cyber_Security](https://github.com/FabioDainese/Cyber_Security): Write-ups of various cyber security challenges and CTFs
+[Cyber_Security](https://github.com/FabioDainese/Cyber_Security): Write-ups of various cyber security challenges and CTFs  
+[omigood](https://github.com/marcosimioni/omigood): OMIGOD! OM I GOOD? A free scanner to detect VMs vulnerable to one of the "OMIGOD" vulnerabilities discovered by Wiz's threat research team, specifically CVE-2021-38647.
