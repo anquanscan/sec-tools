@@ -6538,4 +6538,5 @@
 [clairvoyance](https://github.com/nikitastupin/clairvoyance): Obtain GraphQL API Schema even if the introspection is not enabled  
 [awesome-security-training](https://github.com/Smithech/awesome-security-training): A curated list of awesome security and hacking training platforms and resources.   
 [RDSE](https://github.com/SIMBREX/RDSE): RDSE - Open Source Encryption Technology  
-[Exfiltrate](https://github.com/jndean/Exfiltrate): Retro hacking multiplayer browser game 🎲
+[Exfiltrate](https://github.com/jndean/Exfiltrate): Retro hacking multiplayer browser game 🎲  
+[armudgal.github.io](https://github.com/armudgal/armudgal.github.io): Used the popular minimal jekyll template Moon. Updated version
