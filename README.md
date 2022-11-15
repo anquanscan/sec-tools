@@ -6539,4 +6539,5 @@
 [awesome-security-training](https://github.com/Smithech/awesome-security-training): A curated list of awesome security and hacking training platforms and resources.   
 [RDSE](https://github.com/SIMBREX/RDSE): RDSE - Open Source Encryption Technology  
 [Exfiltrate](https://github.com/jndean/Exfiltrate): Retro hacking multiplayer browser game 🎲  
-[armudgal.github.io](https://github.com/armudgal/armudgal.github.io): Used the popular minimal jekyll template Moon. Updated version
+[armudgal.github.io](https://github.com/armudgal/armudgal.github.io): Used the popular minimal jekyll template Moon. Updated version  
+[cybersecurity-tools](https://github.com/paulveillard/cybersecurity-tools): A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.
