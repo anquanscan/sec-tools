@@ -6536,4 +6536,5 @@
 [CVEsLab](https://github.com/SecuriTrust/CVEsLab): 💀 A collection of proof-of-concept exploit scripts on docker lab environments has been discovered by Securi Trust Team. Vulnerabilities has been written by SecuriTrust team for various CVEs.  
 [DorkMe](https://github.com/blueudp/DorkMe): [WORKING IN V2, WITH PROXIES, CUSTOM USER AGENT... TO MUCH BETTER!]DorkMe is a tool designed with the purpose of making easier the searching of vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.  
 [clairvoyance](https://github.com/nikitastupin/clairvoyance): Obtain GraphQL API Schema even if the introspection is not enabled  
-[awesome-security-training](https://github.com/Smithech/awesome-security-training): A curated list of awesome security and hacking training platforms and resources. 
+[awesome-security-training](https://github.com/Smithech/awesome-security-training): A curated list of awesome security and hacking training platforms and resources.   
+[RDSE](https://github.com/SIMBREX/RDSE): RDSE - Open Source Encryption Technology
