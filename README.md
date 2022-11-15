@@ -6525,4 +6525,5 @@
 [glua-steal](https://github.com/lewisclark/glua-steal): Retrieves client-sided Lua files from Garry's Mod game servers  
 [FastAudit](https://github.com/chrispetrou/FastAudit): :shipit: A wordpress security auditor! Audit your wordpress application for security issues with even 1 request.  
 [Hackerman_Tools](https://github.com/Etignis/Hackerman_Tools): Feel like the real Hacker  
-[ScrapPY](https://github.com/RoseSecurity/ScrapPY): ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks against targets. The tool dives deep to discover keywords and phrases leading to potential passwords or hidden directories.
+[ScrapPY](https://github.com/RoseSecurity/ScrapPY): ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, and dictionary attacks against targets. The tool dives deep to discover keywords and phrases leading to potential passwords or hidden directories.  
+[XLIBROBLOX](https://github.com/XtoolsGithub/XLIBROBLOX): XLIBROBLOX
