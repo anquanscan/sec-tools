@@ -6547,4 +6547,5 @@
 [Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool): This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian and Belarusian propaganda sites. -in website link below, replace day255 with the current day since the invasion started.            Oh.. And you know.. For educational purposes only ;)  
 [forsh](https://github.com/kevinreddot/forsh): Shell intended for forwarding-only ssh connection via jumphost  
 [Computer-Security](https://github.com/TendTo/Computer-Security): Esperimenti e progetti realizzati durante il corso di Computer Security 2021/2021   
-[WindowsFirewallAutomation](https://github.com/honeyful/WindowsFirewallAutomation): C# Windows Firewall Automation Toolkit
+[WindowsFirewallAutomation](https://github.com/honeyful/WindowsFirewallAutomation): C# Windows Firewall Automation Toolkit  
+[LogBluetoothAPI](https://github.com/KYHSGeekCode/LogBluetoothAPI): Logs android bluetooth api calls of apps using xposed framework, to learn how to avoid java.lang.IOException: connect() failed; socket might closed or timeout; read ret: -1
