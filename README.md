@@ -6544,4 +6544,5 @@
 [nullblr-bachaav-aismd](https://github.com/appsecco/nullblr-bachaav-aismd): null Bangalore Public Bachaav 10 December 2016 Automated Infrastructure Security Monitoring & Defence  
 [capsicum-proxy](https://github.com/AmbrSb/capsicum-proxy): Automatic/transparent sandboxing of C/C++ code and dynamic shared objects via capsicum  
 [MASS-LFI-TO-RCE](https://github.com/unCodeBoss/MASS-LFI-TO-RCE): t.me/codeb0ss  
-[Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool): This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian and Belarusian propaganda sites. -in website link below, replace day255 with the current day since the invasion started.            Oh.. And you know.. For educational purposes only ;)
+[Russian-propaganda-browser-flood-tool](https://github.com/rmellis/Russian-propaganda-browser-flood-tool): This repo contains a set of standalone ".htm" pages which will allow you to help Ukraine by flooding Russian and Belarusian propaganda sites. -in website link below, replace day255 with the current day since the invasion started.            Oh.. And you know.. For educational purposes only ;)  
+[forsh](https://github.com/kevinreddot/forsh): Shell intended for forwarding-only ssh connection via jumphost
