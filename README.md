@@ -6542,4 +6542,5 @@
 [armudgal.github.io](https://github.com/armudgal/armudgal.github.io): Used the popular minimal jekyll template Moon. Updated version  
 [cybersecurity-tools](https://github.com/paulveillard/cybersecurity-tools): A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.  
 [nullblr-bachaav-aismd](https://github.com/appsecco/nullblr-bachaav-aismd): null Bangalore Public Bachaav 10 December 2016 Automated Infrastructure Security Monitoring & Defence  
-[capsicum-proxy](https://github.com/AmbrSb/capsicum-proxy): Automatic/transparent sandboxing of C/C++ code and dynamic shared objects via capsicum
+[capsicum-proxy](https://github.com/AmbrSb/capsicum-proxy): Automatic/transparent sandboxing of C/C++ code and dynamic shared objects via capsicum  
+[MASS-LFI-TO-RCE](https://github.com/unCodeBoss/MASS-LFI-TO-RCE): t.me/codeb0ss
