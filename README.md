@@ -6548,4 +6548,5 @@
 [forsh](https://github.com/kevinreddot/forsh): Shell intended for forwarding-only ssh connection via jumphost  
 [Computer-Security](https://github.com/TendTo/Computer-Security): Esperimenti e progetti realizzati durante il corso di Computer Security 2021/2021   
 [WindowsFirewallAutomation](https://github.com/honeyful/WindowsFirewallAutomation): C# Windows Firewall Automation Toolkit  
-[LogBluetoothAPI](https://github.com/KYHSGeekCode/LogBluetoothAPI): Logs android bluetooth api calls of apps using xposed framework, to learn how to avoid java.lang.IOException: connect() failed; socket might closed or timeout; read ret: -1
+[LogBluetoothAPI](https://github.com/KYHSGeekCode/LogBluetoothAPI): Logs android bluetooth api calls of apps using xposed framework, to learn how to avoid java.lang.IOException: connect() failed; socket might closed or timeout; read ret: -1  
+[RHEL8-STIG](https://github.com/ansible-lockdown/RHEL8-STIG): STIG Baseline Ansible Role for RHEL 8
