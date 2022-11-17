@@ -6552,4 +6552,5 @@
 [RHEL8-STIG](https://github.com/ansible-lockdown/RHEL8-STIG): STIG Baseline Ansible Role for RHEL 8  
 [ProSecrec](https://github.com/HydroCarbons/ProSecrec): Pro Secrec App - Secure Vault for your important information.   
 [Villain](https://github.com/t3l3machus/Villain): Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.  
-[santuario-cpp](https://github.com/apache/santuario-cpp): Mirror of Apache Santuario C++
+[santuario-cpp](https://github.com/apache/santuario-cpp): Mirror of Apache Santuario C++  
+[cyberprobe](https://github.com/cybermaggedon/cyberprobe): Capturing, analysing and responding to cyber attacks
