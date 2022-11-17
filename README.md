@@ -6555,4 +6555,5 @@
 [santuario-cpp](https://github.com/apache/santuario-cpp): Mirror of Apache Santuario C++  
 [cyberprobe](https://github.com/cybermaggedon/cyberprobe): Capturing, analysing and responding to cyber attacks  
 [Sistema-Acesso-API](https://github.com/JoaoG23/Sistema-Acesso-API): API de um Sistema de Segurança e Controle de acesso de pessoas, cujo o intuito, controlar e gerenciar com fluxo de usuários sistema.👌🏽👩🏽‍💼  
-[Drone-Hacking-Tool](https://github.com/HKSSY/Drone-Hacking-Tool): Drone Hacking Tool is a GUI tool that works with a USB Wifi adapter and HackRF One for hacking drones.
+[Drone-Hacking-Tool](https://github.com/HKSSY/Drone-Hacking-Tool): Drone Hacking Tool is a GUI tool that works with a USB Wifi adapter and HackRF One for hacking drones.  
+[cybersecurity-scripts](https://github.com/paulveillard/cybersecurity-scripts): A collection of public offensive and defensive security software, libraries, learning tutorials, documents, books, resources and cool stuff in security
