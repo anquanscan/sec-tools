@@ -6571,4 +6571,5 @@
 [dependency-check-py](https://github.com/jhermann/dependency-check-py): :closed_lock_with_key: Shim to easily install OWASP dependency-check-cli into Python projects  
 [GameModdingEngine](https://github.com/xvghy-x/GameModdingEngine): Gamers Modding Engine! Cheat UI for over 20 online games  
 [foliage](https://github.com/rodchenk/foliage): Datenschutz und Softwareanpassung für foliage.com  
-[Awesome-WAF](https://github.com/0xInfection/Awesome-WAF): 🔥 Web-application firewalls (WAFs) from security standpoint.
+[Awesome-WAF](https://github.com/0xInfection/Awesome-WAF): 🔥 Web-application firewalls (WAFs) from security standpoint.  
+[University-Revision](https://github.com/Xtrendence/University-Revision): University revision notes for Computing.
