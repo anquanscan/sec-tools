@@ -6568,4 +6568,5 @@
 [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files): Read About All PrePatched Files Blog Installation Instructions  
 [Power-DoS](https://github.com/Black-Hell-Team/Power-DoS): Power-DoS, a multi-threaded Denial of Service tool made in Python 3  
 [DesenvolvimentoSeguro](https://github.com/wh0isdxk/DesenvolvimentoSeguro): Principios e Boas Práticas sobre Desenvolvimento Seguro  
-[dependency-check-py](https://github.com/jhermann/dependency-check-py): :closed_lock_with_key: Shim to easily install OWASP dependency-check-cli into Python projects
+[dependency-check-py](https://github.com/jhermann/dependency-check-py): :closed_lock_with_key: Shim to easily install OWASP dependency-check-cli into Python projects  
+[GameModdingEngine](https://github.com/xvghy-x/GameModdingEngine): Gamers Modding Engine! Cheat UI for over 20 online games
