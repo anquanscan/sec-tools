@@ -6566,4 +6566,5 @@
 [NucleiTP](https://github.com/ExpLangcn/NucleiTP): 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！  
 [Recon4u](https://github.com/shivams0099/Recon4u): Reconnaissance Tool  
 [Magento-Pre-Patched-Files](https://github.com/magecomp/Magento-Pre-Patched-Files): Read About All PrePatched Files Blog Installation Instructions  
-[Power-DoS](https://github.com/Black-Hell-Team/Power-DoS): Power-DoS, a multi-threaded Denial of Service tool made in Python 3
+[Power-DoS](https://github.com/Black-Hell-Team/Power-DoS): Power-DoS, a multi-threaded Denial of Service tool made in Python 3  
+[DesenvolvimentoSeguro](https://github.com/wh0isdxk/DesenvolvimentoSeguro): Principios e Boas Práticas sobre Desenvolvimento Seguro
