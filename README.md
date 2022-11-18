@@ -6574,4 +6574,5 @@
 [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF): 🔥 Web-application firewalls (WAFs) from security standpoint.  
 [University-Revision](https://github.com/Xtrendence/University-Revision): University revision notes for Computing.  
 [rfparty-monitor](https://github.com/datapartyjs/rfparty-monitor): its like a tricorder, for your wireless world.  
-[SecHeaders](https://github.com/ajmusgrove/SecHeaders): This is a fully configurable, rules-based plugin to build up the Content Security Policy, generate NONCE, and set all needed security HTTP headers for JSP/Servlet engines.
+[SecHeaders](https://github.com/ajmusgrove/SecHeaders): This is a fully configurable, rules-based plugin to build up the Content Security Policy, generate NONCE, and set all needed security HTTP headers for JSP/Servlet engines.  
+[Malcolm](https://github.com/cisagov/Malcolm): Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
