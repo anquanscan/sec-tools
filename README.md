@@ -6588,4 +6588,5 @@
 [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp over a GitHub search.  
 [mylittlepwny](https://github.com/cogito-cea/mylittlepwny): Tools for side-channel analysis  
 [Example-injector](https://github.com/Fnoberz/Example-injector): 💉 Fivem Exec | Open Source C++ External Release  
-[Java-Backend](https://github.com/VanTamNguyen/Java-Backend): Things I learn to become a Java backend engineer
+[Java-Backend](https://github.com/VanTamNguyen/Java-Backend): Things I learn to become a Java backend engineer  
+[gnirts](https://github.com/anseki/gnirts): Obfuscate string literals in JavaScript code.
