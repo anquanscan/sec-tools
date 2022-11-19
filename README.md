@@ -6581,4 +6581,5 @@
 [Text-Shredder](https://github.com/stephenhaunts/Text-Shredder): A simple tool that applies very strong encryption over text for use with chat or email applications. Use this if you want to add another level of privacy and security that you can control.  
 [leakhunter](https://github.com/soheicyber/leakhunter): LeakHunter uses webbugs embedded in docx files to help you identify insiders who leak documents outside your organization.  
 [sksick](https://github.com/yanalunaterra-wip/sksick): Tools to break gpg --recv, add fake identities, and DoS SKS keyservers  
-[ramanlameika](https://github.com/ramanlameika/ramanlameika): Config files for my GitHub profile.
+[ramanlameika](https://github.com/ramanlameika/ramanlameika): Config files for my GitHub profile.  
+[lf-podcast](https://github.com/linuxfoundation/lf-podcast): From the Linux Foundation office in New York City, welcome to "The Untold Stories of Open Source". Each week we explore the people who are supporting Open Source projects, how they became involved with it, and the problems they faced along the way.
