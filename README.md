@@ -6586,4 +6586,5 @@
 [Hacking-Awesome](https://github.com/spy86/Hacking-Awesome): Hacking-Awesome  
 [MiniScanner](https://github.com/JOHNHEHE/MiniScanner): 集合多个功能的网络安全迷你系统  
 [github-regexp](https://github.com/gwen001/github-regexp): Basically a regexp over a GitHub search.  
-[mylittlepwny](https://github.com/cogito-cea/mylittlepwny): Tools for side-channel analysis
+[mylittlepwny](https://github.com/cogito-cea/mylittlepwny): Tools for side-channel analysis  
+[Example-injector](https://github.com/Fnoberz/Example-injector): 💉 Fivem Exec | Open Source C++ External Release
