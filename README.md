@@ -6578,4 +6578,5 @@
 [Malcolm](https://github.com/cisagov/Malcolm): Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.  
 [malware-souk](https://github.com/saferwall/malware-souk): Collaborative malware exchange repository.  
 [web-recon](https://github.com/pr0xh4ck/web-recon): All About Web Recon & OSINT  
-[Text-Shredder](https://github.com/stephenhaunts/Text-Shredder): A simple tool that applies very strong encryption over text for use with chat or email applications. Use this if you want to add another level of privacy and security that you can control.
+[Text-Shredder](https://github.com/stephenhaunts/Text-Shredder): A simple tool that applies very strong encryption over text for use with chat or email applications. Use this if you want to add another level of privacy and security that you can control.  
+[leakhunter](https://github.com/soheicyber/leakhunter): LeakHunter uses webbugs embedded in docx files to help you identify insiders who leak documents outside your organization.
