@@ -6589,4 +6589,5 @@
 [mylittlepwny](https://github.com/cogito-cea/mylittlepwny): Tools for side-channel analysis  
 [Example-injector](https://github.com/Fnoberz/Example-injector): 💉 Fivem Exec | Open Source C++ External Release  
 [Java-Backend](https://github.com/VanTamNguyen/Java-Backend): Things I learn to become a Java backend engineer  
-[gnirts](https://github.com/anseki/gnirts): Obfuscate string literals in JavaScript code.
+[gnirts](https://github.com/anseki/gnirts): Obfuscate string literals in JavaScript code.  
+[NetworkTrafficAnalyzer](https://github.com/geetika016/NetworkTrafficAnalyzer): Flask Application to Analyze and Visualize Network Traffic Data using Machine Learning
