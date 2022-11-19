@@ -6580,4 +6580,5 @@
 [web-recon](https://github.com/pr0xh4ck/web-recon): All About Web Recon & OSINT  
 [Text-Shredder](https://github.com/stephenhaunts/Text-Shredder): A simple tool that applies very strong encryption over text for use with chat or email applications. Use this if you want to add another level of privacy and security that you can control.  
 [leakhunter](https://github.com/soheicyber/leakhunter): LeakHunter uses webbugs embedded in docx files to help you identify insiders who leak documents outside your organization.  
-[sksick](https://github.com/yanalunaterra-wip/sksick): Tools to break gpg --recv, add fake identities, and DoS SKS keyservers
+[sksick](https://github.com/yanalunaterra-wip/sksick): Tools to break gpg --recv, add fake identities, and DoS SKS keyservers  
+[ramanlameika](https://github.com/ramanlameika/ramanlameika): Config files for my GitHub profile.
