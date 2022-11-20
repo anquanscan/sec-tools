@@ -6597,4 +6597,5 @@
 [KotlinBindShell](https://github.com/melardev/KotlinBindShell)  
 [detectify-cves](https://github.com/gwen001/detectify-cves): Find CVEs that don't have a Detectify modules.  
 [nepalihackers.github.io](https://github.com/nepalihackers/nepalihackers.github.io): Webpage for nepali hackers and tinkerers  
-[Swek3](https://github.com/Ethnical/Swek3): Web3 Security Toolbox
+[Swek3](https://github.com/Ethnical/Swek3): Web3 Security Toolbox  
+[AwesomeResources](https://github.com/CodheadClub/AwesomeResources): An awesome list of computer science related resources.
