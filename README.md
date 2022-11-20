@@ -6598,4 +6598,5 @@
 [detectify-cves](https://github.com/gwen001/detectify-cves): Find CVEs that don't have a Detectify modules.  
 [nepalihackers.github.io](https://github.com/nepalihackers/nepalihackers.github.io): Webpage for nepali hackers and tinkerers  
 [Swek3](https://github.com/Ethnical/Swek3): Web3 Security Toolbox  
-[AwesomeResources](https://github.com/CodheadClub/AwesomeResources): An awesome list of computer science related resources.
+[AwesomeResources](https://github.com/CodheadClub/AwesomeResources): An awesome list of computer science related resources.  
+[Pi-2FA](https://github.com/neilnhardy/Pi-2FA): Bash scripts enabling 2-factor authentication for a range of services on Pi OS.  Baseline support for lightdm, login, sshd, su & sudo, however other /etc/pam.d services can be  added. Per-user control over which services are 2FA enabled or administrative enforcement.
