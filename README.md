@@ -6600,4 +6600,5 @@
 [Swek3](https://github.com/Ethnical/Swek3): Web3 Security Toolbox  
 [AwesomeResources](https://github.com/CodheadClub/AwesomeResources): An awesome list of computer science related resources.  
 [Pi-2FA](https://github.com/neilnhardy/Pi-2FA): Bash scripts enabling 2-factor authentication for a range of services on Pi OS.  Baseline support for lightdm, login, sshd, su & sudo, however other /etc/pam.d services can be  added. Per-user control over which services are 2FA enabled or administrative enforcement.  
-[bao-hypervisor](https://github.com/bao-project/bao-hypervisor): Bao, a Lightweight Static Partitioning Hypervisor
+[bao-hypervisor](https://github.com/bao-project/bao-hypervisor): Bao, a Lightweight Static Partitioning Hypervisor  
+[TireFire](https://github.com/cloudsriseup/TireFire): A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
