@@ -6591,4 +6591,5 @@
 [Java-Backend](https://github.com/VanTamNguyen/Java-Backend): Things I learn to become a Java backend engineer  
 [gnirts](https://github.com/anseki/gnirts): Obfuscate string literals in JavaScript code.  
 [NetworkTrafficAnalyzer](https://github.com/geetika016/NetworkTrafficAnalyzer): Flask Application to Analyze and Visualize Network Traffic Data using Machine Learning  
-[TlsCertificateLoader](https://github.com/MarkCiliaVincenti/TlsCertificateLoader): Allows loading of TLS certificates for .NET 6.0 Kestrel web applications, allowing for refreshing of certificates as well as compatibility with HTTP/3.
+[TlsCertificateLoader](https://github.com/MarkCiliaVincenti/TlsCertificateLoader): Allows loading of TLS certificates for .NET 6.0 Kestrel web applications, allowing for refreshing of certificates as well as compatibility with HTTP/3.  
+[android-codelab-2019](https://github.com/gdgpisa/android-codelab-2019): Material and Sample Projects for GDG Pisa's event: Android Development for Dummies
