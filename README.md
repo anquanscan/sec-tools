@@ -6590,4 +6590,5 @@
 [Example-injector](https://github.com/Fnoberz/Example-injector): 💉 Fivem Exec | Open Source C++ External Release  
 [Java-Backend](https://github.com/VanTamNguyen/Java-Backend): Things I learn to become a Java backend engineer  
 [gnirts](https://github.com/anseki/gnirts): Obfuscate string literals in JavaScript code.  
-[NetworkTrafficAnalyzer](https://github.com/geetika016/NetworkTrafficAnalyzer): Flask Application to Analyze and Visualize Network Traffic Data using Machine Learning
+[NetworkTrafficAnalyzer](https://github.com/geetika016/NetworkTrafficAnalyzer): Flask Application to Analyze and Visualize Network Traffic Data using Machine Learning  
+[TlsCertificateLoader](https://github.com/MarkCiliaVincenti/TlsCertificateLoader): Allows loading of TLS certificates for .NET 6.0 Kestrel web applications, allowing for refreshing of certificates as well as compatibility with HTTP/3.
