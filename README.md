@@ -6604,4 +6604,5 @@
 [TireFire](https://github.com/cloudsriseup/TireFire): A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.  
 [log-credentials](https://github.com/jomisica/log-credentials): PAM Log Credentials  
 [IMAGE-RAT](https://github.com/pro-rat/IMAGE-RAT): Android hacking with Image  
-[SecureLoginLab](https://github.com/mihaicerchez/SecureLoginLab): This is an implementation of a login form with a stored password in it's code as a SHA-512 hash that is also SALTed.
+[SecureLoginLab](https://github.com/mihaicerchez/SecureLoginLab): This is an implementation of a login form with a stored password in it's code as a SHA-512 hash that is also SALTed.  
+[domain-awareness-mgt](https://github.com/cybnity/domain-awareness-mgt): All the features and services realized by the Awareness & Culture bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
