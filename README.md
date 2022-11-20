@@ -6596,4 +6596,5 @@
 [gogogoportscan](https://github.com/malikh22/gogogoportscan): A simple port scanner created in Go for my programming languages course as my final project. Currently, it can run a full TCP scan of all ports in under 5 seconds.  
 [KotlinBindShell](https://github.com/melardev/KotlinBindShell)  
 [detectify-cves](https://github.com/gwen001/detectify-cves): Find CVEs that don't have a Detectify modules.  
-[nepalihackers.github.io](https://github.com/nepalihackers/nepalihackers.github.io): Webpage for nepali hackers and tinkerers
+[nepalihackers.github.io](https://github.com/nepalihackers/nepalihackers.github.io): Webpage for nepali hackers and tinkerers  
+[Swek3](https://github.com/Ethnical/Swek3): Web3 Security Toolbox
