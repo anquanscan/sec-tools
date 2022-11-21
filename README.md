@@ -6609,4 +6609,5 @@
 [Shamir-for-Cloud-Environments](https://github.com/joezbub/Shamir-for-Cloud-Environments): Secret sharing implementation allows users to split and combine their files according to a default (2, 3) scheme.   
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-B](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-B): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).   
 [topaz](https://github.com/aserto-dev/topaz): Cloud-native authorization for modern applications and APIs  
-[COMP61411_Cryptography](https://github.com/VeteranNinja/COMP61411_Cryptography): Cryptography work I have done at the University of Manchester
+[COMP61411_Cryptography](https://github.com/VeteranNinja/COMP61411_Cryptography): Cryptography work I have done at the University of Manchester  
+[DNS_Enumerator](https://github.com/crypticq/DNS_Enumerator)
