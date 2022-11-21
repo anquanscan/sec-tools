@@ -6605,4 +6605,5 @@
 [log-credentials](https://github.com/jomisica/log-credentials): PAM Log Credentials  
 [IMAGE-RAT](https://github.com/pro-rat/IMAGE-RAT): Android hacking with Image  
 [SecureLoginLab](https://github.com/mihaicerchez/SecureLoginLab): This is an implementation of a login form with a stored password in it's code as a SHA-512 hash that is also SALTed.  
-[domain-awareness-mgt](https://github.com/cybnity/domain-awareness-mgt): All the features and services realized by the Awareness & Culture bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).
+[domain-awareness-mgt](https://github.com/cybnity/domain-awareness-mgt): All the features and services realized by the Awareness & Culture bounded context relative to the application domain, including specification library (e.g api), components implementation (e.g software implementation packages) and deployable systems (e.g operable component on infrastructure types).  
+[Shamir-for-Cloud-Environments](https://github.com/joezbub/Shamir-for-Cloud-Environments): Secret sharing implementation allows users to split and combine their files according to a default (2, 3) scheme. 
