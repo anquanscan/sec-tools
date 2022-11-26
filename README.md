@@ -6610,4 +6610,5 @@
 [magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-B](https://github.com/GCABC123/magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-B): ✭ MAGNETRON ™ ✭: This is a Google Colab/Jupyter Notebook for developing an IMAGINATION proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY).   
 [topaz](https://github.com/aserto-dev/topaz): Cloud-native authorization for modern applications and APIs  
 [COMP61411_Cryptography](https://github.com/VeteranNinja/COMP61411_Cryptography): Cryptography work I have done at the University of Manchester  
-[DNS_Enumerator](https://github.com/crypticq/DNS_Enumerator)
+[DNS_Enumerator](https://github.com/crypticq/DNS_Enumerator)  
+[windows-exploit-search](https://github.com/glowbase/windows-exploit-search): Search through Microsoft Security Bulletins (MSSB's) to find relevant vulnerabilities and exploits to use against Windows target machines.
